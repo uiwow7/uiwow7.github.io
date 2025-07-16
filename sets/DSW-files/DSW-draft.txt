@@ -1,0 +1,904 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Sunrise Caller",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Cat",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/17_Sunrise Caller.png"
+			}
+		},
+		{
+			"name": "Fallen Warden",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/7_Fallen Warden.png"
+			}
+		},
+		{
+			"name": "Traveler of Lost Planes",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/19_Traveler of Lost Planes.png"
+			}
+		},
+		{
+			"name": "Naroz Path-Traveler",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Avatar",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/12_Naroz Path-Traveler.png"
+			}
+		},
+		{
+			"name": "Extraplanar Cleanser",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Avatar",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/5_Extraplanar Cleanser.png"
+			}
+		},
+		{
+			"name": "Pathwalker",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/14_Pathwalker.png"
+			}
+		},
+		{
+			"name": "Fractured Avatar",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Avatar",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/9_Fractured Avatar.png"
+			}
+		},
+		{
+			"name": "Ruptured Cetacean",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Whale",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/15_Ruptured Cetacean.png"
+			}
+		},
+		{
+			"name": "Avatar of the Door",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Avatar",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/1_Avatar of the Door.png"
+			}
+		},
+		{
+			"name": "TONAME ELK VORO?",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Elk Avatar",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/18_TONAME ELK VORO?.png"
+			}
+		},
+		{
+			"name": "Kala Reaper",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Avatar",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/11_Kala Reaper.png"
+			}
+		},
+		{
+			"name": "Ghost of Beya's Fallen",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Anima",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/10_Ghost of Beya's Fallen.png"
+			}
+		},
+		{
+			"name": "Eternal Keeper",
+			"rarity": "common",
+			"mana_cost": "{6}{W}",
+			"type": "Creature — Dragon Anima",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/4_Eternal Keeper.png"
+			}
+		},
+		{
+			"name": "Eye of Naroz",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/6_Eye of Naroz.png"
+			}
+		},
+		{
+			"name": "Fly Across Peaceful Skies",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Kindred Sorcery — Avatar Revelation",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/8_Fly Across Peaceful Skies.png"
+			}
+		},
+		{
+			"name": "Vertex Alignment",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/21_Vertex Alignment.png"
+			}
+		},
+		{
+			"name": "Unlock Empty Doors",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Kindred Sorcery — Avatar Revelation",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/20_Unlock Empty Doors.png"
+			}
+		},
+		{
+			"name": "CW18 TO BE NAMED BARU?",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/3_CW18 TO BE NAMED BARU?.png"
+			}
+		},
+		{
+			"name": "Starbeam",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/16_Starbeam.png"
+			}
+		},
+		{
+			"name": "New Realms",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/13_New Realms.png"
+			}
+		},
+		{
+			"name": "Chromatic Splinters",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/2_Chromatic Splinters.png"
+			}
+		},
+		{
+			"name": "Warden of the Celestial Tree",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Avatar",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/41_Warden of the Celestial Tree.png"
+			}
+		},
+		{
+			"name": "Icefall Soothsayer",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/28_Icefall Soothsayer.png"
+			}
+		},
+		{
+			"name": "Najar Ascendant",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Avatar",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/31_Najar Ascendant.png"
+			}
+		},
+		{
+			"name": "Extraplanar Seeker",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Avatar",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/27_Extraplanar Seeker.png"
+			}
+		},
+		{
+			"name": "Ikan Lookout",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/29_Ikan Lookout.png"
+			}
+		},
+		{
+			"name": "Najari Pathshaper",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/33_Najari Pathshaper.png"
+			}
+		},
+		{
+			"name": "Cosmic Aven",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Avatar",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/24_Cosmic Aven.png"
+			}
+		},
+		{
+			"name": "Stillwater Sentry",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Elk",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/40_Stillwater Sentry.png"
+			}
+		},
+		{
+			"name": "Najari Companion",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Wolf Avatar Spirit",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/32_Najari Companion.png"
+			}
+		},
+		{
+			"name": "Pathbringer of Gatu",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Avatar",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/36_Pathbringer of Gatu.png"
+			}
+		},
+		{
+			"name": "Eternal Watcher",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Spirit Anima",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/26_Eternal Watcher.png"
+			}
+		},
+		{
+			"name": "Misrendering",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/30_Misrendering.png"
+			}
+		},
+		{
+			"name": "Splinter New Worlds",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Kindred Sorcery — Avatar Revelation",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/39_Splinter New Worlds.png"
+			}
+		},
+		{
+			"name": "CU14 TO BE NAMED",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/25_CU14 TO BE NAMED.png"
+			}
+		},
+		{
+			"name": "Corruption Glitch",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/23_Corruption Glitch.png"
+			}
+		},
+		{
+			"name": "Rise From Eternity",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Kindred Sorcery — Avatar Revelation",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/37_Rise From Eternity.png"
+			}
+		},
+		{
+			"name": "Otherwordly Sensation",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/34_Otherwordly Sensation.png"
+			}
+		},
+		{
+			"name": "Witness Fallen Oracles",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Kindred Sorcery — Avatar Revelation",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/42_Witness Fallen Oracles.png"
+			}
+		},
+		{
+			"name": "Spiritual Departure",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Kindred Sorcery — Anima",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/38_Spiritual Departure.png"
+			}
+		},
+		{
+			"name": "Amalgamate Memories",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Kindred Sorcery — Avatar Revelation",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/22_Amalgamate Memories.png"
+			}
+		},
+		{
+			"name": "Overwhelming Existence",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/35_Overwhelming Existence.png"
+			}
+		},
+		{
+			"name": "CB01 Small Creature",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/43_CB01 Small Creature.png"
+			}
+		},
+		{
+			"name": "CB02 Small Creature",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/44_CB02 Small Creature.png"
+			}
+		},
+		{
+			"name": "CB03 Small Creature",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Construct Horror",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/45_CB03 Small Creature.png"
+			}
+		},
+		{
+			"name": "CB04 Small Creature",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/46_CB04 Small Creature.png"
+			}
+		},
+		{
+			"name": "CB05 Small Creature",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Avatar",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/47_CB05 Small Creature.png"
+			}
+		},
+		{
+			"name": "CB06 Small Creature",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Avatar Horror",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/48_CB06 Small Creature.png"
+			}
+		},
+		{
+			"name": "CB07 Medium Creature",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/49_CB07 Medium Creature.png"
+			}
+		},
+		{
+			"name": "CB08 Medium Creature",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/50_CB08 Medium Creature.png"
+			}
+		},
+		{
+			"name": "CB09 Medium Creature",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/51_CB09 Medium Creature.png"
+			}
+		},
+		{
+			"name": "CB10 Medium Creature",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Avatar",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/52_CB10 Medium Creature.png"
+			}
+		},
+		{
+			"name": "CB11 Large Creature",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/53_CB11 Large Creature.png"
+			}
+		},
+		{
+			"name": "Eternal Wanderer",
+			"rarity": "common",
+			"mana_cost": "{6}{B}",
+			"type": "Creature — Anima",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/60_Eternal Wanderer.png"
+			}
+		},
+		{
+			"name": "CB13 Noncreature",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/54_CB13 Noncreature.png"
+			}
+		},
+		{
+			"name": "CB14 Noncreature",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/55_CB14 Noncreature.png"
+			}
+		},
+		{
+			"name": "CB16 Noncreature",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/56_CB16 Noncreature.png"
+			}
+		},
+		{
+			"name": "CB17 Noncreature",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/57_CB17 Noncreature.png"
+			}
+		},
+		{
+			"name": "CB18 Noncreature",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/58_CB18 Noncreature.png"
+			}
+		},
+		{
+			"name": "CB21 Noncreature",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Kindred Sorcery — Anima",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/59_CB21 Noncreature.png"
+			}
+		},
+		{
+			"name": "CR07 Medium Creature",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/61_CR07 Medium Creature.png"
+			}
+		},
+		{
+			"name": "Eternal Flamebearer",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Anima Wizard",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/62_Eternal Flamebearer.png"
+			}
+		},
+		{
+			"name": "CG05 Small Creature",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/63_CG05 Small Creature.png"
+			}
+		},
+		{
+			"name": "Eternal Blossomer",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Treefolk Anima",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/64_Eternal Blossomer.png"
+			}
+		},
+		{
+			"name": "Eternal Engine",
+			"rarity": "common",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Scorpion Anima",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/73_Eternal Engine.png"
+			}
+		},
+		{
+			"name": "CI05 Small Creature",
+			"rarity": "common",
+			"mana_cost": "{2}{I}",
+			"type": "Creature",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/65_CI05 Small Creature.png"
+			}
+		},
+		{
+			"name": "Eternal Warrior",
+			"rarity": "common",
+			"mana_cost": "{5}{I}",
+			"type": "Creature — Anima Warrior",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/66_Eternal Warrior.png"
+			}
+		},
+		{
+			"name": "Vertex Reminder",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Reminder",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/74_Vertex Reminder.png"
+			}
+		},
+		{
+			"name": "Archetypes/Themes",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/1_Archetypes/Themes.png"
+			}
+		},
+		{
+			"name": "UM01 Arcun",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{I}{W}{U}",
+			"type": "Legendary Creature — Anima",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/67_UM01 Arcun.png"
+			}
+		},
+		{
+			"name": "UM02 Arcun",
+			"rarity": "uncommon",
+			"mana_cost": "{I}{G}{U}",
+			"type": "Kindred Sorcery — Avatar Revelation",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/68_UM02 Arcun.png"
+			}
+		},
+		{
+			"name": "UM03 Arcun",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{I}{B}{R}",
+			"type": "Legendary Creature — Zombie Warlock",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/69_UM03 Arcun.png"
+			}
+		},
+		{
+			"name": "UM04 Arcun",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Legendary Creature",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/70_UM04 Arcun.png"
+			}
+		},
+		{
+			"name": "UM05 Arcun",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}{G}",
+			"type": "Legendary Creature",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/71_UM05 Arcun.png"
+			}
+		},
+		{
+			"name": "UM06 Arcun",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Legendary Creature",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/72_UM06 Arcun.png"
+			}
+		}
+	]
+
+[rare(1)]
+[uncommon(4)]
+	4 UM01 Arcun
+	4 UM02 Arcun
+	4 UM03 Arcun
+	4 UM04 Arcun
+	4 UM05 Arcun
+	4 UM06 Arcun
+[common(7)]
+	8 Sunrise Caller
+	8 Fallen Warden
+	8 Traveler of Lost Planes
+	8 Naroz Path-Traveler
+	8 Extraplanar Cleanser
+	8 Pathwalker
+	8 Fractured Avatar
+	8 Ruptured Cetacean
+	8 Avatar of the Door
+	8 TONAME ELK VORO?
+	8 Kala Reaper
+	8 Ghost of Beya's Fallen
+	8 Eternal Keeper
+	8 Eye of Naroz
+	8 Fly Across Peaceful Skies
+	8 Vertex Alignment
+	8 Unlock Empty Doors
+	8 CW18 TO BE NAMED BARU?
+	8 Starbeam
+	8 New Realms
+	8 Chromatic Splinters
+	8 Warden of the Celestial Tree
+	8 Icefall Soothsayer
+	8 Najar Ascendant
+	8 Extraplanar Seeker
+	8 Ikan Lookout
+	8 Najari Pathshaper
+	8 Cosmic Aven
+	8 Stillwater Sentry
+	8 Najari Companion
+	8 Pathbringer of Gatu
+	8 Eternal Watcher
+	8 Misrendering
+	8 Splinter New Worlds
+	8 CU14 TO BE NAMED
+	8 Corruption Glitch
+	8 Rise From Eternity
+	8 Otherwordly Sensation
+	8 Witness Fallen Oracles
+	8 Spiritual Departure
+	8 Amalgamate Memories
+	8 Overwhelming Existence
+	8 CB01 Small Creature
+	8 CB02 Small Creature
+	8 CB03 Small Creature
+	8 CB04 Small Creature
+	8 CB05 Small Creature
+	8 CB06 Small Creature
+	8 CB07 Medium Creature
+	8 CB08 Medium Creature
+	8 CB09 Medium Creature
+	8 CB10 Medium Creature
+	8 CB11 Large Creature
+	8 Eternal Wanderer
+	8 CB13 Noncreature
+	8 CB14 Noncreature
+	8 CB16 Noncreature
+	8 CB17 Noncreature
+	8 CB18 Noncreature
+	8 CB21 Noncreature
+	8 CR07 Medium Creature
+	8 Eternal Flamebearer
+	8 CG05 Small Creature
+	8 Eternal Blossomer
+	8 Eternal Engine
+	8 CI05 Small Creature
+	8 Eternal Warrior
+[wildcard(2)]
+	6 Sunrise Caller
+	6 Fallen Warden
+	6 Traveler of Lost Planes
+	6 Naroz Path-Traveler
+	6 Extraplanar Cleanser
+	6 Pathwalker
+	6 Fractured Avatar
+	6 Ruptured Cetacean
+	6 Avatar of the Door
+	6 TONAME ELK VORO?
+	6 Kala Reaper
+	6 Ghost of Beya's Fallen
+	6 Eternal Keeper
+	6 Eye of Naroz
+	6 Fly Across Peaceful Skies
+	6 Vertex Alignment
+	6 Unlock Empty Doors
+	6 CW18 TO BE NAMED BARU?
+	6 Starbeam
+	6 New Realms
+	6 Chromatic Splinters
+	6 Warden of the Celestial Tree
+	6 Icefall Soothsayer
+	6 Najar Ascendant
+	6 Extraplanar Seeker
+	6 Ikan Lookout
+	6 Najari Pathshaper
+	6 Cosmic Aven
+	6 Stillwater Sentry
+	6 Najari Companion
+	6 Pathbringer of Gatu
+	6 Eternal Watcher
+	6 Misrendering
+	6 Splinter New Worlds
+	6 CU14 TO BE NAMED
+	6 Corruption Glitch
+	6 Rise From Eternity
+	6 Otherwordly Sensation
+	6 Witness Fallen Oracles
+	6 Spiritual Departure
+	6 Amalgamate Memories
+	6 Overwhelming Existence
+	6 CB01 Small Creature
+	6 CB02 Small Creature
+	6 CB03 Small Creature
+	6 CB04 Small Creature
+	6 CB05 Small Creature
+	6 CB06 Small Creature
+	6 CB07 Medium Creature
+	6 CB08 Medium Creature
+	6 CB09 Medium Creature
+	6 CB10 Medium Creature
+	6 CB11 Large Creature
+	6 Eternal Wanderer
+	6 CB13 Noncreature
+	6 CB14 Noncreature
+	6 CB16 Noncreature
+	6 CB17 Noncreature
+	6 CB18 Noncreature
+	6 CB21 Noncreature
+	6 CR07 Medium Creature
+	6 Eternal Flamebearer
+	6 CG05 Small Creature
+	6 Eternal Blossomer
+	6 Eternal Engine
+	6 CI05 Small Creature
+	6 Eternal Warrior
+	15 UM01 Arcun
+	15 UM02 Arcun
+	15 UM03 Arcun
+	15 UM04 Arcun
+	15 UM05 Arcun
+	15 UM06 Arcun

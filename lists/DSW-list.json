@@ -25,7 +25,7 @@
     },
     {
         "card_name": "MG01 Large Creature",
-        "number": 207,
+        "number": 206,
         "shape": "normal",
         "set": "DSW"
     },
@@ -61,7 +61,7 @@
     },
     {
         "card_name": "MG02 Noncreature",
-        "number": 208,
+        "number": 207,
         "shape": "normal",
         "set": "DSW"
     },
@@ -97,7 +97,7 @@
     },
     {
         "card_name": "MG03 Noncreature",
-        "number": 209,
+        "number": 208,
         "shape": "normal",
         "set": "DSW"
     },
@@ -133,7 +133,7 @@
     },
     {
         "card_name": "RG01 Medium Creature",
-        "number": 210,
+        "number": 209,
         "shape": "normal",
         "set": "DSW"
     },
@@ -169,7 +169,7 @@
     },
     {
         "card_name": "RG02 Medium Creature",
-        "number": 211,
+        "number": 210,
         "shape": "normal",
         "set": "DSW"
     },
@@ -205,7 +205,7 @@
     },
     {
         "card_name": "RG03 Large Creature",
-        "number": 212,
+        "number": 211,
         "shape": "normal",
         "set": "DSW"
     },
@@ -241,7 +241,7 @@
     },
     {
         "card_name": "RG04 Large Creature",
-        "number": 213,
+        "number": 212,
         "shape": "normal",
         "set": "DSW"
     },
@@ -277,7 +277,7 @@
     },
     {
         "card_name": "RG05 Large Creature",
-        "number": 214,
+        "number": 213,
         "shape": "normal",
         "set": "DSW"
     },
@@ -313,7 +313,7 @@
     },
     {
         "card_name": "RG06 Noncreature",
-        "number": 215,
+        "number": 214,
         "shape": "normal",
         "set": "DSW"
     },
@@ -349,7 +349,7 @@
     },
     {
         "card_name": "RG07 Noncreature",
-        "number": 216,
+        "number": 215,
         "shape": "normal",
         "set": "DSW"
     },
@@ -385,7 +385,7 @@
     },
     {
         "card_name": "RG08 Noncreature",
-        "number": 217,
+        "number": 216,
         "shape": "normal",
         "set": "DSW"
     },
@@ -421,7 +421,7 @@
     },
     {
         "card_name": "RG09 Noncreature",
-        "number": 218,
+        "number": 217,
         "shape": "normal",
         "set": "DSW"
     },
@@ -457,7 +457,7 @@
     },
     {
         "card_name": "RG10 Noncreature",
-        "number": 219,
+        "number": 218,
         "shape": "normal",
         "set": "DSW"
     },
@@ -960,9 +960,9 @@
         "set": "DSW"
     },
     {
-        "card_name": "CG01 Small Creature",
+        "card_name": "Arisen Avatar",
         "number": 186,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "DSW"
     },
     {
@@ -996,7 +996,7 @@
         "set": "DSW"
     },
     {
-        "card_name": "CG02 Small Creature",
+        "card_name": "CG01 Small Creature",
         "number": 187,
         "shape": "normal",
         "set": "DSW"
@@ -1032,7 +1032,7 @@
         "set": "DSW"
     },
     {
-        "card_name": "CG03 Small Creature",
+        "card_name": "CG02 Small Creature",
         "number": 188,
         "shape": "normal",
         "set": "DSW"
@@ -1068,7 +1068,7 @@
         "set": "DSW"
     },
     {
-        "card_name": "CG04 Small Creature",
+        "card_name": "CG03 Small Creature",
         "number": 189,
         "shape": "normal",
         "set": "DSW"
@@ -1104,9 +1104,9 @@
         "set": "DSW"
     },
     {
-        "card_name": "CG05 Small Creature",
+        "card_name": "CG04 Small Creature",
         "number": 190,
-        "shape": "adventure",
+        "shape": "normal",
         "set": "DSW"
     },
     {
@@ -1254,7 +1254,7 @@
         "set": "DSW"
     },
     {
-        "card_name": "CI10 Small Creature",
+        "card_name": "CI10 Medium Creature",
         "number": 242,
         "shape": "normal",
         "set": "DSW"
@@ -1326,7 +1326,7 @@
         "set": "DSW"
     },
     {
-        "card_name": "CI12 Medium Creature",
+        "card_name": "CI13 Noncreature",
         "number": 244,
         "shape": "normal",
         "set": "DSW"
@@ -1392,7 +1392,7 @@
         "set": "DSW"
     },
     {
-        "card_name": "CG14 Noncreature",
+        "card_name": "CG15 Noncreature",
         "number": 198,
         "shape": "normal",
         "set": "DSW"
@@ -1428,7 +1428,7 @@
         "set": "DSW"
     },
     {
-        "card_name": "CG15 Noncreature",
+        "card_name": "CG16 Noncreature",
         "number": 199,
         "shape": "normal",
         "set": "DSW"
@@ -1464,14 +1464,14 @@
         "set": "DSW"
     },
     {
-        "card_name": "CG16 Noncreature",
+        "card_name": "CG17 Noncreature",
         "number": 200,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "CI17 Noncreature",
-        "number": 248,
+        "number": 249,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1500,14 +1500,14 @@
         "set": "DSW"
     },
     {
-        "card_name": "CG17 Noncreature",
+        "card_name": "CG18 Noncreature",
         "number": 201,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "CI18 Noncreature",
-        "number": 249,
+        "card_name": "CI19 Noncreature",
+        "number": 250,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1536,14 +1536,14 @@
         "set": "DSW"
     },
     {
-        "card_name": "CG18 Noncreature",
+        "card_name": "CG19 Noncreature",
         "number": 202,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "CI19 Noncreature",
-        "number": 250,
+        "card_name": "CI20 Noncreature",
+        "number": 251,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1572,14 +1572,14 @@
         "set": "DSW"
     },
     {
-        "card_name": "CG19 Noncreature",
+        "card_name": "CG20 Noncreature",
         "number": 203,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "CI20 Noncreature",
-        "number": 251,
+        "card_name": "CI21 Noncreature",
+        "number": 252,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1605,14 +1605,14 @@
         "set": "DSW"
     },
     {
-        "card_name": "CG20 Noncreature",
+        "card_name": "CG21 Noncreature",
         "number": 204,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "CI21 Noncreature",
-        "number": 252,
+        "card_name": "Eternal Warrior",
+        "number": 253,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1635,16 +1635,13 @@
         "set": "DSW"
     },
     {
-        "card_name": "CG21 Noncreature",
+        "card_name": "Eternal Blossomer",
         "number": 205,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "Eternal Warrior",
-        "number": 253,
-        "shape": "normal",
-        "set": "DSW"
+        "card_name": "e"
     },
     {
         "card_name": "Vertex Alignment",
@@ -1665,8 +1662,8 @@
         "set": "DSW"
     },
     {
-        "card_name": "Eternal Blossomer",
-        "number": 206,
+        "card_name": "Snakeskin Veil",
+        "number": 219,
         "shape": "normal",
         "set": "DSW"
     },

@@ -30,9 +30,6 @@
         "set": "DCO"
     },
     {
-        "card_name": "e"
-    },
-    {
         "card_name": "The Arbiter's Elite",
         "number": 9,
         "shape": "normal",
@@ -61,9 +58,6 @@
         "number": 161,
         "shape": "normal",
         "set": "DCO"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "The Arbiter's Protector",
@@ -96,9 +90,6 @@
         "set": "DCO"
     },
     {
-        "card_name": "e"
-    },
-    {
         "card_name": "The Arbiter's Sight",
         "number": 11,
         "shape": "normal",
@@ -127,9 +118,6 @@
         "number": 163,
         "shape": "normal",
         "set": "DCO"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "The Arbiter's Watcher",
@@ -162,9 +150,6 @@
         "set": "DCO"
     },
     {
-        "card_name": "e"
-    },
-    {
         "card_name": "Collected Entrancing",
         "number": 13,
         "shape": "normal",
@@ -193,9 +178,6 @@
         "number": 165,
         "shape": "normal",
         "set": "DCO"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Containment Dome",
@@ -228,9 +210,6 @@
         "set": "DCO"
     },
     {
-        "card_name": "e"
-    },
-    {
         "card_name": "Counterfeit Tranquility",
         "number": 15,
         "shape": "normal",
@@ -259,9 +238,6 @@
         "number": 167,
         "shape": "normal",
         "set": "DCO"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Designed Emptiness",
@@ -294,9 +270,6 @@
         "set": "DCO"
     },
     {
-        "card_name": "e"
-    },
-    {
         "card_name": "Doomteller Adept",
         "number": 17,
         "shape": "normal",
@@ -325,9 +298,6 @@
         "number": 169,
         "shape": "normal",
         "set": "DCO"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Dread From Beyond",
@@ -360,9 +330,6 @@
         "set": "DCO"
     },
     {
-        "card_name": "e"
-    },
-    {
         "card_name": "Dreary Voyager",
         "number": 19,
         "shape": "normal",
@@ -391,9 +358,6 @@
         "number": 171,
         "shape": "normal",
         "set": "DCO"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Dutiful Companion",
@@ -426,9 +390,6 @@
         "set": "DCO"
     },
     {
-        "card_name": "e"
-    },
-    {
         "card_name": "Ghastly Hunter",
         "number": 21,
         "shape": "normal",
@@ -457,9 +418,6 @@
         "number": 173,
         "shape": "normal",
         "set": "DCO"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Heartless Executor",
@@ -492,9 +450,6 @@
         "set": "DCO"
     },
     {
-        "card_name": "e"
-    },
-    {
         "card_name": "Illuminating Vortex",
         "number": 23,
         "shape": "normal",
@@ -523,9 +478,6 @@
         "number": 175,
         "shape": "normal",
         "set": "DCO"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Last Light of Naroz",
@@ -558,9 +510,6 @@
         "set": "DCO"
     },
     {
-        "card_name": "e"
-    },
-    {
         "card_name": "Lost Curiosity",
         "number": 25,
         "shape": "normal",
@@ -589,9 +538,6 @@
         "number": 177,
         "shape": "normal",
         "set": "DCO"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Luminescent Golem",
@@ -624,9 +570,6 @@
         "set": "DCO"
     },
     {
-        "card_name": "e"
-    },
-    {
         "card_name": "Magitel, Flaming Brilliance",
         "number": 27,
         "shape": "normal",
@@ -655,9 +598,6 @@
         "number": 179,
         "shape": "normal",
         "set": "DCO"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Merge Conflict",
@@ -690,9 +630,6 @@
         "set": "DCO"
     },
     {
-        "card_name": "e"
-    },
-    {
         "card_name": "Mindless Control",
         "number": 29,
         "shape": "normal",
@@ -721,9 +658,6 @@
         "number": 181,
         "shape": "normal",
         "set": "DCO"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Otherworldly Wayfarer",
@@ -756,9 +690,6 @@
         "set": "DCO"
     },
     {
-        "card_name": "e"
-    },
-    {
         "card_name": "Paths of Stolen Life",
         "number": 31,
         "shape": "normal",
@@ -787,9 +718,6 @@
         "number": 183,
         "shape": "normal",
         "set": "DCO"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Peaceful Charmer",
@@ -822,9 +750,6 @@
         "set": "DCO"
     },
     {
-        "card_name": "e"
-    },
-    {
         "card_name": "Summoner of True Light",
         "number": 33,
         "shape": "normal",
@@ -853,9 +778,6 @@
         "number": 185,
         "shape": "normal",
         "set": "DCO"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Sunrise Lookout",
@@ -888,9 +810,6 @@
         "set": "DCO"
     },
     {
-        "card_name": "e"
-    },
-    {
         "card_name": "Sunset Dreamer",
         "number": 35,
         "shape": "normal",
@@ -919,9 +838,6 @@
         "number": 187,
         "shape": "normal",
         "set": "DCO"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Traversing the Paths",
@@ -954,9 +870,6 @@
         "set": "DCO"
     },
     {
-        "card_name": "e"
-    },
-    {
         "card_name": "Tree of Celestial Light",
         "number": 37,
         "shape": "normal",
@@ -985,9 +898,6 @@
         "number": 189,
         "shape": "normal",
         "set": "DCO"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Uncover",
@@ -1020,9 +930,6 @@
         "set": "DCO"
     },
     {
-        "card_name": "e"
-    },
-    {
         "card_name": "Undefined Reference",
         "number": 39,
         "shape": "normal",
@@ -1053,9 +960,6 @@
         "set": "DCO"
     },
     {
-        "card_name": "e"
-    },
-    {
         "card_name": "Warp Gateway",
         "number": 40,
         "shape": "normal",
@@ -1078,9 +982,6 @@
         "number": 139,
         "shape": "normal",
         "set": "DCO"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -1129,15 +1030,6 @@
         "set": "DCO"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
         "card_name": "er"
     },
     {
@@ -1181,12 +1073,6 @@
         "number": 154,
         "shape": "normal",
         "set": "DCO"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1234,21 +1120,6 @@
         "set": "DCO"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
         "card_name": "er"
     },
     {
@@ -1292,21 +1163,6 @@
         "number": 150,
         "shape": "normal",
         "set": "DCO"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1488,15 +1344,6 @@
         "set": "DCO"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
         "card_name": "er"
     },
     {
@@ -1540,12 +1387,6 @@
         "number": 215,
         "shape": "normal",
         "set": "DCO"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"

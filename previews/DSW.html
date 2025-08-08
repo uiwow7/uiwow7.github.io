@@ -70,7 +70,6 @@
 			padding-right: 5%;
 			padding-bottom: 1%;
 			justify-items: center;
-			max-width: 1200px;
 		}
 		.grid-container img {
 			width: 100%;
@@ -160,6 +159,8 @@
 	<img class="preload-hidden" src="/sets/DSW-files/logo.png" />
 	<img class="preload-hidden" src="/sets/DCO-files/icon.png" />
 		<img class="preload-hidden" src="/sets/DSW-files/icon.png" />
+		<img class="preload-hidden" id="bg" src="/sets/DSW-files/bg.png" />
+		
 		<div class="header">
 		<div class="search-grid">
 			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
@@ -649,7 +650,7 @@
 		}
 		while (images_loaded.includes(false));
 
-		
+		document.body.style.backgroundImage = 'url(' + document.getElementById("bg").src + ')';
 		loadImages();
 	});
 

@@ -114,7 +114,6 @@ def generateHTML(setCode):
 			padding-right: 5%;
 			padding-bottom: 1%;
 			justify-items: center;
-			max-width: 1200px;
 		}
 		.grid-container img {
 			width: 100%;

@@ -41,6 +41,11 @@ def generateHTML(setCode):
 			i += 1
 
 	header_length = 11
+
+	set_is_silver = False
+	with open(os.path.join("sets", "silverlist.txt"), "r") as f:
+		set_is_silver = setCode in f.read()
+
 	# Start creating the HTML file content
 	html_content = '''<!DOCTYPE html>
 <html lang="en">
@@ -108,11 +113,13 @@ def generateHTML(setCode):
 		}
 		.grid-container {
 			display: grid;
-			grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr ''' + ("1fr" if set_is_silver else "") + ''';
 			gap: 2px;
 			padding-left: 5%;
 			padding-right: 5%;
 			padding-bottom: 1%;
+			max-width: ''' + ("1440" if set_is_silver else "1200") + '''px;
+			margin: auto;
 			justify-items: center;
 		}
 		.grid-container img {

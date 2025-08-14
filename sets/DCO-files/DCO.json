@@ -1,16 +1,17 @@
 ﻿{
     "name": "Dazon: Cosmic Outcasts",
-    "formats": "Voyager",
+    "formats": "",
     "trimmed": "y",
     "image_type": "jpg",
-    "draft_structure": "cube",
+    "draft_structure": "play booster",
+    "designer": "",
     "cards": [
         {
             "card_name": "In Search of Eternity",
             "color": "G",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 177,
+            "number": 157,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "At the beginning of your upkeep, you may sacrifice another nonland permanent. If you do, you may cast a permanent spell with mana value equal to one plus the sacrificed permanent's mana value from your hand without paying its mana cost.",
@@ -20,6 +21,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Kloir",
             "notes": ""
         },
@@ -38,6 +40,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Zacky7Avenged",
             "notes": "!tag energy;\n!addtoken Energization Function;"
         },
@@ -56,6 +59,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Redoxygene",
             "notes": ""
         },
@@ -74,6 +78,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "ChrisNazgul",
             "notes": ""
         },
@@ -92,6 +97,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Coffeeandbiscuts",
             "notes": ""
         },
@@ -100,7 +106,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 189,
+            "number": 169,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "Whenever Twisting Nebulas or another enchantment enters under your control, draw a card.",
@@ -110,6 +116,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "ERA7",
             "notes": ""
         },
@@ -128,6 +135,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Caleb Worcester",
             "notes": ""
         },
@@ -146,6 +154,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Scott Uminga",
             "notes": "!tag programming;\n!tag energy;\nFLAG"
         },
@@ -164,6 +173,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "ChrisNazgul",
             "notes": ""
         },
@@ -182,6 +192,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Izusansart",
             "notes": "!tag programming;\n!addtoken Reset Function;"
         },
@@ -200,6 +211,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Scott Uminga",
             "notes": "!tag energy;"
         },
@@ -212,12 +224,13 @@
             "color_identity": "U",
             "cost": "{1}{U}{U}",
             "rules_text": "If you control no nonland permanents, this spell costs {U} less to cast.\nCounter target permanent spell.",
-            "flavor_text": "[i]ft\nft\nft[/i]",
+            "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Ryrycouch",
             "notes": "!tag programming;"
         },
@@ -236,6 +249,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Luetche",
             "notes": "!tag programming;"
         },
@@ -254,6 +268,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "JoeyJazz",
             "notes": "!tag programming;\n!tag energy;"
         },
@@ -272,6 +287,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Scott Uminga",
             "notes": "!tag programming;"
         },
@@ -280,7 +296,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 190,
+            "number": 170,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Whenever Unexpected Token enters or you cast a spell with mana value 5 or greater, create a Function token with \u201cDraw a card.\u201d [i](It's an enchantment. As you cast an instant or sorcery spell, sacrifice any number of Functions to add their effects to that spell.)[/i]",
@@ -290,6 +306,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Posh522789",
             "notes": "!tag programming;\n!addtoken Intellect Function;"
         },
@@ -298,7 +315,7 @@
             "color": "WBG",
             "rarity": "rare",
             "type": "Legendary Planeswalker \u2014 Drorix",
-            "number": 145,
+            "number": 177,
             "color_identity": "WBG",
             "cost": "{W}{B}{G}",
             "rules_text": "Enchantments you control have ward {1}.\n[+1]: Surveil 1. Create a 1/1 white Human enchantment creature token if you control three or more enchantments.\n[-1]: Target permanent becomes an enchantment and loses all other card types.",
@@ -308,6 +325,7 @@
             "shape": "planeswalker",
             "set": "DCO",
             "loyalty": "3",
+            "designer": "",
             "artist": "Tigaer",
             "notes": "!addtoken Human;"
         },
@@ -326,6 +344,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Nthercythe",
             "notes": "!addtoken Human;"
         },
@@ -344,6 +363,7 @@
             "shape": "token",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Scott Uminga",
             "notes": ""
         },
@@ -362,6 +382,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Ryky",
             "notes": ""
         },
@@ -373,22 +394,23 @@
             "number": 3,
             "color_identity": "C",
             "cost": "{4}",
-            "rules_text": "Flying\nWhenever Cavesplitter or another enchantment enters under your control, target creature loses all abilities until end of turn.\nUncover {6} [i]({6}: Return this card from your graveyard to the battlefield, except it's an enchantment and loses all other card types. Exile it if it would leave the battlefield. Uncover only as a sorcery.)[/i]",
+            "rules_text": "Flying\nWhenever Cavesplitter or another enchantment enters under your control, target creature loses all abilities until the end of your next turn.\nUncover {6} [i]({6}: Return this card from your graveyard to the battlefield, except it's an enchantment and loses all other card types. Exile it if it would leave the battlefield. Uncover only as a sorcery.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "3/3",
+            "pt": "3/2",
             "special_text": "",
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Nele Diel",
-            "notes": "FLAG"
+            "notes": ""
         },
         {
             "card_name": "Sava's Last Eclipse",
             "color": "BR",
             "rarity": "rare",
             "type": "Instant",
-            "number": 155,
+            "number": 187,
             "color_identity": "BR",
             "cost": "{1}{B}{R}",
             "rules_text": "As an additional cost to cast this spell, sacrifice X noncreature, nonland, permanents.\nDestroy up to X target creatures.",
@@ -398,6 +420,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "St3Doom",
             "notes": ""
         },
@@ -406,7 +429,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Enchantment \u2014 Aura",
-            "number": 166,
+            "number": 146,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "Enchant creature\nEnchanted creature gets +1/+1 and has \u201cWhenever this creature attacks, surveil 1.\u201d [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]",
@@ -416,6 +439,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "BisBiswas",
             "notes": ""
         },
@@ -434,6 +458,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Louis Laurent",
             "notes": ""
         },
@@ -452,24 +477,26 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Robin Tran",
             "notes": "!addtoken Amplify Function;"
         },
         {
-            "card_name": "Past Unresolved",
+            "card_name": "Past Left Behind",
             "color": "B",
             "rarity": "rare",
             "type": "Sorcery",
             "number": 100,
             "color_identity": "B",
-            "cost": "{B}{B}",
-            "rules_text": "You draw two cards, lose 2 life, and mill two cards.",
-            "flavor_text": "[i]ft\nft\nft\nft\nft[/i]",
+            "cost": "{1}{B}",
+            "rules_text": "Surveil 4, then draw a card. [i](To surveil 4, look at the top four cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]",
+            "flavor_text": "[i]The past always comes knocking.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Bzartt",
             "notes": "TODO: find new art"
         },
@@ -478,7 +505,7 @@
             "color": "UR",
             "rarity": "rare",
             "type": "Creature \u2014 Human Wizard",
-            "number": 141,
+            "number": 173,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
             "rules_text": "Whenever you cast an instant or sorcery spell, surveil 1.\nAt the beginning of your end step, if you've cast at least two instant or sorcery spells and drawn at least two cards this turn, return Arcane Oracle from your graveyard to the battlefield.",
@@ -488,6 +515,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "ArtOfLariz",
             "notes": ""
         },
@@ -506,6 +534,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Scott Uminga",
             "notes": "!tag programming;\n!tag energy;"
         },
@@ -524,6 +553,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Lorenz Hideyoshi Ruwwe",
             "notes": "!tag energy;"
         },
@@ -542,6 +572,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "JoeyJazz",
             "notes": ""
         },
@@ -560,6 +591,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Lapis-Lazuri",
             "notes": ""
         },
@@ -568,7 +600,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 173,
+            "number": 153,
             "color_identity": "G",
             "cost": "{G}{G}",
             "rules_text": "Destroy target enchantment. Draw a card.",
@@ -578,6 +610,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Fmacmanus",
             "notes": ""
         },
@@ -596,6 +629,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Ryky",
             "notes": ""
         },
@@ -614,6 +648,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Tryingtofly",
             "notes": "Naroz & Ikan collide\n!tag energy;"
         },
@@ -632,6 +667,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "ChrisNazgul",
             "notes": "FLAG"
         },
@@ -650,6 +686,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Larry Southberg",
             "notes": ""
         },
@@ -658,7 +695,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Artifact Creature \u2014 Construct Giant",
-            "number": 170,
+            "number": 150,
             "color_identity": "G",
             "cost": "{5}{G}",
             "rules_text": "Trample\nWhen Depths Giant enters, mill three cards, then put a card milled this way into your hand.\n{2}{G}, Discard Depths Giant: Mill three cards, then put a card milled this way into your hand.",
@@ -668,6 +705,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Fmacmanus",
             "notes": ""
         },
@@ -686,6 +724,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Ed Lopez",
             "notes": "!tag energy;\nUNIFINISHED"
         },
@@ -704,6 +743,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Seven-teenth",
             "notes": ""
         },
@@ -722,6 +762,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Shiroixue",
             "notes": ""
         },
@@ -730,7 +771,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Enchantment Creature \u2014 Avatar",
-            "number": 160,
+            "number": 140,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "Hexproof",
@@ -740,6 +781,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Luetche",
             "notes": ""
         },
@@ -758,6 +800,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "CalebWorcester",
             "notes": ""
         },
@@ -776,6 +819,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Tohad",
             "notes": ""
         },
@@ -794,6 +838,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "NFatin",
             "notes": ""
         },
@@ -812,6 +857,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "ERA7",
             "notes": ""
         },
@@ -830,6 +876,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "PATVIT",
             "notes": ""
         },
@@ -848,6 +895,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Fmacmanus",
             "notes": ""
         },
@@ -856,7 +904,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2014 Treefolk",
-            "number": 185,
+            "number": 165,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
             "rules_text": "Trample\nAt the beginning of your end step, mill two cards, then put a card milled this way into your hand.\nUncover {4}{G} [i]({4}{G}: Return this card from your graveyard to the battlefield, except it's an enchantment and loses all other card types. Exile it if it would leave the battlefield. Uncover only as a sorcery.)[/i]",
@@ -866,6 +914,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "David Foxx",
             "notes": ""
         },
@@ -884,6 +933,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Cubehero",
             "notes": ""
         },
@@ -902,6 +952,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Sylvia Ritter",
             "notes": "FIND NEW ART\n!tag programming;\n!tag energy;"
         },
@@ -920,6 +971,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Jeff Brown",
             "notes": ""
         },
@@ -938,6 +990,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Ilya Popov",
             "notes": ""
         },
@@ -946,7 +999,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Enchantment \u2014 Aura",
-            "number": 175,
+            "number": 155,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Enchant creature\nEnchanted creature gets +1/+1 for each enchantment you control.",
@@ -956,6 +1009,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Chibionpu",
             "notes": ""
         },
@@ -974,6 +1028,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Alexiuss",
             "notes": "!addtoken Human;Healing Function;"
         },
@@ -985,15 +1040,16 @@
             "number": 70,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Return target nonland permanent to its owner's hand.\nWhenever you cast a spell with mana value 5 or greater, you may return Sky of Beya from your graveyard to your hand.",
+            "rules_text": "Surveil 2, then draw a card.\nWhenever you cast a spell with mana value 5 or greater, you may return Sky of Beya from your graveyard to your hand.",
             "flavor_text": "[i]The sky cries and the stars die, but our lives never lie.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Ilya Popov",
-            "notes": "FLAG"
+            "notes": ""
         },
         {
             "card_name": "Look Accross the Lake",
@@ -1010,6 +1066,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Davidev",
             "notes": ""
         },
@@ -1022,12 +1079,13 @@
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "Exile the top three cards of your library. You may play one of them this turn.",
-            "flavor_text": "[i]ft\nft\nft\nft\nft[/i]",
+            "flavor_text": "[i]Sava is full of careless beings who cause endless conflict.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Ilya Popov",
             "notes": ""
         },
@@ -1036,7 +1094,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2014 Spirit Giant",
-            "number": 188,
+            "number": 168,
             "color_identity": "G",
             "cost": "{6}{G}",
             "rules_text": "Titan of Sunrise costs {1} less to cast for each land card in your graveyard.\nWhen Titan of Sunrise enters, put a land card from your graveyard onto the battlefield under your control, then return a nonland card from your graveyard to your hand.",
@@ -1046,6 +1104,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Ryky",
             "notes": ""
         },
@@ -1054,7 +1113,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2014 Human Cleric",
-            "number": 171,
+            "number": 151,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Destiny Diviner gets +1/+1 for each enchantment you control.\nWhenever an Aura enters enchanting Destiny Diviner, you gain 1 life.",
@@ -1064,6 +1123,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Dallas Williams",
             "notes": ""
         },
@@ -1082,6 +1142,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Ryky",
             "notes": ""
         },
@@ -1094,12 +1155,13 @@
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "If you would draw a card, instead look at the top two cards of your library, exile one of them, then put the other into your hand.",
-            "flavor_text": "[i]ft\nft\nft\nft\nft[/i]",
+            "flavor_text": "[i]All that happens, all that is seen, all that is heard, is sent to The Arbiter.[/i]",
             "pt": "1/3",
             "special_text": "",
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Amir Zand",
             "notes": ""
         },
@@ -1118,6 +1180,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Anthony Chong Jones",
             "notes": ""
         },
@@ -1136,6 +1199,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Clockbirds",
             "notes": "!addtoken Duty Function;"
         },
@@ -1154,6 +1218,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Clockbirds",
             "notes": "!addtoken Flash Function;"
         },
@@ -1172,6 +1237,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Anato Finnstark",
             "notes": "!addtoken Relinquish Function;"
         },
@@ -1190,6 +1256,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Minyi",
             "notes": "!addtoken Reset Function;"
         },
@@ -1198,7 +1265,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2014 Human Shaman",
-            "number": 191,
+            "number": 171,
             "color_identity": "G",
             "cost": "{G}{G}",
             "rules_text": "[i]Landfall[/i] \u2014 Whenever a land enters under your control, create a Function token with \u201cPut a +1/+1 counter on target creature you control.\u201d [i](It's an enchantment. As you cast an instant or sorcery spell, sacrifice any number of Functions to add their effects to that spell.)[/i]",
@@ -1208,6 +1275,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "DaiSanVisArt",
             "notes": "!addtoken Growth Function;"
         },
@@ -1226,6 +1294,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Lorenz Hideyoshi Ruwwe",
             "notes": "!addtoken Intellect Function;"
         },
@@ -1244,6 +1313,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "DAMEAUX9",
             "notes": "!tag programming;"
         },
@@ -1262,6 +1332,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Sylvia Ritter",
             "notes": ""
         },
@@ -1280,6 +1351,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Gary Tonge",
             "notes": "!addtoken Treasure;"
         },
@@ -1288,7 +1360,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Instant",
-            "number": 164,
+            "number": 144,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Target creature you control fights target creature you don't control. Surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]",
@@ -1298,6 +1370,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "ThemeFinland",
             "notes": "!tag programming;"
         },
@@ -1316,6 +1389,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Clockbirds",
             "notes": ""
         },
@@ -1334,6 +1408,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "DaiSanVisART",
             "notes": ""
         },
@@ -1352,6 +1427,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "MorkarDfc",
             "notes": "!addtoken Demon;"
         },
@@ -1370,6 +1446,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "nFatin",
             "notes": ""
         },
@@ -1378,7 +1455,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2014 Human Cleric",
-            "number": 186,
+            "number": 166,
             "color_identity": "G",
             "cost": "{1}{G}{G}",
             "rules_text": "Trample\nWhen Sentinel of Sanctuaries enters, if you control a creature with power 4 or greater, search your library for a land card, put it onto the battlefield tapped, then shuffle.\n{4}{G}: Sentinel of Sanctuaries gets +1/+1 until end of turn for each land you control.",
@@ -1388,6 +1465,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Aleksei Liakh",
             "notes": ""
         },
@@ -1406,6 +1484,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Gary Tonge",
             "notes": ""
         },
@@ -1424,6 +1503,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "ERA7",
             "notes": ""
         },
@@ -1442,6 +1522,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Sylvia Ritter",
             "notes": ""
         },
@@ -1460,6 +1541,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Tyler Edlin",
             "notes": ""
         },
@@ -1478,6 +1560,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Sylvia Ritter",
             "notes": ""
         },
@@ -1496,6 +1579,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Jeff Zuagle",
             "notes": "!tag energy;"
         },
@@ -1508,12 +1592,13 @@
             "color_identity": "B",
             "cost": "{2}{B}{B}",
             "rules_text": "Whenever a player draws a card, each opponent loses 1 life.",
-            "flavor_text": "[i]ft\nft\nft\nft[/i]",
+            "flavor_text": "[i]Dread can manifest in different ways.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Kristyglass",
             "notes": ""
         },
@@ -1532,6 +1617,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Matteo Bassini",
             "notes": ""
         },
@@ -1540,7 +1626,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Enchantment \u2014 Aura",
-            "number": 172,
+            "number": 152,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "Enchant creature\nEnchanted creature gets +4/+4, has trample, and has \u201cThis creature must be blocked if able.\u201d",
@@ -1550,6 +1636,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Hamsta180",
             "notes": ""
         },
@@ -1568,6 +1655,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Philip A. Ulrich",
             "notes": "!addtoken Replenish Function;"
         },
@@ -1586,6 +1674,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Darek Zabrocki",
             "notes": ""
         },
@@ -1604,6 +1693,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Scott Uminga",
             "notes": ""
         },
@@ -1622,6 +1712,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Anato Finnstark",
             "notes": ""
         },
@@ -1630,7 +1721,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 181,
+            "number": 161,
             "color_identity": "G",
             "cost": "{5}{G}{G}",
             "rules_text": "Mill twenty cards. For each card type, you may return a card of that type from your graveyard to your hand. [i](Artifact, battle, creature, enchantment, instant, land, planeswalker, and sorcery are card types.)[/i]",
@@ -1640,6 +1731,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Sylvia Ritter",
             "notes": ""
         },
@@ -1658,6 +1750,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Sylvia Ritter",
             "notes": ""
         },
@@ -1676,6 +1769,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "MorkarDfc",
             "notes": "!addtoken Execution Function;"
         },
@@ -1688,12 +1782,13 @@
             "color_identity": "U",
             "cost": "{5}{U}",
             "rules_text": "When Kernel Infiltration enters, you get {E}{E}{E}{E}{E}.\nWhenever a player casts a spell, you may pay {E}. If you do, draw a card.",
-            "flavor_text": "[i]ft\nft[/i]",
+            "flavor_text": "[i]The Arbiter thought it was impossible, but the systems were broken into.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Vinecentius Matthew",
             "notes": "!tag energy;"
         },
@@ -1712,6 +1807,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Sylvia Ritter",
             "notes": ""
         },
@@ -1730,6 +1826,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Cobaltplasma",
             "notes": ""
         },
@@ -1738,7 +1835,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 183,
+            "number": 163,
             "color_identity": "G",
             "cost": "{6}{G}{G}",
             "rules_text": "When Overgrowth of Voro or another permanent enters, you may gain 2 life and put a +1/+1 counter on up to one target creature you control.",
@@ -1748,6 +1845,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Winterkeep",
             "notes": ""
         },
@@ -1766,6 +1864,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Scott Uminga",
             "notes": "!addtoken Human;"
         },
@@ -1784,6 +1883,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "DaiSamVisAart",
             "notes": "!tag energy;"
         },
@@ -1802,6 +1902,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Dominik Mayer",
             "notes": ""
         },
@@ -1810,7 +1911,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Enchantment \u2014 Aura",
-            "number": 162,
+            "number": 142,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "Enchant creature\nEnchanted creature has trample.\nWhenever enchanted creature attacks, you may have it fight target creature. [i](Each deals damage equal to its power to the other.)[/i]",
@@ -1820,6 +1921,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Sylvia Ritter",
             "notes": ""
         },
@@ -1838,6 +1940,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Amir Zand",
             "notes": "!addtoken Human;"
         },
@@ -1856,6 +1959,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "DaiSanVisAart",
             "notes": ""
         },
@@ -1874,6 +1978,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Free4FireYoutube",
             "notes": ""
         },
@@ -1892,6 +1997,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Zerahoc",
             "notes": ""
         },
@@ -1900,16 +2006,17 @@
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2014 Elk Spirit",
-            "number": 184,
+            "number": 164,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Whenever Phantom Stag enters or attacks, mill two cards.\nOnce each turn, when a noncreature card is put into your graveyard from anywhere, you may put a +1/+1 counter on Phantom Stag.",
             "flavor_text": "[i][/i]",
-            "pt": "3/3",
+            "pt": "1/2",
             "special_text": "",
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Aaron Griffin",
             "notes": ""
         },
@@ -1928,6 +2035,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Leon Tukker",
             "notes": "!tag programming;\n!tag energy;"
         },
@@ -1946,6 +2054,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Sylvia Ritter",
             "notes": "!tag programming;"
         },
@@ -1964,6 +2073,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "TomTC",
             "notes": "!tag programming;"
         },
@@ -1982,6 +2092,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Windboi",
             "notes": ""
         },
@@ -1990,7 +2101,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Enchantment Creature \u2014 Avatar",
-            "number": 161,
+            "number": 141,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Whenever a triggered ability of another noncreature enchantment you control triggers, you may pay {1}. If you do, copy that ability.",
@@ -2000,6 +2111,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Scott Uminga",
             "notes": ""
         },
@@ -2018,6 +2130,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Victor Hugo Harmatiuk",
             "notes": ""
         },
@@ -2036,6 +2149,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Chilly Prins",
             "notes": ""
         },
@@ -2054,6 +2168,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "AmaryllisNO",
             "notes": "!tag programming;"
         },
@@ -2072,6 +2187,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Clockbirds",
             "notes": "!addtoken Sunset Function;"
         },
@@ -2080,7 +2196,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2014 Elk Dragon",
-            "number": 167,
+            "number": 147,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
             "rules_text": "Trample\nWhenever Deepgrowth Drake enters or attacks, choose a basic land type. Create a tapped enchantment land token with that type.",
@@ -2090,6 +2206,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Clockbirds",
             "notes": "!addtoken Plains;Island;Swamp;Mountain;Forest;"
         },
@@ -2108,6 +2225,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "DaiSanVisArt",
             "notes": ""
         },
@@ -2126,6 +2244,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "DaiSanVisArt",
             "notes": "!tag energy;"
         },
@@ -2144,6 +2263,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Nele Diel",
             "notes": ""
         },
@@ -2156,12 +2276,13 @@
             "color_identity": "R",
             "cost": "{2}{R}{R}",
             "rules_text": "If an opponent has lost life this turn, this spell costs {2} less to cast.\nSplintering Fire deals 4 damage to target player or planeswalker.",
-            "flavor_text": "[i]ft\nft[/i]",
+            "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Filipe Pinto",
             "notes": ""
         },
@@ -2170,7 +2291,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Enchantment \u2014 Aura",
-            "number": 179,
+            "number": 159,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "Enchant creature\nEnchanted creature gets +2/+0 and has trample.\nWhen enchanted creature dies, put a +1/+1 counter on target creature you control.",
@@ -2180,6 +2301,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "DaiSanVisArt",
             "notes": "HAVEN"
         },
@@ -2198,6 +2320,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Xisten Cei",
             "notes": "!addtoken Replenish Function;"
         },
@@ -2216,6 +2339,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "DaiSanVisArt",
             "notes": ""
         },
@@ -2234,6 +2358,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Sylvia Ritter",
             "notes": ""
         },
@@ -2252,6 +2377,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Sylvia Ritter",
             "notes": "!tag energy;"
         },
@@ -2260,7 +2386,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2014 Human Warrior",
-            "number": 165,
+            "number": 145,
             "color_identity": "G",
             "cost": "{G}{G}",
             "rules_text": "Escape\u2014{1}{G}, Exile an enchantment card from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]",
@@ -2270,6 +2396,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "SuperPhazed",
             "notes": ""
         },
@@ -2288,6 +2415,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "ERA7",
             "notes": ""
         },
@@ -2306,6 +2434,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Sylar113",
             "notes": "!addtoken Charm Function;"
         },
@@ -2324,6 +2453,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Viraelin",
             "notes": ""
         },
@@ -2342,6 +2472,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Darek Zabrocki",
             "notes": ""
         },
@@ -2360,6 +2491,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Lino Drieghe",
             "notes": "!addtoken Flame Function;"
         },
@@ -2368,7 +2500,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2014 Human Warrior",
-            "number": 174,
+            "number": 154,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "As long as Goliath Assailant is an enchantment, it's an aura with \u201cEnchant creature\u201d and \u201cEnchanted creature gets +2/+2 and has trample.\u201d\nUncover {2}{G} [i]({2}{G}: Return this card from your graveyard to the battlefield, except it's an enchantment and loses all other card types. Exile it if it would leave the battlefield. Uncover only as a sorcery.)[/i]",
@@ -2378,6 +2510,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Chilly Prins",
             "notes": ""
         },
@@ -2396,6 +2529,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Anato Finnstark",
             "notes": ""
         },
@@ -2414,6 +2548,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Namidups",
             "notes": ""
         },
@@ -2432,6 +2567,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Kalberoos",
             "notes": ""
         },
@@ -2450,6 +2586,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Jocarra",
             "notes": ""
         },
@@ -2458,7 +2595,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2014 Human Warlock",
-            "number": 176,
+            "number": 156,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
             "rules_text": "Trample\nWhenever a noncreature card is put into a graveyard, you gain 1 life.\nUncover {4}{G} [i]({4}{G}: Return this card from your graveyard to the battlefield, except it's an enchantment and loses all other card types. Exile it if it would leave the battlefield. Uncover only as a sorcery.)[/i]",
@@ -2468,6 +2605,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Dan Rob",
             "notes": ""
         },
@@ -2486,6 +2624,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Ian Llanas",
             "notes": "!addtoken Dread Function;"
         },
@@ -2504,6 +2643,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "DaiSanVisArt",
             "notes": ""
         },
@@ -2522,6 +2662,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Sylvia Ritter",
             "notes": ""
         },
@@ -2540,6 +2681,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Joey Pool",
             "notes": ""
         },
@@ -2548,7 +2690,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2014 Horror",
-            "number": 178,
+            "number": 158,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "This spell can't be countered.\nTrample, ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]\nWhenever you cast a spell that targets, put a +1/+1 counter on Inquiry From Beyond.",
@@ -2558,6 +2700,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Zikwaga",
             "notes": ""
         },
@@ -2576,6 +2719,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Sylvia Ritter",
             "notes": ""
         },
@@ -2594,6 +2738,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "DaiSanVisArt",
             "notes": ""
         },
@@ -2612,6 +2757,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Mink-TDR",
             "notes": ""
         },
@@ -2624,12 +2770,13 @@
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "Creatures you control have haste as long as you've cast a noncreature spell this turn.",
-            "flavor_text": "[i]ft\nft\nft\nft\nft\nft[/i]",
+            "flavor_text": "[i]The foxes of Baru have endless energy, waiting to be release during a collision.[/i]",
             "pt": "1/1",
             "special_text": "",
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Clockbirds",
             "notes": ""
         },
@@ -2638,7 +2785,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Artifact Creature \u2014 Construct Spider",
-            "number": 187,
+            "number": 167,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
             "rules_text": "Whenever Spidroid enters or you uncover a card, surveil 2. You gain 2 life.\nUncover {3}{G} [i]({3}{G}: Return this card from your graveyard to the battlefield, except it's an enchantment and loses all other card types. Exile it if it would leave the battlefield. Uncover only as a sorcery.)[/i]",
@@ -2648,6 +2795,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Victor Hugo Harmatiuk",
             "notes": ""
         },
@@ -2666,6 +2814,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Sylar113",
             "notes": "!addtoken Human;"
         },
@@ -2684,6 +2833,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Aaron Griffin",
             "notes": "!addtoken Replenish Function;"
         },
@@ -2702,6 +2852,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "W0lfye",
             "notes": "!addtoken Wave Function;"
         },
@@ -2720,6 +2871,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Mark Balazic",
             "notes": ""
         },
@@ -2738,6 +2890,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Aleksei Liakh",
             "notes": ""
         },
@@ -2746,7 +2899,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2014 Human Scout",
-            "number": 169,
+            "number": 149,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "At the beginning of your end step, you may mill two cards.\nAs long as there are ten or more cards in your graveyard, Deepgrowth Explorer gets +3/+3 hand has trample.",
@@ -2756,6 +2909,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Forian Herold",
             "notes": ""
         },
@@ -2774,6 +2928,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Ryky",
             "notes": ""
         },
@@ -2792,6 +2947,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Scott Uminga",
             "notes": "!tag energy;"
         },
@@ -2810,6 +2966,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Ryky",
             "notes": ""
         },
@@ -2828,6 +2985,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Eldar Zakirov",
             "notes": ""
         },
@@ -2836,7 +2994,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2014 Human Cleric",
-            "number": 180,
+            "number": 160,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "Ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]\nWhenever you cast a spell that targets, you gain 1 life.",
@@ -2846,6 +3004,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Gary Tonge",
             "notes": ""
         },
@@ -2864,6 +3023,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Scott Uminga",
             "notes": "!tag energy;\n!tag programming;"
         },
@@ -2882,6 +3042,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "ERA7",
             "notes": "!tag energy;"
         },
@@ -2900,6 +3061,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Sylvia Ritter",
             "notes": ""
         },
@@ -2918,6 +3080,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Plunteere",
             "notes": "!tag energy;"
         },
@@ -2926,7 +3089,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 168,
+            "number": 148,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Search your library for a basic Forest card and put it onto the battlefield tapped, then shuffle. You gain 3 life if you control five or more lands.",
@@ -2936,6 +3099,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Sylvia Ritter",
             "notes": ""
         },
@@ -2954,6 +3118,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "ERA7",
             "notes": "!addtoken Healing Function;"
         },
@@ -2972,6 +3137,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Clockbirds",
             "notes": "!tag energy;"
         },
@@ -2990,6 +3156,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "ChrisNazgul",
             "notes": ""
         },
@@ -3008,6 +3175,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "DaiSanVisArt",
             "notes": ""
         },
@@ -3016,7 +3184,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Legendary Enchantment Creature \u2014 Turtle",
-            "number": 182,
+            "number": 162,
             "color_identity": "G",
             "cost": "{G}{G}",
             "rules_text": "Whenever an enchantment you control becomes the target of a spell or ability you don't control, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
@@ -3026,6 +3194,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Ryky",
             "notes": ""
         },
@@ -3044,6 +3213,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Gary Tonge",
             "notes": "!tag: energy;"
         },
@@ -3056,12 +3226,13 @@
             "color_identity": "U",
             "cost": "{U}",
             "rules_text": "Whenever you scry or surveil, you get {E}.\n{T}, Pay {E}{E}{E}: Draw a card.",
-            "flavor_text": "[i]ft\nft\nft\nft\nft[/i]",
+            "flavor_text": "[i]When the oceans freeze over, Naroz is nothing but a shell of what the splinter previously was. Oceans previously home to thousands of different things all trapped under a layer of ice.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "ErikShoemaker",
             "notes": "!tag: energy;"
         },
@@ -3080,6 +3251,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Elreviae",
             "notes": "!tag: energy;"
         },
@@ -3098,6 +3270,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Aaron Nakahara",
             "notes": "!tag: energy;\n!addtoken Construct;"
         },
@@ -3106,7 +3279,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 163,
+            "number": 143,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "You get {E}{E}.\nPay any amount of {E}. If you do, return an amount of land cards from your graveyard to the battlefield tapped equal to the number of {E} paid this way.",
@@ -3116,6 +3289,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "DaiSanVisArt",
             "notes": "!tag: energy;"
         },
@@ -3134,6 +3308,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "DaiSanVisArt",
             "notes": "!addtoken Healing Function;"
         },
@@ -3146,12 +3321,13 @@
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Draw two cards. Discard a card unless you've cast another noncreature spell this turn.",
-            "flavor_text": "[i]ft\nft\nft\nft\nft[/i]",
+            "flavor_text": "[i]\u201cThis splinter is not yours. This plane is not yours. My world is not yours to keep forever.\u201d[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "ZHURZH-ART",
             "notes": ""
         },
@@ -3170,6 +3346,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "DaiSanVisArt",
             "notes": ""
         },
@@ -3188,6 +3365,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Filipe Pinto",
             "notes": ""
         },
@@ -3206,6 +3384,7 @@
             "shape": "token",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "DaiSanVisArt",
             "notes": ""
         },
@@ -3224,6 +3403,7 @@
             "shape": "token",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Sephiroth-art",
             "notes": ""
         },
@@ -3242,6 +3422,7 @@
             "shape": "token",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Ryky",
             "notes": ""
         },
@@ -3260,6 +3441,7 @@
             "shape": "token",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Tshuki",
             "notes": ""
         },
@@ -3278,6 +3460,7 @@
             "shape": "token",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "DaiSanVisArt",
             "notes": ""
         },
@@ -3296,6 +3479,7 @@
             "shape": "token",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Clockbirds",
             "notes": ""
         },
@@ -3314,6 +3498,7 @@
             "shape": "token",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "DaiSanVisArt",
             "notes": ""
         },
@@ -3332,6 +3517,7 @@
             "shape": "token",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Aaron Nakahara",
             "notes": ""
         },
@@ -3350,6 +3536,7 @@
             "shape": "token",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Vera Zowada",
             "notes": ""
         },
@@ -3368,6 +3555,7 @@
             "shape": "token",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Byzhwa Dher",
             "notes": ""
         },
@@ -3386,6 +3574,7 @@
             "shape": "token",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Xia Taptara",
             "notes": ""
         },
@@ -3404,6 +3593,7 @@
             "shape": "token",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Sylvia Ritter",
             "notes": ""
         },
@@ -3422,6 +3612,7 @@
             "shape": "token",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Clockbirds",
             "notes": ""
         },
@@ -3440,6 +3631,7 @@
             "shape": "token",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Aaron Nakahara",
             "notes": ""
         },
@@ -3458,6 +3650,7 @@
             "shape": "token",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Ryky",
             "notes": ""
         },
@@ -3476,6 +3669,7 @@
             "shape": "token",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "DaiSanVisArt",
             "notes": ""
         },
@@ -3494,6 +3688,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "BaukjeSpirit",
             "notes": ""
         },
@@ -3512,6 +3707,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Naznamy",
             "notes": ""
         },
@@ -3524,12 +3720,13 @@
             "color_identity": "C",
             "cost": "{2}",
             "rules_text": "When Darkwave Container enters, you draw a card and get {E}.\n{1}, {T}: Add one mana of any color.",
-            "flavor_text": "[i]ft\nft\nft[/i]",
+            "flavor_text": "[i]When Gatu and Ikan collide, large swaths of emptiness are combined with unbound technology.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Luetche",
             "notes": ""
         },
@@ -3548,6 +3745,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Scott Uminga",
             "notes": ""
         },
@@ -3566,6 +3764,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "DaiSanVisArt",
             "notes": ""
         },
@@ -3584,6 +3783,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Scott Uminga",
             "notes": ""
         },
@@ -3602,6 +3802,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Chris Cold",
             "notes": ""
         },
@@ -3620,6 +3821,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "nJoo",
             "notes": "https://www.deviantart.com/njoo/art/Katharius-Celestial-Beholder-318376280"
         },
@@ -3638,6 +3840,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Darek Zabrocki",
             "notes": ""
         },
@@ -3656,6 +3859,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Tryingtofly",
             "notes": ""
         },
@@ -3674,6 +3878,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Sylvia Ritter",
             "notes": ""
         },
@@ -3692,6 +3897,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Miro Johannes",
             "notes": ""
         },
@@ -3710,6 +3916,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Jerome Talentale",
             "notes": ""
         },
@@ -3728,6 +3935,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Ylum",
             "notes": ""
         },
@@ -3746,6 +3954,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Sylvia Ritter",
             "notes": ""
         },
@@ -3764,6 +3973,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Sylvia Ritter",
             "notes": ""
         },
@@ -3782,6 +3992,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Ias Pinter",
             "notes": ""
         },
@@ -3800,6 +4011,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Amir Zand",
             "notes": ""
         },
@@ -3818,6 +4030,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Ryky",
             "notes": ""
         },
@@ -3826,7 +4039,7 @@
             "color": "WU",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 153,
+            "number": 185,
             "color_identity": "WU",
             "cost": "{W}{U}",
             "rules_text": "Once each turn, when you cast a noncreature spell, you may get {E}.\n{E}{E}{E}{E}: You draw a card and gain 3 life.",
@@ -3836,6 +4049,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Sephiroth-Art",
             "notes": ""
         },
@@ -3844,7 +4058,7 @@
             "color": "UB",
             "rarity": "rare",
             "type": "Creature \u2014 Human Warlock",
-            "number": 158,
+            "number": 190,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
             "rules_text": "Menace\nWhenever you draw your second card each turn, create a 2/2 black Warlock creature token.",
@@ -3854,6 +4068,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "MassGas (edited)",
             "notes": ""
         },
@@ -3862,7 +4077,7 @@
             "color": "RG",
             "rarity": "rare",
             "type": "Enchantment \u2014 Aura",
-            "number": 157,
+            "number": 189,
             "color_identity": "RG",
             "cost": "{R}{G}",
             "rules_text": "Enchant permanent\nWhen Unbound Soul enters, you may discard a card. If you do, draw a card.\nSpells that target enchanted permanent cost {1} less to cast.",
@@ -3872,6 +4087,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Maurug",
             "notes": ""
         },
@@ -3880,7 +4096,7 @@
             "color": "WG",
             "rarity": "rare",
             "type": "Enchantment Creature \u2014 Avatar",
-            "number": 142,
+            "number": 174,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
             "rules_text": "Once each turn, when you cast an enchantment spell, you may draw a card.\nWhenever you cast an enchantment spell, put a +1/+1 counter on The Arbiter's Harmonizer.",
@@ -3890,6 +4106,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Scott Uminga",
             "notes": ""
         },
@@ -3898,7 +4115,7 @@
             "color": "WB",
             "rarity": "rare",
             "type": "Creature \u2014 Human Warrior",
-            "number": 143,
+            "number": 175,
             "color_identity": "WB",
             "cost": "{2}{W}{B}",
             "rules_text": "Whenever one or more cards leave your graveyard, each opponent loses 1 life and you gain 1 life.\nUncover {2}{W}{B} [i]({2}{W}{B}: Return this card from your graveyard to the battlefield, except it's an enchantment and loses all other card types. Exile it if it would leave the battlefield. Uncover only as a sorcery.)[/i]",
@@ -3908,6 +4125,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Xia Taptara",
             "notes": ""
         },
@@ -3916,7 +4134,7 @@
             "color": "BG",
             "rarity": "rare",
             "type": "Creature \u2014 Demon Warlock",
-            "number": 151,
+            "number": 183,
             "color_identity": "BG",
             "cost": "{2}{B}{G}",
             "rules_text": "When Necromancer of the Depths enters, mill three cards.\nNonland permanent cards in your graveyard have uncover. Their uncover costs are equal to their mana costs. [i](Pay a card's uncover cost as a sorcery: Return it from your graveyard to the battlefield, except it's an enchantment and loses all other card types. Exile it if it would leave the battlefield.)[/i]",
@@ -3926,6 +4144,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "ChrisNazgul",
             "notes": ""
         },
@@ -3934,7 +4153,7 @@
             "color": "WR",
             "rarity": "rare",
             "type": "Creature \u2014 Wolf",
-            "number": 149,
+            "number": 181,
             "color_identity": "WR",
             "cost": "{2}{R}{W}",
             "rules_text": "When Lantern Bearer enters, create a function token with \u201cThis spell deals 2 damage to any target.\u201d [i](It's an enchantment. As you cast an instant or sorcery spell, sacrifice any number of Functions to add their effects to that spell.)[/i]\nTokens you control have lifelink.",
@@ -3944,6 +4163,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Clockbirds",
             "notes": "!addtoken Sunset Function;"
         },
@@ -3952,7 +4172,7 @@
             "color": "UG",
             "rarity": "rare",
             "type": "Creature \u2014 Treefolk Giant",
-            "number": 154,
+            "number": 186,
             "color_identity": "UG",
             "cost": "{4}{G}{U}",
             "rules_text": "Trample, ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]\nWhen Risen Thicket enters, draw two cards. You may play an additional land this turn.",
@@ -3962,6 +4182,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Kerem Beyit",
             "notes": ""
         },
@@ -3970,7 +4191,7 @@
             "color": "WUB",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 152,
+            "number": 184,
             "color_identity": "WUB",
             "cost": "{1}{W}{U}{B}",
             "rules_text": "Whenever you draw a card, target player may discard a card. If they don't, they lose 1 life and you gain 1 life.\n{5}: Draw a card.",
@@ -3980,6 +4201,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "DaiSanVisArt",
             "notes": ""
         },
@@ -3988,7 +4210,7 @@
             "color": "UBR",
             "rarity": "rare",
             "type": "Creature \u2014 Human Wizard",
-            "number": 156,
+            "number": 188,
             "color_identity": "UBR",
             "cost": "{U}{B}{R}",
             "rules_text": "Haste, prowess\nWhenever a creature you control attacks, you get {E}.\nPay {E}{E}{E}: Draw a card.",
@@ -3998,6 +4220,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "DaiSanVisArt",
             "notes": ""
         },
@@ -4006,16 +4229,17 @@
             "color": "BRG",
             "rarity": "rare",
             "type": "Instant",
-            "number": 147,
+            "number": 179,
             "color_identity": "BRG",
             "cost": "{B}{R}{G}",
-            "rules_text": "Endless Wreckage deals 4 damage to any target. Surveil 4.\nEscape\u2014{2}{B}{R}{G}, Exile six cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]",
+            "rules_text": "Endless Wreckage deals 4 damage to any target. Surveil 4.\n{2}{B}{R}{G}, Exile Endless Wreckage from your graveyard: Draw two cards. Endless Wreckage deals 2 damage to each player.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Darek Zabrocki",
             "notes": ""
         },
@@ -4024,7 +4248,7 @@
             "color": "WRG",
             "rarity": "rare",
             "type": "Creature \u2014 Human Knight",
-            "number": 148,
+            "number": 180,
             "color_identity": "WRG",
             "cost": "{R}{G}{W}",
             "rules_text": "Trample\nWhenever Knight of Beya attacks, create a function token with \u201cPut a +1/+1 counter on target creature.\u201d [i](It's an enchantment. As you cast an instant or sorcery spell, sacrifice any number of Functions to add their effects to that spell.)[/i]",
@@ -4034,6 +4258,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Kalberoos",
             "notes": "!addtoken Growth Function;"
         },
@@ -4042,7 +4267,7 @@
             "color": "WUG",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 159,
+            "number": 191,
             "color_identity": "WUG",
             "cost": "{2}{G}{W}{U}",
             "rules_text": "Flash\nWhenever Watchful Gaze or another enchantment enters under your control, exile target nonland permanent. Return it to the battlefield under its owner's control at the beginning of the next end step.\nAt the beginning of your end step, untap up to four lands.",
@@ -4052,6 +4277,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "DaiSanVisArt",
             "notes": ""
         },
@@ -4060,7 +4286,7 @@
             "color": "WBR",
             "rarity": "rare",
             "type": "Instant",
-            "number": 146,
+            "number": 178,
             "color_identity": "WBR",
             "cost": "{R}{W}{B}",
             "rules_text": "Create a function token with \u201cExile target nonland permanent if it has mana value less than or equal to this spell's mana value.\u201d [i](It's an enchantment. As you cast an instant or sorcery spell, sacrifice any number of Functions to add their effects to that spell.)[/i]\nCreate two 1/1 white Human enchantment creature tokens.",
@@ -4070,6 +4296,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "",
             "notes": "!addtoken Human;Sunrise Function;"
         },
@@ -4078,7 +4305,7 @@
             "color": "URG",
             "rarity": "rare",
             "type": "Creature \u2014 Giant Horror",
-            "number": 140,
+            "number": 172,
             "color_identity": "URG",
             "cost": "{3}{G}{U}{R}",
             "rules_text": "Flash\nNoncreature spells you cast cost {1} less to cast and have flash.\nOnce each turn, when you cast a noncreature spell, you may draw cards equal to that spells mana value, then discard two cards.",
@@ -4088,6 +4315,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Nerva1",
             "notes": ""
         },
@@ -4096,7 +4324,7 @@
             "color": "WUR",
             "rarity": "rare",
             "type": "Creature \u2014 Elemental Wizard",
-            "number": 144,
+            "number": 176,
             "color_identity": "WUR",
             "cost": "{U}{R}{W}",
             "rules_text": "Vigilance\nWhenever Cosmic Incarnation enters or attacks, you get {E}. Then you may pay {E}{E}{E}. If you do, put a +1/+1 counter on it.\nIf you would put one or more counters on yourself, put that many plus one of each of those kinds of counters on yourself instead.",
@@ -4106,6 +4334,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Jason Nguyen",
             "notes": ""
         },
@@ -4114,7 +4343,7 @@
             "color": "UBG",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 150,
+            "number": 182,
             "color_identity": "UBG",
             "cost": "{B}{G}{U}",
             "rules_text": "Surveil X, where X is the greatest mana value among permanents you control plus two. When you do, return up to two nonland cards from your graveyard to your hand. Exile Marshland Birth.",
@@ -4124,6 +4353,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Zandalar Mon",
             "notes": "s"
         },
@@ -4142,6 +4372,7 @@
             "shape": "token",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "MorkarDFC",
             "notes": ""
         },
@@ -4160,6 +4391,7 @@
             "shape": "token",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Zachary Hunt",
             "notes": ""
         },
@@ -4178,6 +4410,7 @@
             "shape": "token",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Armiche Lora S\u00e1nchez",
             "notes": ""
         },
@@ -4196,6 +4429,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Tobias Roetsch",
             "notes": ""
         },
@@ -4214,6 +4448,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "asd5566",
             "notes": ""
         },
@@ -4232,6 +4467,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "QAuZ",
             "notes": ""
         },
@@ -4250,6 +4486,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "TheKayeman",
             "notes": ""
         },
@@ -4268,6 +4505,7 @@
             "shape": "normal",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "ErikShoemaker's avatar\nErikShoemaker\n928.2K Profile views",
             "notes": ""
         },
@@ -4286,6 +4524,7 @@
             "shape": "token",
             "set": "DCO",
             "loyalty": "",
+            "designer": "",
             "artist": "Legendary memory",
             "notes": ""
         }

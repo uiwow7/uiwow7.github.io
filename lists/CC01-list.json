@@ -1,32 +1,32 @@
 ﻿[
     {
-        "card_name": "Blooming of the Celestial Tree",
+        "card_name": "Call of the Celestial Tree",
         "number": 5,
         "shape": "normal",
         "set": "CC01"
     },
     {
-        "card_name": "Cosmic Lookout",
+        "card_name": "Call of the Starsea",
         "number": 10,
         "shape": "normal",
         "set": "CC01"
     },
     {
-        "card_name": "Extraplanar Observer",
+        "card_name": "Call of the Soul",
         "number": 15,
         "shape": "normal",
         "set": "CC01"
     },
     {
-        "card_name": "Dark Omen Raven",
+        "card_name": "Call of the Sunset",
         "number": 20,
         "shape": "normal",
         "set": "CC01"
     },
     {
-        "card_name": "Darkgrowth Columns",
+        "card_name": "Call of the Lifebringer",
         "number": 25,
-        "shape": "transform double faced",
+        "shape": "normal",
         "set": "CC01"
     },
     {
@@ -36,27 +36,27 @@
         "set": "CC01"
     },
     {
-        "card_name": "Starsea Ritual",
+        "card_name": "Cosmic Lookout",
         "number": 11,
         "shape": "normal",
         "set": "CC01"
     },
     {
-        "card_name": "Iterate",
+        "card_name": "Darksun Executioner",
         "number": 16,
         "shape": "normal",
         "set": "CC01"
     },
     {
-        "card_name": "Melting Glowdragon",
+        "card_name": "Dark Omen Raven",
         "number": 21,
         "shape": "normal",
         "set": "CC01"
     },
     {
-        "card_name": "Forgotten Effigy",
+        "card_name": "Darkgrowth Columns",
         "number": 26,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "CC01"
     },
     {
@@ -66,8 +66,38 @@
         "set": "CC01"
     },
     {
-        "card_name": "Stormwrought Titan",
+        "card_name": "Reflection Familiar",
         "number": 12,
+        "shape": "normal",
+        "set": "CC01"
+    },
+    {
+        "card_name": "Extraplanar Observer",
+        "number": 17,
+        "shape": "normal",
+        "set": "CC01"
+    },
+    {
+        "card_name": "Melting Glowdragon",
+        "number": 22,
+        "shape": "normal",
+        "set": "CC01"
+    },
+    {
+        "card_name": "Forgotten Effigy",
+        "number": 27,
+        "shape": "normal",
+        "set": "CC01"
+    },
+    {
+        "card_name": "Skykeeper",
+        "number": 8,
+        "shape": "normal",
+        "set": "CC01"
+    },
+    {
+        "card_name": "Stormwrought Titan",
+        "number": 13,
         "shape": "normal",
         "set": "CC01"
     },
@@ -79,7 +109,7 @@
     },
     {
         "card_name": "Portal to Destruction",
-        "number": 22,
+        "number": 23,
         "shape": "transform double faced",
         "set": "CC01"
     },
@@ -90,19 +120,22 @@
         "set": "CC01"
     },
     {
-        "card_name": "Skykeeper",
-        "number": 8,
+        "card_name": "Starts in Sanctum",
+        "number": 9,
         "shape": "normal",
         "set": "CC01"
     },
     {
         "card_name": "Untouched Falls",
-        "number": 13,
+        "number": 14,
         "shape": "transform double faced",
         "set": "CC01"
     },
     {
-        "card_name": "e"
+        "card_name": "Starbrought Avatar",
+        "number": 19,
+        "shape": "normal",
+        "set": "CC01"
     },
     {
         "card_name": "e"
@@ -112,24 +145,6 @@
         "number": 29,
         "shape": "normal",
         "set": "CC01"
-    },
-    {
-        "card_name": "Starts in Sanctum",
-        "number": 9,
-        "shape": "normal",
-        "set": "CC01"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"

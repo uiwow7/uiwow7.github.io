@@ -26,7 +26,7 @@
             "notes": "Vertex Production/Synergy\n\nCustom symbol is alr linked in set info\n\nV for 1 vertex\nVW is for 2\nVU is for 3\nVB is for 4\nVR is for 5\nVG (in mana costs) is the + sign used in \"adventure\" vertex costs"
         },
         {
-            "card_name": "Blooming of the Celestial Tree",
+            "card_name": "Call of the Celestial Tree",
             "color": "W",
             "rarity": "rare",
             "type": "Instant",
@@ -106,7 +106,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Creature \u2014 Dragon",
-            "number": 10,
+            "number": 11,
             "color_identity": "U",
             "cost": "{4}{U}{U}",
             "rules_text": "Flash\nFlying",
@@ -121,11 +121,11 @@
             "notes": "Dragon\n\nIntended to give erysites more toys"
         },
         {
-            "card_name": "Starsea Ritual",
+            "card_name": "Call of the Starsea",
             "color": "U",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 11,
+            "number": 10,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Draw a card, then pursue Wonder. [i](Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)[/i]\nDiscard a card.",
@@ -140,11 +140,11 @@
             "notes": "Pursue Wonder\n\nAdded in the keywords ta"
         },
         {
-            "card_name": "Vertex Production/Synergy",
+            "card_name": "Reflection Familiar",
             "color": "U",
             "rarity": "rare",
-            "type": "Creature",
-            "number": 14,
+            "type": "Creature \u2014 Cat Reflection",
+            "number": 12,
             "color_identity": "WUG",
             "cost": "{1}{U}",
             "rules_text": "When this creature enters, you get {V} equal to the number of spells you've cast this turn. [i](Spend {V} to cast copies of Vertex spells.)[/i]",
@@ -155,7 +155,7 @@
             "set": "CC01",
             "loyalty": "",
             "designer": "",
-            "artist": "",
+            "artist": "ARVEN92",
             "notes": "Vertex Production/Synergy\n\nCustom symbol is alr linked in set info\n\nV for 1 vertex\nVW is for 2\nVU is for 3\nVB is for 4\nVR is for 5\nVG is 6 in textvoxes, in costs its the plus used in vertex \"adventure\" costs"
         },
         {
@@ -163,7 +163,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Artifact Creature \u2014 Construct Giant",
-            "number": 12,
+            "number": 13,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "When this creature enters, draw a number of cards equal to its power, then discard that many cards.\nIterate [i](When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.)[/i]",
@@ -178,11 +178,11 @@
             "notes": "Iterate\n\nadded in keywords tab\n\nyou dont need to make the iterated form, we will when the set becomes official"
         },
         {
-            "card_name": "Vertex Production/Synergy",
+            "card_name": "Darksun Executioner",
             "color": "B",
             "rarity": "rare",
             "type": "Creature \u2014 Demon",
-            "number": 19,
+            "number": 16,
             "color_identity": "B",
             "cost": "{3}{B}",
             "rules_text": "When this creature enters, you get {V} for each nonland card in your graveyard. [i](Spend {V} to cast copies of Vertex spells.)[/i]",
@@ -197,11 +197,11 @@
             "notes": "Vertex Production/Synergy\n\nCustom symbol is alr linked in set info\n\nV for 1 vertex\nVW is for 2\nVU is for 3\nVB is for 4\nVR is for 5\nVG is 6 in textvoxes, in costs its the plus used in vertex \"adventure\" costs"
         },
         {
-            "card_name": "Pursue Wonder",
+            "card_name": "Call of the Soul",
             "color": "B",
             "rarity": "rare",
-            "type": "",
-            "number": 17,
+            "type": "Instant",
+            "number": 15,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
             "rules_text": "Destroy target creature.\nPursue Wonder [i](Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)[/i]",
@@ -212,7 +212,7 @@
             "set": "CC01",
             "loyalty": "",
             "designer": "",
-            "artist": "",
+            "artist": "Sylvia Ritter",
             "notes": "Pursue Wonder\n\nAdded in the keywords tab"
         },
         {
@@ -249,7 +249,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Creature \u2014 Dragon",
-            "number": 15,
+            "number": 17,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "Whenever this creature enters or attacks, each player loses 1 life.",
@@ -264,26 +264,26 @@
             "notes": "Dragon\n\nIntended to give erysites more toys"
         },
         {
-            "card_name": "Iterate",
+            "card_name": "Starbrought Avatar",
             "color": "B",
             "rarity": "rare",
-            "type": "Artifact Creature",
-            "number": 16,
+            "type": "Artifact Creature \u2014 Avatar",
+            "number": 19,
             "color_identity": "B",
-            "cost": "{B}",
-            "rules_text": "\nIterate [i](When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.)[/i]",
+            "cost": "{2}{B}{B}",
+            "rules_text": "When this creature enters, destroy target creature with mana value less than or equal to this creature's power.\nIterate [i](When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "",
+            "pt": "3/1",
             "special_text": "",
             "shape": "normal",
             "set": "CC01",
             "loyalty": "",
             "designer": "",
-            "artist": "",
+            "artist": "theNo7er",
             "notes": "Iterate\n\nadded in keywords tab\n\nyou dont need to make the iterated form, we will when the set becomes official"
         },
         {
-            "card_name": "Vertex Production/Synergy",
+            "card_name": "Vertex ProductionSynergy",
             "color": "R",
             "rarity": "rare",
             "type": "",
@@ -302,11 +302,11 @@
             "notes": "Vertex Production/Synergy\n\nCustom symbol is alr linked in set info\n\nV for 1 vertex\nVW is for 2\nVU is for 3\nVB is for 4\nVR is for 5\nVG is 6 in textvoxes, in costs its the plus used in vertex \"adventure\" costs"
         },
         {
-            "card_name": "Pursue Wonder",
+            "card_name": "Call of the Sunset",
             "color": "R",
             "rarity": "rare",
             "type": "Instant",
-            "number": 23,
+            "number": 20,
             "color_identity": "R",
             "cost": "{3}{R}",
             "rules_text": "Pursue Wonder [i](Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)[/i]\nExile each card in your hand, then draw that many cards. You may play cards exiled this way until the end of your next turn.",
@@ -317,7 +317,7 @@
             "set": "CC01",
             "loyalty": "",
             "designer": "",
-            "artist": "",
+            "artist": "T1Na",
             "notes": "Pursue Wonder\n\nAdded in the keywords tab"
         },
         {
@@ -325,7 +325,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Enchantment \u2014 Realm",
-            "number": 22,
+            "number": 23,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "When this enchantment enters, it deals 2 damage to each opponent.\n{3}{R}{R}: Transform this realm.",
@@ -354,7 +354,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Creature \u2014 Dragon",
-            "number": 21,
+            "number": 22,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
             "rules_text": "Flying\nWhenever this creature attacks, when you cast your next instant or sorcery spell this turn, copy it. You may choose new targets for the copy.",
@@ -365,7 +365,7 @@
             "set": "CC01",
             "loyalty": "",
             "designer": "",
-            "artist": "",
+            "artist": "ERA7",
             "notes": "Dragon\n\nIntended to give erysites more toys"
         },
         {
@@ -373,7 +373,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Artifact Creature \u2014 Bird",
-            "number": 20,
+            "number": 21,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "When this creature enters, discard your hand, then draw a number of cards equal to its power.\nIterate [i](When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.)[/i]",
@@ -407,11 +407,11 @@
             "notes": "Vertex Production/Synergy\n\nCustom symbol is alr linked in set info\n\nV for 1 vertex\nVW is for 2\nVU is for 3\nVB is for 4\nVR is for 5\nVG is 6 in textvoxes, in costs its the plus used in vertex \"adventure\" costs"
         },
         {
-            "card_name": "Pursue Wonder",
+            "card_name": "Call of the Lifebringer",
             "color": "G",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 27,
+            "number": 25,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Pursue Wonder [i](Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)[/i]\nYou may put a land card from your hand onto the battlefield tapped.",
@@ -430,7 +430,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Enchantment \u2014 Realm",
-            "number": 25,
+            "number": 26,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "When this enchantment enters, search your library for a basic land card, put it onto the battlefield, then shuffle.\n{5}{G}{G}: Transform this realm.",
@@ -478,7 +478,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Artifact Creature \u2014 Statue",
-            "number": 26,
+            "number": 27,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "This creature has base size 6/6 as long as you control eight or more lands.\nIterate [i](When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.)[/i]",
@@ -493,7 +493,7 @@
             "notes": "Iterate\n\nadded in keywords tab\n\nyou dont need to make the iterated form, we will when the set becomes official"
         },
         {
-            "card_name": "Vertex Production/Synergy",
+            "card_name": "Vertex ProductionSynergy",
             "color": "I",
             "rarity": "rare",
             "type": "Instant",
@@ -699,8 +699,8 @@
             "type": "Legendary Planeswalker \u2014 Jaza",
             "number": 2,
             "color_identity": "C",
-            "cost": "",
-            "rules_text": "Whenever an enchantment you c",
+            "cost": "{3}",
+            "rules_text": "\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -709,7 +709,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "Colorless planeswalker"
+            "notes": "Colorless planeswalkerc,"
         },
         {
             "card_name": "Reserves hate card",
@@ -792,7 +792,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Enchantment \u2014 Realm",
-            "number": 13,
+            "number": 14,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "When this realm enters, return up to one target creature to its owner's hand.\n{3}{U}: Transform this realm.",

@@ -11,13 +11,13 @@
 			}
 		},
 		{
-			"name": "Blooming of the Celestial Tree",
+			"name": "Call of the Celestial Tree",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/5_Blooming of the Celestial Tree.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/5_Call of the Celestial Tree.jpg"
 			}
 		},
 		{
@@ -55,29 +55,29 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Dragon",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/10_Cosmic Lookout.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/11_Cosmic Lookout.jpg"
 			}
 		},
 		{
-			"name": "Starsea Ritual",
+			"name": "Call of the Starsea",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "11",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/11_Starsea Ritual.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/10_Call of the Starsea.jpg"
 			}
 		},
 		{
-			"name": "Vertex Production/Synergy",
+			"name": "Reflection Familiar",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
-			"type": "Creature",
-			"collector_number": "14",
+			"type": "Creature — Cat Reflection",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/14_Vertex Production/Synergy.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/12_Reflection Familiar.jpg"
 			}
 		},
 		{
@@ -85,29 +85,29 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Construct Giant",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/12_Stormwrought Titan.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/13_Stormwrought Titan.jpg"
 			}
 		},
 		{
-			"name": "Vertex Production/Synergy",
+			"name": "Darksun Executioner",
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Demon",
-			"collector_number": "19",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/19_Vertex Production/Synergy.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/16_Darksun Executioner.jpg"
 			}
 		},
 		{
-			"name": "Pursue Wonder",
+			"name": "Call of the Soul",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
-			"type": "",
-			"collector_number": "17",
+			"type": "Instant",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/17_Pursue Wonder.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/15_Call of the Soul.jpg"
 			}
 		},
 		{
@@ -132,39 +132,39 @@
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Creature — Dragon",
-			"collector_number": "15",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/15_Extraplanar Observer.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/17_Extraplanar Observer.jpg"
 			}
 		},
 		{
-			"name": "Iterate",
+			"name": "Starbrought Avatar",
 			"rarity": "rare",
-			"mana_cost": "{B}",
-			"type": "Artifact Creature",
-			"collector_number": "16",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Artifact Creature — Avatar",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/16_Iterate.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/19_Starbrought Avatar.jpg"
 			}
 		},
 		{
-			"name": "Vertex Production/Synergy",
+			"name": "Vertex ProductionSynergy",
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/24_Vertex Production/Synergy.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/24_Vertex ProductionSynergy.jpg"
 			}
 		},
 		{
-			"name": "Pursue Wonder",
+			"name": "Call of the Sunset",
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "Instant",
-			"collector_number": "23",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/23_Pursue Wonder.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/20_Call of the Sunset.jpg"
 			}
 		},
 		{
@@ -172,16 +172,16 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Realm",
-			"collector_number": "22",
+			"collector_number": "23",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://uiwow7.github.io/sets/CC01-files/img/22_Portal to Destruction_back.jpg"
+					"en": "https://uiwow7.github.io/sets/CC01-files/img/23_Portal to Destruction_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/22_Portal to Destruction_front.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/23_Portal to Destruction_front.jpg"
 			}
 		},
 		{
@@ -189,9 +189,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "21",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/21_Melting Glowdragon.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/22_Melting Glowdragon.jpg"
 			}
 		},
 		{
@@ -199,9 +199,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Artifact Creature — Bird",
-			"collector_number": "20",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/20_Dark Omen Raven.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/21_Dark Omen Raven.jpg"
 			}
 		},
 		{
@@ -215,13 +215,13 @@
 			}
 		},
 		{
-			"name": "Pursue Wonder",
+			"name": "Call of the Lifebringer",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "27",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/27_Pursue Wonder.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/25_Call of the Lifebringer.jpg"
 			}
 		},
 		{
@@ -229,16 +229,16 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Realm",
-			"collector_number": "25",
+			"collector_number": "26",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://uiwow7.github.io/sets/CC01-files/img/25_Darkgrowth Columns_back.jpg"
+					"en": "https://uiwow7.github.io/sets/CC01-files/img/26_Darkgrowth Columns_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/25_Darkgrowth Columns_front.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/26_Darkgrowth Columns_front.jpg"
 			}
 		},
 		{
@@ -256,19 +256,19 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Artifact Creature — Statue",
-			"collector_number": "26",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/26_Forgotten Effigy.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/27_Forgotten Effigy.jpg"
 			}
 		},
 		{
-			"name": "Vertex Production/Synergy",
+			"name": "Vertex ProductionSynergy",
 			"rarity": "rare",
 			"mana_cost": "{1}{I}",
 			"type": "Instant",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/33_Vertex Production/Synergy.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/33_Vertex ProductionSynergy.jpg"
 			}
 		},
 		{
@@ -371,7 +371,7 @@
 		{
 			"name": "Colorless Planeswalker",
 			"rarity": "rare",
-			"mana_cost": "",
+			"mana_cost": "{3}",
 			"type": "Legendary Planeswalker — Jaza",
 			"collector_number": "2",
 			"image_uris": {
@@ -423,16 +423,16 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Realm",
-			"collector_number": "13",
+			"collector_number": "14",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://uiwow7.github.io/sets/CC01-files/img/13_Untouched Falls_back.jpg"
+					"en": "https://uiwow7.github.io/sets/CC01-files/img/14_Untouched Falls_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/13_Untouched Falls_front.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/14_Untouched Falls_front.jpg"
 			}
 		},
 		{

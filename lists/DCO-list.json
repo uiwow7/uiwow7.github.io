@@ -726,7 +726,7 @@
         "set": "DCO"
     },
     {
-        "card_name": "Narokan Collision",
+        "card_name": "Naroz Icebreaker",
         "number": 65,
         "shape": "normal",
         "set": "DCO"
@@ -756,7 +756,7 @@
         "set": "DCO"
     },
     {
-        "card_name": "Naroz Icebreaker",
+        "card_name": "Naroz Sentinel",
         "number": 66,
         "shape": "normal",
         "set": "DCO"
@@ -786,7 +786,7 @@
         "set": "DCO"
     },
     {
-        "card_name": "Naroz Sentinel",
+        "card_name": "Ocean Watcher",
         "number": 67,
         "shape": "normal",
         "set": "DCO"
@@ -816,7 +816,7 @@
         "set": "DCO"
     },
     {
-        "card_name": "Ocean Watcher",
+        "card_name": "Power Off",
         "number": 68,
         "shape": "normal",
         "set": "DCO"
@@ -846,7 +846,7 @@
         "set": "DCO"
     },
     {
-        "card_name": "Power Off",
+        "card_name": "Sky of Beya",
         "number": 69,
         "shape": "normal",
         "set": "DCO"
@@ -876,7 +876,7 @@
         "set": "DCO"
     },
     {
-        "card_name": "Sky of Beya",
+        "card_name": "Stack Popper",
         "number": 70,
         "shape": "normal",
         "set": "DCO"
@@ -906,7 +906,7 @@
         "set": "DCO"
     },
     {
-        "card_name": "Stack Popper",
+        "card_name": "Tune the Narrative",
         "number": 71,
         "shape": "normal",
         "set": "DCO"
@@ -1549,67 +1549,70 @@
         "set": "DCO"
     },
     {
-        "card_name": "Relinquish Function",
+        "card_name": "Lantern Function",
         "number": 12,
         "shape": "token",
         "set": "DCO"
     },
     {
-        "card_name": "Replenish Function",
+        "card_name": "Relinquish Function",
         "number": 13,
         "shape": "token",
         "set": "DCO"
     },
     {
-        "card_name": "Reset Function",
+        "card_name": "Replenish Function",
         "number": 14,
         "shape": "token",
         "set": "DCO"
     },
     {
-        "card_name": "Sunset Function",
+        "card_name": "Reset Function",
         "number": 15,
         "shape": "token",
         "set": "DCO"
     },
     {
-        "card_name": "Wave Function",
+        "card_name": "Sunset Function",
         "number": 16,
         "shape": "token",
         "set": "DCO"
     },
     {
-        "card_name": "Treasure",
-        "number": 21,
-        "shape": "token",
-        "set": "DCO"
-    },
-    {
-        "card_name": "Human",
+        "card_name": "Wave Function",
         "number": 17,
         "shape": "token",
         "set": "DCO"
     },
     {
-        "card_name": "Demon",
+        "card_name": "Treasure",
+        "number": 22,
+        "shape": "token",
+        "set": "DCO"
+    },
+    {
+        "card_name": "Human",
         "number": 18,
         "shape": "token",
         "set": "DCO"
     },
     {
-        "card_name": "Warlock",
+        "card_name": "Demon",
         "number": 19,
         "shape": "token",
         "set": "DCO"
     },
     {
-        "card_name": "Construct",
+        "card_name": "Warlock",
         "number": 20,
         "shape": "token",
         "set": "DCO"
     },
     {
-        "card_name": "e"
+        "card_name": "Construct",
+        "number": 21,
+        "shape": "token",
+        "set": "DCO"
     },
     {
         "card_name": "e"

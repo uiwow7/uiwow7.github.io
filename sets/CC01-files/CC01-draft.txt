@@ -1,0 +1,460 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Demonheart Overseer",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/6_Demonheart Overseer.jpg"
+			}
+		},
+		{
+			"name": "Blooming of the Celestial Tree",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/5_Blooming of the Celestial Tree.jpg"
+			}
+		},
+		{
+			"name": "Starts in Sanctum",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Avatar",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/9_Starts in Sanctum.jpg"
+			}
+		},
+		{
+			"name": "Skykeeper",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Dragon",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/8_Skykeeper.jpg"
+			}
+		},
+		{
+			"name": "Lifebound Synthesizer",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/7_Lifebound Synthesizer.jpg"
+			}
+		},
+		{
+			"name": "Cosmic Lookout",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Dragon",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/10_Cosmic Lookout.jpg"
+			}
+		},
+		{
+			"name": "Starsea Ritual",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/11_Starsea Ritual.jpg"
+			}
+		},
+		{
+			"name": "Vertex Production/Synergy",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/14_Vertex Production/Synergy.jpg"
+			}
+		},
+		{
+			"name": "Stormwrought Titan",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Construct Giant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/12_Stormwrought Titan.jpg"
+			}
+		},
+		{
+			"name": "Vertex Production/Synergy",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/19_Vertex Production/Synergy.jpg"
+			}
+		},
+		{
+			"name": "Pursue Wonder",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/17_Pursue Wonder.jpg"
+			}
+		},
+		{
+			"name": "Somber Emptiness",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Realm",
+			"collector_number": "18",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://uiwow7.github.io/sets/CC01-files/img/18_Somber Emptiness_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/18_Somber Emptiness_front.jpg"
+			}
+		},
+		{
+			"name": "Extraplanar Observer",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Dragon",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/15_Extraplanar Observer.jpg"
+			}
+		},
+		{
+			"name": "Iterate",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Artifact Creature",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/16_Iterate.jpg"
+			}
+		},
+		{
+			"name": "Vertex Production/Synergy",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/24_Vertex Production/Synergy.jpg"
+			}
+		},
+		{
+			"name": "Pursue Wonder",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/23_Pursue Wonder.jpg"
+			}
+		},
+		{
+			"name": "Portal to Destruction",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Realm",
+			"collector_number": "22",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://uiwow7.github.io/sets/CC01-files/img/22_Portal to Destruction_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/22_Portal to Destruction_front.jpg"
+			}
+		},
+		{
+			"name": "Melting Glowdragon",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/21_Melting Glowdragon.jpg"
+			}
+		},
+		{
+			"name": "Dark Omen Raven",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Bird",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/20_Dark Omen Raven.jpg"
+			}
+		},
+		{
+			"name": "Ursine Woodheart",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Bear",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/29_Ursine Woodheart.jpg"
+			}
+		},
+		{
+			"name": "Pursue Wonder",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/27_Pursue Wonder.jpg"
+			}
+		},
+		{
+			"name": "Darkgrowth Columns",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Realm",
+			"collector_number": "25",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://uiwow7.github.io/sets/CC01-files/img/25_Darkgrowth Columns_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/25_Darkgrowth Columns_front.jpg"
+			}
+		},
+		{
+			"name": "Sentinel of Empty Lands",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Dragon",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/28_Sentinel of Empty Lands.jpg"
+			}
+		},
+		{
+			"name": "Forgotten Effigy",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact Creature — Statue",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/26_Forgotten Effigy.jpg"
+			}
+		},
+		{
+			"name": "Vertex Production/Synergy",
+			"rarity": "rare",
+			"mana_cost": "{1}{I}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/33_Vertex Production/Synergy.jpg"
+			}
+		},
+		{
+			"name": "Pursue Wonder",
+			"rarity": "rare",
+			"mana_cost": "{I}",
+			"type": "",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/32_Pursue Wonder.jpg"
+			}
+		},
+		{
+			"name": "Lost Mirrorpools",
+			"rarity": "rare",
+			"mana_cost": "{1}{I}",
+			"type": "Enchantment — Realm",
+			"collector_number": "31",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://uiwow7.github.io/sets/CC01-files/img/31_Lost Mirrorpools_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/31_Lost Mirrorpools_front.jpg"
+			}
+		},
+		{
+			"name": "Cursed Stormbringer",
+			"rarity": "rare",
+			"mana_cost": "{3}{I}{I}",
+			"type": "Creature — Dragon",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/30_Cursed Stormbringer.jpg"
+			}
+		},
+		{
+			"name": "Wandering Sentry",
+			"rarity": "rare",
+			"mana_cost": "{1}{I}",
+			"type": "Artifact Creature — Drone",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/34_Wandering Sentry.jpg"
+			}
+		},
+		{
+			"name": "The Moonlight Shadows",
+			"rarity": "rare",
+			"mana_cost": "{2}{I}{I/W}{W}",
+			"type": "Kindred Enchantment — Wonder",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/37_The Moonlight Shadows.jpg"
+			}
+		},
+		{
+			"name": "The Sunlit Pools",
+			"rarity": "rare",
+			"mana_cost": "{2}{I}{I/U}{U}",
+			"type": "Kindred Enchantment — Wonder",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/38_The Sunlit Pools.jpg"
+			}
+		},
+		{
+			"name": "The Sunset Undergrowth",
+			"rarity": "rare",
+			"mana_cost": "{1}{I}{I/B}{B}",
+			"type": "Kindred Enchantment — Wonder",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/39_The Sunset Undergrowth.jpg"
+			}
+		},
+		{
+			"name": "The Icefire Monuments",
+			"rarity": "rare",
+			"mana_cost": "{1}{I}{I/R}{R}",
+			"type": "Kindred Enchantment — Wonder",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/36_The Icefire Monuments.jpg"
+			}
+		},
+		{
+			"name": "The Earthbound Brushwoods",
+			"rarity": "rare",
+			"mana_cost": "{I}{I/G}{G}",
+			"type": "Kindred Enchantment — Wonder",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/35_The Earthbound Brushwoods.jpg"
+			}
+		},
+		{
+			"name": "Colorless Planeswalker",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Planeswalker — Jaza",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/2_Colorless Planeswalker.jpg"
+			}
+		},
+		{
+			"name": "Reserves hate card",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Creature",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/4_Reserves hate card.jpg"
+			}
+		},
+		{
+			"name": "Monument to Lapsed Realms",
+			"rarity": "rare",
+			"mana_cost": "{7}",
+			"type": "Enchantment Artifact — Realm",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/40_Monument to Lapsed Realms.jpg"
+			}
+		},
+		{
+			"name": "Expensive card with alt mode",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Enchantment Creature — Avatar",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/3_Expensive card with alt mode.jpg"
+			}
+		},
+		{
+			"name": "Changeling with typal payoff",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/1_Changeling with typal payoff.jpg"
+			}
+		},
+		{
+			"name": "Untouched Falls",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Realm",
+			"collector_number": "13",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://uiwow7.github.io/sets/CC01-files/img/13_Untouched Falls_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/13_Untouched Falls_front.jpg"
+			}
+		},
+		{
+			"name": "Avatar",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Avatar",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/1_Avatar.jpg"
+			}
+		},
+		{
+			"name": "Avatar",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Avatar",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/2_Avatar.jpg"
+			}
+		}
+	]
+
+[cube(15)]

@@ -1,0 +1,226 @@
+﻿[
+    {
+        "card_name": "Blooming of the Celestial Tree",
+        "number": 5,
+        "shape": "normal",
+        "set": "CC01"
+    },
+    {
+        "card_name": "Cosmic Lookout",
+        "number": 10,
+        "shape": "normal",
+        "set": "CC01"
+    },
+    {
+        "card_name": "Extraplanar Observer",
+        "number": 15,
+        "shape": "normal",
+        "set": "CC01"
+    },
+    {
+        "card_name": "Dark Omen Raven",
+        "number": 20,
+        "shape": "normal",
+        "set": "CC01"
+    },
+    {
+        "card_name": "Darkgrowth Columns",
+        "number": 25,
+        "shape": "transform double faced",
+        "set": "CC01"
+    },
+    {
+        "card_name": "Demonheart Overseer",
+        "number": 6,
+        "shape": "normal",
+        "set": "CC01"
+    },
+    {
+        "card_name": "Starsea Ritual",
+        "number": 11,
+        "shape": "normal",
+        "set": "CC01"
+    },
+    {
+        "card_name": "Iterate",
+        "number": 16,
+        "shape": "normal",
+        "set": "CC01"
+    },
+    {
+        "card_name": "Melting Glowdragon",
+        "number": 21,
+        "shape": "normal",
+        "set": "CC01"
+    },
+    {
+        "card_name": "Forgotten Effigy",
+        "number": 26,
+        "shape": "normal",
+        "set": "CC01"
+    },
+    {
+        "card_name": "Lifebound Synthesizer",
+        "number": 7,
+        "shape": "normal",
+        "set": "CC01"
+    },
+    {
+        "card_name": "Stormwrought Titan",
+        "number": 12,
+        "shape": "normal",
+        "set": "CC01"
+    },
+    {
+        "card_name": "Somber Emptiness",
+        "number": 18,
+        "shape": "transform double faced",
+        "set": "CC01"
+    },
+    {
+        "card_name": "Portal to Destruction",
+        "number": 22,
+        "shape": "transform double faced",
+        "set": "CC01"
+    },
+    {
+        "card_name": "Sentinel of Empty Lands",
+        "number": 28,
+        "shape": "normal",
+        "set": "CC01"
+    },
+    {
+        "card_name": "Skykeeper",
+        "number": 8,
+        "shape": "normal",
+        "set": "CC01"
+    },
+    {
+        "card_name": "Untouched Falls",
+        "number": 13,
+        "shape": "transform double faced",
+        "set": "CC01"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Ursine Woodheart",
+        "number": 29,
+        "shape": "normal",
+        "set": "CC01"
+    },
+    {
+        "card_name": "Starts in Sanctum",
+        "number": 9,
+        "shape": "normal",
+        "set": "CC01"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Changeling with typal payoff",
+        "number": 1,
+        "shape": "normal",
+        "set": "CC01"
+    },
+    {
+        "card_name": "Colorless Planeswalker",
+        "number": 2,
+        "shape": "planeswalker",
+        "set": "CC01"
+    },
+    {
+        "card_name": "Expensive card with alt mode",
+        "number": 3,
+        "shape": "normal",
+        "set": "CC01"
+    },
+    {
+        "card_name": "Reserves hate card",
+        "number": 4,
+        "shape": "normal",
+        "set": "CC01"
+    },
+    {
+        "card_name": "Monument to Lapsed Realms",
+        "number": 40,
+        "shape": "normal",
+        "set": "CC01"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Avatar",
+        "number": 1,
+        "shape": "token",
+        "set": "CC01"
+    },
+    {
+        "card_name": "Avatar",
+        "number": 2,
+        "shape": "token",
+        "set": "CC01"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

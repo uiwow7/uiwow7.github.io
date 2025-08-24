@@ -5,6 +5,10 @@
 	<link rel="stylesheet" href="/resources/header.css">
 	<title>CC01 visual preview</title>
 	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('/resources/beleren.ttf');
+		}
 		body {
 			font-family: Arial, sans-serif;
 			margin: 0;
@@ -83,7 +87,7 @@
 		.banner {
 			width: 100%;
 			height: auto;
-			padding-top: 20px;
+			padding-top: 80px;
 			padding-bottom: 50px;
 		}
 		.logo {
@@ -119,36 +123,49 @@
 			background-size: contain;
 			background-position: center;
 		}
-		.icon-bar {
-			display: grid;
-			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
-			gap: 1px;
-			padding-left: 5%;
-			padding-right: 5%;
-			padding-top: 2%;
-			padding-bottom: 1%;
-			justify-items: center;
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 10%;
+			width: fit-content;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: flex;
+			flex-direction: column;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
 			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
 		}
-		.icon-bar .icon img {
-			width: 90%;
-			max-width: 80px;
-			height: auto;
-			display: block;
-			padding: 5%;
-			margin: auto;
-			text-align: center;
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
 		}
-		.icon-bar .dot img {
-			width: 50%;
-			max-width: 65px;
-			height: auto;
-			display: block;
-			margin: auto;
-			text-align: center;
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
 		}
 		.preload-hidden {
 			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
 		}
 		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
 		.footer {
@@ -175,75 +192,76 @@
 		</div>
 	</div>
 
-	<div class="icon-bar">
-			<div class="icon"><a href="DCO"><img src="/sets/DCO-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="DSW"><img src="/sets/DSW-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="SHS"><img src="/sets/SHS-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="CC01"><img src="/sets/CC01-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="MC25"><img src="/sets/MC25-files/icon.png"></img></a></div>
-
+	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="CC01"><img src="/sets/CC01-files/icon.png">Voyager Card Contest 1 — Aanginer</a>
+	
+		<a class="set-bar inactive" href="DCO"><img src="/sets/DCO-files/icon.png">Dazon: Cosmic Outcasts</a>
+	
+		<a class="set-bar inactive" href="DSW"><img src="/sets/DSW-files/icon.png">Dazon: Splintered Worlds</a>
+	
+		<a class="set-bar inactive" href="SHS"><img src="/sets/SHS-files/icon.png">A Shattered Sword</a>
+	
+		<a class="set-bar inactive" href="MC25"><img src="/sets/MC25-files/icon.png">Aaanginer MC25 Submission</a>
+	
 		</div>
 		<div class="banner">
 		<img class="logo" src="/sets/CC01-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-				<div class="container"><img alt="/sets\CC01-files\img\5_Call of the Celestial Tree.jpg" id="5_Call of the Celestial Tree" data-flag="@X" onclick="openSidebar('5_Call of the Celestial Tree',false)"></div>
-			<div class="container"><img alt="/sets\CC01-files\img\10_Call of the Starsea.jpg" id="10_Call of the Starsea" data-flag="@X" onclick="openSidebar('10_Call of the Starsea',false)"></div>
-			<div class="container"><img alt="/sets\CC01-files\img\15_Call of the Soul.jpg" id="15_Call of the Soul" data-flag="@X" onclick="openSidebar('15_Call of the Soul',false)"></div>
-			<div class="container"><img alt="/sets\CC01-files\img\20_Call of the Sunset.jpg" id="20_Call of the Sunset" data-flag="@X" onclick="openSidebar('20_Call of the Sunset',false)"></div>
-			<div class="container"><img alt="/sets\CC01-files\img\25_Call of the Lifebringer.jpg" id="25_Call of the Lifebringer" data-flag="@X" onclick="openSidebar('25_Call of the Lifebringer',false)"></div>
-			<div class="container"><img alt="/sets\CC01-files\img\6_Demonheart Overseer.jpg" id="6_Demonheart Overseer" data-flag="@X" onclick="openSidebar('6_Demonheart Overseer',false)"></div>
-			<div class="container"><img alt="/sets\CC01-files\img\11_Cosmic Lookout.jpg" id="11_Cosmic Lookout" data-flag="@X" onclick="openSidebar('11_Cosmic Lookout',false)"></div>
-			<div class="container"><img alt="/sets\CC01-files\img\16_Darksun Executioner.jpg" id="16_Darksun Executioner" data-flag="@X" onclick="openSidebar('16_Darksun Executioner',false)"></div>
-			<div class="container"><img alt="/sets\CC01-files\img\21_Dark Omen Raven.jpg" id="21_Dark Omen Raven" data-flag="@X" onclick="openSidebar('21_Dark Omen Raven',false)"></div>
-			<div class="container"><img data-alt_src="/sets\CC01-files\img\26_Darkgrowth Columns_back.jpg" alt="/sets\CC01-files\img\26_Darkgrowth Columns_front.jpg" id="26_Darkgrowth Columns" data-flag="@XD" onclick="openSidebar('26_Darkgrowth Columns',false)"><button class="flip-btn" onclick="imgFlip('26_Darkgrowth Columns')"></button></div>
-			<div class="container"><img alt="/sets\CC01-files\img\7_Lifebound Synthesizer.jpg" id="7_Lifebound Synthesizer" data-flag="@X" onclick="openSidebar('7_Lifebound Synthesizer',false)"></div>
-			<div class="container"><img alt="/sets\CC01-files\img\12_Reflection Familiar.jpg" id="12_Reflection Familiar" data-flag="@X" onclick="openSidebar('12_Reflection Familiar',false)"></div>
-			<div class="container"><img alt="/sets\CC01-files\img\17_Extraplanar Observer.jpg" id="17_Extraplanar Observer" data-flag="@X" onclick="openSidebar('17_Extraplanar Observer',false)"></div>
-			<div class="container"><img alt="/sets\CC01-files\img\22_Melting Glowdragon.jpg" id="22_Melting Glowdragon" data-flag="@X" onclick="openSidebar('22_Melting Glowdragon',false)"></div>
-			<div class="container"><img alt="/sets\CC01-files\img\27_Forgotten Effigy.jpg" id="27_Forgotten Effigy" data-flag="@X" onclick="openSidebar('27_Forgotten Effigy',false)"></div>
-			<div class="container"><img alt="/sets\CC01-files\img\8_Skykeeper.jpg" id="8_Skykeeper" data-flag="@X" onclick="openSidebar('8_Skykeeper',false)"></div>
-			<div class="container"><img alt="/sets\CC01-files\img\13_Stormwrought Titan.jpg" id="13_Stormwrought Titan" data-flag="@X" onclick="openSidebar('13_Stormwrought Titan',false)"></div>
-			<div class="container"><img data-alt_src="/sets\CC01-files\img\18_Somber Emptiness_back.jpg" alt="/sets\CC01-files\img\18_Somber Emptiness_front.jpg" id="18_Somber Emptiness" data-flag="@XD" onclick="openSidebar('18_Somber Emptiness',false)"><button class="flip-btn" onclick="imgFlip('18_Somber Emptiness')"></button></div>
-			<div class="container"><img data-alt_src="/sets\CC01-files\img\23_Portal to Destruction_back.jpg" alt="/sets\CC01-files\img\23_Portal to Destruction_front.jpg" id="23_Portal to Destruction" data-flag="@XD" onclick="openSidebar('23_Portal to Destruction',false)"><button class="flip-btn" onclick="imgFlip('23_Portal to Destruction')"></button></div>
-			<div class="container"><img alt="/sets\CC01-files\img\28_Sentinel of Empty Lands.jpg" id="28_Sentinel of Empty Lands" data-flag="@X" onclick="openSidebar('28_Sentinel of Empty Lands',false)"></div>
-			<div class="container"><img alt="/sets\CC01-files\img\9_Starts in Sanctum.jpg" id="9_Starts in Sanctum" data-flag="@X" onclick="openSidebar('9_Starts in Sanctum',false)"></div>
-			<div class="container"><img data-alt_src="/sets\CC01-files\img\14_Untouched Falls_back.jpg" alt="/sets\CC01-files\img\14_Untouched Falls_front.jpg" id="14_Untouched Falls" data-flag="@XD" onclick="openSidebar('14_Untouched Falls',false)"><button class="flip-btn" onclick="imgFlip('14_Untouched Falls')"></button></div>
-			<div class="container"><img alt="/sets\CC01-files\img\19_Starbrought Avatar.jpg" id="19_Starbrought Avatar" data-flag="@X" onclick="openSidebar('19_Starbrought Avatar',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/sets\CC01-files\img\29_Ursine Woodheart.jpg" id="29_Ursine Woodheart" data-flag="@X" onclick="openSidebar('29_Ursine Woodheart',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-<div id="colorless" class="anchor"></div>
-			<div class="container"><img alt="/sets\CC01-files\img\1_Changeling with typal payoff.jpg" id="1_Changeling with typal payoff" data-flag="@X" onclick="openSidebar('1_Changeling with typal payoff',false)"></div>
-			<div class="container"><img alt="/sets\CC01-files\img\2_Colorless Planeswalker.jpg" id="2_Colorless Planeswalker" data-flag="@X" onclick="openSidebar('2_Colorless Planeswalker',false)"></div>
-			<div class="container"><img alt="/sets\CC01-files\img\3_Expensive card with alt mode.jpg" id="3_Expensive card with alt mode" data-flag="@X" onclick="openSidebar('3_Expensive card with alt mode',false)"></div>
-			<div class="container"><img alt="/sets\CC01-files\img\4_Reserves hate card.jpg" id="4_Reserves hate card" data-flag="@X" onclick="openSidebar('4_Reserves hate card',false)"></div>
-			<div class="container"><img alt="/sets\CC01-files\img\40_Monument to Lapsed Realms.jpg" id="40_Monument to Lapsed Realms" data-flag="@X" onclick="openSidebar('40_Monument to Lapsed Realms',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-<div id="token" class="anchor"></div>
-			<div class="container"><img alt="/sets\CC01-files\img\1t_Avatar.jpg" id="1t_Avatar" data-flag="@X" onclick="openSidebar('1t_Avatar',false)"></div>
-			<div class="container"><img alt="/sets\CC01-files\img\2t_Avatar.jpg" id="2t_Avatar" data-flag="@X" onclick="openSidebar('2t_Avatar',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img alt="/sets\CC01-files\img\5_Call of the Celestial Tree.jpg" id="5_Call of the Celestial Tree" data-flag="@X" onclick="openSidebar('5_Call of the Celestial Tree',false)"></div>
+				<div class="container"><img alt="/sets\CC01-files\img\10_Call of the Starsea.jpg" id="10_Call of the Starsea" data-flag="@X" onclick="openSidebar('10_Call of the Starsea',false)"></div>
+				<div class="container"><img alt="/sets\CC01-files\img\15_Call of the Soul.jpg" id="15_Call of the Soul" data-flag="@X" onclick="openSidebar('15_Call of the Soul',false)"></div>
+				<div class="container"><img alt="/sets\CC01-files\img\20_Call of the Sunset.jpg" id="20_Call of the Sunset" data-flag="@X" onclick="openSidebar('20_Call of the Sunset',false)"></div>
+				<div class="container"><img alt="/sets\CC01-files\img\25_Call of the Lifebringer.jpg" id="25_Call of the Lifebringer" data-flag="@X" onclick="openSidebar('25_Call of the Lifebringer',false)"></div>
+				<div class="container"><img alt="/sets\CC01-files\img\6_Demonheart Overseer.jpg" id="6_Demonheart Overseer" data-flag="@X" onclick="openSidebar('6_Demonheart Overseer',false)"></div>
+				<div class="container"><img alt="/sets\CC01-files\img\11_Cosmic Lookout.jpg" id="11_Cosmic Lookout" data-flag="@X" onclick="openSidebar('11_Cosmic Lookout',false)"></div>
+				<div class="container"><img alt="/sets\CC01-files\img\16_Darksun Executioner.jpg" id="16_Darksun Executioner" data-flag="@X" onclick="openSidebar('16_Darksun Executioner',false)"></div>
+				<div class="container"><img alt="/sets\CC01-files\img\21_Dark Omen Raven.jpg" id="21_Dark Omen Raven" data-flag="@X" onclick="openSidebar('21_Dark Omen Raven',false)"></div>
+				<div class="container"><img data-alt_src="/sets\CC01-files\img\26_Darkgrowth Columns_back.jpg" alt="/sets\CC01-files\img\26_Darkgrowth Columns_front.jpg" id="26_Darkgrowth Columns" data-flag="@XD" onclick="openSidebar('26_Darkgrowth Columns',false)"><button class="flip-btn" onclick="imgFlip('26_Darkgrowth Columns')"></button></div>
+				<div class="container"><img alt="/sets\CC01-files\img\7_Lifebound Synthesizer.jpg" id="7_Lifebound Synthesizer" data-flag="@X" onclick="openSidebar('7_Lifebound Synthesizer',false)"></div>
+				<div class="container"><img alt="/sets\CC01-files\img\12_Reflection Familiar.jpg" id="12_Reflection Familiar" data-flag="@X" onclick="openSidebar('12_Reflection Familiar',false)"></div>
+				<div class="container"><img alt="/sets\CC01-files\img\17_Extraplanar Observer.jpg" id="17_Extraplanar Observer" data-flag="@X" onclick="openSidebar('17_Extraplanar Observer',false)"></div>
+				<div class="container"><img alt="/sets\CC01-files\img\22_Melting Glowdragon.jpg" id="22_Melting Glowdragon" data-flag="@X" onclick="openSidebar('22_Melting Glowdragon',false)"></div>
+				<div class="container"><img alt="/sets\CC01-files\img\27_Forgotten Effigy.jpg" id="27_Forgotten Effigy" data-flag="@X" onclick="openSidebar('27_Forgotten Effigy',false)"></div>
+				<div class="container"><img alt="/sets\CC01-files\img\8_Skykeeper.jpg" id="8_Skykeeper" data-flag="@X" onclick="openSidebar('8_Skykeeper',false)"></div>
+				<div class="container"><img alt="/sets\CC01-files\img\13_Stormwrought Titan.jpg" id="13_Stormwrought Titan" data-flag="@X" onclick="openSidebar('13_Stormwrought Titan',false)"></div>
+				<div class="container"><img data-alt_src="/sets\CC01-files\img\18_Somber Emptiness_back.jpg" alt="/sets\CC01-files\img\18_Somber Emptiness_front.jpg" id="18_Somber Emptiness" data-flag="@XD" onclick="openSidebar('18_Somber Emptiness',false)"><button class="flip-btn" onclick="imgFlip('18_Somber Emptiness')"></button></div>
+				<div class="container"><img data-alt_src="/sets\CC01-files\img\23_Portal to Destruction_back.jpg" alt="/sets\CC01-files\img\23_Portal to Destruction_front.jpg" id="23_Portal to Destruction" data-flag="@XD" onclick="openSidebar('23_Portal to Destruction',false)"><button class="flip-btn" onclick="imgFlip('23_Portal to Destruction')"></button></div>
+				<div class="container"><img alt="/sets\CC01-files\img\28_Sentinel of Empty Lands.jpg" id="28_Sentinel of Empty Lands" data-flag="@X" onclick="openSidebar('28_Sentinel of Empty Lands',false)"></div>
+				<div class="container"><img alt="/sets\CC01-files\img\9_Starts in Sanctum.jpg" id="9_Starts in Sanctum" data-flag="@X" onclick="openSidebar('9_Starts in Sanctum',false)"></div>
+				<div class="container"><img data-alt_src="/sets\CC01-files\img\14_Untouched Falls_back.jpg" alt="/sets\CC01-files\img\14_Untouched Falls_front.jpg" id="14_Untouched Falls" data-flag="@XD" onclick="openSidebar('14_Untouched Falls',false)"><button class="flip-btn" onclick="imgFlip('14_Untouched Falls')"></button></div>
+				<div class="container"><img alt="/sets\CC01-files\img\19_Starbrought Avatar.jpg" id="19_Starbrought Avatar" data-flag="@X" onclick="openSidebar('19_Starbrought Avatar',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\CC01-files\img\29_Ursine Woodheart.jpg" id="29_Ursine Woodheart" data-flag="@X" onclick="openSidebar('29_Ursine Woodheart',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img alt="/sets\CC01-files\img\1_Changeling with typal payoff.jpg" id="1_Changeling with typal payoff" data-flag="@X" onclick="openSidebar('1_Changeling with typal payoff',false)"></div>
+				<div class="container"><img alt="/sets\CC01-files\img\2_Colorless Planeswalker.jpg" id="2_Colorless Planeswalker" data-flag="@X" onclick="openSidebar('2_Colorless Planeswalker',false)"></div>
+				<div class="container"><img alt="/sets\CC01-files\img\3_Expensive card with alt mode.jpg" id="3_Expensive card with alt mode" data-flag="@X" onclick="openSidebar('3_Expensive card with alt mode',false)"></div>
+				<div class="container"><img alt="/sets\CC01-files\img\4_Reserves hate card.jpg" id="4_Reserves hate card" data-flag="@X" onclick="openSidebar('4_Reserves hate card',false)"></div>
+				<div class="container"><img alt="/sets\CC01-files\img\40_Monument to Lapsed Realms.jpg" id="40_Monument to Lapsed Realms" data-flag="@X" onclick="openSidebar('40_Monument to Lapsed Realms',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="token" class="anchor"></div>
+				<div class="container"><img alt="/sets\CC01-files\img\1t_Avatar.jpg" id="1t_Avatar" data-flag="@X" onclick="openSidebar('1t_Avatar',false)"></div>
+				<div class="container"><img alt="/sets\CC01-files\img\2t_Avatar.jpg" id="2t_Avatar" data-flag="@X" onclick="openSidebar('2t_Avatar',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 	</div>
-</div>
+	</div>
 	<div class="sidebar" id="sidebar">
 		<div class="sidebar-container">
 			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
@@ -274,7 +292,7 @@
 				card_list_arrayified = card_list.cards;
 
 		preloadImgs = document.getElementsByClassName('preload-hidden');
-		
+
 		let images_loaded = [];
 
 		do {
@@ -364,7 +382,7 @@
 	function openSidebar(id, h = false) {
 		horizontal = h;
 		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
-		
+
 		document.getElementById('sidebar').style.display = 'grid';
 
 		const rotated_img = document.getElementById('sidebar_h_img');
@@ -395,7 +413,7 @@
 			document.getElementById('sidebar-flip-btn').style.display = 'none';
 		}
 		document.getElementById('main-content').style.width = '60%';
-		
+
 		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
 		window.scrollTo(window.scrollX, scroll_pos);
 		setSidebarTop();
@@ -406,10 +424,28 @@
 
 		document.getElementById('sidebar').style.display = 'none';
 		document.getElementById('main-content').style.width = '100%';
-		
+
 
 		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
 		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
 	}
 
 	document.getElementById("search").addEventListener("keypress", function(event) {

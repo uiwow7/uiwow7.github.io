@@ -5,6 +5,10 @@
 	<link rel="stylesheet" href="/resources/header.css">
 	<title>MC25 visual preview</title>
 	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('/resources/beleren.ttf');
+		}
 		body {
 			font-family: Arial, sans-serif;
 			margin: 0;
@@ -83,7 +87,7 @@
 		.banner {
 			width: 100%;
 			height: auto;
-			padding-top: 20px;
+			padding-top: 80px;
 			padding-bottom: 50px;
 		}
 		.logo {
@@ -119,36 +123,49 @@
 			background-size: contain;
 			background-position: center;
 		}
-		.icon-bar {
-			display: grid;
-			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
-			gap: 1px;
-			padding-left: 5%;
-			padding-right: 5%;
-			padding-top: 2%;
-			padding-bottom: 1%;
-			justify-items: center;
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 10%;
+			width: fit-content;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: flex;
+			flex-direction: column;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
 			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
 		}
-		.icon-bar .icon img {
-			width: 90%;
-			max-width: 80px;
-			height: auto;
-			display: block;
-			padding: 5%;
-			margin: auto;
-			text-align: center;
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
 		}
-		.icon-bar .dot img {
-			width: 50%;
-			max-width: 65px;
-			height: auto;
-			display: block;
-			margin: auto;
-			text-align: center;
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
 		}
 		.preload-hidden {
 			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
 		}
 		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
 		.footer {
@@ -175,95 +192,96 @@
 		</div>
 	</div>
 
-	<div class="icon-bar">
-			<div class="icon"><a href="DCO"><img src="/sets/DCO-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="DSW"><img src="/sets/DSW-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="SHS"><img src="/sets/SHS-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="CC01"><img src="/sets/CC01-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="MC25"><img src="/sets/MC25-files/icon.png"></img></a></div>
-
+	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="MC25"><img src="/sets/MC25-files/icon.png">Aaanginer MC25 Submission</a>
+	
+		<a class="set-bar inactive" href="DCO"><img src="/sets/DCO-files/icon.png">Dazon: Cosmic Outcasts</a>
+	
+		<a class="set-bar inactive" href="DSW"><img src="/sets/DSW-files/icon.png">Dazon: Splintered Worlds</a>
+	
+		<a class="set-bar inactive" href="SHS"><img src="/sets/SHS-files/icon.png">A Shattered Sword</a>
+	
+		<a class="set-bar inactive" href="CC01"><img src="/sets/CC01-files/icon.png">Voyager Card Contest 1 — Aanginer</a>
+	
 		</div>
 		<div class="banner">
 		<img class="logo" src="/sets/MC25-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-				<div class="container"><img alt="/sets\MC25-files\img\2_Angelic Wrath.jpg" id="2_Angelic Wrath" data-flag="@X" onclick="openSidebar('2_Angelic Wrath',false)"></div>
-			<div class="container"><img alt="/sets\MC25-files\img\6_Cryptic Call.jpg" id="6_Cryptic Call" data-flag="@X" onclick="openSidebar('6_Cryptic Call',false)"></div>
-			<div class="container"><img alt="/sets\MC25-files\img\11_Darkened Strix.jpg" id="11_Darkened Strix" data-flag="@X" onclick="openSidebar('11_Darkened Strix',false)"></div>
-			<div class="container"><img alt="/sets\MC25-files\img\15_Arcane Onslaught.jpg" id="15_Arcane Onslaught" data-flag="@X" onclick="openSidebar('15_Arcane Onslaught',false)"></div>
-			<div class="container"><img alt="/sets\MC25-files\img\21_In Search of Brilliance.jpg" id="21_In Search of Brilliance" data-flag="@X" onclick="openSidebar('21_In Search of Brilliance',false)"></div>
-			<div class="container"><img alt="/sets\MC25-files\img\3_Divine Call.jpg" id="3_Divine Call" data-flag="@X" onclick="openSidebar('3_Divine Call',false)"></div>
-			<div class="container"><img alt="/sets\MC25-files\img\7_Deep Sea Consumer.jpg" id="7_Deep Sea Consumer" data-flag="@X" onclick="openSidebar('7_Deep Sea Consumer',false)"></div>
-			<div class="container"><img alt="/sets\MC25-files\img\12_Intoxicating Decay.jpg" id="12_Intoxicating Decay" data-flag="@X" onclick="openSidebar('12_Intoxicating Decay',false)"></div>
-			<div class="container"><img alt="/sets\MC25-files\img\16_Blazing Call.jpg" id="16_Blazing Call" data-flag="@X" onclick="openSidebar('16_Blazing Call',false)"></div>
-			<div class="container"><img alt="/sets\MC25-files\img\20_Forest's Watcher.jpg" id="20_Forests Watcher" data-flag="@X" onclick="openSidebar('20_Forests Watcher',false)"></div>
-			<div class="container"><img alt="/sets\MC25-files\img\4_Illusory Companion.jpg" id="4_Illusory Companion" data-flag="@X" onclick="openSidebar('4_Illusory Companion',false)"></div>
-			<div class="container"><img alt="/sets\MC25-files\img\8_Dragon of Arcane Frost.jpg" id="8_Dragon of Arcane Frost" data-flag="@X" onclick="openSidebar('8_Dragon of Arcane Frost',false)"></div>
-			<div class="container"><img alt="/sets\MC25-files\img\13_Profane Call.jpg" id="13_Profane Call" data-flag="@X" onclick="openSidebar('13_Profane Call',false)"></div>
-			<div class="container"><img alt="/sets\MC25-files\img\17_Crusader of the Blood Moon.jpg" id="17_Crusader of the Blood Moon" data-flag="@X" onclick="openSidebar('17_Crusader of the Blood Moon',false)"></div>
-			<div class="container"><img alt="/sets\MC25-files\img\22_In Search of Grandeur.jpg" id="22_In Search of Grandeur" data-flag="@X" onclick="openSidebar('22_In Search of Grandeur',false)"></div>
-			<div class="container"><img alt="/sets\MC25-files\img\5_Welcoming Light.jpg" id="5_Welcoming Light" data-flag="@X" onclick="openSidebar('5_Welcoming Light',false)"></div>
-			<div class="container"><img alt="/sets\MC25-files\img\9_Rise From Depths.jpg" id="9_Rise From Depths" data-flag="@X" onclick="openSidebar('9_Rise From Depths',false)"></div>
-			<div class="container"><img alt="/sets\MC25-files\img\14_Wasteful Decay.jpg" id="14_Wasteful Decay" data-flag="@X" onclick="openSidebar('14_Wasteful Decay',false)"></div>
-			<div class="container"><img alt="/sets\MC25-files\img\18_Dragon of Celestial Wishes.jpg" id="18_Dragon of Celestial Wishes" data-flag="@X" onclick="openSidebar('18_Dragon of Celestial Wishes',false)"></div>
-			<div class="container"><img alt="/sets\MC25-files\img\23_Unceasing Explorer.jpg" id="23_Unceasing Explorer" data-flag="@X" onclick="openSidebar('23_Unceasing Explorer',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/sets\MC25-files\img\10_Visions of The Great Beyond.jpg" id="10_Visions of The Great Beyond" data-flag="@X" onclick="openSidebar('10_Visions of The Great Beyond',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/sets\MC25-files\img\19_Wayward Impulse.jpg" id="19_Wayward Impulse" data-flag="@X" onclick="openSidebar('19_Wayward Impulse',false)"></div>
-			<div class="container"><img alt="/sets\MC25-files\img\24_Verdant Call.jpg" id="24_Verdant Call" data-flag="@X" onclick="openSidebar('24_Verdant Call',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-<div id="gold" class="anchor"></div>
-			<div class="container"><img alt="/sets\MC25-files\img\31_Magius Udel, Oracle of Light.jpg" id="31_Magius Udel, Oracle of Light" data-flag="@X" onclick="openSidebar('31_Magius Udel, Oracle of Light',false)"></div>
-			<div class="container"><img alt="/sets\MC25-files\img\27_Darkness Unchained.jpg" id="27_Darkness Unchained" data-flag="@X" onclick="openSidebar('27_Darkness Unchained',false)"></div>
-			<div class="container"><img alt="/sets\MC25-files\img\30_The Last Dozandi.jpg" id="30_The Last Dozandi" data-flag="@X" onclick="openSidebar('30_The Last Dozandi',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/sets\MC25-files\img\28_Drorix, Divine Outcast.jpg" id="28_Drorix, Divine Outcast" data-flag="@X" onclick="openSidebar('28_Drorix, Divine Outcast',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/sets\MC25-files\img\26_Call of Chaos.jpg" id="26_Call of Chaos" data-flag="@X" onclick="openSidebar('26_Call of Chaos',false)"></div>
-			<div class="container"><img alt="/sets\MC25-files\img\25_Arcane Oracle.jpg" id="25_Arcane Oracle" data-flag="@X" onclick="openSidebar('25_Arcane Oracle',false)"></div>
-			<div class="container"><img alt="/sets\MC25-files\img\29_Explorer of Finality.jpg" id="29_Explorer of Finality" data-flag="@X" onclick="openSidebar('29_Explorer of Finality',false)"></div>
-			<div class="container"><img alt="/sets\MC25-files\img\32_Outpost of Radiant Fire.jpg" id="32_Outpost of Radiant Fire" data-flag="@X" onclick="openSidebar('32_Outpost of Radiant Fire',false)"></div>
-			<div class="container"><img alt="/sets\MC25-files\img\33_Unfathomable Exploration.jpg" id="33_Unfathomable Exploration" data-flag="@X" onclick="openSidebar('33_Unfathomable Exploration',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-<div id="colorless" class="anchor"></div>
-			<div class="container"><img alt="/sets\MC25-files\img\1_Galen, Kinzan Engineer.jpg" id="1_Galen, Kinzan Engineer" data-flag="@X" onclick="openSidebar('1_Galen, Kinzan Engineer',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/sets\MC25-files\img\34_Caves of Premonition.jpg" id="34_Caves of Premonition" data-flag="@X" onclick="openSidebar('34_Caves of Premonition',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img alt="/sets\MC25-files\img\2_Angelic Wrath.jpg" id="2_Angelic Wrath" data-flag="@X" onclick="openSidebar('2_Angelic Wrath',false)"></div>
+				<div class="container"><img alt="/sets\MC25-files\img\6_Cryptic Call.jpg" id="6_Cryptic Call" data-flag="@X" onclick="openSidebar('6_Cryptic Call',false)"></div>
+				<div class="container"><img alt="/sets\MC25-files\img\11_Darkened Strix.jpg" id="11_Darkened Strix" data-flag="@X" onclick="openSidebar('11_Darkened Strix',false)"></div>
+				<div class="container"><img alt="/sets\MC25-files\img\15_Arcane Onslaught.jpg" id="15_Arcane Onslaught" data-flag="@X" onclick="openSidebar('15_Arcane Onslaught',false)"></div>
+				<div class="container"><img alt="/sets\MC25-files\img\21_In Search of Brilliance.jpg" id="21_In Search of Brilliance" data-flag="@X" onclick="openSidebar('21_In Search of Brilliance',false)"></div>
+				<div class="container"><img alt="/sets\MC25-files\img\3_Divine Call.jpg" id="3_Divine Call" data-flag="@X" onclick="openSidebar('3_Divine Call',false)"></div>
+				<div class="container"><img alt="/sets\MC25-files\img\7_Deep Sea Consumer.jpg" id="7_Deep Sea Consumer" data-flag="@X" onclick="openSidebar('7_Deep Sea Consumer',false)"></div>
+				<div class="container"><img alt="/sets\MC25-files\img\12_Intoxicating Decay.jpg" id="12_Intoxicating Decay" data-flag="@X" onclick="openSidebar('12_Intoxicating Decay',false)"></div>
+				<div class="container"><img alt="/sets\MC25-files\img\16_Blazing Call.jpg" id="16_Blazing Call" data-flag="@X" onclick="openSidebar('16_Blazing Call',false)"></div>
+				<div class="container"><img alt="/sets\MC25-files\img\20_Forest's Watcher.jpg" id="20_Forests Watcher" data-flag="@X" onclick="openSidebar('20_Forests Watcher',false)"></div>
+				<div class="container"><img alt="/sets\MC25-files\img\4_Illusory Companion.jpg" id="4_Illusory Companion" data-flag="@X" onclick="openSidebar('4_Illusory Companion',false)"></div>
+				<div class="container"><img alt="/sets\MC25-files\img\8_Dragon of Arcane Frost.jpg" id="8_Dragon of Arcane Frost" data-flag="@X" onclick="openSidebar('8_Dragon of Arcane Frost',false)"></div>
+				<div class="container"><img alt="/sets\MC25-files\img\13_Profane Call.jpg" id="13_Profane Call" data-flag="@X" onclick="openSidebar('13_Profane Call',false)"></div>
+				<div class="container"><img alt="/sets\MC25-files\img\17_Crusader of the Blood Moon.jpg" id="17_Crusader of the Blood Moon" data-flag="@X" onclick="openSidebar('17_Crusader of the Blood Moon',false)"></div>
+				<div class="container"><img alt="/sets\MC25-files\img\22_In Search of Grandeur.jpg" id="22_In Search of Grandeur" data-flag="@X" onclick="openSidebar('22_In Search of Grandeur',false)"></div>
+				<div class="container"><img alt="/sets\MC25-files\img\5_Welcoming Light.jpg" id="5_Welcoming Light" data-flag="@X" onclick="openSidebar('5_Welcoming Light',false)"></div>
+				<div class="container"><img alt="/sets\MC25-files\img\9_Rise From Depths.jpg" id="9_Rise From Depths" data-flag="@X" onclick="openSidebar('9_Rise From Depths',false)"></div>
+				<div class="container"><img alt="/sets\MC25-files\img\14_Wasteful Decay.jpg" id="14_Wasteful Decay" data-flag="@X" onclick="openSidebar('14_Wasteful Decay',false)"></div>
+				<div class="container"><img alt="/sets\MC25-files\img\18_Dragon of Celestial Wishes.jpg" id="18_Dragon of Celestial Wishes" data-flag="@X" onclick="openSidebar('18_Dragon of Celestial Wishes',false)"></div>
+				<div class="container"><img alt="/sets\MC25-files\img\23_Unceasing Explorer.jpg" id="23_Unceasing Explorer" data-flag="@X" onclick="openSidebar('23_Unceasing Explorer',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\MC25-files\img\10_Visions of The Great Beyond.jpg" id="10_Visions of The Great Beyond" data-flag="@X" onclick="openSidebar('10_Visions of The Great Beyond',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\MC25-files\img\19_Wayward Impulse.jpg" id="19_Wayward Impulse" data-flag="@X" onclick="openSidebar('19_Wayward Impulse',false)"></div>
+				<div class="container"><img alt="/sets\MC25-files\img\24_Verdant Call.jpg" id="24_Verdant Call" data-flag="@X" onclick="openSidebar('24_Verdant Call',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img alt="/sets\MC25-files\img\31_Magius Udel, Oracle of Light.jpg" id="31_Magius Udel, Oracle of Light" data-flag="@X" onclick="openSidebar('31_Magius Udel, Oracle of Light',false)"></div>
+				<div class="container"><img alt="/sets\MC25-files\img\27_Darkness Unchained.jpg" id="27_Darkness Unchained" data-flag="@X" onclick="openSidebar('27_Darkness Unchained',false)"></div>
+				<div class="container"><img alt="/sets\MC25-files\img\30_The Last Dozandi.jpg" id="30_The Last Dozandi" data-flag="@X" onclick="openSidebar('30_The Last Dozandi',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\MC25-files\img\28_Drorix, Divine Outcast.jpg" id="28_Drorix, Divine Outcast" data-flag="@X" onclick="openSidebar('28_Drorix, Divine Outcast',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\MC25-files\img\26_Call of Chaos.jpg" id="26_Call of Chaos" data-flag="@X" onclick="openSidebar('26_Call of Chaos',false)"></div>
+				<div class="container"><img alt="/sets\MC25-files\img\25_Arcane Oracle.jpg" id="25_Arcane Oracle" data-flag="@X" onclick="openSidebar('25_Arcane Oracle',false)"></div>
+				<div class="container"><img alt="/sets\MC25-files\img\29_Explorer of Finality.jpg" id="29_Explorer of Finality" data-flag="@X" onclick="openSidebar('29_Explorer of Finality',false)"></div>
+				<div class="container"><img alt="/sets\MC25-files\img\32_Outpost of Radiant Fire.jpg" id="32_Outpost of Radiant Fire" data-flag="@X" onclick="openSidebar('32_Outpost of Radiant Fire',false)"></div>
+				<div class="container"><img alt="/sets\MC25-files\img\33_Unfathomable Exploration.jpg" id="33_Unfathomable Exploration" data-flag="@X" onclick="openSidebar('33_Unfathomable Exploration',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img alt="/sets\MC25-files\img\1_Galen, Kinzan Engineer.jpg" id="1_Galen, Kinzan Engineer" data-flag="@X" onclick="openSidebar('1_Galen, Kinzan Engineer',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\MC25-files\img\34_Caves of Premonition.jpg" id="34_Caves of Premonition" data-flag="@X" onclick="openSidebar('34_Caves of Premonition',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 	</div>
-</div>
+	</div>
 	<div class="sidebar" id="sidebar">
 		<div class="sidebar-container">
 			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
@@ -294,7 +312,7 @@
 				card_list_arrayified = card_list.cards;
 
 		preloadImgs = document.getElementsByClassName('preload-hidden');
-		
+
 		let images_loaded = [];
 
 		do {
@@ -384,7 +402,7 @@
 	function openSidebar(id, h = false) {
 		horizontal = h;
 		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
-		
+
 		document.getElementById('sidebar').style.display = 'grid';
 
 		const rotated_img = document.getElementById('sidebar_h_img');
@@ -415,7 +433,7 @@
 			document.getElementById('sidebar-flip-btn').style.display = 'none';
 		}
 		document.getElementById('main-content').style.width = '60%';
-		
+
 		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
 		window.scrollTo(window.scrollX, scroll_pos);
 		setSidebarTop();
@@ -426,10 +444,28 @@
 
 		document.getElementById('sidebar').style.display = 'none';
 		document.getElementById('main-content').style.width = '100%';
-		
+
 
 		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
 		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
 	}
 
 	document.getElementById("search").addEventListener("keypress", function(event) {

@@ -109,7 +109,7 @@
             "number": 7,
             "color_identity": "UB",
             "cost": "{3}{U}{U}{U}",
-            "rules_text": "Attune [i]( Add text based on basic land types among different lands you control)[/i]\nWhen Deep Sea Consumer enters or attacks,\n{U}{U}{U}|Tap up to three permanents.\n{U}{U}{U}{U}|Put stun counters on those permanents.\n{U}{U}{U}{B}{B}|You draw three cards and lose 3 life.",
+            "rules_text": "Attune [i](Add text based on basic land types among different lands you control)[/i]\nWhen Deep Sea Consumer enters or attacks,\n{U}{U}{U}|Tap up to three permanents.\n{U}{U}{U}{U}|Put stun counters on those permanents.\n{U}{U}{U}{B}{B}|You draw three cards and lose 3 life.",
             "flavor_text": "[i][/i]",
             "pt": "6/6",
             "special_text": "",

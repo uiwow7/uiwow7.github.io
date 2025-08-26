@@ -71,13 +71,13 @@
 			}
 		},
 		{
-			"name": "Reflection Familiar",
+			"name": "Reflected Familiar",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Cat Reflection",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/12_Reflection Familiar.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/12_Reflected Familiar.jpg"
 			}
 		},
 		{
@@ -265,20 +265,20 @@
 			"name": "Vertex ProductionSynergy",
 			"rarity": "rare",
 			"mana_cost": "{1}{I}",
-			"type": "Instant",
+			"type": "Creature",
 			"collector_number": "33",
 			"image_uris": {
 				"en": "https://uiwow7.github.io/sets/CC01-files/img/33_Vertex ProductionSynergy.jpg"
 			}
 		},
 		{
-			"name": "Pursue Wonder",
+			"name": "Call of the Sky",
 			"rarity": "rare",
 			"mana_cost": "{I}",
-			"type": "",
-			"collector_number": "32",
+			"type": "Sorcery",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/32_Pursue Wonder.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/30_Call of the Sky.jpg"
 			}
 		},
 		{
@@ -286,16 +286,16 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{I}",
 			"type": "Enchantment — Realm",
-			"collector_number": "31",
+			"collector_number": "32",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://uiwow7.github.io/sets/CC01-files/img/31_Lost Mirrorpools_back.jpg"
+					"en": "https://uiwow7.github.io/sets/CC01-files/img/32_Lost Mirrorpools_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/31_Lost Mirrorpools_front.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/32_Lost Mirrorpools_front.jpg"
 			}
 		},
 		{
@@ -303,9 +303,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{I}{I}",
 			"type": "Creature — Dragon",
-			"collector_number": "30",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/30_Cursed Stormbringer.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/31_Cursed Stormbringer.jpg"
 			}
 		},
 		{

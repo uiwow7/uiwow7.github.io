@@ -3,7 +3,7 @@
 		{
 			"name": "In Search of Eternity",
 			"rarity": "rare",
-			"mana_cost": "{G}",
+			"mana_cost": "{G}{G}",
 			"type": "Enchantment",
 			"collector_number": "157",
 			"image_uris": {

@@ -715,9 +715,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Cat",
-			"collector_number": "173",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/173_Yuku Dune-Prowler.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/169_Yuku Dune-Prowler.jpg"
 			}
 		},
 		{
@@ -845,9 +845,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Fox",
-			"collector_number": "219",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/219_Venturing Fox.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/211_Venturing Fox.jpg"
 			}
 		},
 		{
@@ -855,19 +855,19 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human",
-			"collector_number": "220",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/220_XXX Uncoverer.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/212_XXX Uncoverer.jpg"
 			}
 		},
 		{
-			"name": "CG03",
+			"name": "Celestial Envoy",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Avatar",
-			"collector_number": "177",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/177_CG03.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/174_Celestial Envoy.jpg"
 			}
 		},
 		{
@@ -875,9 +875,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Centaur Spirit",
-			"collector_number": "190",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/190_Ghostly Wanderer.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/180_Ghostly Wanderer.jpg"
 			}
 		},
 		{
@@ -885,9 +885,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Avatar",
-			"collector_number": "175",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/175_Arisen Avatar.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/170_Arisen Avatar.jpg"
 			}
 		},
 		{
@@ -895,9 +895,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Avatar",
-			"collector_number": "176",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/176_Beya Woodswalker.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/173_Beya Woodswalker.jpg"
 			}
 		},
 		{
@@ -905,59 +905,59 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Avatar",
-			"collector_number": "205",
+			"collector_number": "200",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/205_Thicket's Incarnation.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/200_Thicket's Incarnation.jpg"
 			}
 		},
 		{
-			"name": "Deepgrowth XXXX",
+			"name": "Deepgrowth Critter",
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Fox",
-			"collector_number": "186",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/186_Deepgrowth XXXX.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/175_Deepgrowth Critter.jpg"
 			}
 		},
 		{
-			"name": "",
+			"name": "Resolute Herald",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Elk",
-			"collector_number": "174",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/174_.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/187_Resolute Herald.jpg"
 			}
 		},
 		{
-			"name": "CG10 Medium Creature",
+			"name": "Avatar of Stolen Fate",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Avatar",
-			"collector_number": "178",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/178_CG10 Medium Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/172_Avatar of Stolen Fate.jpg"
 			}
 		},
 		{
-			"name": "CG11 Medium Creature",
+			"name": "Nebula Titan",
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Elk Avatar",
-			"collector_number": "179",
+			"collector_number": "186",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/179_CG11 Medium Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/186_Nebula Titan.jpg"
 			}
 		},
 		{
-			"name": "CG12 Large Creature",
+			"name": "Unconcerned Tortoise",
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Turtle",
-			"collector_number": "180",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/180_CG12 Large Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/210_Unconcerned Tortoise.jpg"
 			}
 		},
 		{
@@ -965,9 +965,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Treefolk Anima",
-			"collector_number": "188",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/188_Eternal Blossomer.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/178_Eternal Blossomer.jpg"
 			}
 		},
 		{
@@ -975,59 +975,59 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "204",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/204_Snakeskin Veil.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/198_Snakeskin Veil.jpg"
 			}
 		},
 		{
-			"name": "CG15 Noncreature",
+			"name": "Astral Navigation",
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "181",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/181_CG15 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/171_Astral Navigation.jpg"
 			}
 		},
 		{
-			"name": "CG16 Noncreature",
+			"name": "Invigorate Lost Realms",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Kindred Sorcery — Avatar Revelation",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/182_CG16 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/182_Invigorate Lost Realms.jpg"
 			}
 		},
 		{
-			"name": "CG17 Noncreature",
+			"name": "Stand Your Ground",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "183",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/183_CG17 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/199_Stand Your Ground.jpg"
 			}
 		},
 		{
-			"name": "CG18 Noncreature",
+			"name": "Devour To Infinity",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Kindred Sorcery — Avatar Revelation",
-			"collector_number": "184",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/184_CG18 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/177_Devour To Infinity.jpg"
 			}
 		},
 		{
-			"name": "CG19 Noncreature",
+			"name": "Hunt for Eternity",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Kindred Sorcery — Anima",
-			"collector_number": "185",
+			"collector_number": "181",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/185_CG19 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/181_Hunt for Eternity.jpg"
 			}
 		},
 		{
@@ -1035,9 +1035,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Artifact — Equipment",
-			"collector_number": "189",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/189_Gatu Darkhammer.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/179_Gatu Darkhammer.jpg"
 			}
 		},
 		{
@@ -1045,9 +1045,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Kindred Sorcery — Avatar Revelation",
-			"collector_number": "187",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/187_Devour Earthly Worlds.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/176_Devour Earthly Worlds.jpg"
 			}
 		},
 		{
@@ -1055,9 +1055,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Artifact Creature",
-			"collector_number": "294",
+			"collector_number": "282",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/294_CA01 Small Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/282_CA01 Small Creature.jpg"
 			}
 		},
 		{
@@ -1065,9 +1065,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Artifact Creature",
-			"collector_number": "295",
+			"collector_number": "283",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/295_CA02 Medium Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/283_CA02 Medium Creature.jpg"
 			}
 		},
 		{
@@ -1075,9 +1075,9 @@
 			"rarity": "common",
 			"mana_cost": "{6}",
 			"type": "Artifact Creature — Scorpion Anima",
-			"collector_number": "299",
+			"collector_number": "287",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/299_Eternal Engine.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/287_Eternal Engine.jpg"
 			}
 		},
 		{
@@ -1085,9 +1085,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Artifact",
-			"collector_number": "296",
+			"collector_number": "284",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/296_CA04 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/284_CA04 Noncreature.jpg"
 			}
 		},
 		{
@@ -1095,9 +1095,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Artifact",
-			"collector_number": "297",
+			"collector_number": "285",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/297_CA05 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/285_CA05 Noncreature.jpg"
 			}
 		},
 		{
@@ -1105,9 +1105,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Artifact",
-			"collector_number": "298",
+			"collector_number": "286",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/298_CA06 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/286_CA06 Noncreature.jpg"
 			}
 		},
 		{
@@ -1401,23 +1401,13 @@
 			}
 		},
 		{
-			"name": "UR03 Small Creature",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{R}",
-			"type": "Creature",
-			"collector_number": "162",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/162_UR03 Small Creature.jpg"
-			}
-		},
-		{
 			"name": "UR04 Medium Creature",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature",
-			"collector_number": "163",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/163_UR04 Medium Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/162_UR04 Medium Creature.jpg"
 			}
 		},
 		{
@@ -1425,9 +1415,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature",
-			"collector_number": "164",
+			"collector_number": "163",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/164_UR05 Medium Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/163_UR05 Medium Creature.jpg"
 			}
 		},
 		{
@@ -1435,29 +1425,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}",
 			"type": "Creature",
-			"collector_number": "165",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/165_UR06 Medium Creature.jpg"
-			}
-		},
-		{
-			"name": "UR07 Medium Creature",
-			"rarity": "uncommon",
-			"mana_cost": "{6}{R}",
-			"type": "Creature",
-			"collector_number": "166",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/166_UR07 Medium Creature.jpg"
-			}
-		},
-		{
-			"name": "UR08 Noncreature",
-			"rarity": "uncommon",
-			"mana_cost": "{R}",
-			"type": "",
-			"collector_number": "167",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/167_UR08 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/164_UR06 Medium Creature.jpg"
 			}
 		},
 		{
@@ -1465,9 +1435,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "",
-			"collector_number": "168",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/168_UR09 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/165_UR09 Noncreature.jpg"
 			}
 		},
 		{
@@ -1475,9 +1445,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "",
-			"collector_number": "169",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/169_UR10 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/166_UR10 Noncreature.jpg"
 			}
 		},
 		{
@@ -1485,9 +1455,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "",
-			"collector_number": "170",
+			"collector_number": "167",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/170_UR11 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/167_UR11 Noncreature.jpg"
 			}
 		},
 		{
@@ -1495,19 +1465,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "",
-			"collector_number": "171",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/171_UR12 Noncreature.jpg"
-			}
-		},
-		{
-			"name": "UR13 Noncreature",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{R}",
-			"type": "",
-			"collector_number": "172",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/172_UR13 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/168_UR12 Noncreature.jpg"
 			}
 		},
 		{
@@ -1515,19 +1475,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature",
-			"collector_number": "206",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/206_UG01 Small Creature.jpg"
-			}
-		},
-		{
-			"name": "UG02 Small Creature",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{G}",
-			"type": "Creature",
-			"collector_number": "207",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/207_UG02 Small Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/201_UG01 Small Creature.jpg"
 			}
 		},
 		{
@@ -1535,9 +1485,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature",
-			"collector_number": "208",
+			"collector_number": "202",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/208_UG03 Small Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/202_UG03 Small Creature.jpg"
 			}
 		},
 		{
@@ -1545,9 +1495,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature",
-			"collector_number": "209",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/209_UG04 Small Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/203_UG04 Small Creature.jpg"
 			}
 		},
 		{
@@ -1555,9 +1505,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature",
-			"collector_number": "210",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/210_UG05 Medium Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/204_UG05 Medium Creature.jpg"
 			}
 		},
 		{
@@ -1565,9 +1515,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature",
-			"collector_number": "211",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/211_UG06 Medium Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/205_UG06 Medium Creature.jpg"
 			}
 		},
 		{
@@ -1575,19 +1525,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}",
 			"type": "Creature",
-			"collector_number": "212",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/212_UG07 Medium Creature.jpg"
-			}
-		},
-		{
-			"name": "UG08 Large Creature",
-			"rarity": "uncommon",
-			"mana_cost": "{7}{G}",
-			"type": "Creature",
-			"collector_number": "213",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/213_UG08 Large Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/206_UG07 Medium Creature.jpg"
 			}
 		},
 		{
@@ -1595,19 +1535,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "",
-			"collector_number": "214",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/214_UG09 Noncreature.jpg"
-			}
-		},
-		{
-			"name": "UG10 Noncreature",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{G}",
-			"type": "",
-			"collector_number": "215",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/215_UG10 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/207_UG09 Noncreature.jpg"
 			}
 		},
 		{
@@ -1615,19 +1545,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "",
-			"collector_number": "216",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/216_UG11 Noncreature.jpg"
-			}
-		},
-		{
-			"name": "UG12 Noncreature",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{G}",
-			"type": "",
-			"collector_number": "217",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/217_UG12 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/208_UG11 Noncreature.jpg"
 			}
 		},
 		{
@@ -1635,9 +1555,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}",
 			"type": "",
-			"collector_number": "218",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/218_UG13 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/209_UG13 Noncreature.jpg"
 			}
 		},
 		{
@@ -2035,9 +1955,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature",
-			"collector_number": "194",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/194_RG01 Medium Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/188_RG01 Medium Creature.jpg"
 			}
 		},
 		{
@@ -2045,9 +1965,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
 			"type": "Creature",
-			"collector_number": "195",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/195_RG02 Medium Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/189_RG02 Medium Creature.jpg"
 			}
 		},
 		{
@@ -2055,9 +1975,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Creature",
-			"collector_number": "196",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/196_RG03 Large Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/190_RG03 Large Creature.jpg"
 			}
 		},
 		{
@@ -2065,9 +1985,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{G}",
 			"type": "Creature",
-			"collector_number": "197",
+			"collector_number": "191",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/197_RG04 Large Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/191_RG04 Large Creature.jpg"
 			}
 		},
 		{
@@ -2075,9 +1995,9 @@
 			"rarity": "rare",
 			"mana_cost": "{6}{G}",
 			"type": "Creature",
-			"collector_number": "198",
+			"collector_number": "192",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/198_RG05 Large Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/192_RG05 Large Creature.jpg"
 			}
 		},
 		{
@@ -2085,9 +2005,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "",
-			"collector_number": "199",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/199_RG06 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/193_RG06 Noncreature.jpg"
 			}
 		},
 		{
@@ -2095,9 +2015,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "",
-			"collector_number": "200",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/200_RG07 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/194_RG07 Noncreature.jpg"
 			}
 		},
 		{
@@ -2105,9 +2025,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "",
-			"collector_number": "201",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/201_RG08 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/195_RG08 Noncreature.jpg"
 			}
 		},
 		{
@@ -2115,9 +2035,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "",
-			"collector_number": "202",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/202_RG09 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/196_RG09 Noncreature.jpg"
 			}
 		},
 		{
@@ -2125,9 +2045,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
 			"type": "",
-			"collector_number": "203",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/203_RG10 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/197_RG10 Noncreature.jpg"
 			}
 		},
 		{
@@ -2135,9 +2055,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature",
-			"collector_number": "274",
+			"collector_number": "262",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/274_RM01 Small Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/262_RM01 Small Creature.jpg"
 			}
 		},
 		{
@@ -2145,9 +2065,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{G}{W}",
 			"type": "Creature",
-			"collector_number": "275",
+			"collector_number": "263",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/275_RM02 Small Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/263_RM02 Small Creature.jpg"
 			}
 		},
 		{
@@ -2155,9 +2075,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Creature",
-			"collector_number": "276",
+			"collector_number": "264",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/276_RM03 Medium Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/264_RM03 Medium Creature.jpg"
 			}
 		},
 		{
@@ -2165,9 +2085,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Creature",
-			"collector_number": "277",
+			"collector_number": "265",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/277_RM04 Medium Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/265_RM04 Medium Creature.jpg"
 			}
 		},
 		{
@@ -2175,9 +2095,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Creature",
-			"collector_number": "278",
+			"collector_number": "266",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/278_RM05 Medium Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/266_RM05 Medium Creature.jpg"
 			}
 		},
 		{
@@ -2185,9 +2105,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Creature",
-			"collector_number": "279",
+			"collector_number": "267",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/279_RM06 Medium Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/267_RM06 Medium Creature.jpg"
 			}
 		},
 		{
@@ -2195,9 +2115,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Creature",
-			"collector_number": "280",
+			"collector_number": "268",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/280_RM07 Medium Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/268_RM07 Medium Creature.jpg"
 			}
 		},
 		{
@@ -2205,9 +2125,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "Creature",
-			"collector_number": "281",
+			"collector_number": "269",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/281_RM08 Medium Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/269_RM08 Medium Creature.jpg"
 			}
 		},
 		{
@@ -2215,9 +2135,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{R}",
 			"type": "Creature",
-			"collector_number": "282",
+			"collector_number": "270",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/282_RM09 Medium Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/270_RM09 Medium Creature.jpg"
 			}
 		},
 		{
@@ -2225,9 +2145,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Creature",
-			"collector_number": "283",
+			"collector_number": "271",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/283_RM10 Large Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/271_RM10 Large Creature.jpg"
 			}
 		},
 		{
@@ -2235,9 +2155,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{B}",
 			"type": "Creature",
-			"collector_number": "284",
+			"collector_number": "272",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/284_RM11 Large Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/272_RM11 Large Creature.jpg"
 			}
 		},
 		{
@@ -2245,9 +2165,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{G}",
 			"type": "Creature",
-			"collector_number": "285",
+			"collector_number": "273",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/285_RM12 Large Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/273_RM12 Large Creature.jpg"
 			}
 		},
 		{
@@ -2255,9 +2175,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R}{G}",
 			"type": "Creature",
-			"collector_number": "286",
+			"collector_number": "274",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/286_RM13 Large Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/274_RM13 Large Creature.jpg"
 			}
 		},
 		{
@@ -2265,9 +2185,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{B}",
 			"type": "",
-			"collector_number": "287",
+			"collector_number": "275",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/287_RM14 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/275_RM14 Noncreature.jpg"
 			}
 		},
 		{
@@ -2275,9 +2195,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "",
-			"collector_number": "288",
+			"collector_number": "276",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/288_RM15 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/276_RM15 Noncreature.jpg"
 			}
 		},
 		{
@@ -2285,9 +2205,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Artifact",
-			"collector_number": "300",
+			"collector_number": "288",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/300_RA01 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/288_RA01 Noncreature.jpg"
 			}
 		},
 		{
@@ -2385,9 +2305,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{G}",
 			"type": "Creature",
-			"collector_number": "191",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/191_MG01 Large Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/183_MG01 Large Creature.jpg"
 			}
 		},
 		{
@@ -2395,9 +2315,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}",
 			"type": "",
-			"collector_number": "192",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/192_MG02 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/184_MG02 Noncreature.jpg"
 			}
 		},
 		{
@@ -2405,9 +2325,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{G}",
 			"type": "",
-			"collector_number": "193",
+			"collector_number": "185",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/193_MG03 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/185_MG03 Noncreature.jpg"
 			}
 		},
 		{
@@ -2415,9 +2335,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{U}",
 			"type": "Creature",
-			"collector_number": "267",
+			"collector_number": "255",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/267_MM01 Small Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/255_MM01 Small Creature.jpg"
 			}
 		},
 		{
@@ -2425,9 +2345,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{B}{G}{U}",
 			"type": "Creature",
-			"collector_number": "268",
+			"collector_number": "256",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/268_MM02 Medium Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/256_MM02 Medium Creature.jpg"
 			}
 		},
 		{
@@ -2435,9 +2355,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{B}{G}",
 			"type": "Creature",
-			"collector_number": "269",
+			"collector_number": "257",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/269_MM03 Medium Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/257_MM03 Medium Creature.jpg"
 			}
 		},
 		{
@@ -2445,9 +2365,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{R}{W}",
 			"type": "Creature",
-			"collector_number": "270",
+			"collector_number": "258",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/270_MM04 Medium Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/258_MM04 Medium Creature.jpg"
 			}
 		},
 		{
@@ -2455,9 +2375,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{U}{R}",
 			"type": "Creature",
-			"collector_number": "271",
+			"collector_number": "259",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/271_MM05 Large Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/259_MM05 Large Creature.jpg"
 			}
 		},
 		{
@@ -2465,9 +2385,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{W}{B}",
 			"type": "Creature",
-			"collector_number": "272",
+			"collector_number": "260",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/272_MM06 Large Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/260_MM06 Large Creature.jpg"
 			}
 		},
 		{
@@ -2475,9 +2395,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{6}",
 			"type": "Artifact",
-			"collector_number": "301",
+			"collector_number": "289",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/301_Tomb of Forgotten Worlds.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/289_Tomb of Forgotten Worlds.jpg"
 			}
 		},
 		{
@@ -2491,13 +2411,13 @@
 			}
 		},
 		{
-			"name": "CI01 Small Creature",
+			"name": "Gatu Gembearer",
 			"rarity": "uncommon",
 			"mana_cost": "{I}",
 			"type": "Creature — Avatar Angel",
-			"collector_number": "221",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/221_CI01 Small Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/225_Gatu Gembearer.jpg"
 			}
 		},
 		{
@@ -2505,79 +2425,79 @@
 			"rarity": "common",
 			"mana_cost": "{I}",
 			"type": "Creature — Avatar",
-			"collector_number": "222",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/222_CI02 Small Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/214_CI02 Small Creature.jpg"
 			}
 		},
 		{
-			"name": "CI03 Small Creature",
+			"name": "Dedicated Acolyte",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{I}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "223",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/223_CI03 Small Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/219_Dedicated Acolyte.jpg"
 			}
 		},
 		{
-			"name": "CI04 Small Creature",
+			"name": "Barrier of Storms",
 			"rarity": "common",
 			"mana_cost": "{1}{I}",
-			"type": "Creature",
+			"type": "Creature — Avatar",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/213_Barrier of Storms.jpg"
+			}
+		},
+		{
+			"name": "Darkstar Invader",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{I}",
+			"type": "Creature — Avatar",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/218_Darkstar Invader.jpg"
+			}
+		},
+		{
+			"name": "Forerunner of the Collision",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{I}",
+			"type": "Creature — Human Scout",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/224_CI04 Small Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/224_Forerunner of the Collision.jpg"
 			}
 		},
 		{
-			"name": "CI05 Small Creature",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{I}",
-			"type": "Creature",
-			"collector_number": "225",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/225_CI05 Small Creature.jpg"
-			}
-		},
-		{
-			"name": "CI06 Small Creature",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{I}",
-			"type": "Creature",
-			"collector_number": "226",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/226_CI06 Small Creature.jpg"
-			}
-		},
-		{
-			"name": "CI07 Small Creature",
+			"name": "Ethereal Envoy",
 			"rarity": "common",
 			"mana_cost": "{2}{I}",
-			"type": "Creature",
-			"collector_number": "227",
+			"type": "Creature — Avatar",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/227_CI07 Small Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/223_Ethereal Envoy.jpg"
 			}
 		},
 		{
-			"name": "CI08 CELESTIAL TREE",
+			"name": "Disciple of the Celestial Tree",
 			"rarity": "common",
 			"mana_cost": "{2}{I}",
-			"type": "Creature",
-			"collector_number": "228",
+			"type": "Creature — Avatar",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/228_CI08 CELESTIAL TREE.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/220_Disciple of the Celestial Tree.jpg"
 			}
 		},
 		{
-			"name": "CI09 Small Creature",
+			"name": "Thief of The Boundless",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{I}",
-			"type": "Creature",
-			"collector_number": "229",
+			"type": "Creature — Avatar",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/229_CI09 Small Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/244_Thief of The Boundless.jpg"
 			}
 		},
 		{
@@ -2585,9 +2505,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{I}",
 			"type": "Creature — Avatar",
-			"collector_number": "231",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/231_CI11 Medium Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/216_CI11 Medium Creature.jpg"
 			}
 		},
 		{
@@ -2595,9 +2515,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{I}",
 			"type": "Creature",
-			"collector_number": "230",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/230_CI10 Medium Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/215_CI10 Medium Creature.jpg"
 			}
 		},
 		{
@@ -2605,29 +2525,29 @@
 			"rarity": "common",
 			"mana_cost": "{5}{I}",
 			"type": "Creature — Anima Warrior",
-			"collector_number": "239",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/239_Eternal Warrior.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/222_Eternal Warrior.jpg"
 			}
 		},
 		{
-			"name": "CI14 Noncreature",
+			"name": "Skyshift",
 			"rarity": "common",
 			"mana_cost": "{I}",
 			"type": "Instant",
-			"collector_number": "233",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/233_CI14 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/242_Skyshift.jpg"
 			}
 		},
 		{
-			"name": "CI15 Noncreature",
+			"name": "Glimpse Lost Totality",
 			"rarity": "common",
 			"mana_cost": "{1}{I}",
 			"type": "Kindred Sorcery — Avatar Revelation",
-			"collector_number": "234",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/234_CI15 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/226_Glimpse Lost Totality.jpg"
 			}
 		},
 		{
@@ -2635,49 +2555,49 @@
 			"rarity": "common",
 			"mana_cost": "{I}",
 			"type": "Instant",
-			"collector_number": "240",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/240_Moonlight Charm.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/227_Moonlight Charm.jpg"
 			}
 		},
 		{
-			"name": "CI17 Noncreature",
+			"name": "Shadowy Incarnations",
 			"rarity": "common",
 			"mana_cost": "{2}{I}",
 			"type": "Instant",
-			"collector_number": "235",
+			"collector_number": "241",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/235_CI17 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/241_Shadowy Incarnations.jpg"
 			}
 		},
 		{
-			"name": "CI19 Noncreature",
+			"name": "Consume Into The Boundless",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{I}",
 			"type": "Instant",
-			"collector_number": "236",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/236_CI19 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/217_Consume Into The Boundless.jpg"
 			}
 		},
 		{
-			"name": "CI20 Noncreature",
+			"name": "Empty Hollow Eternity",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{I}",
 			"type": "Kindred Sorcery — Avatar Revelation",
-			"collector_number": "237",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/237_CI20 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/221_Empty Hollow Eternity.jpg"
 			}
 		},
 		{
-			"name": "CI21 Noncreature",
+			"name": "Starlight's Glimmer",
 			"rarity": "common",
 			"mana_cost": "{4}{I}",
 			"type": "Sorcery",
-			"collector_number": "238",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/238_CI21 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/243_Starlight's Glimmer.jpg"
 			}
 		},
 		{
@@ -2685,9 +2605,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Reminder",
-			"collector_number": "317",
+			"collector_number": "305",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/317_Vertex Reminder.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/305_Vertex Reminder.jpg"
 			}
 		},
 		{
@@ -2705,9 +2625,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{I}{W}{U}",
 			"type": "Legendary Creature — Anima",
-			"collector_number": "273",
+			"collector_number": "261",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/273_Realmgrasper.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/261_Realmgrasper.jpg"
 			}
 		},
 		{
@@ -2715,9 +2635,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{I}{G}{U}",
 			"type": "Kindred Sorcery — Avatar Revelation",
-			"collector_number": "289",
+			"collector_number": "277",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/289_UM02 Arcun.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/277_UM02 Arcun.jpg"
 			}
 		},
 		{
@@ -2725,9 +2645,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{I}{B}{R}",
 			"type": "Legendary Creature",
-			"collector_number": "290",
+			"collector_number": "278",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/290_UM03 Arcun.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/278_UM03 Arcun.jpg"
 			}
 		},
 		{
@@ -2735,9 +2655,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}{W}",
 			"type": "Legendary Creature",
-			"collector_number": "291",
+			"collector_number": "279",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/291_UM04 Arcun.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/279_UM04 Arcun.jpg"
 			}
 		},
 		{
@@ -2745,9 +2665,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}{G}",
 			"type": "Legendary Creature",
-			"collector_number": "292",
+			"collector_number": "280",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/292_UM05 Arcun.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/280_UM05 Arcun.jpg"
 			}
 		},
 		{
@@ -2755,9 +2675,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}{R}",
 			"type": "Legendary Creature",
-			"collector_number": "293",
+			"collector_number": "281",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/293_UM06 Arcun.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/281_UM06 Arcun.jpg"
 			}
 		},
 		{
@@ -2765,19 +2685,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{I}",
 			"type": "Creature",
-			"collector_number": "255",
+			"collector_number": "246",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/255_UI01 Small Creature.jpg"
-			}
-		},
-		{
-			"name": "UI02 Small Creature",
-			"rarity": "uncommon",
-			"mana_cost": "{I}",
-			"type": "Creature",
-			"collector_number": "256",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/256_UI02 Small Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/246_UI01 Small Creature.jpg"
 			}
 		},
 		{
@@ -2785,9 +2695,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{I}",
 			"type": "Creature",
-			"collector_number": "257",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/257_UI03 Small Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/247_UI03 Small Creature.jpg"
 			}
 		},
 		{
@@ -2795,9 +2705,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{I}",
 			"type": "Creature",
-			"collector_number": "258",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/258_UI04 Small Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/248_UI04 Small Creature.jpg"
 			}
 		},
 		{
@@ -2805,9 +2715,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{I}",
 			"type": "Creature",
-			"collector_number": "259",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/259_UI05 Small Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/249_UI05 Small Creature.jpg"
 			}
 		},
 		{
@@ -2815,9 +2725,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{I}",
 			"type": "Creature",
-			"collector_number": "260",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/260_UI06 Small Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/250_UI06 Small Creature.jpg"
 			}
 		},
 		{
@@ -2825,9 +2735,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{I}",
 			"type": "",
-			"collector_number": "261",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/261_UI07 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/251_UI07 Noncreature.jpg"
 			}
 		},
 		{
@@ -2835,9 +2745,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{I}",
 			"type": "",
-			"collector_number": "254",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/254_U08 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/245_U08 Noncreature.jpg"
 			}
 		},
 		{
@@ -2845,19 +2755,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{I}",
 			"type": "",
-			"collector_number": "262",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/262_UI09 Noncreature.jpg"
-			}
-		},
-		{
-			"name": "UI10 Noncreature",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{I}",
-			"type": "",
-			"collector_number": "263",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/263_UI10 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/252_UI09 Noncreature.jpg"
 			}
 		},
 		{
@@ -2865,29 +2765,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{I}",
 			"type": "",
-			"collector_number": "264",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/264_UI11 Noncreature.jpg"
-			}
-		},
-		{
-			"name": "UI12 Noncreature",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{I}",
-			"type": "",
-			"collector_number": "265",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/265_UI12 Noncreature.jpg"
-			}
-		},
-		{
-			"name": "UI13 Noncreature",
-			"rarity": "uncommon",
-			"mana_cost": "{5}{I}",
-			"type": "",
-			"collector_number": "266",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/266_UI13 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/253_UI11 Noncreature.jpg"
 			}
 		},
 		{
@@ -2895,9 +2775,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{I}",
 			"type": "Creature",
-			"collector_number": "242",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/242_MU01 Small Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/229_MU01 Small Creature.jpg"
 			}
 		},
 		{
@@ -2905,9 +2785,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{I}",
 			"type": "Creature",
-			"collector_number": "241",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/241_MU01 Large Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/228_MU01 Large Creature.jpg"
 			}
 		},
 		{
@@ -2915,9 +2795,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{I}",
 			"type": "Creature",
-			"collector_number": "243",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/243_RI01 Small Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/231_RI01 Small Creature.jpg"
 			}
 		},
 		{
@@ -2925,9 +2805,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{I}",
 			"type": "Creature",
-			"collector_number": "244",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/244_RI02 Small Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/232_RI02 Small Creature.jpg"
 			}
 		},
 		{
@@ -2935,9 +2815,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{I}",
 			"type": "Creature",
-			"collector_number": "245",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/245_RI03 Small Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/233_RI03 Small Creature.jpg"
 			}
 		},
 		{
@@ -2945,9 +2825,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{I}",
 			"type": "Creature",
-			"collector_number": "246",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/246_RI04 Medium Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/234_RI04 Medium Creature.jpg"
 			}
 		},
 		{
@@ -2955,9 +2835,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{I}",
 			"type": "Creature",
-			"collector_number": "247",
+			"collector_number": "235",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/247_RI05 Medium Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/235_RI05 Medium Creature.jpg"
 			}
 		},
 		{
@@ -2965,9 +2845,9 @@
 			"rarity": "rare",
 			"mana_cost": "{7}{I}",
 			"type": "Creature",
-			"collector_number": "248",
+			"collector_number": "236",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/248_RI06 Large Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/236_RI06 Large Creature.jpg"
 			}
 		},
 		{
@@ -2975,9 +2855,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{I}",
 			"type": "",
-			"collector_number": "249",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/249_RI07 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/237_RI07 Noncreature.jpg"
 			}
 		},
 		{
@@ -2985,9 +2865,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{I}",
 			"type": "",
-			"collector_number": "250",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/250_RI08 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/238_RI08 Noncreature.jpg"
 			}
 		},
 		{
@@ -2995,9 +2875,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{I}",
 			"type": "",
-			"collector_number": "251",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/251_RI09 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/239_RI09 Noncreature.jpg"
 			}
 		},
 		{
@@ -3005,29 +2885,29 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{I}",
 			"type": "",
-			"collector_number": "252",
+			"collector_number": "240",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/252_RI10 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/240_RI10 Noncreature.jpg"
 			}
 		},
 		{
-			"name": "CI13 Noncreature",
+			"name": "Wonderings",
 			"rarity": "common",
 			"mana_cost": "{I}",
 			"type": "Sorcery",
-			"collector_number": "232",
+			"collector_number": "254",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/232_CI13 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/254_Wonderings.jpg"
 			}
 		},
 		{
-			"name": "Spatial Refractions",
+			"name": "Refract Empty Space",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{I}",
 			"type": "Kindred Sorcery — Avatar Revelation",
-			"collector_number": "253",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/253_Spatial Refractions.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/230_Refract Empty Space.jpg"
 			}
 		},
 		{
@@ -3045,9 +2925,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "304",
+			"collector_number": "292",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/304_Frozen Cavern.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/292_Frozen Cavern.jpg"
 			}
 		},
 		{
@@ -3055,9 +2935,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "303",
+			"collector_number": "291",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/303_Forsaken Depths.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/291_Forsaken Depths.jpg"
 			}
 		},
 		{
@@ -3065,9 +2945,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "311",
+			"collector_number": "299",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/311_Sinful Carvings.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/299_Sinful Carvings.jpg"
 			}
 		},
 		{
@@ -3075,9 +2955,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "315",
+			"collector_number": "303",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/315_Sunlit Grove.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/303_Sunlit Grove.jpg"
 			}
 		},
 		{
@@ -3085,9 +2965,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "310",
+			"collector_number": "298",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/310_Peacful Jungle.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/298_Peacful Jungle.jpg"
 			}
 		},
 		{
@@ -3095,9 +2975,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "302",
+			"collector_number": "290",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/302_Barren Heath.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/290_Barren Heath.jpg"
 			}
 		},
 		{
@@ -3105,9 +2985,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "312",
+			"collector_number": "300",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/312_Soaring Edifice.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/300_Soaring Edifice.jpg"
 			}
 		},
 		{
@@ -3115,9 +2995,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "306",
+			"collector_number": "294",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/306_Lonesome Growth.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/294_Lonesome Growth.jpg"
 			}
 		},
 		{
@@ -3125,9 +3005,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "305",
+			"collector_number": "293",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/305_Ivory Brush.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/293_Ivory Brush.jpg"
 			}
 		},
 		{
@@ -3135,9 +3015,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "313",
+			"collector_number": "301",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/313_Submerged Woodland.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/301_Submerged Woodland.jpg"
 			}
 		},
 		{
@@ -3145,9 +3025,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "308",
+			"collector_number": "296",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/308_Mountaintop Temple.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/296_Mountaintop Temple.jpg"
 			}
 		},
 		{
@@ -3155,9 +3035,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "316",
+			"collector_number": "304",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/316_Towering Spires.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/304_Towering Spires.jpg"
 			}
 		},
 		{
@@ -3165,9 +3045,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "309",
+			"collector_number": "297",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/309_Mysterious Gateway.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/297_Mysterious Gateway.jpg"
 			}
 		},
 		{
@@ -3175,9 +3055,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "307",
+			"collector_number": "295",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/307_Moonlit Mouth.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/295_Moonlit Mouth.jpg"
 			}
 		},
 		{
@@ -3185,9 +3065,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "314",
+			"collector_number": "302",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/314_Subterranean Fungus.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/302_Subterranean Fungus.jpg"
 			}
 		}
 	]

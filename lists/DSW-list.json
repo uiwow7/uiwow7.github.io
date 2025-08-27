@@ -25,13 +25,13 @@
     },
     {
         "card_name": "MG01 Large Creature",
-        "number": 191,
+        "number": 183,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "MU01 Large Creature",
-        "number": 241,
+        "number": 228,
         "shape": "normal",
         "set": "DSW"
     },
@@ -61,13 +61,13 @@
     },
     {
         "card_name": "MG02 Noncreature",
-        "number": 192,
+        "number": 184,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "MU01 Small Creature",
-        "number": 242,
+        "number": 229,
         "shape": "normal",
         "set": "DSW"
     },
@@ -97,13 +97,13 @@
     },
     {
         "card_name": "MG03 Noncreature",
-        "number": 193,
+        "number": 185,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "RI01 Small Creature",
-        "number": 243,
+        "number": 231,
         "shape": "normal",
         "set": "DSW"
     },
@@ -133,13 +133,13 @@
     },
     {
         "card_name": "RG01 Medium Creature",
-        "number": 194,
+        "number": 188,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "RI02 Small Creature",
-        "number": 244,
+        "number": 232,
         "shape": "normal",
         "set": "DSW"
     },
@@ -169,13 +169,13 @@
     },
     {
         "card_name": "RG02 Medium Creature",
-        "number": 195,
+        "number": 189,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "RI03 Small Creature",
-        "number": 245,
+        "number": 233,
         "shape": "normal",
         "set": "DSW"
     },
@@ -205,13 +205,13 @@
     },
     {
         "card_name": "RG03 Large Creature",
-        "number": 196,
+        "number": 190,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "RI04 Medium Creature",
-        "number": 246,
+        "number": 234,
         "shape": "normal",
         "set": "DSW"
     },
@@ -241,13 +241,13 @@
     },
     {
         "card_name": "RG04 Large Creature",
-        "number": 197,
+        "number": 191,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "RI05 Medium Creature",
-        "number": 247,
+        "number": 235,
         "shape": "normal",
         "set": "DSW"
     },
@@ -277,13 +277,13 @@
     },
     {
         "card_name": "RG05 Large Creature",
-        "number": 198,
+        "number": 192,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "RI06 Large Creature",
-        "number": 248,
+        "number": 236,
         "shape": "normal",
         "set": "DSW"
     },
@@ -313,13 +313,13 @@
     },
     {
         "card_name": "RG06 Noncreature",
-        "number": 199,
+        "number": 193,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "RI07 Noncreature",
-        "number": 249,
+        "number": 237,
         "shape": "normal",
         "set": "DSW"
     },
@@ -349,13 +349,13 @@
     },
     {
         "card_name": "RG07 Noncreature",
-        "number": 200,
+        "number": 194,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "RI08 Noncreature",
-        "number": 250,
+        "number": 238,
         "shape": "normal",
         "set": "DSW"
     },
@@ -385,13 +385,13 @@
     },
     {
         "card_name": "RG08 Noncreature",
-        "number": 201,
+        "number": 195,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "RI09 Noncreature",
-        "number": 251,
+        "number": 239,
         "shape": "normal",
         "set": "DSW"
     },
@@ -421,13 +421,13 @@
     },
     {
         "card_name": "RG09 Noncreature",
-        "number": 202,
+        "number": 196,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "RI10 Noncreature",
-        "number": 252,
+        "number": 240,
         "shape": "normal",
         "set": "DSW"
     },
@@ -457,13 +457,13 @@
     },
     {
         "card_name": "RG10 Noncreature",
-        "number": 203,
+        "number": 197,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "CI01 Small Creature",
-        "number": 221,
+        "card_name": "Consume Into The Boundless",
+        "number": 217,
         "shape": "normal",
         "set": "DSW"
     },
@@ -493,14 +493,14 @@
     },
     {
         "card_name": "Arisen Avatar",
-        "number": 175,
+        "number": 170,
         "shape": "adventure",
         "set": "DSW"
     },
     {
-        "card_name": "CI03 Small Creature",
-        "number": 223,
-        "shape": "normal",
+        "card_name": "Darkstar Invader",
+        "number": 218,
+        "shape": "adventure",
         "set": "DSW"
     },
     {
@@ -528,15 +528,15 @@
         "set": "DSW"
     },
     {
-        "card_name": "CG10 Medium Creature",
-        "number": 178,
+        "card_name": "Astral Navigation",
+        "number": 171,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "CI05 Small Creature",
-        "number": 225,
-        "shape": "adventure",
+        "card_name": "Dedicated Acolyte",
+        "number": 219,
+        "shape": "normal",
         "set": "DSW"
     },
     {
@@ -564,14 +564,14 @@
         "set": "DSW"
     },
     {
-        "card_name": "CG15 Noncreature",
-        "number": 181,
+        "card_name": "Avatar of Stolen Fate",
+        "number": 172,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "CI06 Small Creature",
-        "number": 226,
+        "card_name": "Empty Hollow Eternity",
+        "number": 221,
         "shape": "normal",
         "set": "DSW"
     },
@@ -600,14 +600,14 @@
         "set": "DSW"
     },
     {
-        "card_name": "CG18 Noncreature",
-        "number": 184,
+        "card_name": "Devour Earthly Worlds",
+        "number": 176,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "CI09 Small Creature",
-        "number": 229,
+        "card_name": "Forerunner of the Collision",
+        "number": 224,
         "shape": "normal",
         "set": "DSW"
     },
@@ -636,14 +636,14 @@
         "set": "DSW"
     },
     {
-        "card_name": "CG19 Noncreature",
-        "number": 185,
+        "card_name": "Devour To Infinity",
+        "number": 177,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "CI19 Noncreature",
-        "number": 236,
+        "card_name": "Gatu Gembearer",
+        "number": 225,
         "shape": "normal",
         "set": "DSW"
     },
@@ -672,14 +672,14 @@
         "set": "DSW"
     },
     {
-        "card_name": "Devour Earthly Worlds",
-        "number": 187,
+        "card_name": "Ghostly Wanderer",
+        "number": 180,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "CI20 Noncreature",
-        "number": 237,
+        "card_name": "Refract Empty Space",
+        "number": 230,
         "shape": "normal",
         "set": "DSW"
     },
@@ -708,14 +708,14 @@
         "set": "DSW"
     },
     {
-        "card_name": "Ghostly Wanderer",
-        "number": 190,
+        "card_name": "Hunt for Eternity",
+        "number": 181,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "Spatial Refractions",
-        "number": 253,
+        "card_name": "Thief of The Boundless",
+        "number": 244,
         "shape": "normal",
         "set": "DSW"
     },
@@ -744,14 +744,14 @@
         "set": "DSW"
     },
     {
-        "card_name": "UG01 Small Creature",
-        "number": 206,
+        "card_name": "Resolute Herald",
+        "number": 187,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "U08 Noncreature",
-        "number": 254,
+        "number": 245,
         "shape": "normal",
         "set": "DSW"
     },
@@ -780,14 +780,14 @@
         "set": "DSW"
     },
     {
-        "card_name": "UG02 Small Creature",
-        "number": 207,
+        "card_name": "UG01 Small Creature",
+        "number": 201,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "UI01 Small Creature",
-        "number": 255,
+        "number": 246,
         "shape": "normal",
         "set": "DSW"
     },
@@ -817,13 +817,13 @@
     },
     {
         "card_name": "UG03 Small Creature",
-        "number": 208,
+        "number": 202,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "UI02 Small Creature",
-        "number": 256,
+        "card_name": "UI03 Small Creature",
+        "number": 247,
         "shape": "normal",
         "set": "DSW"
     },
@@ -846,20 +846,20 @@
         "set": "DSW"
     },
     {
-        "card_name": "UR03 Small Creature",
+        "card_name": "UR04 Medium Creature",
         "number": 162,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "UG04 Small Creature",
-        "number": 209,
+        "number": 203,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "UI03 Small Creature",
-        "number": 257,
+        "card_name": "UI04 Small Creature",
+        "number": 248,
         "shape": "normal",
         "set": "DSW"
     },
@@ -882,20 +882,20 @@
         "set": "DSW"
     },
     {
-        "card_name": "UR04 Medium Creature",
+        "card_name": "UR05 Medium Creature",
         "number": 163,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "UG05 Medium Creature",
-        "number": 210,
+        "number": 204,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "UI04 Small Creature",
-        "number": 258,
+        "card_name": "UI05 Small Creature",
+        "number": 249,
         "shape": "normal",
         "set": "DSW"
     },
@@ -918,20 +918,20 @@
         "set": "DSW"
     },
     {
-        "card_name": "UR05 Medium Creature",
+        "card_name": "UR06 Medium Creature",
         "number": 164,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "UG06 Medium Creature",
-        "number": 211,
+        "number": 205,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "UI05 Small Creature",
-        "number": 259,
+        "card_name": "UI06 Small Creature",
+        "number": 250,
         "shape": "normal",
         "set": "DSW"
     },
@@ -954,20 +954,20 @@
         "set": "DSW"
     },
     {
-        "card_name": "UR06 Medium Creature",
+        "card_name": "UR09 Noncreature",
         "number": 165,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "UG07 Medium Creature",
-        "number": 212,
+        "number": 206,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "UI06 Small Creature",
-        "number": 260,
+        "card_name": "UI07 Noncreature",
+        "number": 251,
         "shape": "normal",
         "set": "DSW"
     },
@@ -990,20 +990,20 @@
         "set": "DSW"
     },
     {
-        "card_name": "UR07 Medium Creature",
+        "card_name": "UR10 Noncreature",
         "number": 166,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "UG08 Large Creature",
-        "number": 213,
+        "card_name": "UG09 Noncreature",
+        "number": 207,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "UI07 Noncreature",
-        "number": 261,
+        "card_name": "UI09 Noncreature",
+        "number": 252,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1026,20 +1026,20 @@
         "set": "DSW"
     },
     {
-        "card_name": "UR08 Noncreature",
+        "card_name": "UR11 Noncreature",
         "number": 167,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "UG09 Noncreature",
-        "number": 214,
+        "card_name": "UG11 Noncreature",
+        "number": 208,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "UI09 Noncreature",
-        "number": 262,
+        "card_name": "UI11 Noncreature",
+        "number": 253,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1062,20 +1062,20 @@
         "set": "DSW"
     },
     {
-        "card_name": "UR09 Noncreature",
+        "card_name": "UR12 Noncreature",
         "number": 168,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "UG10 Noncreature",
-        "number": 215,
+        "card_name": "UG13 Noncreature",
+        "number": 209,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "UI10 Noncreature",
-        "number": 263,
+        "card_name": "Barrier of Storms",
+        "number": 213,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1098,20 +1098,20 @@
         "set": "DSW"
     },
     {
-        "card_name": "UR10 Noncreature",
-        "number": 169,
+        "card_name": "The Arbiter's Pathlighter",
+        "number": 127,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "UG11 Noncreature",
-        "number": 216,
+        "card_name": "Beya Woodswalker",
+        "number": 173,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "UI11 Noncreature",
-        "number": 264,
+        "card_name": "CI02 Small Creature",
+        "number": 214,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1134,20 +1134,20 @@
         "set": "DSW"
     },
     {
-        "card_name": "UR11 Noncreature",
-        "number": 170,
+        "card_name": "Comsumed Memories",
+        "number": 128,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "UG12 Noncreature",
-        "number": 217,
+        "card_name": "Celestial Envoy",
+        "number": 174,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "UI12 Noncreature",
-        "number": 265,
+        "card_name": "CI10 Medium Creature",
+        "number": 215,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1170,20 +1170,20 @@
         "set": "DSW"
     },
     {
-        "card_name": "UR12 Noncreature",
-        "number": 171,
+        "card_name": "Eternal Flamebearer",
+        "number": 130,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "UG13 Noncreature",
-        "number": 218,
+        "card_name": "Deepgrowth Critter",
+        "number": 175,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "UI13 Noncreature",
-        "number": 266,
+        "card_name": "CI11 Medium Creature",
+        "number": 216,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1206,20 +1206,20 @@
         "set": "DSW"
     },
     {
-        "card_name": "UR13 Noncreature",
-        "number": 172,
+        "card_name": "Hurled Flamestone",
+        "number": 133,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "Beya Woodswalker",
-        "number": 176,
+        "card_name": "Eternal Blossomer",
+        "number": 178,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "CI02 Small Creature",
-        "number": 222,
+        "card_name": "Disciple of the Celestial Tree",
+        "number": 220,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1242,20 +1242,20 @@
         "set": "DSW"
     },
     {
-        "card_name": "The Arbiter's Pathlighter",
-        "number": 127,
+        "card_name": "Kalan Crystal Spear",
+        "number": 136,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "CG03",
-        "number": 177,
+        "card_name": "Gatu Darkhammer",
+        "number": 179,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "CI04 Small Creature",
-        "number": 224,
+        "card_name": "Eternal Warrior",
+        "number": 222,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1278,20 +1278,20 @@
         "set": "DSW"
     },
     {
-        "card_name": "Comsumed Memories",
-        "number": 128,
+        "card_name": "Kara Mountain Guardian",
+        "number": 139,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "CG11 Medium Creature",
-        "number": 179,
+        "card_name": "Invigorate Lost Realms",
+        "number": 182,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "CI07 Small Creature",
-        "number": 227,
+        "card_name": "Ethereal Envoy",
+        "number": 223,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1314,20 +1314,20 @@
         "set": "DSW"
     },
     {
-        "card_name": "Eternal Flamebearer",
-        "number": 130,
+        "card_name": "Najari Bloodseeker",
+        "number": 143,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "CG12 Large Creature",
-        "number": 180,
+        "card_name": "Nebula Titan",
+        "number": 186,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "CI08 CELESTIAL TREE",
-        "number": 228,
+        "card_name": "Glimpse Lost Totality",
+        "number": 226,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1350,20 +1350,20 @@
         "set": "DSW"
     },
     {
-        "card_name": "Hurled Flamestone",
-        "number": 133,
+        "card_name": "Path Acceleration",
+        "number": 144,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "CG16 Noncreature",
-        "number": 182,
+        "card_name": "Snakeskin Veil",
+        "number": 198,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "CI10 Medium Creature",
-        "number": 230,
+        "card_name": "Moonlight Charm",
+        "number": 227,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1386,20 +1386,20 @@
         "set": "DSW"
     },
     {
-        "card_name": "Kalan Crystal Spear",
-        "number": 136,
+        "card_name": "Rage from Beyond",
+        "number": 146,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "CG17 Noncreature",
-        "number": 183,
+        "card_name": "Stand Your Ground",
+        "number": 199,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "CI11 Medium Creature",
-        "number": 231,
+        "card_name": "Shadowy Incarnations",
+        "number": 241,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1422,20 +1422,20 @@
         "set": "DSW"
     },
     {
-        "card_name": "Kara Mountain Guardian",
-        "number": 139,
+        "card_name": "Render Worlds",
+        "number": 147,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "Deepgrowth XXXX",
-        "number": 186,
+        "card_name": "Thicket's Incarnation",
+        "number": 200,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "CI13 Noncreature",
-        "number": 232,
+        "card_name": "Skyshift",
+        "number": 242,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1455,20 +1455,20 @@
         "set": "DSW"
     },
     {
-        "card_name": "Najari Bloodseeker",
-        "number": 143,
+        "card_name": "Savan Ascendant",
+        "number": 157,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "Eternal Blossomer",
-        "number": 188,
+        "card_name": "Unconcerned Tortoise",
+        "number": 210,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "CI14 Noncreature",
-        "number": 233,
+        "card_name": "Starlight's Glimmer",
+        "number": 243,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1485,128 +1485,20 @@
         "card_name": "e"
     },
     {
-        "card_name": "Path Acceleration",
-        "number": 144,
-        "shape": "normal",
-        "set": "DSW"
-    },
-    {
-        "card_name": "Gatu Darkhammer",
-        "number": 189,
-        "shape": "normal",
-        "set": "DSW"
-    },
-    {
-        "card_name": "CI15 Noncreature",
-        "number": 234,
-        "shape": "normal",
-        "set": "DSW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Rage from Beyond",
-        "number": 146,
-        "shape": "normal",
-        "set": "DSW"
-    },
-    {
-        "card_name": "Snakeskin Veil",
-        "number": 204,
-        "shape": "normal",
-        "set": "DSW"
-    },
-    {
-        "card_name": "CI17 Noncreature",
-        "number": 235,
-        "shape": "normal",
-        "set": "DSW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Render Worlds",
-        "number": 147,
-        "shape": "normal",
-        "set": "DSW"
-    },
-    {
-        "card_name": "Thicket's Incarnation",
-        "number": 205,
-        "shape": "normal",
-        "set": "DSW"
-    },
-    {
-        "card_name": "CI21 Noncreature",
-        "number": 238,
-        "shape": "normal",
-        "set": "DSW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Savan Ascendant",
-        "number": 157,
-        "shape": "normal",
-        "set": "DSW"
-    },
-    {
-        "card_name": "Venturing Fox",
-        "number": 219,
-        "shape": "normal",
-        "set": "DSW"
-    },
-    {
-        "card_name": "Eternal Warrior",
-        "number": 239,
-        "shape": "normal",
-        "set": "DSW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
         "card_name": "Shatter Eternity",
         "number": 158,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "XXX Uncoverer",
-        "number": 220,
+        "card_name": "Venturing Fox",
+        "number": 211,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "Moonlight Charm",
-        "number": 240,
+        "card_name": "Wonderings",
+        "number": 254,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1621,12 +1513,15 @@
     },
     {
         "card_name": "Yuku Dune-Prowler",
-        "number": 173,
+        "number": 169,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "e"
+        "card_name": "XXX Uncoverer",
+        "number": 212,
+        "shape": "normal",
+        "set": "DSW"
     },
     {
         "card_name": "e"
@@ -1646,31 +1541,31 @@
     "a->gold",
     {
         "card_name": "MM01 Small Creature",
-        "number": 267,
+        "number": 255,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "RM11 Large Creature",
-        "number": 284,
+        "number": 272,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "RM09 Medium Creature",
-        "number": 282,
+        "number": 270,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "RM13 Large Creature",
-        "number": 286,
+        "number": 274,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "RM02 Small Creature",
-        "number": 275,
+        "number": 263,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1685,7 +1580,7 @@
     },
     {
         "card_name": "RM03 Medium Creature",
-        "number": 276,
+        "number": 264,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1727,31 +1622,31 @@
     },
     {
         "card_name": "RM05 Medium Creature",
-        "number": 278,
+        "number": 266,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "RM01 Small Creature",
-        "number": 274,
+        "number": 262,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "RM06 Medium Creature",
-        "number": 279,
+        "number": 267,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "RM07 Medium Creature",
-        "number": 280,
+        "number": 268,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "RM04 Medium Creature",
-        "number": 277,
+        "number": 265,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1763,7 +1658,7 @@
     },
     {
         "card_name": "RM14 Noncreature",
-        "number": 287,
+        "number": 275,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1772,13 +1667,13 @@
     },
     {
         "card_name": "RM12 Large Creature",
-        "number": 285,
+        "number": 273,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "RM10 Large Creature",
-        "number": 283,
+        "number": 271,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1811,7 +1706,7 @@
     },
     {
         "card_name": "UM06 Arcun",
-        "number": 293,
+        "number": 281,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1820,7 +1715,7 @@
     },
     {
         "card_name": "UM04 Arcun",
-        "number": 291,
+        "number": 279,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1829,7 +1724,7 @@
     },
     {
         "card_name": "Realmgrasper",
-        "number": 273,
+        "number": 261,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1838,7 +1733,7 @@
     },
     {
         "card_name": "UM03 Arcun",
-        "number": 290,
+        "number": 278,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1865,31 +1760,31 @@
     },
     {
         "card_name": "MM06 Large Creature",
-        "number": 272,
+        "number": 260,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "MM05 Large Creature",
-        "number": 271,
+        "number": 259,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "MM03 Medium Creature",
-        "number": 269,
+        "number": 257,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "MM04 Medium Creature",
-        "number": 270,
+        "number": 258,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "MM02 Medium Creature",
-        "number": 268,
+        "number": 256,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1907,7 +1802,7 @@
     },
     {
         "card_name": "UM02 Arcun",
-        "number": 289,
+        "number": 277,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1919,7 +1814,7 @@
     },
     {
         "card_name": "UM05 Arcun",
-        "number": 292,
+        "number": 280,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1961,13 +1856,13 @@
     },
     {
         "card_name": "RM08 Medium Creature",
-        "number": 281,
+        "number": 269,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "RM15 Noncreature",
-        "number": 288,
+        "number": 276,
         "shape": "normal",
         "set": "DSW"
     },
@@ -2007,49 +1902,49 @@
     },
     {
         "card_name": "Tomb of Forgotten Worlds",
-        "number": 301,
+        "number": 289,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "RA01 Noncreature",
-        "number": 300,
+        "number": 288,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "CA01 Small Creature",
-        "number": 294,
+        "number": 282,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "CA02 Medium Creature",
-        "number": 295,
+        "number": 283,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "CA04 Noncreature",
-        "number": 296,
+        "number": 284,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "CA05 Noncreature",
-        "number": 297,
+        "number": 285,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "CA06 Noncreature",
-        "number": 298,
+        "number": 286,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Eternal Engine",
-        "number": 299,
+        "number": 287,
         "shape": "normal",
         "set": "DSW"
     },
@@ -2070,49 +1965,49 @@
     },
     {
         "card_name": "Frozen Cavern",
-        "number": 304,
+        "number": 292,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Forsaken Depths",
-        "number": 303,
+        "number": 291,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Sinful Carvings",
-        "number": 311,
+        "number": 299,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Sunlit Grove",
-        "number": 315,
+        "number": 303,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Peacful Jungle",
-        "number": 310,
+        "number": 298,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Mountaintop Temple",
-        "number": 308,
+        "number": 296,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Mysterious Gateway",
-        "number": 309,
+        "number": 297,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Moonlit Mouth",
-        "number": 307,
+        "number": 295,
         "shape": "normal",
         "set": "DSW"
     },
@@ -2133,43 +2028,43 @@
     },
     {
         "card_name": "Barren Heath",
-        "number": 302,
+        "number": 290,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Soaring Edifice",
-        "number": 312,
+        "number": 300,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Lonesome Growth",
-        "number": 306,
+        "number": 294,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Ivory Brush",
-        "number": 305,
+        "number": 293,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Submerged Woodland",
-        "number": 313,
+        "number": 301,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Towering Spires",
-        "number": 316,
+        "number": 304,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Subterranean Fungus",
-        "number": 314,
+        "number": 302,
         "shape": "normal",
         "set": "DSW"
     },
@@ -2194,7 +2089,7 @@
     },
     {
         "card_name": "Vertex Reminder",
-        "number": 317,
+        "number": 305,
         "shape": "token",
         "set": "DSW"
     },

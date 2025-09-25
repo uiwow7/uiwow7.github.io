@@ -38,7 +38,7 @@
     {
         "card_name": "Cosmic Lookout",
         "number": 11,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "CC01"
     },
     {
@@ -74,13 +74,13 @@
     {
         "card_name": "Extraplanar Observer",
         "number": 17,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "CC01"
     },
     {
         "card_name": "Melting Glowdragon",
         "number": 22,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "CC01"
     },
     {
@@ -92,7 +92,7 @@
     {
         "card_name": "Skykeeper",
         "number": 8,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "CC01"
     },
     {
@@ -116,7 +116,7 @@
     {
         "card_name": "Sentinel of Empty Lands",
         "number": 28,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "CC01"
     },
     {

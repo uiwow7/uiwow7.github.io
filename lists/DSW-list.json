@@ -127,7 +127,7 @@
     },
     {
         "card_name": "Interstellar Phoenix",
-        "number": 135,
+        "number": 136,
         "shape": "normal",
         "set": "DSW"
     },
@@ -486,8 +486,8 @@
         "set": "DSW"
     },
     {
-        "card_name": "Cosmos Caller",
-        "number": 129,
+        "card_name": "Breaking Eternity",
+        "number": 128,
         "shape": "normal",
         "set": "DSW"
     },
@@ -522,8 +522,8 @@
         "set": "DSW"
     },
     {
-        "card_name": "Extraplanar Existence",
-        "number": 131,
+        "card_name": "Cosmos Caller",
+        "number": 130,
         "shape": "normal",
         "set": "DSW"
     },
@@ -558,7 +558,7 @@
         "set": "DSW"
     },
     {
-        "card_name": "Forge Chromatic Fire",
+        "card_name": "Extraplanar Existence",
         "number": 132,
         "shape": "normal",
         "set": "DSW"
@@ -594,9 +594,9 @@
         "set": "DSW"
     },
     {
-        "card_name": "Ikan Explorer",
-        "number": 134,
-        "shape": "adventure",
+        "card_name": "Forge Chromatic Fire",
+        "number": 133,
+        "shape": "normal",
         "set": "DSW"
     },
     {
@@ -630,9 +630,9 @@
         "set": "DSW"
     },
     {
-        "card_name": "Kalan Processor",
-        "number": 137,
-        "shape": "normal",
+        "card_name": "Ikan Explorer",
+        "number": 135,
+        "shape": "adventure",
         "set": "DSW"
     },
     {
@@ -666,7 +666,7 @@
         "set": "DSW"
     },
     {
-        "card_name": "Kalan Sunbeam",
+        "card_name": "Kalan Processor",
         "number": 138,
         "shape": "normal",
         "set": "DSW"
@@ -798,7 +798,7 @@
         "set": "DSW"
     },
     {
-        "card_name": "UU07 Noncreature",
+        "card_name": "UU07 DESIGNED",
         "number": 80,
         "shape": "normal",
         "set": "DSW"
@@ -834,7 +834,7 @@
         "set": "DSW"
     },
     {
-        "card_name": "UU09 Noncreature",
+        "card_name": "UU09 DESIGNED",
         "number": 81,
         "shape": "normal",
         "set": "DSW"
@@ -870,7 +870,7 @@
         "set": "DSW"
     },
     {
-        "card_name": "UU10 Noncreature",
+        "card_name": "UU10 DESIGNED",
         "number": 82,
         "shape": "normal",
         "set": "DSW"
@@ -906,7 +906,7 @@
         "set": "DSW"
     },
     {
-        "card_name": "UU12 Noncreature",
+        "card_name": "UU12 DESIGNED",
         "number": 83,
         "shape": "normal",
         "set": "DSW"
@@ -1135,7 +1135,7 @@
     },
     {
         "card_name": "Comsumed Memories",
-        "number": 128,
+        "number": 129,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1171,7 +1171,7 @@
     },
     {
         "card_name": "Eternal Flamebearer",
-        "number": 130,
+        "number": 131,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1207,7 +1207,7 @@
     },
     {
         "card_name": "Hurled Flamestone",
-        "number": 133,
+        "number": 134,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1243,7 +1243,7 @@
     },
     {
         "card_name": "Kalan Crystal Spear",
-        "number": 136,
+        "number": 137,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1541,7 +1541,7 @@
     "a->gold",
     {
         "card_name": "MM01 Small Creature",
-        "number": 255,
+        "number": 256,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1855,26 +1855,23 @@
         "set": "DSW"
     },
     {
-        "card_name": "MM05 Large Creature",
-        "number": 259,
-        "shape": "normal",
-        "set": "DSW"
+        "card_name": "e"
     },
     {
         "card_name": "MM03 Medium Creature",
-        "number": 257,
-        "shape": "normal",
-        "set": "DSW"
-    },
-    {
-        "card_name": "MM04 Medium Creature",
         "number": 258,
         "shape": "normal",
         "set": "DSW"
     },
     {
+        "card_name": "MM04 Medium Creature",
+        "number": 259,
+        "shape": "normal",
+        "set": "DSW"
+    },
+    {
         "card_name": "MM02 Medium Creature",
-        "number": 256,
+        "number": 257,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1957,7 +1954,10 @@
         "set": "DSW"
     },
     {
-        "card_name": "e"
+        "card_name": "The Eternal Nexus",
+        "number": 255,
+        "shape": "normal",
+        "set": "DSW"
     },
     {
         "card_name": "e"

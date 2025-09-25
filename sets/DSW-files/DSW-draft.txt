@@ -655,9 +655,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Avatar",
-			"collector_number": "131",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/131_Extraplanar Existence.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/132_Extraplanar Existence.jpg"
 			}
 		},
 		{
@@ -665,9 +665,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Avatar",
-			"collector_number": "137",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/137_Kalan Processor.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/138_Kalan Processor.jpg"
 			}
 		},
 		{
@@ -675,9 +675,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Avatar",
-			"collector_number": "129",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/129_Cosmos Caller.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/130_Cosmos Caller.jpg"
 			}
 		},
 		{
@@ -695,9 +695,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Avatar",
-			"collector_number": "134",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/134_Ikan Explorer.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/135_Ikan Explorer.jpg"
 			}
 		},
 		{
@@ -745,9 +745,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{R}",
 			"type": "Creature — Anima Wizard",
-			"collector_number": "130",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/130_Eternal Flamebearer.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/131_Eternal Flamebearer.jpg"
 			}
 		},
 		{
@@ -795,9 +795,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "128",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/128_Comsumed Memories.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/129_Comsumed Memories.jpg"
 			}
 		},
 		{
@@ -805,9 +805,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "133",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/133_Hurled Flamestone.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/134_Hurled Flamestone.jpg"
 			}
 		},
 		{
@@ -815,9 +815,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Kindred Sorcery — Avatar Revelation",
-			"collector_number": "132",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/132_Forge Chromatic Fire.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/133_Forge Chromatic Fire.jpg"
 			}
 		},
 		{
@@ -825,19 +825,19 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Artifact — Equipment",
-			"collector_number": "136",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/136_Kalan Crystal Spear.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/137_Kalan Crystal Spear.jpg"
 			}
 		},
 		{
-			"name": "Kalan Sunbeam",
+			"name": "Breaking Eternity",
 			"rarity": "uncommon",
 			"mana_cost": "{5}{R}",
 			"type": "Kindred Sorcery — Anima",
-			"collector_number": "138",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/138_Kalan Sunbeam.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/128_Breaking Eternity.jpg"
 			}
 		},
 		{
@@ -1251,43 +1251,43 @@
 			}
 		},
 		{
-			"name": "UU07 Noncreature",
+			"name": "UU07 DESIGNED",
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
-			"type": "",
+			"type": "Instant",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/80_UU07 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/80_UU07 DESIGNED.jpg"
 			}
 		},
 		{
-			"name": "UU09 Noncreature",
+			"name": "UU09 DESIGNED",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{U}",
-			"type": "",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/81_UU09 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/81_UU09 DESIGNED.jpg"
 			}
 		},
 		{
-			"name": "UU10 Noncreature",
+			"name": "UU10 DESIGNED",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
-			"type": "",
+			"type": "Sorcery",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/82_UU10 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/82_UU10 DESIGNED.jpg"
 			}
 		},
 		{
-			"name": "UU12 Noncreature",
+			"name": "UU12 DESIGNED",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}",
-			"type": "",
+			"type": "Enchantment",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/83_UU12 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/83_UU12 DESIGNED.jpg"
 			}
 		},
 		{
@@ -1885,9 +1885,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Phoenix",
-			"collector_number": "135",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/135_Interstellar Phoenix.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/136_Interstellar Phoenix.jpg"
 			}
 		},
 		{
@@ -2335,9 +2335,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{U}",
 			"type": "Creature",
-			"collector_number": "255",
+			"collector_number": "256",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/255_MM01 Small Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/256_MM01 Small Creature.jpg"
 			}
 		},
 		{
@@ -2345,9 +2345,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{B}{G}{U}",
 			"type": "Creature",
-			"collector_number": "256",
+			"collector_number": "257",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/256_MM02 Medium Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/257_MM02 Medium Creature.jpg"
 			}
 		},
 		{
@@ -2355,9 +2355,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{B}{G}",
 			"type": "Creature",
-			"collector_number": "257",
+			"collector_number": "258",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/257_MM03 Medium Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/258_MM03 Medium Creature.jpg"
 			}
 		},
 		{
@@ -2365,19 +2365,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{R}{W}",
 			"type": "Creature",
-			"collector_number": "258",
+			"collector_number": "259",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/258_MM04 Medium Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/259_MM04 Medium Creature.jpg"
 			}
 		},
 		{
-			"name": "MM05 Large Creature",
+			"name": "The Eternal Nexus",
 			"rarity": "mythic",
-			"mana_cost": "{2}{G}{U}{R}",
-			"type": "Creature",
-			"collector_number": "259",
+			"mana_cost": "{I}{W}{U}{B}{R}{G}",
+			"type": "Legendary Enchantment",
+			"collector_number": "255",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/259_MM05 Large Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/255_The Eternal Nexus.jpg"
 			}
 		},
 		{

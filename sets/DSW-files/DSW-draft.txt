@@ -3223,3 +3223,323 @@
 	]
 
 [cube(15)]
+	1 Sunrise Caller
+	1 Fallen Warden
+	1 Traveler of Lost Planes
+	1 Naroz Path-Traveler
+	1 Extraplanar Cleanser
+	1 Pathwalker
+	1 Fractured Avatar
+	1 Ruptured Cetacean
+	1 Avatar of the Door
+	1 The Arbiter's Wisp
+	1 Kala Reaper
+	1 Ghost of Beya's Fallen
+	1 Eternal Keeper
+	1 Eye of Naroz
+	1 Fly Across Peaceful Skies
+	1 TO BE NAMED
+	1 Unlock Empty Doors
+	1 TONAME BARU
+	1 Starbeam
+	1 New Realms
+	1 Chromatic Splinters
+	1 Warden of the Celestial Tree
+	1 Icefall Soothsayer
+	1 Najari Ascendant
+	1 Extraplanar Seeker
+	1 Ikan Lookout
+	1 Najari Pathshaper
+	1 Cosmic Aven
+	1 Stillwater Sentry
+	1 Najari Companion
+	1 TO BE NAMED
+	1 Eternal Watcher
+	1 Misrendering
+	1 Splinter New Worlds
+	1 Grasp of The Arbiter
+	1 Corruption Glitch
+	1 Rise From Eternity
+	1 Otherwordly Sensation
+	1 Witness Fallen Oracles
+	1 Spiritual Departure
+	1 Amalgamate Memories
+	1 Overwhelming Existence
+	1 The Arbiter's Fallen
+	1 Lightwoven Ghast
+	1 Recycled Ikani
+	1 Infused Warrior
+	1 Depthslighter
+	1 Avatar of Untold Horrors
+	1 Najari Shaper
+	1 Doorwatcher
+	1 Otherworldy Starbringer
+	1 P
+	1 Vision from Beyond
+	1 Eternal Wanderer
+	1 Corrupted Conviction
+	1 Transcend Mortality
+	1 Drain Spiritual Realms
+	1 Embrace Eternity
+	1 Trianglify
+	1 Allocate Memory
+	1 Corrupted Withering
+	1 Convergence of Paths
+	1 Freed from Eternity
+	1 Savan Ascendant
+	1 Najari Bloodseeker
+	1 Extraplanar Existence
+	1 Kalan Processor
+	1 Cosmos Caller
+	1 Rage from Beyond
+	1 Ikan Explorer
+	1 Stormborn Flamebringer
+	1 Yuku Dune-Prowler
+	1 The Arbiter's Pathlighter
+	1 Kara Mountain Guardian
+	1 Eternal Flamebearer
+	1 Perpetual Ricochet
+	1 Render Worlds
+	1 Shatter Eternity
+	1 Path Acceleration
+	1 Comsumed Memories
+	1 Hurled Flamestone
+	1 Forge Chromatic Fire
+	1 Kalan Crystal Spear
+	1 Breaking Eternity
+	1 Venturing Fox
+	1 XXX Uncoverer
+	1 Celestial Envoy
+	1 Ghostly Wanderer
+	1 Arisen Avatar
+	1 Beya Woodswalker
+	1 Thicket's Incarnation
+	1 Deepgrowth Critter
+	1 Resolute Herald
+	1 Avatar of Stolen Fate
+	1 Nebula Titan
+	1 Unconcerned Tortoise
+	1 Eternal Blossomer
+	1 Snakeskin Veil
+	1 Astral Navigation
+	1 Invigorate Lost Realms
+	1 Stand Your Ground
+	1 Devour To Infinity
+	1 Hunt for Eternity
+	1 Gatu Darkhammer
+	1 Devour Earthly Worlds
+	1 CA01 Small Creature
+	1 CA02 Medium Creature
+	1 Eternal Engine
+	1 CA04 Noncreature
+	1 CA05 Noncreature
+	1 CA06 Noncreature
+	1 UW01 DESIGNED
+	1 UW03 DESIGNED
+	1 UW04 DESIGNED
+	1 UW06 DESIGNED
+	1 UW07 DESIGNED
+	1 UW09 DESIGNED
+	1 UW10 DESIGNED
+	1 UW11 DESIGNED
+	1 UW13 DESIGNED
+	1 UU01 DESIGNED
+	1 UU02 DESIGNED
+	1 UU03 DESIGNED
+	1 UU04 DESIGNED
+	1 UU05 DESIGNED
+	1 UU07 DESIGNED
+	1 UU09 DESIGNED
+	1 UU10 DESIGNED
+	1 UU12 DESIGNED
+	1 UB01 Small Creature
+	1 UB02 Small Creature
+	1 UB03 Medium Creature
+	1 UB04 Medium Creature
+	1 UB05 Medium Creature
+	1 UB07 Noncreature
+	1 UB08 Noncreature
+	1 UB10 Noncreature
+	1 UB11 Noncreature
+	1 UR01 Small Creature
+	1 UR02 Small Creature
+	1 UR04 Medium Creature
+	1 UR05 Medium Creature
+	1 UR06 Medium Creature
+	1 UR09 Noncreature
+	1 UR10 Noncreature
+	1 UR11 Noncreature
+	1 UR12 Noncreature
+	1 UG01 Small Creature
+	1 UG03 Small Creature
+	1 UG04 Small Creature
+	1 UG05 Medium Creature
+	1 UG06 Medium Creature
+	1 UG07 Medium Creature
+	1 UG09 Noncreature
+	1 UG11 Noncreature
+	1 UG13 Noncreature
+	1 RW01 Small Creature
+	1 RW02 Small Creature
+	1 RW03 Medium Creature
+	1 RW04 Medium Creature
+	1 RW05 Medium Creature
+	1 RW06 Medium Creature
+	1 RW07 Medium Creature
+	1 RW08 Noncreature
+	1 RW09 Noncreature
+	1 RW10 Noncreature
+	1 RU01 Small Creature
+	1 RU02 Small Creature
+	1 RU03 Small Creature
+	1 RU04 Medium Creature
+	1 RU05 Medium Creature
+	1 RU06 Large Creature
+	1 RU07 Noncreature
+	1 RU08 Noncreature
+	1 RU09 Noncreature
+	1 RU10 Noncreature
+	1 RB01 Small Creature
+	1 RB02 Medium Creature
+	1 RB03 Medium Creature
+	1 RB04 Medium Creature
+	1 RB05 Medium Creature
+	1 RB06 Large Creature
+	1 RB07 Noncreature
+	1 RB08 Noncreature
+	1 RB09 Noncreature
+	1 RR01 Small Creature
+	1 RR02 Small Creature
+	1 RR03 Medium Creature
+	1 Interstellar Phoenix
+	1 RR05 Large Creature
+	1 RR06 Noncreature
+	1 RR07 Noncreature
+	1 RR08 Noncreature
+	1 RR09 Noncreature
+	1 RR10 Noncreature
+	1 RG01 Medium Creature
+	1 RG02 Medium Creature
+	1 RG03 Large Creature
+	1 RG04 Large Creature
+	1 RG05 Large Creature
+	1 RG06 Noncreature
+	1 RG07 Noncreature
+	1 RG08 Noncreature
+	1 RG09 Noncreature
+	1 RG10 Noncreature
+	1 RM01 Small Creature
+	1 RM02 Small Creature
+	1 RM03 Medium Creature
+	1 RM04 Medium Creature
+	1 RM05 Medium Creature
+	1 RM06 Medium Creature
+	1 RM07 Medium Creature
+	1 RM08 Medium Creature
+	1 RM09 Medium Creature
+	1 RM10 Large Creature
+	1 RM11 Large Creature
+	1 RM12 Large Creature
+	1 RM13 Large Creature
+	1 RM14 Noncreature
+	1 RM15 Noncreature
+	1 RA01 Noncreature
+	1 MW01 Small Creature
+	1 MW02 Small Creature
+	1 MW03 Medium Creature
+	1 MU01 Large Creature
+	1 MB01 Large Creature
+	1 MB02 Noncreature
+	1 MR01 Medium Creature
+	1 MR02 Noncreature
+	1 MR03 Noncreature
+	1 MG01 Large Creature
+	1 MG02 Noncreature
+	1 MG03 Noncreature
+	1 MM01 Small Creature
+	1 MM02 Medium Creature
+	1 MM03 Medium Creature
+	1 MM04 Medium Creature
+	1 The Eternal Nexus
+	1 MM06 Large Creature
+	1 Tomb of Forgotten Worlds
+	1 MX01 Noncreature
+	1 Gatu Gembearer
+	1 CI02 Small Creature
+	1 Dedicated Acolyte
+	1 Barrier of Storms
+	1 Darkstar Invader
+	1 Forerunner of the Collision
+	1 Ethereal Envoy
+	1 Disciple of the Celestial Tree
+	1 Thief of The Boundless
+	1 CI11 Medium Creature
+	1 CI10 Medium Creature
+	1 Eternal Warrior
+	1 Skyshift
+	1 Glimpse Lost Totality
+	1 Moonlight Charm
+	1 Shadowy Incarnations
+	1 Consume Into The Boundless
+	1 Empty Hollow Eternity
+	1 Starlight's Glimmer
+	1 Realmgrasper
+	1 UM02 Arcun
+	1 UM03 Arcun
+	1 UM04 Arcun
+	1 UM05 Arcun
+	1 UM06 Arcun
+	1 UI01 Small Creature
+	1 UI03 Small Creature
+	1 UI04 Small Creature
+	1 UI05 Small Creature
+	1 UI06 Small Creature
+	1 UI07 Noncreature
+	1 U08 Noncreature
+	1 UI09 Noncreature
+	1 UI11 Noncreature
+	1 MU01 Small Creature
+	1 MU01 Large Creature
+	1 RI01 Small Creature
+	1 RI02 Small Creature
+	1 RI03 Small Creature
+	1 RI04 Medium Creature
+	1 RI05 Medium Creature
+	1 RI06 Large Creature
+	1 RI07 Noncreature
+	1 RI08 Noncreature
+	1 RI09 Noncreature
+	1 RI10 Noncreature
+	1 Wonderings
+	1 Refract Empty Space
+	1 
+	1 Frozen Cavern
+	1 Forsaken Depths
+	1 Sinful Carvings
+	1 Sunlit Grove
+	1 Peacful Jungle
+	1 Barren Heath
+	1 Soaring Edifice
+	1 Lonesome Growth
+	1 Ivory Brush
+	1 Submerged Woodland
+	1 Mountaintop Temple
+	1 Towering Spires
+	1 Mysterious Gateway
+	1 Moonlit Mouth
+	1 Subterranean Fungus
+	1 UM07
+	1 UM08
+	1 UM09
+	1 UM10
+	1 UM11
+	1 UM12
+	1 UM13
+	1 UM14
+	1 UM15
+	1 UM16
+	1 UM17
+	1 UM18
+	1 UM19
+	1 UM20
+	1 UM21

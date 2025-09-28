@@ -312,7 +312,7 @@
         "set": "DCO"
     },
     {
-        "card_name": "Demon of Dark Loss",
+        "card_name": "Door to Eternity",
         "number": 85,
         "shape": "normal",
         "set": "DCO"
@@ -342,7 +342,7 @@
         "set": "DCO"
     },
     {
-        "card_name": "Door to Eternity",
+        "card_name": "Drakoli Piracy",
         "number": 86,
         "shape": "normal",
         "set": "DCO"
@@ -372,9 +372,9 @@
         "set": "DCO"
     },
     {
-        "card_name": "Drakoli Piracy",
+        "card_name": "Enduring Guardian",
         "number": 87,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "DCO"
     },
     {
@@ -402,9 +402,9 @@
         "set": "DCO"
     },
     {
-        "card_name": "Enduring Guardian",
+        "card_name": "Eternity From Beyond",
         "number": 88,
-        "shape": "adventure",
+        "shape": "normal",
         "set": "DCO"
     },
     {
@@ -432,7 +432,7 @@
         "set": "DCO"
     },
     {
-        "card_name": "Eternity From Beyond",
+        "card_name": "Eternity Seeker",
         "number": 89,
         "shape": "normal",
         "set": "DCO"

@@ -2219,3 +2219,204 @@
 	]
 
 [cube(15)]
+	1 Search the Forest
+	1 Corrupted Kirali
+	1 Frostpath Traveler
+	1 Desert Commander
+	1 New Recruit
+	1 Head of Recruitment
+	1 Shattered Swordsman
+	1 Aqiman Charger
+	1 Crafty Escape
+	1 Shattered Swordbearer
+	1 Frostpath Soldier
+	1 Alnak Blade Student
+	1 Spirit Strike
+	1 Soul Drain
+	1 Prophetic Crystal
+	1 Seek Answers
+	1 Call of Control
+	1 Icefire Bolt
+	1 Shattered Sword Iceblade
+	1 Lightning Retort
+	1 Enchanting of Stones
+	1 Learn Through Repetition
+	1 Sage of Aenir's Reclamation
+	1 Window to Lost Souls
+	1 Answer Seeker
+	1 Darkness Searcher
+	1 Icy Aurora
+	1 Alanar Teacher
+	1 Shattered Sword Warlock
+	1 Into the Cave
+	1 Explore the Depths
+	1 Corrupted Grounds
+	1 Warlock of the Tower
+	1 Soul Whisperer
+	1 Shattered Sword Soldier
+	1 Seek the Depths
+	1 One With Shadows
+	1 Irkian Mindrender
+	1 Darkmoon Aurora
+	1 Witch of Thirak
+	1 Undying Shadowblade
+	1 Altar of Lost Shadows
+	1 Corrupting Fire
+	1 Immolating Smite
+	1 Crimson Lights
+	1 Kangal Martyr
+	1 Fellfire Restoration
+	1 Warlock of Dark Fire
+	1 Brave Strike
+	1 Mesa Spearman
+	1 Spearman of the Alliance
+	1 Thalur Firewizard
+	1 Butcher of Graves
+	1 Night Rider of Fire
+	1 Jungle Adept
+	1 Icefire Ally
+	1 Burning of the Ground
+	1 Wisdom of the Sea
+	1 Lost Sanctuary
+	1 Iriatu Explorer
+	1 Deep-Jungle Bear
+	1 Ruins of Decay
+	1 Dark Forest Surveyor
+	1 Aenir Expedition
+	1 Last Watch of Alanar
+	1 Scout of Jhal
+	1 Iriatu Healer
+	1 Lost Forest Relic
+	1 Dark Forest Fighter
+	1 Jungle Scout
+	1 Recruit Trainer
+	1 Armored Windblade
+	1 Shattered Sword Cleaver
+	1 Dark Dredging
+	1 Lit Meteorite
+	1 Thirak Commander
+	1 Thalur Recruiter
+	1 Dark Thought-Thief
+	1 Unchained Nightwatcher
+	1 Beyond the Tower
+	1 Seek the World of Dreams
+	1 Dreams of Color
+	1 Corrupter of Magic
+	1 Servant to Magius
+	1 Shattered Sword Duplicator
+	1 Dark Summoner
+	1 Adaptive Mage
+	1 Oracle of Wisps
+	1 Shattered Sword Assassin
+	1 Destruction Circle
+	1 Cosmic Manipulator
+	1 Horror of the Bog
+	1 Shadow Duplication
+	1 Western Army Commander
+	1 Lost Crypt
+	1 Angel of Darkened Faith
+	1 Shattered Sword Brainwasher
+	1 Arid Attacker
+	1 Rage of Fiery Darkness
+	1 Altar of Lost Fire
+	1 Firelight Duelist
+	1 Arid Forest Venturer
+	1 Conjurer of Lost Joy
+	1 Irkian Flagbearer
+	1 Desert Admiral
+	1 Shattered Sword Punisher
+	1 River Scout
+	1 Undiscovered Depths Scout
+	1 Reclaimer of Aenir
+	1 Marsh Explorer
+	1 Alanar Forest Fighter
+	1 Druid of Iriatu
+	1 Blade of Verdant Exploration
+	1 Scout of Attunement
+	1 Cloud Invocation
+	1 Sunrise Savant
+	1 Mind Healer
+	1 Shattered Sword Defender
+	1 Angel of Pure Faith
+	1 Journey's End
+	1 Allied Reinforcements
+	1 The Icelord
+	1 Wielder of Stars
+	1 Kanil, Night Rider of Ice
+	1 Seek Prosperity
+	1 Whimsical Spellcaster
+	1 Wizard of Aenir
+	1 Warlock of Shadow Sorcery
+	1 Demonic Studies
+	1 Grand Warlock Talnir
+	1 Deal With Ravens
+	1 Villainous Fiend
+	1 Demonic Bloodlord
+	1 Bloodstained Moon
+	1 Lava Lance
+	1 Barbarian of the West
+	1 Southern Fireblade
+	1 Nebula's Impulse
+	1 Demonic Protector
+	1 Intrepid Rootwalla
+	1 Chromatic Attunement
+	1 Shifting Roots
+	1 Forest Giant
+	1 Mountaineer Scout
+	1 Lost Forest Shrine
+	1 Battle of the Tower
+	1 Sacred Emissary
+	1 Lost From the World
+	1 Zirlir, Prodigious Decipherer
+	1 Profane Emissary
+	1 Jklamdiel, Xirok's Chosen
+	1 The Night Riders' Bane
+	1 Drorix's Sword
+	1 Verdant Reclamation
+	1 Mind Thief
+	1 Corrupted Ritualist
+	1 Corrupter of Nature
+	1 Autumn Mage
+	1 Armored Recruiter
+	1 Ironrun Soldier
+	1 Volcano Sage
+	1 Corrupted Forester
+	1 Allied Commander
+	1 Alanar Water Mage
+	1 Cave of Ice
+	1 The Circle of Ash
+	1 Erki, Blade of Darkness
+	1 Attuned Landscape
+	1 Unending Reinforcements
+	1 Return the Sword
+	1 Relive Rage
+	1 Recoiling Regrowth
+	1 Raziq, Desert Hero
+	1 Verdant Discovery
+	1 Attuned Spellcharger
+	1 Stone of Darkness
+	1 Gate to the Tower
+	1 Altar of Lost Colors
+	1 Altar of Lost Light
+	1 Altar of Lost Curiosity
+	1 Evolving Wilds
+	1 Marraq
+	1 Lephyx's Crystal
+	1 Verdant Cliffside
+	1 The Ice Wastes
+	1 Iriatu Falls
+	1 Kiral, Desert Village
+	1 The Corrupted Lands
+	1 Valley of Paradise
+	1 Akali Lava Giant
+	1 Xirok, the Shattered One
+	1 Galranok, Oracle of Magic
+	1 Alliance Medic
+	1 Lost Servant
+	1 Call of Answers
+	1 Drain the Lands
+	1 Take Back the Lands
+	1 Brilliant Aurora
+	1 Darkness Unchained
+	1 Drorix, Divine Outcast
+	1 In Search of Grandeur

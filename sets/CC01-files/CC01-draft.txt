@@ -458,3 +458,43 @@
 	]
 
 [cube(15)]
+	1 Demonheart Overseer
+	1 Call of the Celestial Tree
+	1 Starts in Sanctum
+	1 Skykeeper
+	1 Lifebound Synthesizer
+	1 Cosmic Lookout
+	1 Call of the Starsea
+	1 Reflected Familiar
+	1 Stormwrought Titan
+	1 Darksun Executioner
+	1 Call of the Soul
+	1 Somber Emptiness
+	1 Extraplanar Observer
+	1 Starbrought Avatar
+	1 Vertex ProductionSynergy
+	1 Call of the Sunset
+	1 Portal to Destruction
+	1 Melting Glowdragon
+	1 Dark Omen Raven
+	1 Ursine Woodheart
+	1 Call of the Lifebringer
+	1 Darkgrowth Columns
+	1 Sentinel of Empty Lands
+	1 Forgotten Effigy
+	1 Vertex ProductionSynergy
+	1 Call of the Sky
+	1 Lost Mirrorpools
+	1 Cursed Stormbringer
+	1 Wandering Sentry
+	1 The Moonlight Shadows
+	1 The Sunlit Pools
+	1 The Sunset Undergrowth
+	1 The Icefire Monuments
+	1 The Earthbound Brushwoods
+	1 Colorless Planeswalker
+	1 Reserves hate card
+	1 Monument to Lapsed Realms
+	1 Expensive card with alt mode
+	1 Changeling with typal payoff
+	1 Untouched Falls

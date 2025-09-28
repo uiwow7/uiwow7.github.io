@@ -343,3 +343,37 @@
 	]
 
 [cube(15)]
+	1 Cryptic Call
+	1 Profane Call
+	1 Blazing Call
+	1 Verdant Call
+	1 Illusory Companion
+	1 Deep Sea Consumer
+	1 Wasteful Decay
+	1 Wayward Impulse
+	1 Forest's Watcher
+	1 Divine Call
+	1 Rise From Depths
+	1 Darkened Strix
+	1 Crusader of the Blood Moon
+	1 Angelic Wrath
+	1 Dragon of Arcane Frost
+	1 Intoxicating Decay
+	1 Dragon of Celestial Wishes
+	1 Unceasing Explorer
+	1 Welcoming Light
+	1 Visions of The Great Beyond
+	1 Arcane Onslaught
+	1 In Search of Grandeur
+	1 Magius Udel, Oracle of Light
+	1 Darkness Unchained
+	1 The Last Dozandi
+	1 Drorix, Divine Outcast
+	1 Call of Chaos
+	1 Arcane Oracle
+	1 Explorer of Finality
+	1 Outpost of Radiant Fire
+	1 Unfathomable Exploration
+	1 Caves of Premonition
+	1 Galen, Kinzan Engineer
+	1 In Search of Brilliance

@@ -335,9 +335,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "88",
+			"collector_number": "87",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DCO-files/img/88_Enduring Guardian.jpg"
+				"en": "https://uiwow7.github.io/sets/DCO-files/img/87_Enduring Guardian.jpg"
 			}
 		},
 		{
@@ -393,7 +393,7 @@
 		{
 			"name": "The Arbiter's Informer",
 			"rarity": "rare",
-			"mana_cost": "{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Enchantment Creature — Avatar",
 			"collector_number": "141",
 			"image_uris": {
@@ -491,13 +491,13 @@
 			}
 		},
 		{
-			"name": "Demon of Dark Loss",
+			"name": "Eternity Seeker",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Demon",
-			"collector_number": "85",
+			"type": "Creature — Avatar",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DCO-files/img/85_Demon of Dark Loss.jpg"
+				"en": "https://uiwow7.github.io/sets/DCO-files/img/89_Eternity Seeker.jpg"
 			}
 		},
 		{
@@ -875,9 +875,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Artifact",
-			"collector_number": "86",
+			"collector_number": "85",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DCO-files/img/86_Door to Eternity.jpg"
+				"en": "https://uiwow7.github.io/sets/DCO-files/img/85_Door to Eternity.jpg"
 			}
 		},
 		{
@@ -1285,9 +1285,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "87",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DCO-files/img/87_Drakoli Piracy.jpg"
+				"en": "https://uiwow7.github.io/sets/DCO-files/img/86_Drakoli Piracy.jpg"
 			}
 		},
 		{
@@ -1595,9 +1595,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
-			"collector_number": "89",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DCO-files/img/89_Eternity From Beyond.jpg"
+				"en": "https://uiwow7.github.io/sets/DCO-files/img/88_Eternity From Beyond.jpg"
 			}
 		},
 		{
@@ -2103,3 +2103,203 @@
 	]
 
 [cube(15)]
+	1 In Search of Eternity
+	1 The Arbiter's Watcher
+	1 Icedroid
+	1 Lost Ghast
+	1 The Arbiter's Warden
+	1 Twisting Nebulas
+	1 Last Light of Naroz
+	1 Stack Popper
+	1 Ghost of Fallen Angels
+	1 Recursive Pyromage
+	1 Chosen of the Grand Oracles
+	1 Buffer Underflow
+	1 Package Manager
+	1 Watching Eternity
+	1 Circular Import
+	1 Unexpected Token
+	1 Drorix, Cosmic Outcast
+	1 Luminescent Golem
+	1 The Final Frontier
+	1 Cavesplitter
+	1 Sava's Last Eclipse
+	1 Cosmically Centered
+	1 Otherworldly Wayfarer
+	1 The Arbiter's Raider
+	1 Past Left Behind
+	1 Stack Pusher
+	1 Shrouded Subjugator
+	1 Ocean Watcher
+	1 Shock
+	1 Fungal Raze
+	1 Traversing the Paths
+	1 Ethereal Spellbinder
+	1 Enduring Guardian
+	1 Boatman of Kala
+	1 Depths Giant
+	1 Eldo, Abyssal City
+	1 Night Rummager
+	1 Karan Assassin
+	1 The Arbiter's Informer
+	1 The Arbiter's Protector
+	1 Guardian of Laba
+	1 Summoner of True Light
+	1 Cosmic Watcher
+	1 Corruption From Beyond
+	1 Hellfire Wyrm
+	1 Preserver of Voro
+	1 Tree of Celestial Light
+	1 Memory Leak
+	1 Eternity Seeker
+	1 The Arbiter's Marauder
+	1 Harmony of Voro
+	1 Clockwork Disciple
+	1 Sky of Beya
+	1 Look Across the Lake
+	1 Careless Whims
+	1 Titan of Sunrise
+	1 Destiny Diviner
+	1 Moonlight Spellbinder
+	1 The Arbiter's Whisperer
+	1 Scorcher
+	1 Dutiful Companion
+	1 Griffin of Serenity
+	1 Unchained Karan
+	1 Kala Eradicator
+	1 Yuku Mystic
+	1 Warp Gateway
+	1 Denial of Service
+	1 Rite of the Grand Oracles
+	1 Marring Flames
+	1 Byte Down
+	1 Sunrise Lookout
+	1 Intellect From Beyond
+	1 Behemoth Beckoner
+	1 Savan Veteran
+	1 Sentinel of Sanctuaries
+	1 Shindu, Gleaming City
+	1 Zidan, Shadowy City
+	1 Kama, Shattered City
+	1 Toshin, Verdant City
+	1 Collected Entrancing
+	1 Power Off
+	1 Crystalized Dread
+	1 Pillar of Fury
+	1 Firmness of Toshin
+	1 Tranquil Wanderer
+	1 Final Arrival
+	1 Door to Eternity
+	1 Rage of Sava
+	1 Moonrise
+	1 Shadowmare
+	1 Heartless Executor
+	1 Cosmic Roamer
+	1 Fragments of Times Past
+	1 Warmth of a Thousand Souls
+	1 The Arbiter's Worldbringer
+	1 The Arbiter's Sight
+	1 Naroz Sentinel
+	1 Vicious Fiend
+	1 Artificial Ferocity
+	1 Dreary Voyager
+	1 Leviathan Caller
+	1 Malignant Hexer
+	1 Herald of Sparks
+	1 Phantom Stag
+	1 Undefined Reference
+	1 List Indexer
+	1 Abyssal Callback
+	1 Race Against Omnipotence
+	1 The Arbiter's Strength
+	1 Adrift Surveyor
+	1 Wistful Observer
+	1 Cache Recovery
+	1 Vulpine Sage
+	1 Deepgrowth Drake
+	1 The Arbiter's Elite
+	1 Ghastly Wanderer
+	1 Fallen of Kara
+	1 Splintering Fire
+	1 Lost to the Storm
+	1 Paths of Stolen Life
+	1 Herald of Naroz
+	1 Nausea From Beyond
+	1 Gazing Rage
+	1 Champion of Drakol
+	1 The Arbiter
+	1 Peaceful Charmer
+	1 Twilight Revelation
+	1 Drakoli Piracy
+	1 Wisps of Flaming Brilliance
+	1 Goliath Assailant
+	1 Doomteller Adept
+	1 Cultist of Cold Fate
+	1 Harbinger of Demise
+	1 Demon of Ruinous Fire
+	1 Illuminating Augur
+	1 Dread From Beyond
+	1 Celestial Encroachment
+	1 All The Darkest Hopes
+	1 Free Rider
+	1 Inquiry From Beyond
+	1 Uncover
+	1 Cosmic Immenseness
+	1 Celestial Darkness
+	1 Lively Pup
+	1 Spidroid
+	1 Sunset Dreamer
+	1 Ghastly Hunter
+	1 Leviathan Tides
+	1 Writhing Mound
+	1 Blood of Moonlight
+	1 Deepgrowth Explorer
+	1 Lost Curiosity
+	1 Energy Displacer
+	1 The Arbiter's Reaper
+	1 Burning Quasar
+	1 Monk of Deafening Peace
+	1 Idyllic Tutor
+	1 The Arbiter's Wavebringer
+	1 Eternity From Beyond
+	1 Kalan Explorer
+	1 Deepgrowth Expansion
+	1 Magitel, Flaming Brilliance
+	1 Cira, Lost in the Stars
+	1 Talza, the Defeated
+	1 Jhakan, Failed Lich
+	1 Nashar, Starry Turtle
+	1 Designed Emptiness
+	1 Naroz Icebreaker
+	1 Into Eternity
+	1 Firespace Seeker
+	1 Herald of the New Times
+	1 Illuminating Vortex
+	1 Cold Truths
+	1 Dark Dragonfire
+	1 Lightning Radiator
+	1 Chromatic Starlight
+	1 Emptylands Rover
+	1 Darkwave Container
+	1 The Arbiter's Retriever
+	1 Spacelight
+	1 Energizer
+	1 Swarm Engine
+	1 Shorian, Herald of the Beyond
+	1 Peace in Twilight
+	1 Warlock of Venomous Fire
+	1 Unbound Soul
+	1 The Arbiter's Harmonizer
+	1 Beyan Tormentor
+	1 Necromancer of the Depths
+	1 Lantern Bearer
+	1 Risen Thicket
+	1 Night of Stopped Water
+	1 Sunset Dancer
+	1 Endless Wreckage
+	1 Knight of Beya
+	1 Watchful Gaze
+	1 Endless Sunrise
+	1 Ancients From Beyond
+	1 Cosmic Incarnation
+	1 Marshland Birth

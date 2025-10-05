@@ -478,7 +478,7 @@ def generateHTML(codes):
 			</div>
 			<div class="static-deck-container">
 				<div class="deck-cards-container">
-					<div class="deck-col" id="col1">
+					<!--div class="deck-col" id="col1">
 						<div class="deck-section" id="deck-creature">
 							<span id="deck-creature-title">Creatures (0)</span>
 							<div class="deck-inner-section" id="deck-creature-cards">
@@ -526,7 +526,7 @@ def generateHTML(codes):
 							<div class="deck-inner-section" id="deck-sideboard-cards">
 							</div>
 						</div>
-					</div>
+					</div-->
 				</div>
 			</div>
 		</div>
@@ -540,6 +540,66 @@ def generateHTML(codes):
 		let sideboard = [];
 		let active_card = [];
 		let sets_json = {};
+
+		const deck_cards_html = `<div class="deck-col" id="col1">
+					<div class="deck-section" id="deck-creature">
+						<span id="deck-creature-title">Creatures (0)</span>
+						<div class="deck-inner-section" id="deck-creature-cards">
+						</div>
+					</div>
+					<div class="deck-section" id="deck-planeswalker">
+						<span id="deck-planeswalker-title">Planeswalkers (0)</span>
+						<div class="deck-inner-section" id="deck-planeswalker-cards">
+						</div>
+					</div>
+					<div class="deck-section" id="deck-artifact">
+						<span id="deck-artifact-title">Artifacts (0)</span>
+						<div class="deck-inner-section" id="deck-artifact-cards">
+						</div>
+					</div>
+					<div class="deck-section" id="deck-enchantment">
+						<span id="deck-enchantment-title">Enchantments (0)</span>
+						<div class="deck-inner-section" id="deck-enchantment-cards">
+						</div>
+					</div>
+					<div class="deck-section" id="deck-battle">
+						<span id="deck-battle-title">Battles (0)</span>
+						<div class="deck-inner-section" id="deck-battle-cards">
+						</div>
+					</div>
+					<div class="deck-section" id="deck-other">
+						<span id="deck-other-title">Other (0)</span>
+						<div class="deck-inner-section" id="deck-other-cards">
+						</div>
+					</div>
+				</div>
+				<div class="deck-col" id="col2">
+					<div class="deck-section" id="deck-instant">
+						<span id="deck-instant-title">Instants (0)</span>
+						<div class="deck-inner-section" id="deck-instant-cards">
+						</div>
+					</div>
+					<div class="deck-section" id="deck-sorcery">
+						<span id="deck-sorcery-title">Sorceries (0)</span>
+						<div class="deck-inner-section" id="deck-sorcery-cards">
+						</div>
+					</div>
+					<div class="deck-section" id="deck-land">
+						<span id="deck-land-title">Lands (0)</span>
+						<div class="deck-inner-section" id="deck-land-cards">
+						</div>
+					</div>
+					<div class="deck-section" id="deck-sideboard">
+						<span id="deck-sideboard-title">Sideboard (0)</span>
+						<div class="deck-inner-section" id="deck-sideboard-cards">
+						</div>
+					</div>
+					<div class="deck-section" id="deck-sanctum">
+						<span id="deck-sanctum-title">Sanctum (0)</span>
+						<div class="deck-inner-section" id="deck-sanctum-cards">
+						</div>
+					</div>
+				</div>`
 
 		document.addEventListener("DOMContentLoaded", async function () {
 			'''
@@ -981,6 +1041,8 @@ def generateHTML(codes):
 
 						if (display_style == "text")
 						{
+							document.getElementsByClassName("deck-cards-container")[0].innerHTML = deck_cards_html;
+
 							card_row = document.createElement("div");
 							card_row.className = "deck-line";
 							
@@ -1062,8 +1124,10 @@ def generateHTML(codes):
 							card_row.appendChild(card_in_deck);
 							cards_ele.appendChild(card_row);
 						}
-						else
+						else if (display_style == "image")
 						{
+							document.getElementsByClassName("deck-cards-container")[0].innerHTML = deck_cards_html;
+
 							card_img_container = document.createElement("div");
 							card_img_container.className = "card-img-container";
 							if (card == cards_list[cards_list.length - 1])
@@ -1154,6 +1218,11 @@ def generateHTML(codes):
 							card_img_container.appendChild(card_count);
 							card_img_container.appendChild(card_img);
 							cards_ele.appendChild(card_img_container);
+						}
+						else {
+							// stats view
+							document.getElementsByClassName("deck-cards-container")[0].innerHTML = "";
+							makeStatsTab(deck_cards);
 						}
 					}
 				}

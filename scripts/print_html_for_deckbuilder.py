@@ -392,6 +392,22 @@ def generateHTML(codes):
 	.sg-icon {
 		cursor: pointer;
 	}
+
+	/* layout fixes for smaller devices */
+	@media (max-device-width: 800px) {
+		.page-container {
+			grid-template-rows: 3fr 2fr;
+			grid-template-columns: auto;
+		}
+
+		.card-img-container {
+			height: 50px;
+		}
+
+		.image-grid {
+			grid-template-columns: 1fr 1fr;
+		}
+	}
 </style>
 <body>
 	<div class="header">
@@ -1142,6 +1158,190 @@ def generateHTML(codes):
 					}
 				}
 			}
+		}
+
+		function makeStatsTab(deck_cards) {
+			const stats_tab_1 = document.createElement("div");
+			stats_tab_1.className = "stats-tab-container";
+			const stats_tab_2 = document.createElement("div");
+			stats_tab_2.className = "stats-tab-container";
+
+			let mana_values = [0, 0, 0, 0, 0, 0, 0, 0];
+			let color_cards = { "W": 0, "U": 0, "B": 0, "R": 0, "G": 0, "I": 0, "M": 0, "C": 0 };
+			let card_types = {};
+			const mv_labels = ["0", "1", "2", "3", "4", "5", "6+"];
+			const total_length = deck.length + sideboard.length + sanctum.length;
+			let total_nonlands = 0;
+
+			const mana_curve_chart = document.createElement("canvas");
+			mana_curve_chart.id = "mana-curve-chart";
+			mana_curve_chart.className = "mana-curve-chart";
+
+			const colors_chart = document.createElement("canvas");
+			colors_chart.id = "deck-colors-chart";
+			colors_chart.className = "deck-colors-chart";
+
+			const types_chart = document.createElement("canvas");
+			types_chart.id = "deck-types-chart";
+			types_chart.className = "deck-types-chart";
+
+			for (const card of deck) {
+				const card_stats = JSON.parse(card);
+				let card_mv = convertToMV(card_stats.cost);
+				const color = card_stats.color;
+				if (!card_stats.type.includes("Land")) {
+					card_mv = Math.min(6, card_mv);
+					mana_values[card_mv] += 1;
+					if (color_cards[color] != null) {
+						color_cards[color] += 1;
+					} else if (color == "") {
+						color_cards["C"] += 1;
+					} else {
+						color_cards["M"] += 1;
+					}
+					total_nonlands++;
+				}
+
+			}
+
+			for (const card of sideboard) {
+				const card_stats = JSON.parse(card);
+				let card_mv = convertToMV(card_stats.cost);
+				const color = card_stats.color;
+				if (!card_stats.type.includes("Land")) {
+					card_mv = Math.min(6, card_mv);
+					mana_values[card_mv] += 1;
+					if (color_cards[color] != null) {
+						color_cards[color] += 1;
+					} else if (color == "") {
+						color_cards["C"] += 1;
+					} else {
+						color_cards["M"] += 1;
+					}
+					total_nonlands++;
+				}
+			}
+
+			for (const card of sanctum) {
+				const card_stats = JSON.parse(card);
+				let card_mv = convertToMV(card_stats.cost);
+				const color = card_stats.color;
+				if (!card_stats.type.includes("Land")) {
+					card_mv = Math.min(6, card_mv);
+					mana_values[card_mv] += 1;
+					if (color_cards[color] != null) {
+						color_cards[color] += 1;
+					} else if (color == "") {
+						color_cards["C"] += 1;
+					} else {
+						color_cards["M"] += 1;
+					}
+					total_nonlands++;
+				}
+			}
+
+			for (const [key, map] of deck_cards) {
+				if (key == "sideboard")
+					continue;
+				for (const card of map.keys()) {
+					let num = map.get(card);
+					if (card_types[key] == null) {
+						card_types[key] = num;
+					} else {
+						card_types[key] += num;
+					}
+				}
+			}
+
+			stats_tab_1.appendChild(mana_curve_chart);
+			stats_tab_1.appendChild(types_chart);
+			stats_tab_2.appendChild(colors_chart);
+
+			document.getElementsByClassName("deck-cards-container")[0].appendChild(stats_tab_1);
+			document.getElementsByClassName("deck-cards-container")[0].appendChild(stats_tab_2);
+			const background_colors = "rgba(0,0,0,0.6) ".repeat(mana_values.length).split(" ");
+
+			new Chart("mana-curve-chart", {
+				type: "bar",
+				data: {
+					labels: mv_labels,
+					datasets: [{
+						data: mana_values,
+						backgroundColor: background_colors
+					}]
+				}, options: {
+					legend: { display: false },
+					title: {
+						display: true,
+						text: `       Mana Curve       (Average: ${mv_average(mana_values, total_nonlands).toFixed(2)})`
+					},
+					plugins: {
+						labels: {
+							render: "value"
+						}
+					}
+				}
+			});
+
+			const color_bgs = ["#F0F2C0", "#B5CDE3", "#ACA29A", "#DB8664", "#93B483", "#9B91B2", "#ebd567", "#BEB9B2"]
+
+			new Chart("deck-colors-chart", {
+				type: "pie",
+				data: {
+					labels: ["White", "Blue", "Black", "Red", "Green", "Silver", "Multicolor", "Colorless"],
+					datasets: [{
+						data: Object.values(color_cards),
+						backgroundColor: color_bgs
+					}]
+				}, options: {
+					legend: { display: false },
+					title: {
+						display: true,
+						text: "Card Colors"
+					},
+					plugins: {
+						labels: {
+							render: "value",
+							position: "border"
+						}
+					}
+				}
+			});
+
+			new Chart("deck-types-chart", {
+				type: "bar",
+				data: {
+					labels: Object.keys(card_types),
+					datasets: [{
+						data: Object.values(card_types),
+						backgroundColor: background_colors
+					}]
+				}, options: {
+					legend: { display: false },
+					title: {
+						display: true,
+						text: "Card Types"
+					},
+					plugins: {
+						labels: {
+							render: "value",
+							position: "outside"
+						}
+					}
+				}
+			});
+		}
+
+		function mv_average(l, total_length) {
+			let total_mv = 0;
+			let current_mv = 0;
+
+			for (const i of l) {
+				total_mv += current_mv * i;
+				current_mv++;
+			}
+
+			return total_mv / total_length;
 		}
 
 		async function exportFile(export_as) {

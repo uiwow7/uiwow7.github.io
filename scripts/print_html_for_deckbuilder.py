@@ -464,6 +464,7 @@ def generateHTML(codes):
 				<select name="display-select" class="display-select" id="display-select">
 					<option value="text">Text</option>
 					<option value="images">Images</option>
+					<option value="stats">Stats</option>
 				</select>
 				<div></div> <!-- empty div for spacing -->
 				<select name="file-menu" class="file-menu" id="file-menu">
@@ -478,59 +479,14 @@ def generateHTML(codes):
 			</div>
 			<div class="static-deck-container">
 				<div class="deck-cards-container">
-					<!--div class="deck-col" id="col1">
-						<div class="deck-section" id="deck-creature">
-							<span id="deck-creature-title">Creatures (0)</span>
-							<div class="deck-inner-section" id="deck-creature-cards">
-							</div>
-						</div>
-						<div class="deck-section" id="deck-planeswalker">
-							<span id="deck-planeswalker-title">Planeswalkers (0)</span>
-							<div class="deck-inner-section" id="deck-planeswalker-cards">
-							</div>
-						</div>
-						<div class="deck-section" id="deck-artifact">
-							<span id="deck-artifact-title">Artifacts (0)</span>
-							<div class="deck-inner-section" id="deck-artifact-cards">
-							</div>
-						</div>
-						<div class="deck-section" id="deck-enchantment">
-							<span id="deck-enchantment-title">Enchantments (0)</span>
-							<div class="deck-inner-section" id="deck-enchantment-cards">
-							</div>
-						</div>
-						<div class="deck-section" id="deck-battle">
-							<span id="deck-battle-title">Battles (0)</span>
-							<div class="deck-inner-section" id="deck-battle-cards">
-							</div>
-						</div>
-					</div>
-					<div class="deck-col" id="col2">
-						<div class="deck-section" id="deck-instant">
-							<span id="deck-instant-title">Instants (0)</span>
-							<div class="deck-inner-section" id="deck-instant-cards">
-							</div>
-						</div>
-						<div class="deck-section" id="deck-sorcery">
-							<span id="deck-sorcery-title">Sorceries (0)</span>
-							<div class="deck-inner-section" id="deck-sorcery-cards">
-							</div>
-						</div>
-						<div class="deck-section" id="deck-land">
-							<span id="deck-land-title">Lands (0)</span>
-							<div class="deck-inner-section" id="deck-land-cards">
-							</div>
-						</div>
-						<div class="deck-section" id="deck-sideboard">
-							<span id="deck-sideboard-title">Sideboard (0)</span>
-							<div class="deck-inner-section" id="deck-sideboard-cards">
-							</div>
-						</div>
-					</div-->
+					<!-- This element's innerhtml is assigned via a string found a bit below in `deck_cards_html` Html editing for this element should be done there -->
 				</div>
 			</div>
 		</div>
 	</div>
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>
+	<script src="https://cdn.jsdelivr.net/gh/emn178/chartjs-plugin-labels/src/chartjs-plugin-labels.js"></script>
 
 	<script>
 		let search_results = [];
@@ -594,11 +550,6 @@ def generateHTML(codes):
 						<div class="deck-inner-section" id="deck-sideboard-cards">
 						</div>
 					</div>
-					<div class="deck-section" id="deck-sanctum">
-						<span id="deck-sanctum-title">Sanctum (0)</span>
-						<div class="deck-inner-section" id="deck-sanctum-cards">
-						</div>
-					</div>
 				</div>`
 
 		document.addEventListener("DOMContentLoaded", async function () {
@@ -623,6 +574,8 @@ def generateHTML(codes):
 			gridified_card.getElementsByTagName("img")[0].id = "image-grid-card";
 			gridified_card.getElementsByTagName("a")[0].removeAttribute("href");
 			document.getElementById("card-grid-container").appendChild(gridified_card);
+
+			document.getElementById("display-select").value = "text"; // Aanginer: initalize display style as text to prevent funkiness with browsers saving data and initializing on the stats tab
 
 			// initial search on load
 			preSearch();
@@ -1006,43 +959,47 @@ def generateHTML(codes):
 				}
 			}
 
+			const display_style = document.getElementById("display-select").value;
+			document.getElementsByClassName("deck-cards-container")[0].innerHTML = deck_cards_html;
+
+
 			for (const [key, map] of deck_cards)
 			{
 				dsec_id = "deck-" + key;
 				outer_ele = document.getElementById(dsec_id);
 
-				if (map.size == 0)
+				if (map.size == 0 && outer_ele)
 				{
 					outer_ele.style.display = "none";
 				}
 				else
-				{
-					outer_ele.style.display = "grid";
-					dsec_c_id = dsec_id + "-cards";
-					
-					dsec_t_id = dsec_id + "-title";
-					title_ele = document.getElementById(dsec_t_id);
-					let count = 0;
-					for (const val of Array.from(map.values()))
-					{
-						count += val;
-					}
-					const numregex = /[0-9]+/;
-					title_ele.innerText = title_ele.innerText.replace(numregex, count);
+				{	
+					if (outer_ele) {
+						outer_ele.style.display = "grid";
+						dsec_c_id = dsec_id + "-cards";
+						
+						dsec_t_id = dsec_id + "-title";
+						title_ele = document.getElementById(dsec_t_id);
+						let count = 0;
+						for (const val of Array.from(map.values()))
+						{
+							count += val;
+						}
+						const numregex = /[0-9]+/;
+						title_ele.innerText = title_ele.innerText.replace(numregex, count);
 
-					cards_ele = document.getElementById(dsec_c_id);
-					cards_ele.innerHTML = "";
+						cards_ele = document.getElementById(dsec_c_id);
+						cards_ele.innerHTML = "";
+					}
+
 					const cards_list = Array.from(map.keys()).sort();				
 					for (const card of cards_list)
 					{
-						const display_style = document.getElementById("display-select").value;
 						const card_stats = JSON.parse(card);
 						const card_name = card_stats.card_name;
 
 						if (display_style == "text")
 						{
-							document.getElementsByClassName("deck-cards-container")[0].innerHTML = deck_cards_html;
-
 							card_row = document.createElement("div");
 							card_row.className = "deck-line";
 							
@@ -1124,10 +1081,8 @@ def generateHTML(codes):
 							card_row.appendChild(card_in_deck);
 							cards_ele.appendChild(card_row);
 						}
-						else if (display_style == "image")
+						else if (display_style == "images")
 						{
-							document.getElementsByClassName("deck-cards-container")[0].innerHTML = deck_cards_html;
-
 							card_img_container = document.createElement("div");
 							card_img_container.className = "card-img-container";
 							if (card == cards_list[cards_list.length - 1])
@@ -1239,7 +1194,7 @@ def generateHTML(codes):
 			let color_cards = { "W": 0, "U": 0, "B": 0, "R": 0, "G": 0, "I": 0, "M": 0, "C": 0 };
 			let card_types = {};
 			const mv_labels = ["0", "1", "2", "3", "4", "5", "6+"];
-			const total_length = deck.length + sideboard.length + sanctum.length;
+			const total_length = deck.length + sideboard.length;
 			let total_nonlands = 0;
 
 			const mana_curve_chart = document.createElement("canvas");
@@ -1274,24 +1229,6 @@ def generateHTML(codes):
 			}
 
 			for (const card of sideboard) {
-				const card_stats = JSON.parse(card);
-				let card_mv = convertToMV(card_stats.cost);
-				const color = card_stats.color;
-				if (!card_stats.type.includes("Land")) {
-					card_mv = Math.min(6, card_mv);
-					mana_values[card_mv] += 1;
-					if (color_cards[color] != null) {
-						color_cards[color] += 1;
-					} else if (color == "") {
-						color_cards["C"] += 1;
-					} else {
-						color_cards["M"] += 1;
-					}
-					total_nonlands++;
-				}
-			}
-
-			for (const card of sanctum) {
 				const card_stats = JSON.parse(card);
 				let card_mv = convertToMV(card_stats.cost);
 				const color = card_stats.color;
@@ -1348,6 +1285,14 @@ def generateHTML(codes):
 						labels: {
 							render: "value"
 						}
+					},
+					scales: {
+						yAxes: [{
+							display: true,
+							ticks: {
+								beginAtZero: true,
+							}
+						}]
 					}
 				}
 			});
@@ -1396,6 +1341,14 @@ def generateHTML(codes):
 							render: "value",
 							position: "outside"
 						}
+					},
+					scales: {
+						yAxes: [{
+							display: true,
+							ticks: {
+								beginAtZero: true,
+							}
+						}]
 					}
 				}
 			});

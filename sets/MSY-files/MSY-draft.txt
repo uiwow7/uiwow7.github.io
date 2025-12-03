@@ -1,0 +1,529 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/1_.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/7_.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/13_.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/19_.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/25_.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/5_.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/11_.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/14_.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/20_.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/26_.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/2_.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/8_.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/15_.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/21_.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/27_.jpg"
+			}
+		},
+		{
+			"name": "Embodiment of Radiance",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Avatar Horror",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/6_Embodiment of Radiance.jpg"
+			}
+		},
+		{
+			"name": "Embodiment of",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Avatar Horror",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/18_Embodiment of.jpg"
+			}
+		},
+		{
+			"name": "Embodiment of Wrath",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Avatar Elemental",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/24_Embodiment of Wrath.jpg"
+			}
+		},
+		{
+			"name": "Embodiment of Life/Growth",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/30_Embodiment of Life/Growth.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/3_.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/10_.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/16_.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/22_.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/28_.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/4_.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/9_.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/17_.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/23_.jpg"
+			}
+		},
+		{
+			"name": "Echo/Reverberate/Mirror",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/29_Echo/Reverberate/Mirror.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/31_.jpg"
+			}
+		},
+		{
+			"name": "Darkness Unchained",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/34_Darkness Unchained.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/32_.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/33_.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/35_.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/36_.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/37_.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/38_.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/39_.jpg"
+			}
+		},
+		{
+			"name": "Tranquil Haven",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/40_Tranquil Haven.jpg"
+			}
+		},
+		{
+			"name": "Embodiment of Stars",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Avatar Dragon",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/12_Embodiment of Stars.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 
+	2 
+	2 
+	2 
+	2 
+	2 Embodiment of Radiance
+	2 Embodiment of
+	2 Embodiment of Wrath
+	2 Embodiment of Life/Growth
+	2 
+	2 
+	2 
+	2 
+	2 
+	2 
+	2 
+	2 
+	2 
+	2 Echo/Reverberate/Mirror
+	2 
+	2 
+	2 
+	2 
+	2 Tranquil Haven
+	2 Embodiment of Stars
+[uncommon(3)]
+	4 
+	4 
+	4 
+	4 
+	4 
+	4 
+	4 
+	4 
+	4 
+	4 
+	4 
+	4 Darkness Unchained
+	4 
+	4 
+	4 
+[common(7)]
+[foil(1)]
+	6 
+	6 
+	6 
+	6 
+	6 
+	6 
+	6 
+	6 
+	6 
+	6 
+	2 
+	2 
+	2 
+	2 
+	2 
+	2 Embodiment of Radiance
+	2 Embodiment of
+	2 Embodiment of Wrath
+	2 Embodiment of Life/Growth
+	2 
+	2 
+	2 
+	2 
+	2 
+	2 
+	2 
+	2 
+	2 
+	2 Echo/Reverberate/Mirror
+	6 
+	6 Darkness Unchained
+	2 
+	2 
+	6 
+	6 
+	2 
+	2 
+	6 
+	2 Tranquil Haven
+	2 Embodiment of Stars
+[wildcard(1)]
+	15 
+	15 
+	15 
+	15 
+	15 
+	15 
+	15 
+	15 
+	15 
+	15 
+	7 
+	7 
+	7 
+	7 
+	7 
+	7 Embodiment of Radiance
+	7 Embodiment of
+	7 Embodiment of Wrath
+	7 Embodiment of Life/Growth
+	7 
+	7 
+	7 
+	7 
+	7 
+	7 
+	7 
+	7 
+	7 
+	7 Echo/Reverberate/Mirror
+	15 
+	15 Darkness Unchained
+	7 
+	7 
+	15 
+	15 
+	7 
+	7 
+	15 
+	7 Tranquil Haven
+	7 Embodiment of Stars

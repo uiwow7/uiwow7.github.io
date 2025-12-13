@@ -1,31 +1,73 @@
 ﻿[
     {
         "card_name": "Embodiment of Radiance",
-        "number": 6,
+        "number": 5,
         "shape": "normal",
         "set": "MSY"
     },
     {
         "card_name": "Embodiment of Stars",
-        "number": 12,
+        "number": 10,
         "shape": "normal",
         "set": "MSY"
     },
     {
-        "card_name": "Embodiment of",
-        "number": 18,
+        "card_name": "Embodiment of Fear",
+        "number": 17,
         "shape": "normal",
         "set": "MSY"
     },
     {
         "card_name": "Embodiment of Wrath",
+        "number": 23,
+        "shape": "normal",
+        "set": "MSY"
+    },
+    {
+        "card_name": "Deepgrowth Wraith",
+        "number": 28,
+        "shape": "normal",
+        "set": "MSY"
+    },
+    {
+        "card_name": "Astral Pathfinder",
+        "number": 4,
+        "shape": "normal",
+        "set": "MSY"
+    },
+    {
+        "card_name": "Starlight Wayfarer",
+        "number": 12,
+        "shape": "normal",
+        "set": "MSY"
+    },
+    {
+        "card_name": "Nightfall Voyager",
+        "number": 18,
+        "shape": "normal",
+        "set": "MSY"
+    },
+    {
+        "card_name": "Rite of Release",
         "number": 24,
         "shape": "normal",
         "set": "MSY"
     },
     {
-        "card_name": "Echo/Reverberate/Mirror",
+        "card_name": "Echoing SOMETHING",
         "number": 29,
+        "shape": "normal",
+        "set": "MSY"
+    },
+    {
+        "card_name": "Perennial Journey",
+        "number": 6,
+        "shape": "normal",
+        "set": "MSY"
+    },
+    {
+        "card_name": "Embrace of the Boundless",
+        "number": 11,
         "shape": "normal",
         "set": "MSY"
     },
@@ -36,13 +78,7 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Embodiment of Life/Growth",
+        "card_name": "Embodiment of Strength",
         "number": 30,
         "shape": "normal",
         "set": "MSY"

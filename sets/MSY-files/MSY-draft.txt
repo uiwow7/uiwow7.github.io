@@ -1,19 +1,19 @@
 ﻿[CustomCards]
 	[
 		{
-			"name": "",
+			"name": "Astral Pathfinder",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Scout",
-			"collector_number": "1",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/1_.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/4_Astral Pathfinder.jpg"
 			}
 		},
 		{
 			"name": "",
 			"rarity": "uncommon",
-			"mana_cost": "{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Creature",
 			"collector_number": "7",
 			"image_uris": {
@@ -51,23 +51,23 @@
 			}
 		},
 		{
-			"name": "",
+			"name": "Perennial Journey",
 			"rarity": "uncommon",
 			"mana_cost": "{W}{W}",
 			"type": "Enchantment",
-			"collector_number": "5",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/5_.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/6_Perennial Journey.jpg"
 			}
 		},
 		{
-			"name": "",
+			"name": "Embrace of the Boundless",
 			"rarity": "uncommon",
 			"mana_cost": "{U}{U}",
 			"type": "Instant",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/11_.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/11_Embrace of the Boundless.jpg"
 			}
 		},
 		{
@@ -81,13 +81,13 @@
 			}
 		},
 		{
-			"name": "",
+			"name": "Rite of Release",
 			"rarity": "uncommon",
-			"mana_cost": "{R}",
+			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "20",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/20_.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/24_Rite of Release.jpg"
 			}
 		},
 		{
@@ -103,8 +103,98 @@
 		{
 			"name": "",
 			"rarity": "rare",
-			"mana_cost": "{W}",
+			"mana_cost": "{2}{W}",
 			"type": "Creature",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/1_.jpg"
+			}
+		},
+		{
+			"name": "Starlight Wayfarer",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/12_Starlight Wayfarer.jpg"
+			}
+		},
+		{
+			"name": "Nightfall Voyager",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Human",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/18_Nightfall Voyager.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/20_.jpg"
+			}
+		},
+		{
+			"name": "Deepgrowth Wraith",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Elk Spirit Avatar",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/28_Deepgrowth Wraith.jpg"
+			}
+		},
+		{
+			"name": "Embodiment of Radiance",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Avatar Horror",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/5_Embodiment of Radiance.jpg"
+			}
+		},
+		{
+			"name": "Embodiment of Fear",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Avatar Horror",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/17_Embodiment of Fear.jpg"
+			}
+		},
+		{
+			"name": "Embodiment of Wrath",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Avatar Elemental",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/23_Embodiment of Wrath.jpg"
+			}
+		},
+		{
+			"name": "Embodiment of Strength",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Avatar Giant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/30_Embodiment of Strength.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "",
 			"collector_number": "2",
 			"image_uris": {
 				"en": "https://uiwow7.github.io/sets/MSY-files/img/2_.jpg"
@@ -114,146 +204,6 @@
 			"name": "",
 			"rarity": "rare",
 			"mana_cost": "{U}",
-			"type": "Creature",
-			"collector_number": "8",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/8_.jpg"
-			}
-		},
-		{
-			"name": "",
-			"rarity": "rare",
-			"mana_cost": "{B}",
-			"type": "Creature",
-			"collector_number": "15",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/15_.jpg"
-			}
-		},
-		{
-			"name": "",
-			"rarity": "rare",
-			"mana_cost": "{R}",
-			"type": "Creature",
-			"collector_number": "21",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/21_.jpg"
-			}
-		},
-		{
-			"name": "",
-			"rarity": "rare",
-			"mana_cost": "{G}",
-			"type": "Creature",
-			"collector_number": "27",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/27_.jpg"
-			}
-		},
-		{
-			"name": "Embodiment of Radiance",
-			"rarity": "rare",
-			"mana_cost": "{3}{W}{W}",
-			"type": "Creature — Avatar Horror",
-			"collector_number": "6",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/6_Embodiment of Radiance.jpg"
-			}
-		},
-		{
-			"name": "Embodiment of",
-			"rarity": "rare",
-			"mana_cost": "{3}{B}",
-			"type": "Creature — Avatar Horror",
-			"collector_number": "18",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/18_Embodiment of.jpg"
-			}
-		},
-		{
-			"name": "Embodiment of Wrath",
-			"rarity": "rare",
-			"mana_cost": "{3}{R}",
-			"type": "Creature — Avatar Elemental",
-			"collector_number": "24",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/24_Embodiment of Wrath.jpg"
-			}
-		},
-		{
-			"name": "Embodiment of Life/Growth",
-			"rarity": "rare",
-			"mana_cost": "{4}{G}{G}",
-			"type": "Creature",
-			"collector_number": "30",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/30_Embodiment of Life/Growth.jpg"
-			}
-		},
-		{
-			"name": "",
-			"rarity": "rare",
-			"mana_cost": "{W}",
-			"type": "",
-			"collector_number": "3",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/3_.jpg"
-			}
-		},
-		{
-			"name": "",
-			"rarity": "rare",
-			"mana_cost": "{U}",
-			"type": "",
-			"collector_number": "10",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/10_.jpg"
-			}
-		},
-		{
-			"name": "",
-			"rarity": "rare",
-			"mana_cost": "{B}",
-			"type": "",
-			"collector_number": "16",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/16_.jpg"
-			}
-		},
-		{
-			"name": "",
-			"rarity": "rare",
-			"mana_cost": "{R}",
-			"type": "",
-			"collector_number": "22",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/22_.jpg"
-			}
-		},
-		{
-			"name": "",
-			"rarity": "rare",
-			"mana_cost": "{G}",
-			"type": "",
-			"collector_number": "28",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/28_.jpg"
-			}
-		},
-		{
-			"name": "",
-			"rarity": "rare",
-			"mana_cost": "{3}{W}",
-			"type": "",
-			"collector_number": "4",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/4_.jpg"
-			}
-		},
-		{
-			"name": "",
-			"rarity": "rare",
-			"mana_cost": "{3}{U}",
 			"type": "",
 			"collector_number": "9",
 			"image_uris": {
@@ -263,11 +213,61 @@
 		{
 			"name": "",
 			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/15_.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/21_.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/27_.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/3_.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/8_.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
 			"mana_cost": "{3}{B}",
 			"type": "",
-			"collector_number": "17",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/17_.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/16_.jpg"
 			}
 		},
 		{
@@ -275,19 +275,19 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "",
-			"collector_number": "23",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/23_.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/22_.jpg"
 			}
 		},
 		{
-			"name": "Echo/Reverberate/Mirror",
+			"name": "Echoing SOMETHING",
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
 			"type": "Enchantment",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/29_Echo/Reverberate/Mirror.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/29_Echoing SOMETHING.jpg"
 			}
 		},
 		{
@@ -304,7 +304,7 @@
 			"name": "Darkness Unchained",
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "34",
 			"image_uris": {
 				"en": "https://uiwow7.github.io/sets/MSY-files/img/34_Darkness Unchained.jpg"
@@ -395,23 +395,23 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Avatar Dragon",
-			"collector_number": "12",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/12_Embodiment of Stars.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/10_Embodiment of Stars.jpg"
 			}
 		}
 	]
 
 [rare(1)]
 	2 
+	2 Starlight Wayfarer
+	2 Nightfall Voyager
 	2 
-	2 
-	2 
-	2 
+	2 Deepgrowth Wraith
 	2 Embodiment of Radiance
-	2 Embodiment of
+	2 Embodiment of Fear
 	2 Embodiment of Wrath
-	2 Embodiment of Life/Growth
+	2 Embodiment of Strength
 	2 
 	2 
 	2 
@@ -421,7 +421,7 @@
 	2 
 	2 
 	2 
-	2 Echo/Reverberate/Mirror
+	2 Echoing SOMETHING
 	2 
 	2 
 	2 
@@ -429,15 +429,15 @@
 	2 Tranquil Haven
 	2 Embodiment of Stars
 [uncommon(3)]
+	4 Astral Pathfinder
 	4 
 	4 
 	4 
 	4 
+	4 Perennial Journey
+	4 Embrace of the Boundless
 	4 
-	4 
-	4 
-	4 
-	4 
+	4 Rite of Release
 	4 
 	4 
 	4 Darkness Unchained
@@ -446,25 +446,25 @@
 	4 
 [common(7)]
 [foil(1)]
+	6 Astral Pathfinder
 	6 
 	6 
 	6 
 	6 
+	6 Perennial Journey
+	6 Embrace of the Boundless
 	6 
-	6 
-	6 
-	6 
-	6 
+	6 Rite of Release
 	6 
 	2 
+	2 Starlight Wayfarer
+	2 Nightfall Voyager
 	2 
-	2 
-	2 
-	2 
+	2 Deepgrowth Wraith
 	2 Embodiment of Radiance
-	2 Embodiment of
+	2 Embodiment of Fear
 	2 Embodiment of Wrath
-	2 Embodiment of Life/Growth
+	2 Embodiment of Strength
 	2 
 	2 
 	2 
@@ -474,7 +474,7 @@
 	2 
 	2 
 	2 
-	2 Echo/Reverberate/Mirror
+	2 Echoing SOMETHING
 	6 
 	6 Darkness Unchained
 	2 
@@ -487,25 +487,25 @@
 	2 Tranquil Haven
 	2 Embodiment of Stars
 [wildcard(1)]
+	15 Astral Pathfinder
 	15 
 	15 
 	15 
 	15 
+	15 Perennial Journey
+	15 Embrace of the Boundless
 	15 
-	15 
-	15 
-	15 
-	15 
+	15 Rite of Release
 	15 
 	7 
+	7 Starlight Wayfarer
+	7 Nightfall Voyager
 	7 
-	7 
-	7 
-	7 
+	7 Deepgrowth Wraith
 	7 Embodiment of Radiance
-	7 Embodiment of
+	7 Embodiment of Fear
 	7 Embodiment of Wrath
-	7 Embodiment of Life/Growth
+	7 Embodiment of Strength
 	7 
 	7 
 	7 
@@ -515,7 +515,7 @@
 	7 
 	7 
 	7 
-	7 Echo/Reverberate/Mirror
+	7 Echoing SOMETHING
 	15 
 	15 Darkness Unchained
 	7 

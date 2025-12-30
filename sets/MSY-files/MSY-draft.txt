@@ -5,9 +5,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Scout",
-			"collector_number": "1",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/1_Astral Pathfinder.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/2_Astral Pathfinder.jpg"
 			}
 		},
 		{
@@ -15,9 +15,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Griffin",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/12_Stormborn Griffin.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/13_Stormborn Griffin.jpg"
 			}
 		},
 		{
@@ -25,29 +25,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Elk Nightmare",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/16_Forbidding Outsider.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/17_Forbidding Outsider.jpg"
 			}
 		},
 		{
-			"name": "",
+			"name": "Worldseeking Existence",
 			"rarity": "uncommon",
-			"mana_cost": "{R}",
-			"type": "Creature",
-			"collector_number": "19",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/19_.jpg"
-			}
-		},
-		{
-			"name": "",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{G}",
-			"type": "Creature — Human Knight",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Avatar",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/25_.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/25_Worldseeking Existence.jpg"
+			}
+		},
+		{
+			"name": "Woodland Huntsman",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/31_Woodland Huntsman.jpg"
 			}
 		},
 		{
@@ -55,9 +55,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{W}",
 			"type": "Enchantment",
-			"collector_number": "5",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/5_Perennial Journey.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/6_Perennial Journey.jpg"
 			}
 		},
 		{
@@ -65,9 +65,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{U}",
 			"type": "Instant",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/8_Embrace of the Boundless.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/9_Embrace of the Boundless.jpg"
 			}
 		},
 		{
@@ -75,9 +75,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/13_Behold Shadowed Light.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/14_Behold Shadowed Light.jpg"
 			}
 		},
 		{
@@ -91,13 +91,13 @@
 			}
 		},
 		{
-			"name": "",
+			"name": "One To Many",
 			"rarity": "uncommon",
-			"mana_cost": "{G}",
-			"type": "Enchantment",
-			"collector_number": "26",
+			"mana_cost": "{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/26_.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/30_One To Many.jpg"
 			}
 		},
 		{
@@ -105,9 +105,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Monk",
-			"collector_number": "3",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/3_Enlightened Recluse.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/4_Enlightened Recluse.jpg"
 			}
 		},
 		{
@@ -115,9 +115,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}",
 			"type": "Creature — Avatar",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/11_Starlight Wayfarer.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/12_Starlight Wayfarer.jpg"
 			}
 		},
 		{
@@ -125,9 +125,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Creature — Human Scout",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/17_Nightfall Voyager.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/18_Nightfall Voyager.jpg"
 			}
 		},
 		{
@@ -145,9 +145,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elk Spirit Avatar",
-			"collector_number": "27",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/27_Deepgrowth Wraith.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/26_Deepgrowth Wraith.jpg"
 			}
 		},
 		{
@@ -155,9 +155,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Avatar Horror",
-			"collector_number": "2",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/2_Embodiment of Radiance.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/3_Embodiment of Radiance.jpg"
 			}
 		},
 		{
@@ -165,9 +165,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Avatar Horror",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/15_Embodiment of Fear.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/16_Embodiment of Fear.jpg"
 			}
 		},
 		{
@@ -185,9 +185,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Avatar Giant",
-			"collector_number": "29",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/29_Embodiment of Strength.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/28_Embodiment of Strength.jpg"
 			}
 		},
 		{
@@ -195,9 +195,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/4_Light the Paths.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/5_Light the Paths.jpg"
 			}
 		},
 		{
@@ -205,9 +205,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/10_Skywatching.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/11_Skywatching.jpg"
 			}
 		},
 		{
@@ -215,9 +215,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/14_Devoured by the Boundless.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/15_Devoured by the Boundless.jpg"
 			}
 		},
 		{
@@ -235,9 +235,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "30",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/30_Might of Inner Fire.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/29_Might of Inner Fire.jpg"
 			}
 		},
 		{
@@ -245,9 +245,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}",
 			"type": "Enchantment",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/6_Transformation Aurora.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/7_Transformation Aurora.jpg"
 			}
 		},
 		{
@@ -255,9 +255,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Enchantment",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/9_Moonlit Wishes.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/10_Moonlit Wishes.jpg"
 			}
 		},
 		{
@@ -265,9 +265,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
 			"type": "Enchantment",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/18_Twilight's Dawn.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/19_Twilight's Dawn.jpg"
 			}
 		},
 		{
@@ -285,9 +285,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
 			"type": "Enchantment",
-			"collector_number": "28",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/28_Echoing Heartbeats.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/27_Echoing Heartbeats.jpg"
 			}
 		},
 		{
@@ -295,9 +295,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{6}{U}{B}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "32",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/32_Depths Soulthief.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/33_Depths Soulthief.jpg"
 			}
 		},
 		{
@@ -305,9 +305,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
 			"type": "Instant",
-			"collector_number": "31",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/31_Darkness Unchained.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/32_Darkness Unchained.jpg"
 			}
 		},
 		{
@@ -315,19 +315,19 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{W}",
 			"type": "Artifact Creature — Statue",
-			"collector_number": "34",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/34_Garden Guardian.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/35_Garden Guardian.jpg"
 			}
 		},
 		{
 			"name": "Dreams of the Forgotten",
 			"rarity": "rare",
-			"mana_cost": "{5}{W}{U}",
+			"mana_cost": "{7}{W}{U}",
 			"type": "Instant",
-			"collector_number": "33",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/33_Dreams of the Forgotten.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/34_Dreams of the Forgotten.jpg"
 			}
 		},
 		{
@@ -335,24 +335,14 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Enchantment Artifact Creature — Avatar",
-			"collector_number": "38",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/38_Blue-Flame Bearer.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/37_Blue-Flame Bearer.jpg"
 			}
 		},
 		{
 			"name": "",
 			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Artifact",
-			"collector_number": "35",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/35_.jpg"
-			}
-		},
-		{
-			"name": "",
-			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Artifact",
 			"collector_number": "36",
@@ -361,13 +351,23 @@
 			}
 		},
 		{
-			"name": "",
+			"name": "Draconic Dread",
 			"rarity": "rare",
-			"mana_cost": "{6}",
-			"type": "Artifact",
-			"collector_number": "37",
+			"mana_cost": "{10}",
+			"type": "Enchantment Creature — Demon Dragon",
+			"collector_number": "1",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/37_.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/1_Draconic Dread.jpg"
+			}
+		},
+		{
+			"name": "Pathbridger",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/38_Pathbridger.jpg"
 			}
 		},
 		{
@@ -395,9 +395,39 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Avatar Dragon",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/7_Embodiment of Stars.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/8_Embodiment of Stars.jpg"
+			}
+		},
+		{
+			"name": "Avatar",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Avatar",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/1_Avatar.jpg"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/2_Spirit.jpg"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/3_Treasure.jpg"
 			}
 		}
 	]
@@ -424,21 +454,21 @@
 	2 Echoing Heartbeats
 	2 Garden Guardian
 	2 Dreams of the Forgotten
-	2 
-	2 
+	2 Draconic Dread
+	2 Pathbridger
 	2 Tranquil Haven
 	2 Embodiment of Stars
 [uncommon(3)]
 	4 Astral Pathfinder
 	4 Stormborn Griffin
 	4 Forbidding Outsider
-	4 
-	4 
+	4 Worldseeking Existence
+	4 Woodland Huntsman
 	4 Perennial Journey
 	4 Embrace of the Boundless
 	4 Behold Shadowed Light
 	4 Rite of Release
-	4 
+	4 One To Many
 	4 Depths Soulthief
 	4 Darkness Unchained
 	4 Blue-Flame Bearer
@@ -449,13 +479,13 @@
 	6 Astral Pathfinder
 	6 Stormborn Griffin
 	6 Forbidding Outsider
-	6 
-	6 
+	6 Worldseeking Existence
+	6 Woodland Huntsman
 	6 Perennial Journey
 	6 Embrace of the Boundless
 	6 Behold Shadowed Light
 	6 Rite of Release
-	6 
+	6 One To Many
 	2 Enlightened Recluse
 	2 Starlight Wayfarer
 	2 Nightfall Voyager
@@ -481,8 +511,8 @@
 	2 Dreams of the Forgotten
 	6 Blue-Flame Bearer
 	6 
-	2 
-	2 
+	2 Draconic Dread
+	2 Pathbridger
 	6 
 	2 Tranquil Haven
 	2 Embodiment of Stars
@@ -490,13 +520,13 @@
 	15 Astral Pathfinder
 	15 Stormborn Griffin
 	15 Forbidding Outsider
-	15 
-	15 
+	15 Worldseeking Existence
+	15 Woodland Huntsman
 	15 Perennial Journey
 	15 Embrace of the Boundless
 	15 Behold Shadowed Light
 	15 Rite of Release
-	15 
+	15 One To Many
 	7 Enlightened Recluse
 	7 Starlight Wayfarer
 	7 Nightfall Voyager
@@ -522,8 +552,8 @@
 	7 Dreams of the Forgotten
 	15 Blue-Flame Bearer
 	15 
-	7 
-	7 
+	7 Draconic Dread
+	7 Pathbridger
 	15 
 	7 Tranquil Haven
 	7 Embodiment of Stars

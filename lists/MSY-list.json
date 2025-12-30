@@ -1,19 +1,19 @@
 ﻿[
     {
         "card_name": "Embodiment of Radiance",
-        "number": 2,
+        "number": 3,
         "shape": "normal",
         "set": "MSY"
     },
     {
         "card_name": "Embodiment of Stars",
-        "number": 7,
+        "number": 8,
         "shape": "normal",
         "set": "MSY"
     },
     {
         "card_name": "Devoured by the Boundless",
-        "number": 14,
+        "number": 15,
         "shape": "normal",
         "set": "MSY"
     },
@@ -25,25 +25,25 @@
     },
     {
         "card_name": "Deepgrowth Wraith",
-        "number": 27,
+        "number": 26,
         "shape": "normal",
         "set": "MSY"
     },
     {
         "card_name": "Enlightened Recluse",
-        "number": 3,
+        "number": 4,
         "shape": "normal",
         "set": "MSY"
     },
     {
         "card_name": "Moonlit Wishes",
-        "number": 9,
+        "number": 10,
         "shape": "normal",
         "set": "MSY"
     },
     {
         "card_name": "Embodiment of Fear",
-        "number": 15,
+        "number": 16,
         "shape": "normal",
         "set": "MSY"
     },
@@ -55,25 +55,25 @@
     },
     {
         "card_name": "Echoing Heartbeats",
-        "number": 28,
+        "number": 27,
         "shape": "normal",
         "set": "MSY"
     },
     {
         "card_name": "Light the Paths",
-        "number": 4,
+        "number": 5,
         "shape": "normal",
         "set": "MSY"
     },
     {
         "card_name": "Skywatching",
-        "number": 10,
+        "number": 11,
         "shape": "normal",
         "set": "MSY"
     },
     {
         "card_name": "Nightfall Voyager",
-        "number": 17,
+        "number": 18,
         "shape": "normal",
         "set": "MSY"
     },
@@ -85,25 +85,25 @@
     },
     {
         "card_name": "Embodiment of Strength",
-        "number": 29,
+        "number": 28,
         "shape": "normal",
         "set": "MSY"
     },
     {
         "card_name": "Transformation Aurora",
-        "number": 6,
+        "number": 7,
         "shape": "normal",
         "set": "MSY"
     },
     {
         "card_name": "Starlight Wayfarer",
-        "number": 11,
+        "number": 12,
         "shape": "normal",
         "set": "MSY"
     },
     {
         "card_name": "Twilight's Dawn",
-        "number": 18,
+        "number": 19,
         "shape": "normal",
         "set": "MSY"
     },
@@ -115,25 +115,25 @@
     },
     {
         "card_name": "Might of Inner Fire",
-        "number": 30,
+        "number": 29,
         "shape": "normal",
         "set": "MSY"
     },
     {
         "card_name": "Astral Pathfinder",
-        "number": 1,
+        "number": 2,
         "shape": "normal",
         "set": "MSY"
     },
     {
         "card_name": "Embrace of the Boundless",
-        "number": 8,
+        "number": 9,
         "shape": "normal",
         "set": "MSY"
     },
     {
         "card_name": "Behold Shadowed Light",
-        "number": 13,
+        "number": 14,
         "shape": "normal",
         "set": "MSY"
     },
@@ -144,31 +144,40 @@
         "set": "MSY"
     },
     {
-        "card_name": "e"
+        "card_name": "One To Many",
+        "number": 30,
+        "shape": "normal",
+        "set": "MSY"
     },
     {
         "card_name": "Perennial Journey",
-        "number": 5,
+        "number": 6,
         "shape": "normal",
         "set": "MSY"
     },
     {
         "card_name": "Stormborn Griffin",
-        "number": 12,
+        "number": 13,
         "shape": "normal",
         "set": "MSY"
     },
     {
         "card_name": "Forbidding Outsider",
-        "number": 16,
+        "number": 17,
         "shape": "normal",
         "set": "MSY"
     },
     {
-        "card_name": "e"
+        "card_name": "Worldseeking Existence",
+        "number": 25,
+        "shape": "normal",
+        "set": "MSY"
     },
     {
-        "card_name": "e"
+        "card_name": "Woodland Huntsman",
+        "number": 31,
+        "shape": "normal",
+        "set": "MSY"
     },
     {
         "card_name": "er"
@@ -185,13 +194,13 @@
     "a->gold",
     {
         "card_name": "Dreams of the Forgotten",
-        "number": 33,
+        "number": 34,
         "shape": "normal",
         "set": "MSY"
     },
     {
         "card_name": "Darkness Unchained",
-        "number": 31,
+        "number": 32,
         "shape": "normal",
         "set": "MSY"
     },
@@ -203,7 +212,7 @@
     },
     {
         "card_name": "Garden Guardian",
-        "number": 34,
+        "number": 35,
         "shape": "normal",
         "set": "MSY"
     },
@@ -212,7 +221,7 @@
     },
     {
         "card_name": "Depths Soulthief",
-        "number": 32,
+        "number": 33,
         "shape": "normal",
         "set": "MSY"
     },
@@ -239,16 +248,22 @@
     },
     "a->colorless",
     {
-        "card_name": "Blue-Flame Bearer",
+        "card_name": "Draconic Dread",
+        "number": 1,
+        "shape": "normal",
+        "set": "MSY"
+    },
+    {
+        "card_name": "Pathbridger",
         "number": 38,
         "shape": "normal",
         "set": "MSY"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
+        "card_name": "Blue-Flame Bearer",
+        "number": 37,
+        "shape": "normal",
+        "set": "MSY"
     },
     {
         "card_name": "e"
@@ -285,6 +300,43 @@
     },
     {
         "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Treasure",
+        "number": 3,
+        "shape": "token",
+        "set": "MSY"
+    },
+    {
+        "card_name": "Avatar",
+        "number": 1,
+        "shape": "token",
+        "set": "MSY"
+    },
+    {
+        "card_name": "Spirit",
+        "number": 2,
+        "shape": "token",
+        "set": "MSY"
     },
     {
         "card_name": "e"

@@ -224,7 +224,7 @@
 			"name": "Abyssal Bolt",
 			"rarity": "rare",
 			"mana_cost": "{X}{R}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "20",
 			"image_uris": {
 				"en": "https://uiwow7.github.io/sets/MSY-files/img/20_Abyssal Bolt.jpg"

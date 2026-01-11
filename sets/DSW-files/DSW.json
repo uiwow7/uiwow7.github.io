@@ -543,7 +543,7 @@
             "card_name": "Cosmic Aven",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Avatar",
+            "type": "Creature \u2014 Avatar Bird",
             "number": 48,
             "color_identity": "U",
             "cost": "{3}{U}",
@@ -1735,7 +1735,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "Alice Boudry",
-            "card_name2": "Arise",
+            "card_name2": "Rise",
             "color2": "UG",
             "type2": "Vertex Sorcery",
             "cost2": "{1}{G}{VG}{VU}",
@@ -2261,7 +2261,7 @@
             "notes": "UW07,Medium Creature,3,,Zhalfirin Lancer"
         },
         {
-            "card_name": "UW09 DESIGNED",
+            "card_name": "UW09 DESIGNED SUBMIT/GIVEUP",
             "color": "W",
             "rarity": "uncommon",
             "type": "Instant",
@@ -2276,7 +2276,7 @@
             "set": "DSW",
             "loyalty": "",
             "designer": "",
-            "artist": "",
+            "artist": "Ausp-ice",
             "notes": "UW09,Noncreature,1,,Elspeth's Smite"
         },
         {
@@ -2299,7 +2299,7 @@
             "notes": "UW10,Noncreature,1,,Surge of Salvation"
         },
         {
-            "card_name": "UW11 DESIGNED",
+            "card_name": "UW11 DESIGNED BEYOND/ETERNITY",
             "color": "W",
             "rarity": "uncommon",
             "type": "Sorcery",
@@ -2314,7 +2314,7 @@
             "set": "DSW",
             "loyalty": "",
             "designer": "",
-            "artist": "",
+            "artist": "Ausp-ice",
             "notes": "UW11,Noncreature,3,,Invasion of Dominaria"
         },
         {
@@ -2428,7 +2428,7 @@
             "set": "DSW",
             "loyalty": "",
             "designer": "",
-            "artist": "era7",
+            "artist": "ERA7",
             "notes": "UU05,Small Creature,3,,Referee Squad"
         },
         {
@@ -2682,7 +2682,7 @@
             "card_name": "UR01 DESIGNED",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature",
+            "type": "Creature \u2014 Zombie",
             "number": 162,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -2694,7 +2694,7 @@
             "set": "DSW",
             "loyalty": "",
             "designer": "",
-            "artist": "",
+            "artist": "MyProcrastinationFix",
             "notes": "UR01,Small Creature,2,,Axgard Artisan"
         },
         {
@@ -2713,7 +2713,7 @@
             "set": "DSW",
             "loyalty": "",
             "designer": "",
-            "artist": "",
+            "artist": "MyProcrastinationFix",
             "notes": "UR02,Small Creature,2,,Furnace Gremlin"
         },
         {
@@ -2736,22 +2736,22 @@
             "notes": "UR04,Medium Creature,3,,Harried Artisan"
         },
         {
-            "card_name": "UR05 DESIGNED",
+            "card_name": "UR05 DESIGNED VOID",
             "color": "R",
             "rarity": "uncommon",
             "type": "Creature",
             "number": 165,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "When this creature enters, target creature's controller sacrifices it unless they have this creature deal 5 damage to them.",
-            "flavor_text": "[i]ft\nft[/i]",
+            "rules_text": "At the beginning of combat on your turn, you get {V}. [i](Spend {V} to cast copies of Vertex spells.)[/i]\nWhenever you cast a noncreature spell, this creature deals 1 damage to each opponent.",
+            "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
             "shape": "normal",
             "set": "DSW",
             "loyalty": "",
             "designer": "",
-            "artist": "",
+            "artist": "Ausp-ice",
             "notes": "UR05,Medium Creature,4,,Scrappy Bruiser"
         },
         {
@@ -2869,7 +2869,7 @@
             "notes": "UG01,Small Creature,2,,Herbology Instructor"
         },
         {
-            "card_name": "UG03 DESIGNED",
+            "card_name": "UG03 DESIGNED SOLEMN AFTERMATH",
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature",
@@ -2884,7 +2884,7 @@
             "set": "DSW",
             "loyalty": "",
             "designer": "",
-            "artist": "",
+            "artist": "Ausp-ice",
             "notes": "UG03,Small Creature,2,,Streetwise Negotiator"
         },
         {
@@ -2983,7 +2983,7 @@
             "notes": "UG09,Noncreature,3,,Tandem Takedown"
         },
         {
-            "card_name": "UG11 DESIGNED",
+            "card_name": "UG11 DESIGNED DAWN",
             "color": "G",
             "rarity": "uncommon",
             "type": "Instant",
@@ -2998,11 +2998,11 @@
             "set": "DSW",
             "loyalty": "",
             "designer": "",
-            "artist": "",
+            "artist": "Ausp-ice",
             "notes": "UG11,Noncreature,4,,Storm the Seedcore"
         },
         {
-            "card_name": "UG13 DESIGNED",
+            "card_name": "UG13 DESIGNED Confluence?",
             "color": "G",
             "rarity": "uncommon",
             "type": "Enchantment",
@@ -3017,7 +3017,7 @@
             "set": "DSW",
             "loyalty": "",
             "designer": "",
-            "artist": "",
+            "artist": "Dracaena53",
             "notes": "UG13,Noncreature,5,,Tangled Skyline"
         },
         {
@@ -3081,11 +3081,11 @@
             "card_name": "RW04 Medium Creature",
             "color": "W",
             "rarity": "rare",
-            "type": "Creature",
+            "type": "Creature \u2014 Avatar",
             "number": 24,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "",
+            "rules_text": "Flying",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3093,7 +3093,7 @@
             "set": "DSW",
             "loyalty": "",
             "designer": "",
-            "artist": "",
+            "artist": "ERA7",
             "notes": "RW04,Medium Creature,4,,Heliod, the Radiant Dawn"
         },
         {
@@ -3230,7 +3230,7 @@
             "notes": "RU01,Small Creature,2,,Rona, Herald of Invasion"
         },
         {
-            "card_name": "RU02 DESIGNED",
+            "card_name": "RU02 DESIGNED REFLECTION",
             "color": "U",
             "rarity": "rare",
             "type": "Creature \u2014 Cat Reflection",
@@ -3553,14 +3553,14 @@
             "notes": "RB08,Noncreature,6,,Invasion of Fiora"
         },
         {
-            "card_name": "RB09 Noncreature",
+            "card_name": "RB09 DESIGNED",
             "color": "B",
             "rarity": "rare",
-            "type": "",
+            "type": "Sorcery",
             "number": 113,
             "color_identity": "B",
-            "cost": "{6}{B}",
-            "rules_text": "",
+            "cost": "{6}{B}{B}",
+            "rules_text": "Each card you sanctify from your graveyard while casting this spell pays for {1}. [i](To sanctify a card, put it into its owner's sanctum.)[/i]\nDraw three cards. You lose life equal to the number of cards in your sanctum.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3587,7 +3587,7 @@
             "set": "DSW",
             "loyalty": "",
             "designer": "",
-            "artist": "",
+            "artist": "Miloecute",
             "notes": "RR01,Small Creature,2,flying ,Bloodfeather Phoenix"
         },
         {
@@ -3682,7 +3682,7 @@
             "set": "DSW",
             "loyalty": "",
             "designer": "",
-            "artist": "",
+            "artist": "Ausp-ice",
             "notes": "RR06,Noncreature,3,,Into the Fire"
         },
         {
@@ -3781,16 +3781,16 @@
             "notes": "RG01,Medium Creature,2,,Deeproot Wayfinder"
         },
         {
-            "card_name": "RG02 Medium Creature",
+            "card_name": "RG02 DESIGNED",
             "color": "G",
             "rarity": "rare",
             "type": "Creature",
             "number": 189,
             "color_identity": "G",
-            "cost": "{3}{G}",
-            "rules_text": "",
+            "cost": "{1}{G}{G}",
+            "rules_text": "This creature can't be blocked by creatures with power 2 or less.\nThis creature gets +1/+1 for each basic land you control",
             "flavor_text": "[i][/i]",
-            "pt": "",
+            "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "DSW",
@@ -3872,7 +3872,7 @@
             "set": "DSW",
             "loyalty": "",
             "designer": "",
-            "artist": "",
+            "artist": "Ausp-ice",
             "notes": "RG06,Noncreature,2,,Invasion of Ikoria"
         },
         {
@@ -4303,7 +4303,7 @@
             "cost": "{2}{W}{W}",
             "rules_text": "Whenever this creature enters or attacks, you may cast a copy of its vertex sorcery without paying its costs.",
             "flavor_text": "[i][/i]",
-            "pt": "4/4",
+            "pt": "3/2e",
             "special_text": "",
             "shape": "adventure",
             "set": "DSW",
@@ -4812,7 +4812,7 @@
             "color": "I",
             "rarity": "uncommon",
             "type": "Creature \u2014 Avatar",
-            "number": 245,
+            "number": 246,
             "color_identity": "I",
             "cost": "{3}{I}",
             "rules_text": "Whenever this creature attacks, you may sacrifice a creature. If you do, draw a card from your sanctum.",
@@ -5002,7 +5002,7 @@
             "color": "I",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 244,
+            "number": 245,
             "color_identity": "I",
             "cost": "{4}{I}",
             "rules_text": "Look at the top seven cards of your library, then sanctify any number of them. [i](Put them into their owner's sanctum.)[/i]\nChoose up to two cards from your sanctum and put them into your hand.",
@@ -5134,7 +5134,7 @@
             "card_name": "Thundersage",
             "color": "WBG",
             "rarity": "uncommon",
-            "type": "Legendary Creature \u2014 Spirit",
+            "type": "Legendary Creature \u2014 Spirit Wizard",
             "number": 281,
             "color_identity": "WBG",
             "cost": "{W}{B}{G}",
@@ -5173,7 +5173,7 @@
             "color": "I",
             "rarity": "uncommon",
             "type": "Creature",
-            "number": 247,
+            "number": 248,
             "color_identity": "I",
             "cost": "{I}",
             "rules_text": "This creature can't attack or block unless you've cast a noncreature spell this turn.",
@@ -5184,26 +5184,26 @@
             "set": "DSW",
             "loyalty": "",
             "designer": "",
-            "artist": "",
+            "artist": "Ausp-ice",
             "notes": "UU01,Small Creature,1,,Captive Weird"
         },
         {
             "card_name": "UI03 DESIGNED",
             "color": "I",
             "rarity": "uncommon",
-            "type": "Creature",
-            "number": 248,
+            "type": "Creature \u2014 Avatar Bird",
+            "number": 249,
             "color_identity": "I",
             "cost": "{1}{I}",
-            "rules_text": "When this creature enters or dies, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]",
-            "flavor_text": "[i]ft\nft[/i]",
-            "pt": "2/2",
+            "rules_text": "Flying\nWhen this creature enters or dies, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "1/2",
             "special_text": "",
             "shape": "normal",
             "set": "DSW",
             "loyalty": "",
             "designer": "",
-            "artist": "",
+            "artist": "Sylvia Ritter",
             "notes": "UU03,Small Creature,2,,Oracle of Tragedy"
         },
         {
@@ -5211,7 +5211,7 @@
             "color": "I",
             "rarity": "uncommon",
             "type": "Creature",
-            "number": 249,
+            "number": 250,
             "color_identity": "I",
             "cost": "{1}{I}",
             "rules_text": "Menace\nWhenever this creature deals combat damage to a player, draw a card, then discard a card.",
@@ -5222,15 +5222,15 @@
             "set": "DSW",
             "loyalty": "",
             "designer": "",
-            "artist": "",
+            "artist": "Ausp-ice",
             "notes": "UU04,Small Creature,2,flying ,Skyclave Aerialist"
         },
         {
             "card_name": "UI05 DESIGNED",
             "color": "I",
             "rarity": "uncommon",
-            "type": "Creature",
-            "number": 250,
+            "type": "Creature \u2014 Avatar",
+            "number": 251,
             "color_identity": "I",
             "cost": "{2}{I}",
             "rules_text": "Avatars and Anima you control get +1/+1 and have menace.",
@@ -5241,7 +5241,7 @@
             "set": "DSW",
             "loyalty": "",
             "designer": "",
-            "artist": "",
+            "artist": "Ausp-ice",
             "notes": "UU05,Small Creature,3,,Referee Squad"
         },
         {
@@ -5249,7 +5249,7 @@
             "color": "I",
             "rarity": "uncommon",
             "type": "Creature",
-            "number": 251,
+            "number": 252,
             "color_identity": "I",
             "cost": "{2}{I}",
             "rules_text": "When this creature enters, it deals 1 damage to any target.",
@@ -5264,30 +5264,30 @@
             "notes": "UU06,Small Creature,3,flying ,Xerex Strobe-Knight"
         },
         {
-            "card_name": "UI07 DESIGNED",
+            "card_name": "Slice Through Stars",
             "color": "I",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 252,
+            "number": 244,
             "color_identity": "I",
             "cost": "{1}{I}",
             "rules_text": "Counter target spell with an even mana value unless its controller pays {3}.",
-            "flavor_text": "[i]ft\nft\nft\nft[/i]",
+            "flavor_text": "[i]\u201cWere you there the day the stars died?\u201d\n\u2014CHAR, to CHAR[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "DSW",
             "loyalty": "",
             "designer": "",
-            "artist": "",
+            "artist": "Miloecute",
             "notes": "UU07,Noncreature,2,,Change the Equation"
         },
         {
-            "card_name": "U08 DESIGNED",
+            "card_name": "U08 DESIGNED COLLISION",
             "color": "I",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 246,
+            "number": 247,
             "color_identity": "I",
             "cost": "{3}{I}",
             "rules_text": "As an additional cost to cast this this spell, you may sacrifice one or more creatures. When you do, copy this spell for each creature sacrificed this way.\nEach opponent loses 2 life and you gain 2 life.",
@@ -5298,11 +5298,11 @@
             "set": "DSW",
             "loyalty": "",
             "designer": "",
-            "artist": "",
+            "artist": "Miloecute",
             "notes": "UU08,Noncreature,4,,Invasion of Kamigawa"
         },
         {
-            "card_name": "UI09 DESIGNED",
+            "card_name": "UI09 DESIGNED GAZE",
             "color": "I",
             "rarity": "uncommon",
             "type": "Kindred Instant \u2014 Anima",
@@ -5317,11 +5317,11 @@
             "set": "DSW",
             "loyalty": "",
             "designer": "",
-            "artist": "",
+            "artist": "Ausp-ice",
             "notes": "UU09,Noncreature,4,,Invasion of Vryn"
         },
         {
-            "card_name": "UI11 DESIGNED",
+            "card_name": "UI11 DESIGNED DEVOUR/CONSUME",
             "color": "I",
             "rarity": "uncommon",
             "type": "Enchantment",
@@ -5336,7 +5336,7 @@
             "set": "DSW",
             "loyalty": "",
             "designer": "",
-            "artist": "",
+            "artist": "Ausp-ice",
             "notes": "UU11,Noncreature,5,,Corruption of Towashi"
         },
         {
@@ -5435,16 +5435,16 @@
             "notes": "RU03,Small Creature,3,,Invasion of Segovia"
         },
         {
-            "card_name": "RI04 Medium Creature",
+            "card_name": "RI04 DESIGNED",
             "color": "I",
             "rarity": "rare",
             "type": "Creature",
             "number": 235,
             "color_identity": "I",
             "cost": "{2}{I}",
-            "rules_text": "",
+            "rules_text": "When this creature enters, target creature gets +2/-2 until end of turn. When that creature dies this turn, return it to the battlefield as an enchantment. It loses all other card types.",
             "flavor_text": "[i][/i]",
-            "pt": "",
+            "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "DSW",
@@ -5925,7 +5925,7 @@
             "set": "DSW",
             "loyalty": "5",
             "designer": "",
-            "artist": "Era7",
+            "artist": "ERA7",
             "notes": ""
         }
     ],

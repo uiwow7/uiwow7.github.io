@@ -274,7 +274,7 @@
 			"name": "Cosmic Aven",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
-			"type": "Creature — Avatar",
+			"type": "Creature — Avatar Bird",
 			"collector_number": "48",
 			"image_uris": {
 				"en": "https://uiwow7.github.io/sets/DSW-files/img/48_Cosmic Aven.jpg"
@@ -1161,13 +1161,13 @@
 			}
 		},
 		{
-			"name": "UW09 DESIGNED",
+			"name": "UW09 DESIGNED SUBMIT/GIVEUP",
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Instant",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/42_UW09 DESIGNED.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/42_UW09 DESIGNED SUBMIT/GIVEUP.jpg"
 			}
 		},
 		{
@@ -1181,13 +1181,13 @@
 			}
 		},
 		{
-			"name": "UW11 DESIGNED",
+			"name": "UW11 DESIGNED BEYOND/ETERNITY",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/44_UW11 DESIGNED.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/44_UW11 DESIGNED BEYOND/ETERNITY.jpg"
 			}
 		},
 		{
@@ -1384,7 +1384,7 @@
 			"name": "UR01 DESIGNED",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
-			"type": "Creature",
+			"type": "Creature — Zombie",
 			"collector_number": "162",
 			"image_uris": {
 				"en": "https://uiwow7.github.io/sets/DSW-files/img/162_UR01 DESIGNED.jpg"
@@ -1411,13 +1411,13 @@
 			}
 		},
 		{
-			"name": "UR05 DESIGNED",
+			"name": "UR05 DESIGNED VOID",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/165_UR05 DESIGNED.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/165_UR05 DESIGNED VOID.jpg"
 			}
 		},
 		{
@@ -1481,13 +1481,13 @@
 			}
 		},
 		{
-			"name": "UG03 DESIGNED",
+			"name": "UG03 DESIGNED SOLEMN AFTERMATH",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/203_UG03 DESIGNED.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/203_UG03 DESIGNED SOLEMN AFTERMATH.jpg"
 			}
 		},
 		{
@@ -1541,23 +1541,23 @@
 			}
 		},
 		{
-			"name": "UG11 DESIGNED",
+			"name": "UG11 DESIGNED DAWN",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Instant",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/209_UG11 DESIGNED.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/209_UG11 DESIGNED DAWN.jpg"
 			}
 		},
 		{
-			"name": "UG13 DESIGNED",
+			"name": "UG13 DESIGNED Confluence?",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}",
 			"type": "Enchantment",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/210_UG13 DESIGNED.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/210_UG13 DESIGNED Confluence?.jpg"
 			}
 		},
 		{
@@ -1594,7 +1594,7 @@
 			"name": "RW04 Medium Creature",
 			"rarity": "rare",
 			"mana_cost": "{3}{W}",
-			"type": "Creature",
+			"type": "Creature — Avatar",
 			"collector_number": "24",
 			"image_uris": {
 				"en": "https://uiwow7.github.io/sets/DSW-files/img/24_RW04 Medium Creature.jpg"
@@ -1671,13 +1671,13 @@
 			}
 		},
 		{
-			"name": "RU02 DESIGNED",
+			"name": "RU02 DESIGNED REFLECTION",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Cat Reflection",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/64_RU02 DESIGNED.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/64_RU02 DESIGNED REFLECTION.jpg"
 			}
 		},
 		{
@@ -1841,13 +1841,13 @@
 			}
 		},
 		{
-			"name": "RB09 Noncreature",
+			"name": "RB09 DESIGNED",
 			"rarity": "rare",
-			"mana_cost": "{6}{B}",
-			"type": "",
+			"mana_cost": "{6}{B}{B}",
+			"type": "Sorcery",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/113_RB09 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/113_RB09 DESIGNED.jpg"
 			}
 		},
 		{
@@ -1961,13 +1961,13 @@
 			}
 		},
 		{
-			"name": "RG02 Medium Creature",
+			"name": "RG02 DESIGNED",
 			"rarity": "rare",
-			"mana_cost": "{3}{G}",
+			"mana_cost": "{1}{G}{G}",
 			"type": "Creature",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/189_RG02 Medium Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/189_RG02 DESIGNED.jpg"
 			}
 		},
 		{
@@ -2495,9 +2495,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{I}",
 			"type": "Creature — Avatar",
-			"collector_number": "245",
+			"collector_number": "246",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/245_Thief of The Boundless.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/246_Thief of The Boundless.jpg"
 			}
 		},
 		{
@@ -2595,9 +2595,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{I}",
 			"type": "Sorcery",
-			"collector_number": "244",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/244_Starlight's Glimmer.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/245_Starlight's Glimmer.jpg"
 			}
 		},
 		{
@@ -2664,7 +2664,7 @@
 			"name": "Thundersage",
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}{G}",
-			"type": "Legendary Creature — Spirit",
+			"type": "Legendary Creature — Spirit Wizard",
 			"collector_number": "281",
 			"image_uris": {
 				"en": "https://uiwow7.github.io/sets/DSW-files/img/281_Thundersage.jpg"
@@ -2685,19 +2685,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{I}",
 			"type": "Creature",
-			"collector_number": "247",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/247_UI01 DESIGNED.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/248_UI01 DESIGNED.jpg"
 			}
 		},
 		{
 			"name": "UI03 DESIGNED",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{I}",
-			"type": "Creature",
-			"collector_number": "248",
+			"type": "Creature — Avatar Bird",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/248_UI03 DESIGNED.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/249_UI03 DESIGNED.jpg"
 			}
 		},
 		{
@@ -2705,19 +2705,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{I}",
 			"type": "Creature",
-			"collector_number": "249",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/249_UI04 DESIGNED.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/250_UI04 DESIGNED.jpg"
 			}
 		},
 		{
 			"name": "UI05 DESIGNED",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{I}",
-			"type": "Creature",
-			"collector_number": "250",
+			"type": "Creature — Avatar",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/250_UI05 DESIGNED.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/251_UI05 DESIGNED.jpg"
 			}
 		},
 		{
@@ -2725,49 +2725,49 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{I}",
 			"type": "Creature",
-			"collector_number": "251",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/251_UI06 DESIGNED.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/252_UI06 DESIGNED.jpg"
 			}
 		},
 		{
-			"name": "UI07 DESIGNED",
+			"name": "Slice Through Stars",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{I}",
 			"type": "Instant",
-			"collector_number": "252",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/252_UI07 DESIGNED.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/244_Slice Through Stars.jpg"
 			}
 		},
 		{
-			"name": "U08 DESIGNED",
+			"name": "U08 DESIGNED COLLISION",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{I}",
 			"type": "Sorcery",
-			"collector_number": "246",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/246_U08 DESIGNED.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/247_U08 DESIGNED COLLISION.jpg"
 			}
 		},
 		{
-			"name": "UI09 DESIGNED",
+			"name": "UI09 DESIGNED GAZE",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{I}",
 			"type": "Kindred Instant — Anima",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/253_UI09 DESIGNED.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/253_UI09 DESIGNED GAZE.jpg"
 			}
 		},
 		{
-			"name": "UI11 DESIGNED",
+			"name": "UI11 DESIGNED DEVOUR/CONSUME",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{I}",
 			"type": "Enchantment",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/254_UI11 DESIGNED.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/254_UI11 DESIGNED DEVOUR/CONSUME.jpg"
 			}
 		},
 		{
@@ -2821,13 +2821,13 @@
 			}
 		},
 		{
-			"name": "RI04 Medium Creature",
+			"name": "RI04 DESIGNED",
 			"rarity": "rare",
 			"mana_cost": "{2}{I}",
 			"type": "Creature",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/235_RI04 Medium Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/235_RI04 DESIGNED.jpg"
 			}
 		},
 		{
@@ -3094,7 +3094,7 @@
 	2 RW09 Noncreature
 	2 RW10 Noncreature
 	2 RU01 Small Creature
-	2 RU02 DESIGNED
+	2 RU02 DESIGNED REFLECTION
 	2 RU03 Small Creature
 	2 RU04 Medium Creature
 	2 RU05 Medium Creature
@@ -3111,7 +3111,7 @@
 	2 RB06 Large Creature
 	2 RB07 Reanimate
 	2 RB08 RevelationB
-	2 RB09 Noncreature
+	2 RB09 DESIGNED
 	2 RR01 DESIGNED
 	2 RR02 DESIGNED
 	2 RR03 Medium Creature
@@ -3123,7 +3123,7 @@
 	2 RR09 Noncreature
 	2 RR10 Noncreature
 	2 RG01 Medium Creature
-	2 RG02 Medium Creature
+	2 RG02 DESIGNED
 	2 RG03 DESIGNED
 	2 RG04 Large Creature
 	2 RG05 Large Creature
@@ -3173,7 +3173,7 @@
 	2 RI01 Small Creature
 	2 RI02 Small Creature
 	2 RI03 DESIGNED
-	2 RI04 Medium Creature
+	2 RI04 DESIGNED
 	2 RI05 Medium Creature
 	2 RI06 Large Creature
 	2 RI07 RevelationI
@@ -3228,9 +3228,9 @@
 	4 UW04 DESIGNED
 	4 UW06 DESIGNED
 	4 UW07 DESIGNED
-	4 UW09 DESIGNED
+	4 UW09 DESIGNED SUBMIT/GIVEUP
 	4 UW10 DESIGNED
-	4 UW11 DESIGNED
+	4 UW11 DESIGNED BEYOND/ETERNITY
 	4 UW13 DESIGNED
 	4 UU01 DESIGNED
 	4 UU02 DESIGNED
@@ -3253,21 +3253,21 @@
 	4 UR01 DESIGNED
 	4 UR02 DESIGNED
 	4 UR04 DESIGNED
-	4 UR05 DESIGNED
+	4 UR05 DESIGNED VOID
 	4 UR06 DESIGNED
 	4 UR09 DESIGNED
 	4 SOMETHING of Ruin
 	4 UR11 DESIGNED
 	4 UR12 DESIGNED
 	4 UG01 DESIGNED
-	4 UG03 DESIGNED
+	4 UG03 DESIGNED SOLEMN AFTERMATH
 	4 UG04 DESIGNED
 	4 UG05 DESIGNED
 	4 UG06 DESIGNED
 	4 UG07 DESIGNED
 	4 UG09 DESIGNED
-	4 UG11 DESIGNED
-	4 UG13 DESIGNED
+	4 UG11 DESIGNED DAWN
+	4 UG13 DESIGNED Confluence?
 	4 Gatu Gembearer
 	4 Dedicated Acolyte
 	4 Darkstar Invader
@@ -3286,10 +3286,10 @@
 	4 UI04 DESIGNED
 	4 UI05 DESIGNED
 	4 UI06 DESIGNED
-	4 UI07 DESIGNED
-	4 U08 DESIGNED
-	4 UI09 DESIGNED
-	4 UI11 DESIGNED
+	4 Slice Through Stars
+	4 U08 DESIGNED COLLISION
+	4 UI09 DESIGNED GAZE
+	4 UI11 DESIGNED DEVOUR/CONSUME
 	4 Refract Empty Space
 [common(7)]
 	8 Sunrise Caller
@@ -3508,9 +3508,9 @@
 	6 UW04 DESIGNED
 	6 UW06 DESIGNED
 	6 UW07 DESIGNED
-	6 UW09 DESIGNED
+	6 UW09 DESIGNED SUBMIT/GIVEUP
 	6 UW10 DESIGNED
-	6 UW11 DESIGNED
+	6 UW11 DESIGNED BEYOND/ETERNITY
 	6 UW13 DESIGNED
 	6 UU01 DESIGNED
 	6 UU02 DESIGNED
@@ -3533,21 +3533,21 @@
 	6 UR01 DESIGNED
 	6 UR02 DESIGNED
 	6 UR04 DESIGNED
-	6 UR05 DESIGNED
+	6 UR05 DESIGNED VOID
 	6 UR06 DESIGNED
 	6 UR09 DESIGNED
 	6 SOMETHING of Ruin
 	6 UR11 DESIGNED
 	6 UR12 DESIGNED
 	6 UG01 DESIGNED
-	6 UG03 DESIGNED
+	6 UG03 DESIGNED SOLEMN AFTERMATH
 	6 UG04 DESIGNED
 	6 UG05 DESIGNED
 	6 UG06 DESIGNED
 	6 UG07 DESIGNED
 	6 UG09 DESIGNED
-	6 UG11 DESIGNED
-	6 UG13 DESIGNED
+	6 UG11 DESIGNED DAWN
+	6 UG13 DESIGNED Confluence?
 	2 RW01 DESIGNED
 	2 RW02 Small Creature
 	2 RW03 DESIGNED
@@ -3559,7 +3559,7 @@
 	2 RW09 Noncreature
 	2 RW10 Noncreature
 	2 RU01 Small Creature
-	2 RU02 DESIGNED
+	2 RU02 DESIGNED REFLECTION
 	2 RU03 Small Creature
 	2 RU04 Medium Creature
 	2 RU05 Medium Creature
@@ -3576,7 +3576,7 @@
 	2 RB06 Large Creature
 	2 RB07 Reanimate
 	2 RB08 RevelationB
-	2 RB09 Noncreature
+	2 RB09 DESIGNED
 	2 RR01 DESIGNED
 	2 RR02 DESIGNED
 	2 RR03 Medium Creature
@@ -3588,7 +3588,7 @@
 	2 RR09 Noncreature
 	2 RR10 Noncreature
 	2 RG01 Medium Creature
-	2 RG02 Medium Creature
+	2 RG02 DESIGNED
 	2 RG03 DESIGNED
 	2 RG04 Large Creature
 	2 RG05 Large Creature
@@ -3663,16 +3663,16 @@
 	6 UI04 DESIGNED
 	6 UI05 DESIGNED
 	6 UI06 DESIGNED
-	6 UI07 DESIGNED
-	6 U08 DESIGNED
-	6 UI09 DESIGNED
-	6 UI11 DESIGNED
+	6 Slice Through Stars
+	6 U08 DESIGNED COLLISION
+	6 UI09 DESIGNED GAZE
+	6 UI11 DESIGNED DEVOUR/CONSUME
 	1 MU01 Small Creature
 	1 MU01 Large Creature
 	2 RI01 Small Creature
 	2 RI02 Small Creature
 	2 RI03 DESIGNED
-	2 RI04 Medium Creature
+	2 RI04 DESIGNED
 	2 RI05 Medium Creature
 	2 RI06 Large Creature
 	2 RI07 RevelationI
@@ -3815,9 +3815,9 @@
 	15 UW04 DESIGNED
 	15 UW06 DESIGNED
 	15 UW07 DESIGNED
-	15 UW09 DESIGNED
+	15 UW09 DESIGNED SUBMIT/GIVEUP
 	15 UW10 DESIGNED
-	15 UW11 DESIGNED
+	15 UW11 DESIGNED BEYOND/ETERNITY
 	15 UW13 DESIGNED
 	15 UU01 DESIGNED
 	15 UU02 DESIGNED
@@ -3840,21 +3840,21 @@
 	15 UR01 DESIGNED
 	15 UR02 DESIGNED
 	15 UR04 DESIGNED
-	15 UR05 DESIGNED
+	15 UR05 DESIGNED VOID
 	15 UR06 DESIGNED
 	15 UR09 DESIGNED
 	15 SOMETHING of Ruin
 	15 UR11 DESIGNED
 	15 UR12 DESIGNED
 	15 UG01 DESIGNED
-	15 UG03 DESIGNED
+	15 UG03 DESIGNED SOLEMN AFTERMATH
 	15 UG04 DESIGNED
 	15 UG05 DESIGNED
 	15 UG06 DESIGNED
 	15 UG07 DESIGNED
 	15 UG09 DESIGNED
-	15 UG11 DESIGNED
-	15 UG13 DESIGNED
+	15 UG11 DESIGNED DAWN
+	15 UG13 DESIGNED Confluence?
 	7 RW01 DESIGNED
 	7 RW02 Small Creature
 	7 RW03 DESIGNED
@@ -3866,7 +3866,7 @@
 	7 RW09 Noncreature
 	7 RW10 Noncreature
 	7 RU01 Small Creature
-	7 RU02 DESIGNED
+	7 RU02 DESIGNED REFLECTION
 	7 RU03 Small Creature
 	7 RU04 Medium Creature
 	7 RU05 Medium Creature
@@ -3883,7 +3883,7 @@
 	7 RB06 Large Creature
 	7 RB07 Reanimate
 	7 RB08 RevelationB
-	7 RB09 Noncreature
+	7 RB09 DESIGNED
 	7 RR01 DESIGNED
 	7 RR02 DESIGNED
 	7 RR03 Medium Creature
@@ -3895,7 +3895,7 @@
 	7 RR09 Noncreature
 	7 RR10 Noncreature
 	7 RG01 Medium Creature
-	7 RG02 Medium Creature
+	7 RG02 DESIGNED
 	7 RG03 DESIGNED
 	7 RG04 Large Creature
 	7 RG05 Large Creature
@@ -3970,16 +3970,16 @@
 	15 UI04 DESIGNED
 	15 UI05 DESIGNED
 	15 UI06 DESIGNED
-	15 UI07 DESIGNED
-	15 U08 DESIGNED
-	15 UI09 DESIGNED
-	15 UI11 DESIGNED
+	15 Slice Through Stars
+	15 U08 DESIGNED COLLISION
+	15 UI09 DESIGNED GAZE
+	15 UI11 DESIGNED DEVOUR/CONSUME
 	4 MU01 Small Creature
 	4 MU01 Large Creature
 	7 RI01 Small Creature
 	7 RI02 Small Creature
 	7 RI03 DESIGNED
-	7 RI04 Medium Creature
+	7 RI04 DESIGNED
 	7 RI05 Medium Creature
 	7 RI06 Large Creature
 	7 RI07 RevelationI

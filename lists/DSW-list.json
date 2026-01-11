@@ -78,7 +78,7 @@
         "set": "DSW"
     },
     {
-        "card_name": "RU02 DESIGNED",
+        "card_name": "RU02 DESIGNED REFLECTION",
         "number": 64,
         "shape": "normal",
         "set": "DSW"
@@ -168,7 +168,7 @@
         "set": "DSW"
     },
     {
-        "card_name": "RG02 Medium Creature",
+        "card_name": "RG02 DESIGNED",
         "number": 189,
         "shape": "normal",
         "set": "DSW"
@@ -210,7 +210,7 @@
         "set": "DSW"
     },
     {
-        "card_name": "RI04 Medium Creature",
+        "card_name": "RI04 DESIGNED",
         "number": 235,
         "shape": "normal",
         "set": "DSW"
@@ -372,7 +372,7 @@
         "set": "DSW"
     },
     {
-        "card_name": "RB09 Noncreature",
+        "card_name": "RB09 DESIGNED",
         "number": 113,
         "shape": "normal",
         "set": "DSW"
@@ -714,8 +714,8 @@
         "set": "DSW"
     },
     {
-        "card_name": "Thief of The Boundless",
-        "number": 245,
+        "card_name": "Slice Through Stars",
+        "number": 244,
         "shape": "normal",
         "set": "DSW"
     },
@@ -750,7 +750,7 @@
         "set": "DSW"
     },
     {
-        "card_name": "U08 DESIGNED",
+        "card_name": "Thief of The Boundless",
         "number": 246,
         "shape": "normal",
         "set": "DSW"
@@ -786,7 +786,7 @@
         "set": "DSW"
     },
     {
-        "card_name": "UI01 DESIGNED",
+        "card_name": "U08 DESIGNED COLLISION",
         "number": 247,
         "shape": "normal",
         "set": "DSW"
@@ -816,13 +816,13 @@
         "set": "DSW"
     },
     {
-        "card_name": "UG03 DESIGNED",
+        "card_name": "UG03 DESIGNED SOLEMN AFTERMATH",
         "number": 203,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "UI03 DESIGNED",
+        "card_name": "UI01 DESIGNED",
         "number": 248,
         "shape": "normal",
         "set": "DSW"
@@ -858,7 +858,7 @@
         "set": "DSW"
     },
     {
-        "card_name": "UI04 DESIGNED",
+        "card_name": "UI03 DESIGNED",
         "number": 249,
         "shape": "normal",
         "set": "DSW"
@@ -894,7 +894,7 @@
         "set": "DSW"
     },
     {
-        "card_name": "UI05 DESIGNED",
+        "card_name": "UI04 DESIGNED",
         "number": 250,
         "shape": "normal",
         "set": "DSW"
@@ -918,7 +918,7 @@
         "set": "DSW"
     },
     {
-        "card_name": "UR05 DESIGNED",
+        "card_name": "UR05 DESIGNED VOID",
         "number": 165,
         "shape": "normal",
         "set": "DSW"
@@ -930,13 +930,13 @@
         "set": "DSW"
     },
     {
-        "card_name": "UI06 DESIGNED",
+        "card_name": "UI05 DESIGNED",
         "number": 251,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "UW09 DESIGNED",
+        "card_name": "UW09 DESIGNED SUBMIT/GIVEUP",
         "number": 42,
         "shape": "normal",
         "set": "DSW"
@@ -966,7 +966,7 @@
         "set": "DSW"
     },
     {
-        "card_name": "UI07 DESIGNED",
+        "card_name": "UI06 DESIGNED",
         "number": 252,
         "shape": "normal",
         "set": "DSW"
@@ -1002,13 +1002,13 @@
         "set": "DSW"
     },
     {
-        "card_name": "UI09 DESIGNED",
+        "card_name": "UI09 DESIGNED GAZE",
         "number": 253,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "UW11 DESIGNED",
+        "card_name": "UW11 DESIGNED BEYOND/ETERNITY",
         "number": 44,
         "shape": "normal",
         "set": "DSW"
@@ -1032,13 +1032,13 @@
         "set": "DSW"
     },
     {
-        "card_name": "UG11 DESIGNED",
+        "card_name": "UG11 DESIGNED DAWN",
         "number": 209,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "UI11 DESIGNED",
+        "card_name": "UI11 DESIGNED DEVOUR/CONSUME",
         "number": 254,
         "shape": "normal",
         "set": "DSW"
@@ -1068,7 +1068,7 @@
         "set": "DSW"
     },
     {
-        "card_name": "UG13 DESIGNED",
+        "card_name": "UG13 DESIGNED Confluence?",
         "number": 210,
         "shape": "normal",
         "set": "DSW"
@@ -1471,7 +1471,7 @@
     },
     {
         "card_name": "Starlight's Glimmer",
-        "number": 244,
+        "number": 245,
         "shape": "normal",
         "set": "DSW"
     },

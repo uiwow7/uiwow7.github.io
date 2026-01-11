@@ -1,4 +1,20 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+UG13 DESIGNED Confluence added.
+RA01 POD added.
+
+UG13 DESIGNED Confluence? removed.
+RA01 POD :) removed.
+
+
+type: Creature — Cat => 
+cost: {W} => 
+rules_text: When this creature enters, put a +1/+1 counter on up to one target creature. => 
+pt: 0/1 => 
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

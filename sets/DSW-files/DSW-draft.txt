@@ -1551,13 +1551,13 @@
 			}
 		},
 		{
-			"name": "UG13 DESIGNED Confluence?",
+			"name": "UG13 DESIGNED Confluence",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}",
 			"type": "Enchantment",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/210_UG13 DESIGNED Confluence?.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/210_UG13 DESIGNED Confluence.jpg"
 			}
 		},
 		{
@@ -2201,13 +2201,13 @@
 			}
 		},
 		{
-			"name": "RA01 POD :)",
+			"name": "RA01 POD",
 			"rarity": "rare",
 			"mana_cost": "{5}",
 			"type": "Kindred Enchantment — Anima",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/2_RA01 POD :).jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/2_RA01 POD.jpg"
 			}
 		},
 		{
@@ -3147,7 +3147,7 @@
 	2 RM13 Large Creature
 	2 RM14 Noncreature
 	2 RM15 Noncreature
-	2 RA01 POD :)
+	2 RA01 POD
 	1 MW01 Small Creature
 	1 MW02 Small Creature
 	1 MW03 Buffer
@@ -3267,7 +3267,7 @@
 	4 UG07 DESIGNED
 	4 UG09 DESIGNED
 	4 UG11 DESIGNED DAWN
-	4 UG13 DESIGNED Confluence?
+	4 UG13 DESIGNED Confluence
 	4 Gatu Gembearer
 	4 Dedicated Acolyte
 	4 Darkstar Invader
@@ -3547,7 +3547,7 @@
 	6 UG07 DESIGNED
 	6 UG09 DESIGNED
 	6 UG11 DESIGNED DAWN
-	6 UG13 DESIGNED Confluence?
+	6 UG13 DESIGNED Confluence
 	2 RW01 DESIGNED
 	2 RW02 Small Creature
 	2 RW03 DESIGNED
@@ -3612,7 +3612,7 @@
 	2 RM13 Large Creature
 	2 RM14 Noncreature
 	2 RM15 Noncreature
-	2 RA01 POD :)
+	2 RA01 POD
 	1 MW01 Small Creature
 	1 MW02 Small Creature
 	1 MW03 Buffer
@@ -3854,7 +3854,7 @@
 	15 UG07 DESIGNED
 	15 UG09 DESIGNED
 	15 UG11 DESIGNED DAWN
-	15 UG13 DESIGNED Confluence?
+	15 UG13 DESIGNED Confluence
 	7 RW01 DESIGNED
 	7 RW02 Small Creature
 	7 RW03 DESIGNED
@@ -3919,7 +3919,7 @@
 	7 RM13 Large Creature
 	7 RM14 Noncreature
 	7 RM15 Noncreature
-	7 RA01 POD :)
+	7 RA01 POD
 	4 MW01 Small Creature
 	4 MW02 Small Creature
 	4 MW03 Buffer

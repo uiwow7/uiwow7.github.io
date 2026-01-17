@@ -5,8 +5,6 @@ import json
 import glob
 import re
 
-import image_flip
-import card_edge_trimmer
 import list_to_list
 import print_draft_file
 import print_html_for_index
@@ -140,7 +138,6 @@ set_order = []
 #F: iterate over set codes again
 for code in set_codes:
 	set_order.append(code)
-	image_flip.flipImages(code)
 	set_dir = code + '-files'
 	with open(os.path.join('sets', code + '-files', code + '.json'), encoding='utf-8-sig') as f:
 		raw = json.load(f)
@@ -221,11 +218,6 @@ for code in set_codes:
 			prettifyJSON(os.path.join('sets', 'versions', str(new_version) + '_' + code + '.json'))
 			os.remove(os.path.join('sets', 'versions', str(old_version) + '_' + code + '.json'))
 			raw['version'] = new_version
-
-	#CE: trims border radius of images
-	if raw['trimmed'] == 'n':
-		raw['trimmed'] = 'y'
-		card_edge_trimmer.batch_process_images(code)
 
 	with open(os.path.join('sets', code + '-files', code + '.json'), 'w', encoding='utf-8-sig') as f:
 		json.dump(raw, f, indent=4)

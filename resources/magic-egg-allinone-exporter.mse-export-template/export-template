@@ -1,4 +1,4 @@
-mse version: 2.0.0
+mse version: 2.5.8
 short name: Egg's All-in-One
 full name: Egg's All-in-One Exporter
 position hint: 009
@@ -8,6 +8,9 @@ version: 2025-03-31
 depends on:
 	package: magic.mse-game
 	version: 2008-08-08
+depends on:
+	package: magic-modules.mse-include
+	version: 2024-10-01
 
 game: magic
 create directory: true
@@ -296,12 +299,48 @@ script:
 		join(strings)
 	}
 
+	#### load corner masks for the most common card dimensions, so we dont re-load them for every card
+	corner_masks := [
+		"523"  : invert_image("/magic-modules.mse-include/corners/375x523 rounded and antialiased.png"),
+		"902"  : invert_image("/magic-modules.mse-include/corners/646x902 rounded and antialiased.png"),
+		"1039" : invert_image("/magic-modules.mse-include/corners/744x1039 rounded and antialiased.png"),
+		"1046" : invert_image("/magic-modules.mse-include/corners/750x1046 rounded and antialiased.png")
+	]
+
 	write_all_images := {
-		for each card in cards do
-			if contains(card.shape, match:"double") then
-			if contains(card.type, match:"Battle") then write_image_file(crop(input: to_card_image(card), width: 523, height: 375, offset_x: 0, offset_y: 0), file: "img/" + position(of:card, in:set) + "_front" + ".{options.image_type}") + write_image_file(crop(input: to_card_image(card), width: 375, height: 523, offset_x: 525, offset_y: 0), file: "img/" + position(of:card, in:set) + "_back" + ".{options.image_type}")
-			else write_image_file(crop(input: to_card_image(card), width: 375, height: 523, offset_x: 0, offset_y: 0), file: "img/" + position(of:card, in:set) + "_front" + ".{options.image_type}") + write_image_file(crop(input: to_card_image(card), width: 375, height: 523, offset_x: 377, offset_y: 0), file: "img/" + position(of:card, in:set) + "_back" + ".{options.image_type}")
-			else write_image_file(card, file: "img/" + position(of:card, in:set) + ".{options.image_type}")
+		for each card in cards do (
+			card_position := position(of:card, in:set)
+			card_image := to_card_image(card)
+			#### double faced templates
+			if contains(card.shape, match:"double") then (
+				#### check if we need to rotate the front face (if it's a battle)
+				rotated := lang_setting("is_battle")(card.super_type) and width_of(card_image) == 900
+				front_width := if rotated then 523 else 375
+				front_height := if rotated then 375 else 523
+				front_image := crop(card_image, width: front_width, height: front_height, offset_x: 0, offset_y: 0)
+				back_image := crop(card_image, width: 375, height: 523, offset_x: front_width + 2, offset_y: 0)
+				if rotated then front_image := rotate_image(front_image, angle: 90)
+				#### add transparent corners (all double faced templates are 375x523)
+				front_image := set_mask(image: front_image, mask: corner_masks["523"])
+				back_image := set_mask(image: back_image, mask: corner_masks["523"])
+				#### write to disk
+				write_image_file(front_image, file: "img/" + card_position + "_front." + options.image_type)
+				write_image_file(back_image, file: "img/" + card_position + "_back." + options.image_type)
+			)
+			#### single faced templates
+			else (
+				#### check if we need to rotate the card image (if it's a battle)
+				width := width_of(card_image)
+				rotated := width == 523 or width == 902 or width == 1039 or width == 1046
+				if rotated then card_image := rotate_image(card_image, angle: 90)
+				#### add transparent corners
+				mask_height := to_string(if rotated then width else height_of(card_image))
+				corner_mask := corner_masks[mask_height] or else corner_masks["1046"]
+				card_image := set_mask(image: card_image, mask: corner_mask)
+				#### write to disk
+				write_image_file(card_image, file: "img/" + card_position + "." + options.image_type)
+			)
+		)
 	}
 
 	main_keys := [

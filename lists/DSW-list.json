@@ -13,13 +13,13 @@
     },
     {
         "card_name": "Dread of the Terminus",
-        "number": 98,
+        "number": 99,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "Heart of the Terminus",
-        "number": 137,
+        "card_name": "The Arbiter's Folly",
+        "number": 129,
         "shape": "normal",
         "set": "DSW"
     },
@@ -30,8 +30,8 @@
         "set": "DSW"
     },
     {
-        "card_name": "MU01 Small Creature",
-        "number": 237,
+        "card_name": "Touch the Void",
+        "number": 249,
         "shape": "normal",
         "set": "DSW"
     },
@@ -42,20 +42,20 @@
         "set": "DSW"
     },
     {
-        "card_name": "Reflected Familiar",
+        "card_name": "Portent of Stars",
         "number": 66,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "MB02 Noncreature",
-        "number": 107,
+        "number": 110,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "MR02 Noncreature",
-        "number": 145,
+        "card_name": "Heart of the Terminus",
+        "number": 138,
         "shape": "normal",
         "set": "DSW"
     },
@@ -78,14 +78,14 @@
         "set": "DSW"
     },
     {
-        "card_name": "RU01 DESIGNED",
-        "number": 68,
+        "card_name": "Reflected Familiar",
+        "number": 67,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "Devour Absent Memories",
-        "number": 95,
+        "card_name": "Boundless Reawakener",
+        "number": 91,
         "shape": "normal",
         "set": "DSW"
     },
@@ -97,7 +97,7 @@
     },
     {
         "card_name": "Strength of the Terminus",
-        "number": 205,
+        "number": 203,
         "shape": "normal",
         "set": "DSW"
     },
@@ -114,20 +114,20 @@
         "set": "DSW"
     },
     {
-        "card_name": "RU03 Small Creature",
-        "number": 69,
+        "card_name": "Reveal Veiled Truths",
+        "number": 68,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "Eclipse Warden",
-        "number": 99,
+        "card_name": "Devour Absent Memories",
+        "number": 96,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Burn Forgotten Wishes",
-        "number": 131,
+        "number": 132,
         "shape": "normal",
         "set": "DSW"
     },
@@ -150,20 +150,20 @@
         "set": "DSW"
     },
     {
-        "card_name": "RU04 DESIGNED",
+        "card_name": "RU01 DESIGNED",
         "number": 70,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "Mark of Return",
-        "number": 106,
+        "card_name": "Eclipse Warden",
+        "number": 100,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Interstellar Phoenix",
-        "number": 140,
+        "number": 141,
         "shape": "normal",
         "set": "DSW"
     },
@@ -186,20 +186,20 @@
         "set": "DSW"
     },
     {
-        "card_name": "RU05 Depart",
+        "card_name": "RU03 Snappy",
         "number": 71,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "RB01 DESIGNED",
-        "number": 111,
+        "card_name": "Enter the Mind",
+        "number": 102,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Malignity From Beyond",
-        "number": 144,
+        "number": 145,
         "shape": "normal",
         "set": "DSW"
     },
@@ -210,13 +210,13 @@
         "set": "DSW"
     },
     {
-        "card_name": "RI01 Small Creature",
-        "number": 239,
+        "card_name": "Protect Boundless Will",
+        "number": 237,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "RW02 Small Creature",
+        "card_name": "RW02 Selfbouncer",
         "number": 25,
         "shape": "normal",
         "set": "DSW"
@@ -228,8 +228,8 @@
         "set": "DSW"
     },
     {
-        "card_name": "RB02 Medium Creature",
-        "number": 112,
+        "card_name": "Herald of Blackened Stars",
+        "number": 106,
         "shape": "normal",
         "set": "DSW"
     },
@@ -246,13 +246,13 @@
         "set": "DSW"
     },
     {
-        "card_name": "RI02 Small Creature",
-        "number": 240,
+        "card_name": "RI01 Small Creature",
+        "number": 239,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "RW05 Depart",
+        "card_name": "RW07 Medium Creature",
         "number": 26,
         "shape": "normal",
         "set": "DSW"
@@ -264,31 +264,31 @@
         "set": "DSW"
     },
     {
-        "card_name": "RB03 DESIGNED",
-        "number": 113,
+        "card_name": "Mark of Return",
+        "number": 109,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "RR03 Depart",
+        "card_name": "RR05 Large Creature",
         "number": 153,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "RG04 Depart",
+        "card_name": "RG05 Large Creature",
         "number": 195,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "RI05 Depart",
-        "number": 241,
+        "card_name": "RI02 Small Creature",
+        "number": 240,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "RW06 Medium Creature",
+        "card_name": "RW09 Noncreature",
         "number": 27,
         "shape": "normal",
         "set": "DSW"
@@ -300,103 +300,103 @@
         "set": "DSW"
     },
     {
-        "card_name": "RB05 Depart",
-        "number": 114,
-        "shape": "normal",
-        "set": "DSW"
-    },
-    {
-        "card_name": "RR05 Large Creature",
-        "number": 154,
-        "shape": "normal",
-        "set": "DSW"
-    },
-    {
-        "card_name": "RG05 Large Creature",
-        "number": 196,
-        "shape": "normal",
-        "set": "DSW"
-    },
-    {
-        "card_name": "RI06 Wip",
-        "number": 242,
-        "shape": "normal",
-        "set": "DSW"
-    },
-    {
-        "card_name": "RW07 Medium Creature",
-        "number": 28,
-        "shape": "normal",
-        "set": "DSW"
-    },
-    {
-        "card_name": "RU10 Noncreature",
-        "number": 75,
-        "shape": "normal",
-        "set": "DSW"
-    },
-    {
-        "card_name": "RB06 Large Creature",
+        "card_name": "Shattered and Unbroken",
         "number": 115,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "RR07 Noncreature",
-        "number": 155,
-        "shape": "normal",
-        "set": "DSW"
-    },
-    {
-        "card_name": "RG07 Noncreature",
-        "number": 197,
-        "shape": "normal",
-        "set": "DSW"
-    },
-    {
-        "card_name": "RI08 Noncreature",
-        "number": 243,
-        "shape": "normal",
-        "set": "DSW"
-    },
-    {
-        "card_name": "RW09 Noncreature",
-        "number": 29,
-        "shape": "normal",
-        "set": "DSW"
-    },
-    {
-        "card_name": "Seal Futile Dreams",
-        "number": 76,
-        "shape": "normal",
-        "set": "DSW"
-    },
-    {
-        "card_name": "Shattered and Unbroken",
-        "number": 117,
-        "shape": "normal",
-        "set": "DSW"
-    },
-    {
-        "card_name": "RR08 Noncreature",
-        "number": 156,
+        "number": 154,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "RG08 Noncreature",
-        "number": 198,
+        "number": 196,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "RI09 Noncreature",
-        "number": 244,
+        "card_name": "RI06 Large Creature",
+        "number": 241,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "RW10 Noncreature",
+        "number": 28,
+        "shape": "normal",
+        "set": "DSW"
+    },
+    {
+        "card_name": "Seal Futile Dreams",
+        "number": 75,
+        "shape": "normal",
+        "set": "DSW"
+    },
+    {
+        "card_name": "Unhesitating Malice",
+        "number": 126,
+        "shape": "normal",
+        "set": "DSW"
+    },
+    {
+        "card_name": "RR08 Noncreature",
+        "number": 155,
+        "shape": "normal",
+        "set": "DSW"
+    },
+    {
+        "card_name": "RG09 Noncreature",
+        "number": 197,
+        "shape": "normal",
+        "set": "DSW"
+    },
+    {
+        "card_name": "RI09 Noncreature",
+        "number": 242,
+        "shape": "normal",
+        "set": "DSW"
+    },
+    {
+        "card_name": "Shatter Unfulfilled Promises",
+        "number": 29,
+        "shape": "normal",
+        "set": "DSW"
+    },
+    {
+        "card_name": "Uncontrollable Faltering",
+        "number": 81,
+        "shape": "normal",
+        "set": "DSW"
+    },
+    {
+        "card_name": "Voidcatcher",
+        "number": 128,
+        "shape": "normal",
+        "set": "DSW"
+    },
+    {
+        "card_name": "RR09 Noncreature",
+        "number": 156,
+        "shape": "normal",
+        "set": "DSW"
+    },
+    {
+        "card_name": "RG10 Noncreature",
+        "number": 198,
+        "shape": "normal",
+        "set": "DSW"
+    },
+    {
+        "card_name": "RI10 Noncreature",
+        "number": 243,
+        "shape": "normal",
+        "set": "DSW"
+    },
+    {
+        "card_name": "Shrouded Subjugator",
         "number": 30,
         "shape": "normal",
         "set": "DSW"
@@ -414,26 +414,26 @@
         "set": "DSW"
     },
     {
-        "card_name": "RR09 Noncreature",
+        "card_name": "RR10 Noncreature",
         "number": 157,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "RG09 Noncreature",
-        "number": 199,
+        "card_name": "Unrestricted Growth",
+        "number": 211,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "RI10 Noncreature",
-        "number": 245,
+        "card_name": "Unnerving Foresight",
+        "number": 254,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "Shatter Unfulfilled Promises",
-        "number": 31,
+        "card_name": "Unbreakable Remembrance",
+        "number": 37,
         "shape": "normal",
         "set": "DSW"
     },
@@ -445,19 +445,19 @@
     },
     {
         "card_name": "Convergence of Paths",
-        "number": 91,
+        "number": 92,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "RR10 Noncreature",
-        "number": 158,
+        "card_name": "Unchained Unrest",
+        "number": 162,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "RG10 Noncreature",
-        "number": 200,
+        "card_name": "Unveil Vibrant Realms",
+        "number": 212,
         "shape": "normal",
         "set": "DSW"
     },
@@ -481,13 +481,13 @@
     },
     {
         "card_name": "Doorwatcher",
-        "number": 96,
+        "number": 97,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Breaking Eternity",
-        "number": 130,
+        "number": 131,
         "shape": "normal",
         "set": "DSW"
     },
@@ -517,13 +517,13 @@
     },
     {
         "card_name": "Forewarning Visitor",
-        "number": 102,
+        "number": 104,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Cosmos Caller",
-        "number": 133,
+        "number": 134,
         "shape": "normal",
         "set": "DSW"
     },
@@ -553,13 +553,13 @@
     },
     {
         "card_name": "Freed from Eternity",
-        "number": 103,
+        "number": 105,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Extraplanar Existence",
-        "number": 135,
+        "number": 136,
         "shape": "normal",
         "set": "DSW"
     },
@@ -589,13 +589,13 @@
     },
     {
         "card_name": "Lightwoven Ghast",
-        "number": 105,
+        "number": 108,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Forge Chromatic Fire",
-        "number": 136,
+        "number": 137,
         "shape": "normal",
         "set": "DSW"
     },
@@ -625,13 +625,13 @@
     },
     {
         "card_name": "Najari Shaper",
-        "number": 108,
+        "number": 111,
         "shape": "adventure",
         "set": "DSW"
     },
     {
         "card_name": "Ikan Explorer",
-        "number": 139,
+        "number": 140,
         "shape": "adventure",
         "set": "DSW"
     },
@@ -661,13 +661,13 @@
     },
     {
         "card_name": "Ominous Moon",
-        "number": 109,
+        "number": 112,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Kalan Processor",
-        "number": 142,
+        "number": 143,
         "shape": "normal",
         "set": "DSW"
     },
@@ -697,7 +697,7 @@
     },
     {
         "card_name": "Trianglify",
-        "number": 119,
+        "number": 117,
         "shape": "normal",
         "set": "DSW"
     },
@@ -721,7 +721,7 @@
     },
     {
         "card_name": "Touch of the Boundless",
-        "number": 36,
+        "number": 35,
         "shape": "normal",
         "set": "DSW"
     },
@@ -733,13 +733,13 @@
     },
     {
         "card_name": "UB01 DESIGNED",
-        "number": 120,
+        "number": 118,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "SOMETHING of Ruin",
-        "number": 161,
+        "number": 160,
         "shape": "normal",
         "set": "DSW"
     },
@@ -757,25 +757,25 @@
     },
     {
         "card_name": "Traveler of Lost Planes",
-        "number": 37,
+        "number": 36,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Rise From Eternity",
-        "number": 67,
+        "number": 69,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "UB03 DESIGNED",
-        "number": 121,
+        "number": 119,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Stormborn Flamebringer",
-        "number": 162,
+        "number": 161,
         "shape": "normal",
         "set": "DSW"
     },
@@ -799,13 +799,13 @@
     },
     {
         "card_name": "Spirit Channeler",
-        "number": 77,
+        "number": 76,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "UB04 DESIGNED",
-        "number": 122,
+        "number": 120,
         "shape": "normal",
         "set": "DSW"
     },
@@ -835,13 +835,13 @@
     },
     {
         "card_name": "Spiritual Departure",
-        "number": 78,
+        "number": 77,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "UB05 DESIGNED",
-        "number": 123,
+        "number": 121,
         "shape": "normal",
         "set": "DSW"
     },
@@ -859,7 +859,7 @@
     },
     {
         "card_name": "Slice Through Stars",
-        "number": 248,
+        "number": 246,
         "shape": "normal",
         "set": "DSW"
     },
@@ -877,7 +877,7 @@
     },
     {
         "card_name": "UB07 Blackhole",
-        "number": 124,
+        "number": 122,
         "shape": "normal",
         "set": "DSW"
     },
@@ -889,13 +889,13 @@
     },
     {
         "card_name": "Solemn Lightbearer",
-        "number": 202,
+        "number": 200,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Thief of The Boundless",
-        "number": 250,
+        "number": 248,
         "shape": "normal",
         "set": "DSW"
     },
@@ -913,7 +913,7 @@
     },
     {
         "card_name": "UB08 DESIGNED",
-        "number": 125,
+        "number": 123,
         "shape": "normal",
         "set": "DSW"
     },
@@ -925,13 +925,13 @@
     },
     {
         "card_name": "UG01 DESIGNED",
-        "number": 207,
+        "number": 205,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "UI03 DESIGNED",
-        "number": 251,
+        "number": 250,
         "shape": "normal",
         "set": "DSW"
     },
@@ -949,7 +949,7 @@
     },
     {
         "card_name": "UB11 Darkgates",
-        "number": 126,
+        "number": 124,
         "shape": "normal",
         "set": "DSW"
     },
@@ -960,14 +960,14 @@
         "set": "DSW"
     },
     {
-        "card_name": "UG04 Put target creature card from a graveyard onto the battlefield under your control.RT",
-        "number": 208,
+        "card_name": "UG04 REART",
+        "number": 206,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "UI04 DESIGNED",
-        "number": 252,
+        "number": 251,
         "shape": "normal",
         "set": "DSW"
     },
@@ -985,7 +985,7 @@
     },
     {
         "card_name": "UBXX DESIGNED",
-        "number": 127,
+        "number": 125,
         "shape": "normal",
         "set": "DSW"
     },
@@ -997,13 +997,13 @@
     },
     {
         "card_name": "UG06 DESIGNED",
-        "number": 209,
+        "number": 207,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "UI05 DESIGNED",
-        "number": 253,
+        "number": 252,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1033,13 +1033,13 @@
     },
     {
         "card_name": "UG07 DESIGNED",
-        "number": 210,
+        "number": 208,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "UI06 DESIGNED",
-        "number": 254,
+        "number": 253,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1069,7 +1069,7 @@
     },
     {
         "card_name": "UG09 DESIGNED",
-        "number": 211,
+        "number": 209,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1093,13 +1093,13 @@
     },
     {
         "card_name": "Corrupted Conviction",
-        "number": 92,
+        "number": 93,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "The Arbiter's Pathlighter",
-        "number": 129,
+        "number": 130,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1129,13 +1129,13 @@
     },
     {
         "card_name": "Corrupted Withering",
-        "number": 93,
+        "number": 94,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Comsumed Memories",
-        "number": 132,
+        "number": 133,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1165,13 +1165,13 @@
     },
     {
         "card_name": "Depthslighter",
-        "number": 94,
+        "number": 95,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Eternal Flamebearer",
-        "number": 134,
+        "number": 135,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1201,13 +1201,13 @@
     },
     {
         "card_name": "Drain Spiritual Realms",
-        "number": 97,
+        "number": 98,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Hurled Flamestone",
-        "number": 138,
+        "number": 139,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1237,13 +1237,13 @@
     },
     {
         "card_name": "Embrace Eternity",
-        "number": 100,
+        "number": 101,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Kalan Crystal Spear",
-        "number": 141,
+        "number": 142,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1273,13 +1273,13 @@
     },
     {
         "card_name": "Eternal Wanderer",
-        "number": 101,
+        "number": 103,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Kara Mountain Guardian",
-        "number": 143,
+        "number": 144,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1309,7 +1309,7 @@
     },
     {
         "card_name": "Infused Warrior",
-        "number": 104,
+        "number": 107,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1321,7 +1321,7 @@
     },
     {
         "card_name": "Snakeskin Veil",
-        "number": 201,
+        "number": 199,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1339,13 +1339,13 @@
     },
     {
         "card_name": "Splinter New Worlds",
-        "number": 79,
+        "number": 78,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Otherworldy Starbringer",
-        "number": 110,
+        "number": 113,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1357,7 +1357,7 @@
     },
     {
         "card_name": "SOMETHING Hammer",
-        "number": 203,
+        "number": 201,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1369,19 +1369,19 @@
     },
     {
         "card_name": "Starbeam",
-        "number": 32,
+        "number": 31,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Stillwater Sentry",
-        "number": 80,
+        "number": 79,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Recycled Ikani",
-        "number": 116,
+        "number": 114,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1393,31 +1393,31 @@
     },
     {
         "card_name": "Stand Your Ground",
-        "number": 204,
+        "number": 202,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Shadowy Incarnations",
-        "number": 246,
+        "number": 244,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Sunrise Caller",
-        "number": 33,
+        "number": 32,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "TO BE NAMED",
-        "number": 81,
+        "number": 80,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Transcend Mortality",
-        "number": 118,
+        "number": 116,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1429,19 +1429,19 @@
     },
     {
         "card_name": "Thicket's Incarnation",
-        "number": 206,
+        "number": 204,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Skyshift",
-        "number": 247,
+        "number": 245,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "TONAME BARU",
-        "number": 35,
+        "number": 34,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1453,25 +1453,25 @@
     },
     {
         "card_name": "Vision from Beyond",
-        "number": 128,
+        "number": 127,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Savan Ascendant",
-        "number": 159,
+        "number": 158,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Unconcerned Tortoise",
-        "number": 212,
+        "number": 210,
         "shape": "normal",
         "set": "DSW"
     },
     {
         "card_name": "Starlight's Glimmer",
-        "number": 249,
+        "number": 247,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1489,7 +1489,7 @@
     },
     {
         "card_name": "Shatter Eternity",
-        "number": 160,
+        "number": 159,
         "shape": "normal",
         "set": "DSW"
     },
@@ -1549,7 +1549,7 @@
         "set": "DSW"
     },
     {
-        "card_name": "RM02",
+        "card_name": "RM02 DESIGNED",
         "number": 266,
         "shape": "normal",
         "set": "DSW"
@@ -1573,7 +1573,7 @@
         "set": "DSW"
     },
     {
-        "card_name": "RM11",
+        "card_name": "RM11 Avatarlord",
         "number": 275,
         "shape": "normal",
         "set": "DSW"
@@ -1585,13 +1585,13 @@
         "set": "DSW"
     },
     {
-        "card_name": "RM13",
+        "card_name": "RM13 DESIGNED",
         "number": 277,
         "shape": "normal",
         "set": "DSW"
     },
     {
-        "card_name": "RM01",
+        "card_name": "RM01 DESIGNED",
         "number": 265,
         "shape": "normal",
         "set": "DSW"

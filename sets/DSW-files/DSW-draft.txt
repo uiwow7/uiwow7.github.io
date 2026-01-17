@@ -5,9 +5,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Cat",
-			"collector_number": "33",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/33_Sunrise Caller.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/32_Sunrise Caller.jpg"
 			}
 		},
 		{
@@ -25,9 +25,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Scout",
-			"collector_number": "37",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/37_Traveler of Lost Planes.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/36_Traveler of Lost Planes.jpg"
 			}
 		},
 		{
@@ -155,9 +155,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "34",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/34_TO BE NAMED.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/33_TO BE NAMED.jpg"
 			}
 		},
 		{
@@ -175,9 +175,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "35",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/35_TONAME BARU.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/34_TONAME BARU.jpg"
 			}
 		},
 		{
@@ -185,9 +185,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
-			"collector_number": "32",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/32_Starbeam.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/31_Starbeam.jpg"
 			}
 		},
 		{
@@ -285,9 +285,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
 			"type": "Artifact Creature — Elk",
-			"collector_number": "80",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/80_Stillwater Sentry.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/79_Stillwater Sentry.jpg"
 			}
 		},
 		{
@@ -305,9 +305,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Avatar",
-			"collector_number": "81",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/81_TO BE NAMED.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/80_TO BE NAMED.jpg"
 			}
 		},
 		{
@@ -335,9 +335,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Kindred Sorcery — Avatar Revelation",
-			"collector_number": "79",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/79_Splinter New Worlds.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/78_Splinter New Worlds.jpg"
 			}
 		},
 		{
@@ -365,9 +365,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Kindred Sorcery — Avatar Revelation",
-			"collector_number": "67",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/67_Rise From Eternity.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/69_Rise From Eternity.jpg"
 			}
 		},
 		{
@@ -395,9 +395,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Kindred Sorcery — Anima",
-			"collector_number": "78",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/78_Spiritual Departure.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/77_Spiritual Departure.jpg"
 			}
 		},
 		{
@@ -435,9 +435,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Spirit",
-			"collector_number": "105",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/105_Lightwoven Ghast.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/108_Lightwoven Ghast.jpg"
 			}
 		},
 		{
@@ -445,9 +445,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact Creature — Construct Horror",
-			"collector_number": "116",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/116_Recycled Ikani.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/114_Recycled Ikani.jpg"
 			}
 		},
 		{
@@ -455,9 +455,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "104",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/104_Infused Warrior.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/107_Infused Warrior.jpg"
 			}
 		},
 		{
@@ -465,9 +465,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Avatar",
-			"collector_number": "94",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/94_Depthslighter.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/95_Depthslighter.jpg"
 			}
 		},
 		{
@@ -485,9 +485,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Avatar",
-			"collector_number": "108",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/108_Najari Shaper.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/111_Najari Shaper.jpg"
 			}
 		},
 		{
@@ -495,9 +495,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human",
-			"collector_number": "96",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/96_Doorwatcher.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/97_Doorwatcher.jpg"
 			}
 		},
 		{
@@ -505,9 +505,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Avatar",
-			"collector_number": "110",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/110_Otherworldy Starbringer.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/113_Otherworldy Starbringer.jpg"
 			}
 		},
 		{
@@ -515,9 +515,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Avatar",
-			"collector_number": "127",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/127_UBXX DESIGNED.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/125_UBXX DESIGNED.jpg"
 			}
 		},
 		{
@@ -525,9 +525,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{B}",
 			"type": "Creature — Wurm Horror",
-			"collector_number": "128",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/128_Vision from Beyond.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/127_Vision from Beyond.jpg"
 			}
 		},
 		{
@@ -535,9 +535,9 @@
 			"rarity": "common",
 			"mana_cost": "{6}{B}",
 			"type": "Creature — Anima Warlock",
-			"collector_number": "101",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/101_Eternal Wanderer.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/103_Eternal Wanderer.jpg"
 			}
 		},
 		{
@@ -545,9 +545,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "92",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/92_Corrupted Conviction.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/93_Corrupted Conviction.jpg"
 			}
 		},
 		{
@@ -555,9 +555,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "118",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/118_Transcend Mortality.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/116_Transcend Mortality.jpg"
 			}
 		},
 		{
@@ -565,9 +565,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Kindred Sorcery — Avatar Revelation",
-			"collector_number": "97",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/97_Drain Spiritual Realms.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/98_Drain Spiritual Realms.jpg"
 			}
 		},
 		{
@@ -575,9 +575,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "100",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/100_Embrace Eternity.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/101_Embrace Eternity.jpg"
 			}
 		},
 		{
@@ -585,9 +585,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "119",
+			"collector_number": "117",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/119_Trianglify.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/117_Trianglify.jpg"
 			}
 		},
 		{
@@ -605,9 +605,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
-			"collector_number": "93",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/93_Corrupted Withering.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/94_Corrupted Withering.jpg"
 			}
 		},
 		{
@@ -615,9 +615,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Instant",
-			"collector_number": "91",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/91_Convergence of Paths.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/92_Convergence of Paths.jpg"
 			}
 		},
 		{
@@ -625,9 +625,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
 			"type": "Kindred Sorcery — Anima",
-			"collector_number": "103",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/103_Freed from Eternity.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/105_Freed from Eternity.jpg"
 			}
 		},
 		{
@@ -635,9 +635,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Avatar",
-			"collector_number": "159",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/159_Savan Ascendant.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/158_Savan Ascendant.jpg"
 			}
 		},
 		{
@@ -655,9 +655,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Avatar",
-			"collector_number": "135",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/135_Extraplanar Existence.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/136_Extraplanar Existence.jpg"
 			}
 		},
 		{
@@ -665,9 +665,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Avatar",
-			"collector_number": "142",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/142_Kalan Processor.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/143_Kalan Processor.jpg"
 			}
 		},
 		{
@@ -675,9 +675,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Avatar",
-			"collector_number": "133",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/133_Cosmos Caller.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/134_Cosmos Caller.jpg"
 			}
 		},
 		{
@@ -695,9 +695,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Avatar",
-			"collector_number": "139",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/139_Ikan Explorer.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/140_Ikan Explorer.jpg"
 			}
 		},
 		{
@@ -705,9 +705,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Elemental",
-			"collector_number": "162",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/162_Stormborn Flamebringer.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/161_Stormborn Flamebringer.jpg"
 			}
 		},
 		{
@@ -725,9 +725,9 @@
 			"rarity": "common",
 			"mana_cost": "{6}{R}",
 			"type": "Creature — Avatar Horror",
-			"collector_number": "129",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/129_The Arbiter's Pathlighter.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/130_The Arbiter's Pathlighter.jpg"
 			}
 		},
 		{
@@ -735,9 +735,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Horror",
-			"collector_number": "143",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/143_Kara Mountain Guardian.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/144_Kara Mountain Guardian.jpg"
 			}
 		},
 		{
@@ -745,9 +745,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{R}",
 			"type": "Creature — Anima Wizard",
-			"collector_number": "134",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/134_Eternal Flamebearer.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/135_Eternal Flamebearer.jpg"
 			}
 		},
 		{
@@ -775,9 +775,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Kindred Sorcery — Avatar Revelation",
-			"collector_number": "160",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/160_Shatter Eternity.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/159_Shatter Eternity.jpg"
 			}
 		},
 		{
@@ -795,9 +795,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "132",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/132_Comsumed Memories.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/133_Comsumed Memories.jpg"
 			}
 		},
 		{
@@ -805,9 +805,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "138",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/138_Hurled Flamestone.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/139_Hurled Flamestone.jpg"
 			}
 		},
 		{
@@ -815,9 +815,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Kindred Sorcery — Avatar Revelation",
-			"collector_number": "136",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/136_Forge Chromatic Fire.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/137_Forge Chromatic Fire.jpg"
 			}
 		},
 		{
@@ -825,9 +825,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Artifact — Equipment",
-			"collector_number": "141",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/141_Kalan Crystal Spear.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/142_Kalan Crystal Spear.jpg"
 			}
 		},
 		{
@@ -835,9 +835,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{R}",
 			"type": "Kindred Sorcery — Anima",
-			"collector_number": "130",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/130_Breaking Eternity.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/131_Breaking Eternity.jpg"
 			}
 		},
 		{
@@ -905,9 +905,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Avatar",
-			"collector_number": "206",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/206_Thicket's Incarnation.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/204_Thicket's Incarnation.jpg"
 			}
 		},
 		{
@@ -955,9 +955,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Turtle",
-			"collector_number": "212",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/212_Unconcerned Tortoise.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/210_Unconcerned Tortoise.jpg"
 			}
 		},
 		{
@@ -975,9 +975,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "201",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/201_Snakeskin Veil.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/199_Snakeskin Veil.jpg"
 			}
 		},
 		{
@@ -1005,9 +1005,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "204",
+			"collector_number": "202",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/204_Stand Your Ground.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/202_Stand Your Ground.jpg"
 			}
 		},
 		{
@@ -1035,9 +1035,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Artifact — Equipment",
-			"collector_number": "203",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/203_SOMETHING Hammer.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/201_SOMETHING Hammer.jpg"
 			}
 		},
 		{
@@ -1185,9 +1185,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "36",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/36_Touch of the Boundless.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/35_Touch of the Boundless.jpg"
 			}
 		},
 		{
@@ -1205,9 +1205,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "77",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/77_Spirit Channeler.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/76_Spirit Channeler.jpg"
 			}
 		},
 		{
@@ -1295,9 +1295,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Creature — Demon Zombie",
-			"collector_number": "120",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/120_UB01 DESIGNED.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/118_UB01 DESIGNED.jpg"
 			}
 		},
 		{
@@ -1305,9 +1305,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Spirit",
-			"collector_number": "102",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/102_Forewarning Visitor.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/104_Forewarning Visitor.jpg"
 			}
 		},
 		{
@@ -1315,9 +1315,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature",
-			"collector_number": "121",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/121_UB03 DESIGNED.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/119_UB03 DESIGNED.jpg"
 			}
 		},
 		{
@@ -1325,9 +1325,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature",
-			"collector_number": "122",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/122_UB04 DESIGNED.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/120_UB04 DESIGNED.jpg"
 			}
 		},
 		{
@@ -1335,9 +1335,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Creature",
-			"collector_number": "123",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/123_UB05 DESIGNED.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/121_UB05 DESIGNED.jpg"
 			}
 		},
 		{
@@ -1345,9 +1345,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "124",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/124_UB07 Blackhole.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/122_UB07 Blackhole.jpg"
 			}
 		},
 		{
@@ -1355,9 +1355,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
-			"collector_number": "125",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/125_UB08 DESIGNED.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/123_UB08 DESIGNED.jpg"
 			}
 		},
 		{
@@ -1365,9 +1365,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
-			"collector_number": "109",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/109_Ominous Moon.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/112_Ominous Moon.jpg"
 			}
 		},
 		{
@@ -1375,9 +1375,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Sorcery",
-			"collector_number": "126",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/126_UB11 Darkgates.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/124_UB11 Darkgates.jpg"
 			}
 		},
 		{
@@ -1445,9 +1445,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "161",
+			"collector_number": "160",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/161_SOMETHING of Ruin.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/160_SOMETHING of Ruin.jpg"
 			}
 		},
 		{
@@ -1475,9 +1475,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature",
-			"collector_number": "207",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/207_UG01 DESIGNED.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/205_UG01 DESIGNED.jpg"
 			}
 		},
 		{
@@ -1485,19 +1485,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elk Spirit",
-			"collector_number": "202",
+			"collector_number": "200",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/202_Solemn Lightbearer.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/200_Solemn Lightbearer.jpg"
 			}
 		},
 		{
-			"name": "UG04 Put target creature card from a graveyard onto the battlefield under your control.RT",
+			"name": "UG04 REART",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Wolf Avatar",
-			"collector_number": "208",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/208_UG04 Put target creature card from a graveyard onto the battlefield under your control.RT.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/206_UG04 REART.jpg"
 			}
 		},
 		{
@@ -1515,9 +1515,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature",
-			"collector_number": "209",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/209_UG06 DESIGNED.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/207_UG06 DESIGNED.jpg"
 			}
 		},
 		{
@@ -1525,9 +1525,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}",
 			"type": "Creature",
-			"collector_number": "210",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/210_UG07 DESIGNED.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/208_UG07 DESIGNED.jpg"
 			}
 		},
 		{
@@ -1535,9 +1535,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "211",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/211_UG09 DESIGNED.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/209_UG09 DESIGNED.jpg"
 			}
 		},
 		{
@@ -1571,13 +1571,13 @@
 			}
 		},
 		{
-			"name": "RW02 Small Creature",
+			"name": "RW02 Selfbouncer",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
-			"type": "Creature",
+			"type": "Creature — Avatar",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/25_RW02 Small Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/25_RW02 Selfbouncer.jpg"
 			}
 		},
 		{
@@ -1601,23 +1601,23 @@
 			}
 		},
 		{
-			"name": "RW05 Depart",
+			"name": "Unbreakable Remembrance",
 			"rarity": "rare",
 			"mana_cost": "{4}{W}",
-			"type": "Creature — Anima",
-			"collector_number": "26",
+			"type": "Creature — Anima Incarnation",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/26_RW05 Depart.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/37_Unbreakable Remembrance.jpg"
 			}
 		},
 		{
-			"name": "RW06 Medium Creature",
+			"name": "Shrouded Subjugator",
 			"rarity": "rare",
-			"mana_cost": "{4}{W}",
-			"type": "Creature",
-			"collector_number": "27",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/27_RW06 Medium Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/30_Shrouded Subjugator.jpg"
 			}
 		},
 		{
@@ -1625,9 +1625,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{W}",
 			"type": "Creature",
-			"collector_number": "28",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/28_RW07 Medium Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/26_RW07 Medium Creature.jpg"
 			}
 		},
 		{
@@ -1635,9 +1635,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Kindred Instant — Avatar Revelation",
-			"collector_number": "31",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/31_Shatter Unfulfilled Promises.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/29_Shatter Unfulfilled Promises.jpg"
 			}
 		},
 		{
@@ -1645,9 +1645,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "",
-			"collector_number": "29",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/29_RW09 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/27_RW09 Noncreature.jpg"
 			}
 		},
 		{
@@ -1655,9 +1655,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{W}",
 			"type": "",
-			"collector_number": "30",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/30_RW10 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/28_RW10 Noncreature.jpg"
 			}
 		},
 		{
@@ -1665,9 +1665,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Creature",
-			"collector_number": "68",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/68_RU01 DESIGNED.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/70_RU01 DESIGNED.jpg"
 			}
 		},
 		{
@@ -1675,39 +1675,39 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Cat Reflection",
-			"collector_number": "66",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/66_Reflected Familiar.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/67_Reflected Familiar.jpg"
 			}
 		},
 		{
-			"name": "RU03 Small Creature",
+			"name": "RU03 Snappy",
 			"rarity": "rare",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Creature",
-			"collector_number": "69",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/69_RU03 Small Creature.jpg"
-			}
-		},
-		{
-			"name": "RU04 DESIGNED",
-			"rarity": "rare",
-			"mana_cost": "{2}{U}",
-			"type": "Creature",
-			"collector_number": "70",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/70_RU04 DESIGNED.jpg"
-			}
-		},
-		{
-			"name": "RU05 Depart",
-			"rarity": "rare",
-			"mana_cost": "{3}{U}",
-			"type": "Creature — Anima",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/71_RU05 Depart.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/71_RU03 Snappy.jpg"
+			}
+		},
+		{
+			"name": "Portent of Stars",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/66_Portent of Stars.jpg"
+			}
+		},
+		{
+			"name": "Uncontrollable Faltering",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Anima Incarnation",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/81_Uncontrollable Faltering.jpg"
 			}
 		},
 		{
@@ -1725,9 +1725,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Kindred Sorcery — Avatar Revelation",
-			"collector_number": "76",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/76_Seal Futile Dreams.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/75_Seal Futile Dreams.jpg"
 			}
 		},
 		{
@@ -1751,43 +1751,43 @@
 			}
 		},
 		{
-			"name": "RU10 Noncreature",
+			"name": "Reveal Veiled Truths",
 			"rarity": "rare",
-			"mana_cost": "{5}{U}",
-			"type": "",
-			"collector_number": "75",
+			"mana_cost": "{2}{U}",
+			"type": "Kindred Sorcery — Avatar Revelation",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/75_RU10 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/68_Reveal Veiled Truths.jpg"
 			}
 		},
 		{
-			"name": "RB01 DESIGNED",
+			"name": "Herald of Blackened Stars",
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Avatar",
-			"collector_number": "111",
+			"type": "Creature — Avatar Demon",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/111_RB01 DESIGNED.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/106_Herald of Blackened Stars.jpg"
 			}
 		},
 		{
-			"name": "RB02 Medium Creature",
+			"name": "Enter the Mind",
 			"rarity": "rare",
-			"mana_cost": "{2}{B}",
-			"type": "Creature",
-			"collector_number": "112",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/112_RB02 Medium Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/102_Enter the Mind.jpg"
 			}
 		},
 		{
-			"name": "RB03 DESIGNED",
+			"name": "Boundless Reawakener",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
-			"type": "Creature",
-			"collector_number": "113",
+			"type": "Creature — Dragon Warlock",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/113_RB03 DESIGNED.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/91_Boundless Reawakener.jpg"
 			}
 		},
 		{
@@ -1795,29 +1795,29 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Demon",
-			"collector_number": "99",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/99_Eclipse Warden.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/100_Eclipse Warden.jpg"
 			}
 		},
 		{
-			"name": "RB05 Depart",
+			"name": "Unhesitating Malice",
 			"rarity": "rare",
 			"mana_cost": "{4}{B}",
-			"type": "Creature — Anima",
-			"collector_number": "114",
+			"type": "Creature — Anima Incarnation",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/114_RB05 Depart.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/126_Unhesitating Malice.jpg"
 			}
 		},
 		{
-			"name": "RB06 Large Creature",
+			"name": "Voidcatcher",
 			"rarity": "rare",
-			"mana_cost": "{7}{B}",
-			"type": "Creature",
-			"collector_number": "115",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Skeleton Warlock",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/115_RB06 Large Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/128_Voidcatcher.jpg"
 			}
 		},
 		{
@@ -1825,9 +1825,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
 			"type": "Sorcery",
-			"collector_number": "106",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/106_Mark of Return.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/109_Mark of Return.jpg"
 			}
 		},
 		{
@@ -1835,9 +1835,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Kindred Instant — Avatar Revelation",
-			"collector_number": "95",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/95_Devour Absent Memories.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/96_Devour Absent Memories.jpg"
 			}
 		},
 		{
@@ -1845,9 +1845,9 @@
 			"rarity": "rare",
 			"mana_cost": "{6}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "117",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/117_Shattered and Unbroken.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/115_Shattered and Unbroken.jpg"
 			}
 		},
 		{
@@ -1865,19 +1865,19 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Avatar Horror",
-			"collector_number": "144",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/144_Malignity From Beyond.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/145_Malignity From Beyond.jpg"
 			}
 		},
 		{
-			"name": "RR03 Depart",
+			"name": "Unchained Unrest",
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Anima",
-			"collector_number": "153",
+			"type": "Creature — Anima Incarnation",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/153_RR03 Depart.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/162_Unchained Unrest.jpg"
 			}
 		},
 		{
@@ -1885,9 +1885,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Phoenix",
-			"collector_number": "140",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/140_Interstellar Phoenix.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/141_Interstellar Phoenix.jpg"
 			}
 		},
 		{
@@ -1895,9 +1895,9 @@
 			"rarity": "rare",
 			"mana_cost": "{6}{R}",
 			"type": "Creature",
-			"collector_number": "154",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/154_RR05 Large Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/153_RR05 Large Creature.jpg"
 			}
 		},
 		{
@@ -1905,9 +1905,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Kindred Sorcery — Avatar Revelation",
-			"collector_number": "131",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/131_Burn Forgotten Wishes.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/132_Burn Forgotten Wishes.jpg"
 			}
 		},
 		{
@@ -1915,9 +1915,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "",
-			"collector_number": "155",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/155_RR07 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/154_RR07 Noncreature.jpg"
 			}
 		},
 		{
@@ -1925,9 +1925,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "",
-			"collector_number": "156",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/156_RR08 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/155_RR08 Noncreature.jpg"
 			}
 		},
 		{
@@ -1935,9 +1935,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "",
-			"collector_number": "157",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/157_RR09 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/156_RR09 Noncreature.jpg"
 			}
 		},
 		{
@@ -1945,9 +1945,9 @@
 			"rarity": "rare",
 			"mana_cost": "{7}{R}",
 			"type": "",
-			"collector_number": "158",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/158_RR10 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/157_RR10 Noncreature.jpg"
 			}
 		},
 		{
@@ -1981,13 +1981,13 @@
 			}
 		},
 		{
-			"name": "RG04 Depart",
+			"name": "Unrestricted Growth",
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{G}",
-			"type": "Creature — Anima",
-			"collector_number": "195",
+			"type": "Creature — Anima Incarnation",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/195_RG04 Depart.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/211_Unrestricted Growth.jpg"
 			}
 		},
 		{
@@ -1995,9 +1995,9 @@
 			"rarity": "rare",
 			"mana_cost": "{6}{G}",
 			"type": "Creature",
-			"collector_number": "196",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/196_RG05 Large Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/195_RG05 Large Creature.jpg"
 			}
 		},
 		{
@@ -2011,13 +2011,13 @@
 			}
 		},
 		{
-			"name": "RG07 Noncreature",
+			"name": "Unveil Vibrant Realms",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
-			"type": "",
-			"collector_number": "197",
+			"type": "Kindred Sorcery — Avatar Revelation",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/197_RG07 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/212_Unveil Vibrant Realms.jpg"
 			}
 		},
 		{
@@ -2025,9 +2025,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "",
-			"collector_number": "198",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/198_RG08 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/196_RG08 Noncreature.jpg"
 			}
 		},
 		{
@@ -2035,9 +2035,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "",
-			"collector_number": "199",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/199_RG09 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/197_RG09 Noncreature.jpg"
 			}
 		},
 		{
@@ -2045,29 +2045,29 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
 			"type": "",
-			"collector_number": "200",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/200_RG10 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/198_RG10 Noncreature.jpg"
 			}
 		},
 		{
-			"name": "RM01",
+			"name": "RM01 DESIGNED",
 			"rarity": "rare",
-			"mana_cost": "{W}{U}",
+			"mana_cost": "{1}{W}{U}",
 			"type": "Creature",
 			"collector_number": "265",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/265_RM01.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/265_RM01 DESIGNED.jpg"
 			}
 		},
 		{
-			"name": "RM02",
+			"name": "RM02 DESIGNED",
 			"rarity": "rare",
 			"mana_cost": "{U}{B}",
-			"type": "Creature",
+			"type": "Sorcery",
 			"collector_number": "266",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/266_RM02.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/266_RM02 DESIGNED.jpg"
 			}
 		},
 		{
@@ -2151,13 +2151,13 @@
 			}
 		},
 		{
-			"name": "RM11",
+			"name": "RM11 Avatarlord",
 			"rarity": "rare",
-			"mana_cost": "{I}{W}",
-			"type": "Creature",
+			"mana_cost": "{1}{I}{W}",
+			"type": "Creature — Avatar",
 			"collector_number": "275",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/275_RM11.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/275_RM11 Avatarlord.jpg"
 			}
 		},
 		{
@@ -2171,13 +2171,13 @@
 			}
 		},
 		{
-			"name": "RM13",
+			"name": "RM13 DESIGNED",
 			"rarity": "rare",
-			"mana_cost": "{I}{B}",
-			"type": "Creature",
+			"mana_cost": "{4}{I}{I}{B}{B}",
+			"type": "Sorcery",
 			"collector_number": "277",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/277_RM13.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/277_RM13 DESIGNED.jpg"
 			}
 		},
 		{
@@ -2255,9 +2255,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{B}{B}",
 			"type": "Creature — Avatar Incarnation",
-			"collector_number": "98",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/98_Dread of the Terminus.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/99_Dread of the Terminus.jpg"
 			}
 		},
 		{
@@ -2265,9 +2265,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}",
 			"type": "",
-			"collector_number": "107",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/107_MB02 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/110_MB02 Noncreature.jpg"
 			}
 		},
 		{
@@ -2275,19 +2275,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{R}{R}",
 			"type": "Creature — Avatar Incarnation",
-			"collector_number": "137",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/137_Heart of the Terminus.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/138_Heart of the Terminus.jpg"
 			}
 		},
 		{
-			"name": "MR02 Noncreature",
+			"name": "The Arbiter's Folly",
 			"rarity": "mythic",
-			"mana_cost": "{1}{R}",
-			"type": "",
-			"collector_number": "145",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Dragon Avatar",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/145_MR02 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/129_The Arbiter's Folly.jpg"
 			}
 		},
 		{
@@ -2305,9 +2305,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{G}{G}",
 			"type": "Creature — Avatar Incarnation",
-			"collector_number": "205",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/205_Strength of the Terminus.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/203_Strength of the Terminus.jpg"
 			}
 		},
 		{
@@ -2495,9 +2495,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{I}",
 			"type": "Creature — Avatar",
-			"collector_number": "250",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/250_Thief of The Boundless.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/248_Thief of The Boundless.jpg"
 			}
 		},
 		{
@@ -2535,9 +2535,9 @@
 			"rarity": "common",
 			"mana_cost": "{I}",
 			"type": "Instant",
-			"collector_number": "247",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/247_Skyshift.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/245_Skyshift.jpg"
 			}
 		},
 		{
@@ -2565,9 +2565,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{I}",
 			"type": "Instant",
-			"collector_number": "246",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/246_Shadowy Incarnations.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/244_Shadowy Incarnations.jpg"
 			}
 		},
 		{
@@ -2595,9 +2595,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{I}",
 			"type": "Sorcery",
-			"collector_number": "249",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/249_Starlight's Glimmer.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/247_Starlight's Glimmer.jpg"
 			}
 		},
 		{
@@ -2695,9 +2695,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{I}",
 			"type": "Creature — Avatar Bird",
-			"collector_number": "251",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/251_UI03 DESIGNED.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/250_UI03 DESIGNED.jpg"
 			}
 		},
 		{
@@ -2705,9 +2705,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{I}",
 			"type": "Creature",
-			"collector_number": "252",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/252_UI04 DESIGNED.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/251_UI04 DESIGNED.jpg"
 			}
 		},
 		{
@@ -2715,9 +2715,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{I}",
 			"type": "Creature — Avatar",
-			"collector_number": "253",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/253_UI05 DESIGNED.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/252_UI05 DESIGNED.jpg"
 			}
 		},
 		{
@@ -2725,9 +2725,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{I}",
 			"type": "Creature",
-			"collector_number": "254",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/254_UI06 DESIGNED.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/253_UI06 DESIGNED.jpg"
 			}
 		},
 		{
@@ -2735,9 +2735,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{I}",
 			"type": "Instant",
-			"collector_number": "248",
+			"collector_number": "246",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/248_Slice Through Stars.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/246_Slice Through Stars.jpg"
 			}
 		},
 		{
@@ -2771,13 +2771,13 @@
 			}
 		},
 		{
-			"name": "MU01 Small Creature",
+			"name": "Touch the Void",
 			"rarity": "mythic",
-			"mana_cost": "{1}{I}",
-			"type": "Creature",
-			"collector_number": "237",
+			"mana_cost": "{2}{I}",
+			"type": "Kindred Sorcery — Avatar Revelation",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/237_MU01 Small Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/249_Touch the Void.jpg"
 			}
 		},
 		{
@@ -2831,23 +2831,23 @@
 			}
 		},
 		{
-			"name": "RI05 Depart",
+			"name": "Unnerving Foresight",
 			"rarity": "rare",
 			"mana_cost": "{3}{I}",
-			"type": "Creature — Dragon Anima",
-			"collector_number": "241",
+			"type": "Creature — Anima Incarnation",
+			"collector_number": "254",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/241_RI05 Depart.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/254_Unnerving Foresight.jpg"
 			}
 		},
 		{
-			"name": "RI06 Wip",
+			"name": "RI06 Large Creature",
 			"rarity": "rare",
 			"mana_cost": "{7}{I}",
 			"type": "Creature",
-			"collector_number": "242",
+			"collector_number": "241",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/242_RI06 Wip.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/241_RI06 Large Creature.jpg"
 			}
 		},
 		{
@@ -2861,13 +2861,13 @@
 			}
 		},
 		{
-			"name": "RI08 Noncreature",
+			"name": "Protect Boundless Will",
 			"rarity": "rare",
-			"mana_cost": "{3}{I}",
-			"type": "",
-			"collector_number": "243",
+			"mana_cost": "{1}{I}",
+			"type": "Kindred Sorcery — Avatar Revelation",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/243_RI08 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/237_Protect Boundless Will.jpg"
 			}
 		},
 		{
@@ -2875,9 +2875,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{I}",
 			"type": "",
-			"collector_number": "244",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/244_RI09 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/242_RI09 Noncreature.jpg"
 			}
 		},
 		{
@@ -2885,9 +2885,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{I}",
 			"type": "",
-			"collector_number": "245",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/245_RI10 Noncreature.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/243_RI10 Noncreature.jpg"
 			}
 		},
 		{
@@ -3094,37 +3094,37 @@
 
 [rare(1)]
 	2 Ethereal Voyager
-	2 RW02 Small Creature
+	2 RW02 Selfbouncer
 	2 Demonheart Overseer
 	2 Celestial Wanderer
-	2 RW05 Depart
-	2 RW06 Medium Creature
+	2 Unbreakable Remembrance
+	2 Shrouded Subjugator
 	2 RW07 Medium Creature
 	2 Shatter Unfulfilled Promises
 	2 RW09 Noncreature
 	2 RW10 Noncreature
 	2 RU01 DESIGNED
 	2 Reflected Familiar
-	2 RU03 Small Creature
-	2 RU04 DESIGNED
-	2 RU05 Depart
+	2 RU03 Snappy
+	2 Portent of Stars
+	2 Uncontrollable Faltering
 	2 RU06 Large Creature
 	2 Seal Futile Dreams
 	2 RU08 Noncreature
 	2 RU09 Noncreature
-	2 RU10 Noncreature
-	2 RB01 DESIGNED
-	2 RB02 Medium Creature
-	2 RB03 DESIGNED
+	2 Reveal Veiled Truths
+	2 Herald of Blackened Stars
+	2 Enter the Mind
+	2 Boundless Reawakener
 	2 Eclipse Warden
-	2 RB05 Depart
-	2 RB06 Large Creature
+	2 Unhesitating Malice
+	2 Voidcatcher
 	2 Mark of Return
 	2 Devour Absent Memories
 	2 Shattered and Unbroken
 	2 Observer of Infernos
 	2 Malignity From Beyond
-	2 RR03 Depart
+	2 Unchained Unrest
 	2 Interstellar Phoenix
 	2 RR05 Large Creature
 	2 Burn Forgotten Wishes
@@ -3135,15 +3135,15 @@
 	2 RG01 Medium Creature
 	2 RG02 DESIGNED
 	2 Nurturing Woodsoul
-	2 RG04 Depart
+	2 Unrestricted Growth
 	2 RG05 Large Creature
 	2 Restore Unseen Tranquility
-	2 RG07 Noncreature
+	2 Unveil Vibrant Realms
 	2 RG08 Noncreature
 	2 RG09 Noncreature
 	2 RG10 Noncreature
-	2 RM01
-	2 RM02
+	2 RM01 DESIGNED
+	2 RM02 DESIGNED
 	2 RM03
 	2 RM04
 	2 RM05
@@ -3152,9 +3152,9 @@
 	2 RM08
 	2 RM09
 	2 RM10
-	2 RM11
+	2 RM11 Avatarlord
 	2 RM12
-	2 RM13
+	2 RM13 DESIGNED
 	2 RM14
 	2 RM15 DESIGNED
 	2 Eonbringer
@@ -3165,7 +3165,7 @@
 	1 Dread of the Terminus
 	1 MB02 Noncreature
 	1 Heart of the Terminus
-	1 MR02 Noncreature
+	1 The Arbiter's Folly
 	1 MR03 Noncreature
 	1 Strength of the Terminus
 	1 MG02 Noncreature
@@ -3178,16 +3178,16 @@
 	1 MM06 Large Creature
 	1 Tomb of Forgotten Worlds
 	1 Stormwrought Titan
-	1 MU01 Small Creature
+	1 Touch the Void
 	1 Wishes of the Terminus
 	2 RI01 Small Creature
 	2 RI02 Small Creature
 	2 Boundless Voidwalker
 	2 Deceiving Pathshaper
-	2 RI05 Depart
-	2 RI06 Wip
+	2 Unnerving Foresight
+	2 RI06 Large Creature
 	2 Herald Promised Light
-	2 RI08 Noncreature
+	2 Protect Boundless Will
 	2 RI09 Noncreature
 	2 RI10 Noncreature
 	1 
@@ -3272,7 +3272,7 @@
 	4 UR12 DESIGNED
 	4 UG01 DESIGNED
 	4 Solemn Lightbearer
-	4 UG04 Put target creature card from a graveyard onto the battlefield under your control.RT
+	4 UG04 REART
 	4 Imposing Stare
 	4 UG06 DESIGNED
 	4 UG07 DESIGNED
@@ -3552,7 +3552,7 @@
 	6 UR12 DESIGNED
 	6 UG01 DESIGNED
 	6 Solemn Lightbearer
-	6 UG04 Put target creature card from a graveyard onto the battlefield under your control.RT
+	6 UG04 REART
 	6 Imposing Stare
 	6 UG06 DESIGNED
 	6 UG07 DESIGNED
@@ -3560,37 +3560,37 @@
 	6 Dawn's Majesty
 	6 Earthbound Collision
 	2 Ethereal Voyager
-	2 RW02 Small Creature
+	2 RW02 Selfbouncer
 	2 Demonheart Overseer
 	2 Celestial Wanderer
-	2 RW05 Depart
-	2 RW06 Medium Creature
+	2 Unbreakable Remembrance
+	2 Shrouded Subjugator
 	2 RW07 Medium Creature
 	2 Shatter Unfulfilled Promises
 	2 RW09 Noncreature
 	2 RW10 Noncreature
 	2 RU01 DESIGNED
 	2 Reflected Familiar
-	2 RU03 Small Creature
-	2 RU04 DESIGNED
-	2 RU05 Depart
+	2 RU03 Snappy
+	2 Portent of Stars
+	2 Uncontrollable Faltering
 	2 RU06 Large Creature
 	2 Seal Futile Dreams
 	2 RU08 Noncreature
 	2 RU09 Noncreature
-	2 RU10 Noncreature
-	2 RB01 DESIGNED
-	2 RB02 Medium Creature
-	2 RB03 DESIGNED
+	2 Reveal Veiled Truths
+	2 Herald of Blackened Stars
+	2 Enter the Mind
+	2 Boundless Reawakener
 	2 Eclipse Warden
-	2 RB05 Depart
-	2 RB06 Large Creature
+	2 Unhesitating Malice
+	2 Voidcatcher
 	2 Mark of Return
 	2 Devour Absent Memories
 	2 Shattered and Unbroken
 	2 Observer of Infernos
 	2 Malignity From Beyond
-	2 RR03 Depart
+	2 Unchained Unrest
 	2 Interstellar Phoenix
 	2 RR05 Large Creature
 	2 Burn Forgotten Wishes
@@ -3601,15 +3601,15 @@
 	2 RG01 Medium Creature
 	2 RG02 DESIGNED
 	2 Nurturing Woodsoul
-	2 RG04 Depart
+	2 Unrestricted Growth
 	2 RG05 Large Creature
 	2 Restore Unseen Tranquility
-	2 RG07 Noncreature
+	2 Unveil Vibrant Realms
 	2 RG08 Noncreature
 	2 RG09 Noncreature
 	2 RG10 Noncreature
-	2 RM01
-	2 RM02
+	2 RM01 DESIGNED
+	2 RM02 DESIGNED
 	2 RM03
 	2 RM04
 	2 RM05
@@ -3618,9 +3618,9 @@
 	2 RM08
 	2 RM09
 	2 RM10
-	2 RM11
+	2 RM11 Avatarlord
 	2 RM12
-	2 RM13
+	2 RM13 DESIGNED
 	2 RM14
 	2 RM15 DESIGNED
 	2 Eonbringer
@@ -3631,7 +3631,7 @@
 	1 Dread of the Terminus
 	1 MB02 Noncreature
 	1 Heart of the Terminus
-	1 MR02 Noncreature
+	1 The Arbiter's Folly
 	1 MR03 Noncreature
 	1 Strength of the Terminus
 	1 MG02 Noncreature
@@ -3678,16 +3678,16 @@
 	6 Bring the Collision
 	6 Gaze into Eternity
 	6 Consumption of the Collision
-	1 MU01 Small Creature
+	1 Touch the Void
 	1 Wishes of the Terminus
 	2 RI01 Small Creature
 	2 RI02 Small Creature
 	2 Boundless Voidwalker
 	2 Deceiving Pathshaper
-	2 RI05 Depart
-	2 RI06 Wip
+	2 Unnerving Foresight
+	2 RI06 Large Creature
 	2 Herald Promised Light
-	2 RI08 Noncreature
+	2 Protect Boundless Will
 	2 RI09 Noncreature
 	2 RI10 Noncreature
 	12 Wonderings
@@ -3860,7 +3860,7 @@
 	15 UR12 DESIGNED
 	15 UG01 DESIGNED
 	15 Solemn Lightbearer
-	15 UG04 Put target creature card from a graveyard onto the battlefield under your control.RT
+	15 UG04 REART
 	15 Imposing Stare
 	15 UG06 DESIGNED
 	15 UG07 DESIGNED
@@ -3868,37 +3868,37 @@
 	15 Dawn's Majesty
 	15 Earthbound Collision
 	7 Ethereal Voyager
-	7 RW02 Small Creature
+	7 RW02 Selfbouncer
 	7 Demonheart Overseer
 	7 Celestial Wanderer
-	7 RW05 Depart
-	7 RW06 Medium Creature
+	7 Unbreakable Remembrance
+	7 Shrouded Subjugator
 	7 RW07 Medium Creature
 	7 Shatter Unfulfilled Promises
 	7 RW09 Noncreature
 	7 RW10 Noncreature
 	7 RU01 DESIGNED
 	7 Reflected Familiar
-	7 RU03 Small Creature
-	7 RU04 DESIGNED
-	7 RU05 Depart
+	7 RU03 Snappy
+	7 Portent of Stars
+	7 Uncontrollable Faltering
 	7 RU06 Large Creature
 	7 Seal Futile Dreams
 	7 RU08 Noncreature
 	7 RU09 Noncreature
-	7 RU10 Noncreature
-	7 RB01 DESIGNED
-	7 RB02 Medium Creature
-	7 RB03 DESIGNED
+	7 Reveal Veiled Truths
+	7 Herald of Blackened Stars
+	7 Enter the Mind
+	7 Boundless Reawakener
 	7 Eclipse Warden
-	7 RB05 Depart
-	7 RB06 Large Creature
+	7 Unhesitating Malice
+	7 Voidcatcher
 	7 Mark of Return
 	7 Devour Absent Memories
 	7 Shattered and Unbroken
 	7 Observer of Infernos
 	7 Malignity From Beyond
-	7 RR03 Depart
+	7 Unchained Unrest
 	7 Interstellar Phoenix
 	7 RR05 Large Creature
 	7 Burn Forgotten Wishes
@@ -3909,15 +3909,15 @@
 	7 RG01 Medium Creature
 	7 RG02 DESIGNED
 	7 Nurturing Woodsoul
-	7 RG04 Depart
+	7 Unrestricted Growth
 	7 RG05 Large Creature
 	7 Restore Unseen Tranquility
-	7 RG07 Noncreature
+	7 Unveil Vibrant Realms
 	7 RG08 Noncreature
 	7 RG09 Noncreature
 	7 RG10 Noncreature
-	7 RM01
-	7 RM02
+	7 RM01 DESIGNED
+	7 RM02 DESIGNED
 	7 RM03
 	7 RM04
 	7 RM05
@@ -3926,9 +3926,9 @@
 	7 RM08
 	7 RM09
 	7 RM10
-	7 RM11
+	7 RM11 Avatarlord
 	7 RM12
-	7 RM13
+	7 RM13 DESIGNED
 	7 RM14
 	7 RM15 DESIGNED
 	7 Eonbringer
@@ -3939,7 +3939,7 @@
 	4 Dread of the Terminus
 	4 MB02 Noncreature
 	4 Heart of the Terminus
-	4 MR02 Noncreature
+	4 The Arbiter's Folly
 	4 MR03 Noncreature
 	4 Strength of the Terminus
 	4 MG02 Noncreature
@@ -3986,16 +3986,16 @@
 	15 Bring the Collision
 	15 Gaze into Eternity
 	15 Consumption of the Collision
-	4 MU01 Small Creature
+	4 Touch the Void
 	4 Wishes of the Terminus
 	7 RI01 Small Creature
 	7 RI02 Small Creature
 	7 Boundless Voidwalker
 	7 Deceiving Pathshaper
-	7 RI05 Depart
-	7 RI06 Wip
+	7 Unnerving Foresight
+	7 RI06 Large Creature
 	7 Herald Promised Light
-	7 RI08 Noncreature
+	7 Protect Boundless Will
 	7 RI09 Noncreature
 	7 RI10 Noncreature
 	6 Wonderings

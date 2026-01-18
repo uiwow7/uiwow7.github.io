@@ -330,11 +330,11 @@ script:
 			#### single faced templates
 			else (
 				#### check if we need to rotate the card image (if it's a battle)
-				width := width_of(card_image)
-				rotated := width == 523 or width == 902 or width == 1039 or width == 1046
+				card_width := width_of(card_image)
+				rotated := card_width == 523 or card_width == 902 or card_width == 1039 or card_width == 1046
 				if rotated then card_image := rotate_image(card_image, angle: 90)
 				#### add transparent corners
-				mask_height := to_string(if rotated then width else height_of(card_image))
+				mask_height := to_string(if rotated then card_width else height_of(card_image))
 				corner_mask := corner_masks[mask_height] or else corner_masks["1046"]
 				card_image := set_mask(image: card_image, mask: corner_mask)
 				#### write to disk

@@ -241,6 +241,7 @@ script:
 	##Grab special_text if it's not empty, otherwise grab rule_text
 	full_text := { if card.special_text != "" then card.special_text else card.rule_text }
 	full_text2 := { if card.special_text_2 != "" then card.special_text_2 else card.rule_text_2 }
+	full_text3 := { card.rule_text_3 }
 
 	##Shape function to deal with all the non-standard shapes
 	get_shape := {
@@ -253,7 +254,17 @@ script:
 		else card.shape
 	}
 
-	is_double_card := match@(match:"double|adventure|aftermath|spli")
+	is_rotated := {
+		card_image := to_card_image(card)
+		card_width := width_of(card_image)
+		if contains(card.shape, match:"double") and lang_setting("is_battle")(card.super_type) and width_of(card_image) == 900
+			then "true"
+		else if card_width == 523 or card_width == 902 or card_width == 1039 or card_width == 1046
+			then "true"
+		else "false"
+	}
+
+	is_double_card := match@(match:"double|adventure|aftermath|spli|flip")
 	q := "\""
 	write_card := {
 		strings := [
@@ -286,9 +297,11 @@ script:
 			"{q}special_text2{q}: {q}{format_textbox(card.special_text_2)}{q}",
 			"{q}loyalty2{q}: {q}{sanitize(card.loyalty_2)}{q}",
 			"{q}artist2{q}: {q}{sanitize(card.illustrator_2)}{q}",
-			"{q}alias2{q}: {q}{sanitize(card.alias_2)}{q}"
+			"{q}alias2{q}: {q}{sanitize(card.alias_2)}{q}",
+			"{q}rules_text3{q}: {q}{format_textbox(full_text3())}{q}"
 		]
 		strings := strings + [
+			"{q}rotated{q}: {is_rotated()}",
 			"{q}notes{q}: {q}{sanitize(card.notes)}{q}"
 		]
 		"\{" + join(strings) + "}"
@@ -346,7 +359,6 @@ script:
 	main_keys := [
 		"{q}name{q}: {q}{set.title}{q}",
 		"{q}formats{q}: {q}{options.formats}{q}",
-		"{q}trimmed{q}: {q}n{q}",
 		"{q}image_type{q}: {q}{options.image_type}{q}",
 		"{q}draft_structure{q}: {q}{options.draft_structure}{q}",
 		"{q}unpreviewed{q}: {q}{options.unpreviewed_card_image}{q}",

@@ -1,0 +1,639 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>MC25</name>
+			<longname>Aaanginer MC25 Submission</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-02-15</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Cryptic Call</name>
+			<text>Choose two or four —
+• Counter target noncreature spell.
+• Return target creature to its owner&apos;s hand.
+• Tap each creature target player controls.
+• Conjure a card named Fatigue and put it on top of your library. (It&apos;s a colorless sorcery that costs {2} with &quot;Draw a card.&quot;)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MC25-files/img/7_Cryptic Call.jpg" num="7">MC25</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Profane Call</name>
+			<text>Choose two or four —
+• Search your library for a Demon card and put it into your hand. You lose life equal to its mana value.
+• Sacrifice a creature. If you do, draw two cards.
+• Each opponent loses 2 life and you gain 2 life.
+• Conjure a card named Fatigue and put it on top of your library. (It&apos;s a colorless sorcery that costs {2} with &quot;Draw a card.&quot;)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MC25-files/img/14_Profane Call.jpg" num="14">MC25</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Blazing Call</name>
+			<text>Choose two or four —
+• Blazing Call deals 3 damage to any target.
+• Blazing Call deals 1 damage to each creature.
+• Exile the top two cards of your library. You may play them this turn.
+• Conjure a card named Fatigue and put it on top of your library. (It&apos;s a colorless sorcery that costs {2} with &quot;Draw a card.&quot;)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MC25-files/img/17_Blazing Call.jpg" num="17">MC25</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Verdant Call</name>
+			<text>Choose two or four —
+• Search your library for a land card, put it into your hand, then shuffle.
+• Return target card from your graveyard to your hand.
+• You may put a land card from your hand onto the battlefield tapped.
+• Conjure a card named Fatigue and put it on top of your library. (It&apos;s a colorless sorcery that costs {2} with &quot;Draw a card.&quot;)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MC25-files/img/25_Verdant Call.jpg" num="25">MC25</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Illusory Companion</name>
+			<text>Flying
+Whenever one or more creatures with power 1 or less enter under your control, you gain 1 life and draw a card.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MC25-files/img/5_Illusory Companion.jpg" num="5">MC25</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Illusion Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deep Sea Consumer</name>
+			<text>Attune (Add text based on basic land types among different lands you control)
+When Deep Sea Consumer enters or attacks,
+{U}{U}{U}|Tap up to three permanents.
+{U}{U}{U}{U}|Put stun counters on those permanents.
+{U}{U}{U}{B}{B}|You draw three cards and lose 3 life.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MC25-files/img/8_Deep Sea Consumer.jpg" num="8">MC25</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Leviathan</type>
+				<maintype>Creature</maintype>
+				<manacost>3UUU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wasteful Decay</name>
+			<text>Target opponent discards a card. If a land card was discarded this way, create a tapped treasure token. If a creature card was discarded this way, create a tapped 1/1 black Zombie creature token. If a noncreature, nonland card was discarded this way, that player loses 3 life.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MC25-files/img/15_Wasteful Decay.jpg" num="15">MC25</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wayward Impulse</name>
+			<text>Exile the top two cards of your library. You may play them until the end of your next turn. Add {R}{R} if this spell wasn&apos;t cast from your hand.
+Flashback {4}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MC25-files/img/20_Wayward Impulse.jpg" num="20">MC25</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Forest&apos;s Watcher</name>
+			<text>Cadence (Whenever you cast a spell, if its mana value is greater than this creature&apos;s power, put a +1/+1 counter on this creature.)
+{T}: Add {G}. Spend this mana only to cast spells with mana value greater than Forest&apos;s Watcher&apos;s power</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MC25-files/img/21_Forest&apos;s Watcher.jpg" num="21">MC25</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Divine Call</name>
+			<text>Choose two or four —
+• Exile target player&apos;s graveyard.
+• Exile target enchantment.
+• Each player gains life equal to the number of cards exiled this turn.
+• Conjure a card named Fatigue and put it on top of your library. (It&apos;s a colorless sorcery that costs {2} with &quot;Draw a card.&quot;)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MC25-files/img/4_Divine Call.jpg" num="4">MC25</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rise From Depths</name>
+			<text>Target player mills two cards. Draw two cards.
+Pressurecoalesce {3}{U}{U} (You may cast this from your graveyard for {3}{U}{U} if seven or more cards are in your graveyard. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MC25-files/img/10_Rise From Depths.jpg" num="10">MC25</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant — Revelation</type>
+				<maintype>Instant</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Darkened Strix</name>
+			<text>Flying
+At the beginning of your end step, if you&apos;ve discarded two or more cards this turn, return Darkened Strix from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MC25-files/img/12_Darkened Strix.jpg" num="12">MC25</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Owl Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crusader of the Blood Moon</name>
+			<text>At the beginning of each end step, if a player searched their library this turn, Crusader of the Blood Moon deals 2 damage to that player.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MC25-files/img/18_Crusader of the Blood Moon.jpg" num="18">MC25</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Angelic Wrath</name>
+			<text>Exile all nonland permanents.
+Coalesce {8}{W}{W} (You may cast this from your graveyard for {8}{W}{W}. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)
+As long as Angelic Wrath is on the battlefield, it has the activated and triggered abilities of all creature cards exiled by cards you control named Angelic Wrath.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MC25-files/img/3_Angelic Wrath.jpg" num="3">MC25</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Angel Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dragon of Arcane Frost</name>
+			<text>Flying
+At the beginning of your end step, if Dragon of Arcane Frost is on the battlefield or in your graveyard and you cast at least three instant or sorcery spells this turn, draw a card, then discard a card.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MC25-files/img/9_Dragon of Arcane Frost.jpg" num="9">MC25</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Intoxicating Decay</name>
+			<text>As an additional cast to cost this spell Torment yourself. (You lose 3 life unless you discard a card or sacrifice a nonland permanent.)
+Creatures get -4/-4 until end of turn.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MC25-files/img/13_Intoxicating Decay.jpg" num="13">MC25</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dragon of Celestial Wishes</name>
+			<text>Flying, Haste
+Whenever Dragon of Celestial Wishes attacks, exile a red card you own from outside the game. You may cast it without paying its mana cost if it has mana value 4 or less. If you don&apos;t, you may play it until the end of your next turn.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MC25-files/img/19_Dragon of Celestial Wishes.jpg" num="19">MC25</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>5RR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unceasing Explorer</name>
+			<text>Vigilance
+Whenever Unceasing Explorer attacks or blocks, it explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MC25-files/img/24_Unceasing Explorer.jpg" num="24">MC25</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Welcoming Light</name>
+			<text>Whenever a creature enters under your control, you gain 1 life.
+At the beginning of your end step, if you gained at least 2 life this turn, you may put a +1/+1 counter on target creature.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MC25-files/img/6_Welcoming Light.jpg" num="6">MC25</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Visions of The Great Beyond</name>
+			<text>Visions of The Great Beyond costs {1} less to cast if there are three or more noncreature cards in your graveyard.
+Counter target spell.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MC25-files/img/11_Visions of The Great Beyond.jpg" num="11">MC25</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Arcane Onslaught</name>
+			<text>Once each turn, when you cast an instant or sorcery spell, exile target instant or sorcery card from a graveyard and copy it three times. You may cast the copies without paying their mana costs.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MC25-files/img/16_Arcane Onslaught.jpg" num="16">MC25</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>In Search of Grandeur</name>
+			<text>Whenever you cast a permanent spell from your hand, you may cast a permanent spell from your hand with mana value 1 greater than the spell cast without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MC25-files/img/23_In Search of Grandeur.jpg" num="23">MC25</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Magius Udel, Oracle of Light</name>
+			<text>Whenever you scry, put a loyalty counter on Magius Udel.
+[0]: Scry 1.
+[-2]: Draw card.
+[-4]: You get an emblem with &quot;At the beginning of your upkeep, scry 2.&quot;</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MC25-files/img/32_Magius Udel, Oracle of Light.jpg" num="32">MC25</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Udel</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<loyalty>2</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Darkness Unchained</name>
+			<text>Draw two cards, then discard a card.
+When Darkness Unchained is put into your graveyard from your hand or library, mill two cards. (This doesn&apos;t include being cast.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MC25-files/img/28_Darkness Unchained.jpg" num="28">MC25</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Last Dozandi</name>
+			<text>Menace, Haste
+At the beginning of combat on your turn, if you lost 3 or more life this turn, return The Last Dozandi from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MC25-files/img/31_The Last Dozandi.jpg" num="31">MC25</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Drorix, Divine Outcast</name>
+			<text>[+1]: Create a 1/1 Ally creature token that&apos;s all colors.
+[-1]: Reveal the top three cards of your library. You may put a permanent card from among them into your hand.
+[-X]: Exile target creature with mana value X or less until Drorix leaves the battlefield.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MC25-files/img/29_Drorix, Divine Outcast.jpg" num="29">MC25</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Drorix</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Call of Chaos</name>
+			<text>Target player loses 1 life and you gain 1 life.
+Coalesce—Exile a white card from your graveyard and a black card from your graveyard. (You may cast this from your graveyard for Exile a white card from your graveyard and a black card from your graveyard. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MC25-files/img/27_Call of Chaos.jpg" num="27">MC25</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Arcane Oracle</name>
+			<text>Whenever you cast an instant or sorcery spell, surveil 1.
+At the beginning of your end step, if you&apos;ve cast at least two instant or sorcery spells and drawn at least two cards this turn, return Arcane Oracle from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MC25-files/img/26_Arcane Oracle.jpg" num="26">MC25</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Explorer of Finality</name>
+			<text>When Explorer of Finality enters or attacks, choose one—
+• Target creature gets -1/-1 until end of turn.
+• You draw a card and lose 3 life.
+• You may put a land card from your graveyard onto the battlefield tapped.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MC25-files/img/30_Explorer of Finality.jpg" num="30">MC25</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Outpost of Radiant Fire</name>
+			<text>Whenever you cast a noncreature spell, you may pay {R}. If you do, that spell gains &quot;If this spell would deal damage to a permanent or player it deals that much damage plus 1 instead.&quot; Then you may pay {W}. If you do, that spell gains lifelink.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MC25-files/img/33_Outpost of Radiant Fire.jpg" num="33">MC25</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Unfathomable Exploration</name>
+			<text>Draw a card. You may play an additional land this turn.
+{GU}, Exile Unfathomable Exploration from your graveyard: Return target land card from your graveyard to the battlefield tapped.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MC25-files/img/34_Unfathomable Exploration.jpg" num="34">MC25</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Caves of Premonition</name>
+			<text>{T}: Add {C}.
+{8}, {T}: Reveal the top card of your library. If it&apos;s not a land, you may cast it without paying its mana coast. Otherwise, put it onto the battlefield. This ability costs {1} less to activate for each nonland permanent you control.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MC25-files/img/35_Caves of Premonition.jpg" num="35">MC25</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Galen, Kinzan Engineer</name>
+			<text>Flash.
+When Galen enters, you may activate one of his loyalty abilities as though it had flash. You may activate a different loyalty ability of Galen this turn.
+[+1]: Add {C}{C}{C}. You can&apos;t spend this mana to cast spells.
+[-1]: Draw a card.
+[-2]: Whenever you activate another ability this turn, copy that ability. You may choose new targets for the copy.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MC25-files/img/2_Galen, Kinzan Engineer.jpg" num="2">MC25</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Galen</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>In Search of Brilliance</name>
+			<text>At the beginning of your end step, you may sacrifice another permanent. If you do, you may cast a permanent spell from your hand with mana value equal to one plus the sacrificed permanent&apos;s mana value without paying its mana cost.</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/MC25-files/img/22_In Search of Brilliance.jpg" num="22">MC25</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text>Indestructible</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/MC25-files/img/1_.jpg" num="1">MC25</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

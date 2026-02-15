@@ -264,7 +264,7 @@
 		{
 			"name": "Vertex ProductionSynergy",
 			"rarity": "rare",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Creature",
 			"collector_number": "33",
 			"image_uris": {
@@ -274,7 +274,7 @@
 		{
 			"name": "Call of the Sky",
 			"rarity": "rare",
-			"mana_cost": "{I}",
+			"mana_cost": "{C}",
 			"type": "Sorcery",
 			"collector_number": "30",
 			"image_uris": {
@@ -284,7 +284,7 @@
 		{
 			"name": "Lost Mirrorpools",
 			"rarity": "rare",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Enchantment — Realm",
 			"collector_number": "32",
 			"back": {
@@ -301,7 +301,7 @@
 		{
 			"name": "Cursed Stormbringer",
 			"rarity": "rare",
-			"mana_cost": "{3}{I}{I}",
+			"mana_cost": "{3}{C}{C}",
 			"type": "Creature — Dragon",
 			"collector_number": "31",
 			"image_uris": {
@@ -311,7 +311,7 @@
 		{
 			"name": "Wandering Sentry",
 			"rarity": "rare",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Artifact Creature — Drone",
 			"collector_number": "34",
 			"image_uris": {
@@ -321,7 +321,7 @@
 		{
 			"name": "The Moonlight Shadows",
 			"rarity": "rare",
-			"mana_cost": "{2}{I}{I/W}{W}",
+			"mana_cost": "{2}{C}{C/W}{W}",
 			"type": "Kindred Enchantment — Wonder",
 			"collector_number": "37",
 			"image_uris": {
@@ -331,7 +331,7 @@
 		{
 			"name": "The Sunlit Pools",
 			"rarity": "rare",
-			"mana_cost": "{2}{I}{I/U}{U}",
+			"mana_cost": "{2}{C}{C/U}{U}",
 			"type": "Kindred Enchantment — Wonder",
 			"collector_number": "38",
 			"image_uris": {
@@ -341,7 +341,7 @@
 		{
 			"name": "The Sunset Undergrowth",
 			"rarity": "rare",
-			"mana_cost": "{1}{I}{I/B}{B}",
+			"mana_cost": "{1}{C}{C/B}{B}",
 			"type": "Kindred Enchantment — Wonder",
 			"collector_number": "39",
 			"image_uris": {
@@ -351,7 +351,7 @@
 		{
 			"name": "The Icefire Monuments",
 			"rarity": "rare",
-			"mana_cost": "{1}{I}{I/R}{R}",
+			"mana_cost": "{1}{C}{C/R}{R}",
 			"type": "Kindred Enchantment — Wonder",
 			"collector_number": "36",
 			"image_uris": {
@@ -361,7 +361,7 @@
 		{
 			"name": "The Earthbound Brushwoods",
 			"rarity": "rare",
-			"mana_cost": "{I}{I/G}{G}",
+			"mana_cost": "{C}{C/G}{G}",
 			"type": "Kindred Enchantment — Wonder",
 			"collector_number": "35",
 			"image_uris": {
@@ -442,7 +442,7 @@
 			"type": "Token Creature — Avatar",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/1_Avatar.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/1t_Avatar.jpg"
 			}
 		},
 		{
@@ -452,7 +452,7 @@
 			"type": "Token Creature — Avatar",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/2_Avatar.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/2t_Avatar.jpg"
 			}
 		}
 	]
@@ -499,7 +499,8 @@
 	2 Changeling with typal payoff
 	2 Untouched Falls
 [uncommon(3)]
-[common(7)]
+[common(6)]
+[common | masterpiece(1)]
 [foil(1)]
 	2 Demonheart Overseer
 	2 Call of the Celestial Tree

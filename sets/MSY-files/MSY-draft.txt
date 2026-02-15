@@ -407,7 +407,7 @@
 			"type": "Token Creature — Avatar",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/1_Avatar.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/1t_Avatar.jpg"
 			}
 		},
 		{
@@ -417,7 +417,7 @@
 			"type": "Token Creature — Spirit",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/2_Spirit.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/2t_Spirit.jpg"
 			}
 		},
 		{
@@ -427,7 +427,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/MSY-files/img/3_Treasure.jpg"
+				"en": "https://uiwow7.github.io/sets/MSY-files/img/3t_Treasure.jpg"
 			}
 		}
 	]
@@ -474,7 +474,8 @@
 	4 Blue-Flame Bearer
 	4 
 	4 
-[common(7)]
+[common(6)]
+[common | masterpiece(1)]
 [foil(1)]
 	6 Astral Pathfinder
 	6 Stormborn Griffin

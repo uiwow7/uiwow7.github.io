@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="icon" type="image/png" href="/sets/MC25-files/icon.png"/>
-	<link rel="stylesheet" href="/resources/header.css">
+	<link rel="icon" type="image/png" href="../sets/MC25-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
 	<title>MC25 visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
 	<style>
 		@font-face {
 			font-family: Beleren;
-			src: url('/resources/beleren.ttf');
+			src: url('../resources/beleren.ttf');
 		}
 		body {
 			font-family: Arial, sans-serif;
@@ -39,19 +42,21 @@
 			position: relative;
 		}
 		.sidebar-h-img {
-			display: none;
-			transform: rotate(90deg);
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
 			position: absolute;
 			left: 10%;
 			top: 10%;
 			width: 85%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.sidebar-img {
 			vertical-align: middle;
 			width: 100%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.close-btn {
-			background: url('/img/close.png') no-repeat;
+			background: url('../img/close.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 10%;
@@ -62,7 +67,7 @@
 			right: 4%;
 		}
 		.close-btn:hover {
-			background: url('/img/close-hover.png') no-repeat;
+			background: url('../img/close-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -83,6 +88,7 @@
 			display: block;
 			visibility: hidden;
 			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
 		}
 		.banner {
 			width: 100%;
@@ -103,9 +109,10 @@
 		.container img {
 			width: 100%;
 			height: auto;
+			border-radius: 3.733% / 2.677%;
 		}
 		.flip-btn {
-			background: url('/img/flip.png') no-repeat;
+			background: url('../img/flip.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 15%;
@@ -119,7 +126,7 @@
 			opacity: 0.5;
 		}
 		.flip-btn:hover {
-			background: url('/img/flip-hover.png') no-repeat;
+			background: url('../img/flip-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -127,12 +134,13 @@
 			background: rgba(23, 23, 23, 0.8);
 			border-radius: 8px;
 			position: absolute;
-			left: 10%;
+			left: 5%;
 			width: fit-content;
+			max-width: 90%;
 			margin: 20px 0;
 			padding: 5px 0;
-			display: flex;
-			flex-direction: column;
+			display: grid;
+			grid-template-columns: 1fr;
 			z-index: 3;
 		}
 		.dropdown .set-bar {
@@ -174,120 +182,136 @@
 	</style>
 </head>
 <body>
-	<img class="preload-hidden" src="/img/dot.png" />
-	<img class="preload-hidden" src="/sets/MC25-files/logo.png" />
-	<img class="preload-hidden" src="/sets/DCO-files/icon.png" />
-		<img class="preload-hidden" src="/sets/DSW-files/icon.png" />
-		<img class="preload-hidden" src="/sets/SHS-files/icon.png" />
-		<img class="preload-hidden" src="/sets/CC01-files/icon.png" />
-		<img class="preload-hidden" src="/sets/MC25-files/icon.png" />
-		<img class="preload-hidden" src="/sets/MSY-files/icon.png" />
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/MC25-files/logo.png" />
+	<img class="preload-hidden" src="../sets/DCO-files/icon.png" />
+		<img class="preload-hidden" src="../sets/DSW-files/icon.png" />
+		<img class="preload-hidden" src="../sets/SHS-files/icon.png" />
+		<img class="preload-hidden" src="../sets/CC01-files/icon.png" />
+		<img class="preload-hidden" src="../sets/MC25-files/icon.png" />
+		<img class="preload-hidden" src="../sets/MSY-files/icon.png" />
 		<div class="header">
 		<div class="search-grid">
-			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
-			<img class="sg-icon" src="/img/search.png">
-			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
-			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
-			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
-			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
 		</div>
 	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
 
-	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
-		<a class="set-bar" href="MC25"><img src="/sets/MC25-files/icon.png">Aaanginer MC25 Submission</a>
+		<a class="set-bar" href="../previews/MC25"><img src="../sets/MC25-files/icon.png">Aaanginer MC25 Submission</a>
 	
-		<a class="set-bar inactive" href="DCO"><img src="/sets/DCO-files/icon.png">Dazon: Cosmic Outcasts</a>
+		<a class="set-bar inactive" href="../previews/DCO"><img src="../sets/DCO-files/icon.png">Dazon: Cosmic Outcasts</a>
 	
-		<a class="set-bar inactive" href="DSW"><img src="/sets/DSW-files/icon.png">Dazon: Splintered Worlds</a>
+		<a class="set-bar inactive" href="../previews/DSW"><img src="../sets/DSW-files/icon.png">Dazon: Splintered Worlds</a>
 	
-		<a class="set-bar inactive" href="SHS"><img src="/sets/SHS-files/icon.png">A Shattered Sword</a>
+		<a class="set-bar inactive" href="../previews/SHS"><img src="../sets/SHS-files/icon.png">A Shattered Sword</a>
 	
-		<a class="set-bar inactive" href="CC01"><img src="/sets/CC01-files/icon.png">Voyager Card Contest 1 — Aanginer</a>
+		<a class="set-bar inactive" href="../previews/CC01"><img src="../sets/CC01-files/icon.png">Voyager Card Contest 1 — Aanginer</a>
 	
-		<a class="set-bar inactive" href="MSY"><img src="/sets/MSY-files/icon.png">Aanginer MSEM Mystery Community Slots</a>
+		<a class="set-bar inactive" href="../previews/MSY"><img src="../sets/MSY-files/icon.png">Aanginer MSEM Mystery Community Slots</a>
 	
 		</div>
 		<div class="banner">
-		<img class="logo" src="/sets/MC25-files/logo.png">
+		<img class="logo" src="../sets/MC25-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img alt="/sets\MC25-files\img\3_Angelic Wrath.jpg" id="3_Angelic Wrath" data-flag="@X" onclick="openSidebar('3_Angelic Wrath',false)"></div>
-				<div class="container"><img alt="/sets\MC25-files\img\7_Cryptic Call.jpg" id="7_Cryptic Call" data-flag="@X" onclick="openSidebar('7_Cryptic Call',false)"></div>
-				<div class="container"><img alt="/sets\MC25-files\img\12_Darkened Strix.jpg" id="12_Darkened Strix" data-flag="@X" onclick="openSidebar('12_Darkened Strix',false)"></div>
-				<div class="container"><img alt="/sets\MC25-files\img\16_Arcane Onslaught.jpg" id="16_Arcane Onslaught" data-flag="@X" onclick="openSidebar('16_Arcane Onslaught',false)"></div>
-				<div class="container"><img alt="/sets\MC25-files\img\22_In Search of Brilliance.jpg" id="22_In Search of Brilliance" data-flag="@X" onclick="openSidebar('22_In Search of Brilliance',false)"></div>
-				<div class="container"><img alt="/sets\MC25-files\img\4_Divine Call.jpg" id="4_Divine Call" data-flag="@X" onclick="openSidebar('4_Divine Call',false)"></div>
-				<div class="container"><img alt="/sets\MC25-files\img\8_Deep Sea Consumer.jpg" id="8_Deep Sea Consumer" data-flag="@X" onclick="openSidebar('8_Deep Sea Consumer',false)"></div>
-				<div class="container"><img alt="/sets\MC25-files\img\13_Intoxicating Decay.jpg" id="13_Intoxicating Decay" data-flag="@X" onclick="openSidebar('13_Intoxicating Decay',false)"></div>
-				<div class="container"><img alt="/sets\MC25-files\img\17_Blazing Call.jpg" id="17_Blazing Call" data-flag="@X" onclick="openSidebar('17_Blazing Call',false)"></div>
-				<div class="container"><img alt="/sets\MC25-files\img\21_Forest's Watcher.jpg" id="21_Forests Watcher" data-flag="@X" onclick="openSidebar('21_Forests Watcher',false)"></div>
-				<div class="container"><img alt="/sets\MC25-files\img\5_Illusory Companion.jpg" id="5_Illusory Companion" data-flag="@X" onclick="openSidebar('5_Illusory Companion',false)"></div>
-				<div class="container"><img alt="/sets\MC25-files\img\9_Dragon of Arcane Frost.jpg" id="9_Dragon of Arcane Frost" data-flag="@X" onclick="openSidebar('9_Dragon of Arcane Frost',false)"></div>
-				<div class="container"><img alt="/sets\MC25-files\img\14_Profane Call.jpg" id="14_Profane Call" data-flag="@X" onclick="openSidebar('14_Profane Call',false)"></div>
-				<div class="container"><img alt="/sets\MC25-files\img\18_Crusader of the Blood Moon.jpg" id="18_Crusader of the Blood Moon" data-flag="@X" onclick="openSidebar('18_Crusader of the Blood Moon',false)"></div>
-				<div class="container"><img alt="/sets\MC25-files\img\23_In Search of Grandeur.jpg" id="23_In Search of Grandeur" data-flag="@X" onclick="openSidebar('23_In Search of Grandeur',false)"></div>
-				<div class="container"><img alt="/sets\MC25-files\img\6_Welcoming Light.jpg" id="6_Welcoming Light" data-flag="@X" onclick="openSidebar('6_Welcoming Light',false)"></div>
-				<div class="container"><img alt="/sets\MC25-files\img\10_Rise From Depths.jpg" id="10_Rise From Depths" data-flag="@X" onclick="openSidebar('10_Rise From Depths',false)"></div>
-				<div class="container"><img alt="/sets\MC25-files\img\15_Wasteful Decay.jpg" id="15_Wasteful Decay" data-flag="@X" onclick="openSidebar('15_Wasteful Decay',false)"></div>
-				<div class="container"><img alt="/sets\MC25-files\img\19_Dragon of Celestial Wishes.jpg" id="19_Dragon of Celestial Wishes" data-flag="@X" onclick="openSidebar('19_Dragon of Celestial Wishes',false)"></div>
-				<div class="container"><img alt="/sets\MC25-files\img\24_Unceasing Explorer.jpg" id="24_Unceasing Explorer" data-flag="@X" onclick="openSidebar('24_Unceasing Explorer',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\MC25-files\img\11_Visions of The Great Beyond.jpg" id="11_Visions of The Great Beyond" data-flag="@X" onclick="openSidebar('11_Visions of The Great Beyond',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\MC25-files\img\20_Wayward Impulse.jpg" id="20_Wayward Impulse" data-flag="@X" onclick="openSidebar('20_Wayward Impulse',false)"></div>
-				<div class="container"><img alt="/sets\MC25-files\img\25_Verdant Call.jpg" id="25_Verdant Call" data-flag="@X" onclick="openSidebar('25_Verdant Call',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="sets\MC25-files\img\3_Angelic Wrath.jpg" id="MC25_3_Angelic Wrath" data-flag="@X" onclick="openSidebar('MC25_3_Angelic Wrath',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MC25-files\img\7_Cryptic Call.jpg" id="MC25_7_Cryptic Call" data-flag="@X" onclick="openSidebar('MC25_7_Cryptic Call',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MC25-files\img\12_Darkened Strix.jpg" id="MC25_12_Darkened Strix" data-flag="@X" onclick="openSidebar('MC25_12_Darkened Strix',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MC25-files\img\16_Arcane Onslaught.jpg" id="MC25_16_Arcane Onslaught" data-flag="@X" onclick="openSidebar('MC25_16_Arcane Onslaught',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MC25-files\img\22_In Search of Brilliance.jpg" id="MC25_22_In Search of Brilliance" data-flag="@X" onclick="openSidebar('MC25_22_In Search of Brilliance',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MC25-files\img\4_Divine Call.jpg" id="MC25_4_Divine Call" data-flag="@X" onclick="openSidebar('MC25_4_Divine Call',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MC25-files\img\8_Deep Sea Consumer.jpg" id="MC25_8_Deep Sea Consumer" data-flag="@X" onclick="openSidebar('MC25_8_Deep Sea Consumer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MC25-files\img\13_Intoxicating Decay.jpg" id="MC25_13_Intoxicating Decay" data-flag="@X" onclick="openSidebar('MC25_13_Intoxicating Decay',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MC25-files\img\17_Blazing Call.jpg" id="MC25_17_Blazing Call" data-flag="@X" onclick="openSidebar('MC25_17_Blazing Call',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MC25-files\img\21_Forest's Watcher.jpg" id="MC25_21_Forests Watcher" data-flag="@X" onclick="openSidebar('MC25_21_Forests Watcher',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MC25-files\img\5_Illusory Companion.jpg" id="MC25_5_Illusory Companion" data-flag="@X" onclick="openSidebar('MC25_5_Illusory Companion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MC25-files\img\9_Dragon of Arcane Frost.jpg" id="MC25_9_Dragon of Arcane Frost" data-flag="@X" onclick="openSidebar('MC25_9_Dragon of Arcane Frost',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MC25-files\img\14_Profane Call.jpg" id="MC25_14_Profane Call" data-flag="@X" onclick="openSidebar('MC25_14_Profane Call',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MC25-files\img\18_Crusader of the Blood Moon.jpg" id="MC25_18_Crusader of the Blood Moon" data-flag="@X" onclick="openSidebar('MC25_18_Crusader of the Blood Moon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MC25-files\img\23_In Search of Grandeur.jpg" id="MC25_23_In Search of Grandeur" data-flag="@X" onclick="openSidebar('MC25_23_In Search of Grandeur',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MC25-files\img\6_Welcoming Light.jpg" id="MC25_6_Welcoming Light" data-flag="@X" onclick="openSidebar('MC25_6_Welcoming Light',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MC25-files\img\10_Rise From Depths.jpg" id="MC25_10_Rise From Depths" data-flag="@X" onclick="openSidebar('MC25_10_Rise From Depths',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MC25-files\img\15_Wasteful Decay.jpg" id="MC25_15_Wasteful Decay" data-flag="@X" onclick="openSidebar('MC25_15_Wasteful Decay',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MC25-files\img\19_Dragon of Celestial Wishes.jpg" id="MC25_19_Dragon of Celestial Wishes" data-flag="@X" onclick="openSidebar('MC25_19_Dragon of Celestial Wishes',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MC25-files\img\24_Unceasing Explorer.jpg" id="MC25_24_Unceasing Explorer" data-flag="@X" onclick="openSidebar('MC25_24_Unceasing Explorer',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MC25_e" data-flag="@E" onclick="openSidebar('MC25_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MC25-files\img\11_Visions of The Great Beyond.jpg" id="MC25_11_Visions of The Great Beyond" data-flag="@X" onclick="openSidebar('MC25_11_Visions of The Great Beyond',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MC25_e" data-flag="@E" onclick="openSidebar('MC25_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MC25-files\img\20_Wayward Impulse.jpg" id="MC25_20_Wayward Impulse" data-flag="@X" onclick="openSidebar('MC25_20_Wayward Impulse',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MC25-files\img\25_Verdant Call.jpg" id="MC25_25_Verdant Call" data-flag="@X" onclick="openSidebar('MC25_25_Verdant Call',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MC25_er" data-flag="@E" onclick="openSidebar('MC25_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MC25_er" data-flag="@E" onclick="openSidebar('MC25_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MC25_er" data-flag="@E" onclick="openSidebar('MC25_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MC25_er" data-flag="@E" onclick="openSidebar('MC25_er',false)"></div>
 				<div id="gold" class="anchor"></div>
-				<div class="container"><img alt="/sets\MC25-files\img\32_Magius Udel, Oracle of Light.jpg" id="32_Magius Udel, Oracle of Light" data-flag="@X" onclick="openSidebar('32_Magius Udel, Oracle of Light',false)"></div>
-				<div class="container"><img alt="/sets\MC25-files\img\28_Darkness Unchained.jpg" id="28_Darkness Unchained" data-flag="@X" onclick="openSidebar('28_Darkness Unchained',false)"></div>
-				<div class="container"><img alt="/sets\MC25-files\img\31_The Last Dozandi.jpg" id="31_The Last Dozandi" data-flag="@X" onclick="openSidebar('31_The Last Dozandi',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\MC25-files\img\29_Drorix, Divine Outcast.jpg" id="29_Drorix, Divine Outcast" data-flag="@X" onclick="openSidebar('29_Drorix, Divine Outcast',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\MC25-files\img\27_Call of Chaos.jpg" id="27_Call of Chaos" data-flag="@X" onclick="openSidebar('27_Call of Chaos',false)"></div>
-				<div class="container"><img alt="/sets\MC25-files\img\26_Arcane Oracle.jpg" id="26_Arcane Oracle" data-flag="@X" onclick="openSidebar('26_Arcane Oracle',false)"></div>
-				<div class="container"><img alt="/sets\MC25-files\img\30_Explorer of Finality.jpg" id="30_Explorer of Finality" data-flag="@X" onclick="openSidebar('30_Explorer of Finality',false)"></div>
-				<div class="container"><img alt="/sets\MC25-files\img\33_Outpost of Radiant Fire.jpg" id="33_Outpost of Radiant Fire" data-flag="@X" onclick="openSidebar('33_Outpost of Radiant Fire',false)"></div>
-				<div class="container"><img alt="/sets\MC25-files\img\34_Unfathomable Exploration.jpg" id="34_Unfathomable Exploration" data-flag="@X" onclick="openSidebar('34_Unfathomable Exploration',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MC25-files\img\32_Magius Udel, Oracle of Light.jpg" id="MC25_32_Magius Udel, Oracle of Light" data-flag="@X" onclick="openSidebar('MC25_32_Magius Udel, Oracle of Light',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MC25-files\img\28_Darkness Unchained.jpg" id="MC25_28_Darkness Unchained" data-flag="@X" onclick="openSidebar('MC25_28_Darkness Unchained',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MC25-files\img\31_The Last Dozandi.jpg" id="MC25_31_The Last Dozandi" data-flag="@X" onclick="openSidebar('MC25_31_The Last Dozandi',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MC25_e" data-flag="@E" onclick="openSidebar('MC25_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MC25-files\img\29_Drorix, Divine Outcast.jpg" id="MC25_29_Drorix, Divine Outcast" data-flag="@X" onclick="openSidebar('MC25_29_Drorix, Divine Outcast',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MC25_er" data-flag="@E" onclick="openSidebar('MC25_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MC25_er" data-flag="@E" onclick="openSidebar('MC25_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MC25_er" data-flag="@E" onclick="openSidebar('MC25_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MC25_er" data-flag="@E" onclick="openSidebar('MC25_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MC25_er" data-flag="@E" onclick="openSidebar('MC25_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MC25-files\img\27_Call of Chaos.jpg" id="MC25_27_Call of Chaos" data-flag="@X" onclick="openSidebar('MC25_27_Call of Chaos',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MC25-files\img\26_Arcane Oracle.jpg" id="MC25_26_Arcane Oracle" data-flag="@X" onclick="openSidebar('MC25_26_Arcane Oracle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MC25-files\img\30_Explorer of Finality.jpg" id="MC25_30_Explorer of Finality" data-flag="@X" onclick="openSidebar('MC25_30_Explorer of Finality',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MC25-files\img\33_Outpost of Radiant Fire.jpg" id="MC25_33_Outpost of Radiant Fire" data-flag="@X" onclick="openSidebar('MC25_33_Outpost of Radiant Fire',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MC25-files\img\34_Unfathomable Exploration.jpg" id="MC25_34_Unfathomable Exploration" data-flag="@X" onclick="openSidebar('MC25_34_Unfathomable Exploration',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MC25_er" data-flag="@E" onclick="openSidebar('MC25_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MC25_er" data-flag="@E" onclick="openSidebar('MC25_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MC25_er" data-flag="@E" onclick="openSidebar('MC25_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MC25_er" data-flag="@E" onclick="openSidebar('MC25_er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img alt="/sets\MC25-files\img\2_Galen, Kinzan Engineer.jpg" id="2_Galen, Kinzan Engineer" data-flag="@X" onclick="openSidebar('2_Galen, Kinzan Engineer',false)"></div>
-				<div class="container"><img alt="/sets\MC25-files\img\1_.jpg" id="1_" data-flag="@X" onclick="openSidebar('1_',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\MC25-files\img\35_Caves of Premonition.jpg" id="35_Caves of Premonition" data-flag="@X" onclick="openSidebar('35_Caves of Premonition',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MC25-files\img\2_Galen, Kinzan Engineer.jpg" id="MC25_2_Galen, Kinzan Engineer" data-flag="@X" onclick="openSidebar('MC25_2_Galen, Kinzan Engineer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MC25-files\img\1_.jpg" id="MC25_1_" data-flag="@X" onclick="openSidebar('MC25_1_',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MC25_e" data-flag="@E" onclick="openSidebar('MC25_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MC25_e" data-flag="@E" onclick="openSidebar('MC25_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MC25_e" data-flag="@E" onclick="openSidebar('MC25_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MC25_er" data-flag="@E" onclick="openSidebar('MC25_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MC25_er" data-flag="@E" onclick="openSidebar('MC25_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MC25_er" data-flag="@E" onclick="openSidebar('MC25_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MC25_er" data-flag="@E" onclick="openSidebar('MC25_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MC25_er" data-flag="@E" onclick="openSidebar('MC25_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MC25-files\img\35_Caves of Premonition.jpg" id="MC25_35_Caves of Premonition" data-flag="@X" onclick="openSidebar('MC25_35_Caves of Premonition',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MC25_e" data-flag="@E" onclick="openSidebar('MC25_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MC25_e" data-flag="@E" onclick="openSidebar('MC25_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MC25_e" data-flag="@E" onclick="openSidebar('MC25_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MC25_e" data-flag="@E" onclick="openSidebar('MC25_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MC25_er" data-flag="@E" onclick="openSidebar('MC25_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MC25_er" data-flag="@E" onclick="openSidebar('MC25_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MC25_er" data-flag="@E" onclick="openSidebar('MC25_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MC25_er" data-flag="@E" onclick="openSidebar('MC25_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MC25_er" data-flag="@E" onclick="openSidebar('MC25_er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
 		<div class="sidebar-container">
-			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_img" class="sidebar-img">
 			<img id="sidebar_h_img" class="sidebar-h-img">
 			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
 		</div>
@@ -300,19 +324,111 @@
 		let specialchars = "";
 
 	document.addEventListener('DOMContentLoaded', async function() {
-		await fetch('/lists/all-cards.json')
+		await fetch(rootPath + '/lists/all-cards.json')
 					.then(response => response.json())
 					.then(json => {
 						card_list = json;
 				}).catch(error => console.error('Error:', error));
 
-				await fetch('/resources/replacechars.txt')
+				await fetch(rootPath + '/resources/replacechars.txt')
 					.then(response => response.text())
 					.then(text => {
 						specialchars = text; 
 				}).catch(error => console.error('Error:', error));
 
 				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
 
 		preloadImgs = document.getElementsByClassName('preload-hidden');
 
@@ -347,13 +463,16 @@
 			const flag = img.getAttribute('data-flag');
 
 			if (flag === '@N') {
-				img.src = '/img/card_back.png';
+				img.src = rootPath + '/img/card_back.png';
 				img.removeAttribute("onclick");
 				img.style.cursor = 'default';
 			}
 			else
 			{
-				img.src = img.alt;
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
 
 				if (flag === '@E') {
 					img.removeAttribute("onclick");
@@ -379,27 +498,51 @@
 	let horizontal = false;
 
 	function imgFlip(num) {
-		tmp = document.getElementById(num).src;
-		console.log(num);
-		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
-		document.getElementById(num).dataset.alt_src = tmp;
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
 
-		if (num == 'sidebar_img')
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
 		{
-			const rotated_img = document.getElementById('sidebar_h_img');
 			const sidebar_img = document.getElementById('sidebar_img');
 
-			if (horizontal && rotated_img.style.display == 'none')
-			{
-				rotated_img.style.display = "block";
-				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
-			}
-			else
-			{
-				rotated_img.style.display = "none";
-				sidebar_img.style.filter = "";
-			}
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
 		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
 	}
 
 	function openSidebar(id, h = false) {
@@ -411,17 +554,19 @@
 		const rotated_img = document.getElementById('sidebar_h_img');
 		const sidebar_img = document.getElementById('sidebar_img');
 
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
 		sidebar_img.src = document.getElementById(id).src;
 		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
 
 		if (horizontal && !sidebar_img.src.includes("_back"))
 		{
-			rotated_img.style.display = "block";
+			rotated_img.style.opacity = "1";
 			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
 		}
 		else
 		{
-			rotated_img.style.display = "none";
+			rotated_img.style.opacity = "0";
 			sidebar_img.style.filter = "";
 		}
 
@@ -454,6 +599,7 @@
 	}
 
 	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{
@@ -463,6 +609,7 @@
 	}
 
 	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{
@@ -479,16 +626,16 @@
 	});
 
 	function search() {
-		const url = new URL('search', window.location.origin);
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 		url.searchParams.append('search', document.getElementById("search").value);
-		window.location.href = url;
+		window.location.href = url.pathname + url.search;
 	}
 
 		function randomCard() {
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
 				let random_card = card_list_arrayified[i];
 
-				const url = new URL('card', window.location.origin);
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 				const params = {
 					set: random_card.set,
 					num: random_card.number,
@@ -498,7 +645,7 @@
 					url.searchParams.append(key, params[key]);
 				}
 
-				window.location.href = url;
+				window.location.href = url.pathname + url.search;
 			}
 	</script>
 </body>

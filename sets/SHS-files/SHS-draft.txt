@@ -7,7 +7,7 @@
 			"type": "Token Creature — Human Warlock",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/SHS-files/img/3_Warlock.jpg"
+				"en": "https://uiwow7.github.io/sets/SHS-files/img/3t_Warlock.jpg"
 			}
 		},
 		{
@@ -2063,7 +2063,7 @@
 			"type": "Token Creature — Ally",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/SHS-files/img/2_Ally.jpg"
+				"en": "https://uiwow7.github.io/sets/SHS-files/img/2t_Ally.jpg"
 			}
 		},
 		{
@@ -2213,7 +2213,7 @@
 			"type": "Token Creature — Scout",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/SHS-files/img/1_Scout.jpg"
+				"en": "https://uiwow7.github.io/sets/SHS-files/img/1t_Scout.jpg"
 			}
 		}
 	]
@@ -2347,7 +2347,82 @@
 	4 Lephyx's Crystal
 	4 The Ice Wastes
 	4 Iriatu Falls
-[common(7)]
+[common(6)]
+	8 Search the Forest
+	8 Corrupted Kirali
+	8 Frostpath Traveler
+	8 Desert Commander
+	8 New Recruit
+	8 Head of Recruitment
+	8 Shattered Swordsman
+	8 Aqiman Charger
+	8 Crafty Escape
+	8 Shattered Swordbearer
+	8 Frostpath Soldier
+	8 Alnak Blade Student
+	8 Spirit Strike
+	8 Soul Drain
+	8 Prophetic Crystal
+	8 Seek Answers
+	8 Call of Control
+	8 Icefire Bolt
+	8 Shattered Sword Iceblade
+	8 Lightning Retort
+	8 Enchanting of Stones
+	8 Learn Through Repetition
+	8 Window to Lost Souls
+	8 Answer Seeker
+	8 Darkness Searcher
+	8 Icy Aurora
+	8 Alanar Teacher
+	8 Shattered Sword Warlock
+	8 Into the Cave
+	8 Explore the Depths
+	8 Corrupted Grounds
+	8 Warlock of the Tower
+	8 Soul Whisperer
+	8 Shattered Sword Soldier
+	8 Irkian Mindrender
+	8 Darkmoon Aurora
+	8 Witch of Thirak
+	8 Undying Shadowblade
+	8 Corrupting Fire
+	8 Immolating Smite
+	8 Crimson Lights
+	8 Kangal Martyr
+	8 Fellfire Restoration
+	8 Warlock of Dark Fire
+	8 Spearman of the Alliance
+	8 Thalur Firewizard
+	8 Butcher of Graves
+	8 Night Rider of Fire
+	8 Jungle Adept
+	8 Icefire Ally
+	8 Burning of the Ground
+	8 Wisdom of the Sea
+	8 Lost Sanctuary
+	8 Iriatu Explorer
+	8 Deep-Jungle Bear
+	8 Ruins of Decay
+	8 Dark Forest Surveyor
+	8 Aenir Expedition
+	8 Last Watch of Alanar
+	8 Scout of Jhal
+	8 Iriatu Healer
+	8 Lost Forest Relic
+	8 Dark Forest Fighter
+	8 Jungle Scout
+	8 Servant to Magius
+	8 Horror of the Bog
+	8 Shadow Duplication
+	8 Arid Attacker
+	8 Irkian Flagbearer
+	8 Stone of Darkness
+	8 Evolving Wilds
+	8 Alliance Medic
+	8 Lost Servant
+	8 Call of Answers
+[common | masterpiece(1)]
 	8 Search the Forest
 	8 Corrupted Kirali
 	8 Frostpath Traveler

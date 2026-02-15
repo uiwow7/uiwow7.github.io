@@ -3,121 +3,161 @@
         "card_name": "Angelic Wrath",
         "number": 3,
         "shape": "normal",
-        "set": "MC25"
+        "set": "MC25",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Cryptic Call",
         "number": 7,
         "shape": "normal",
-        "set": "MC25"
+        "set": "MC25",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Darkened Strix",
         "number": 12,
         "shape": "normal",
-        "set": "MC25"
+        "set": "MC25",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Arcane Onslaught",
         "number": 16,
         "shape": "normal",
-        "set": "MC25"
+        "set": "MC25",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "In Search of Brilliance",
         "number": 22,
         "shape": "normal",
-        "set": "MC25"
+        "set": "MC25",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Divine Call",
         "number": 4,
         "shape": "normal",
-        "set": "MC25"
+        "set": "MC25",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Deep Sea Consumer",
         "number": 8,
         "shape": "normal",
-        "set": "MC25"
+        "set": "MC25",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Intoxicating Decay",
         "number": 13,
         "shape": "normal",
-        "set": "MC25"
+        "set": "MC25",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Blazing Call",
         "number": 17,
         "shape": "normal",
-        "set": "MC25"
+        "set": "MC25",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Forest's Watcher",
         "number": 21,
         "shape": "normal",
-        "set": "MC25"
+        "set": "MC25",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Illusory Companion",
         "number": 5,
         "shape": "normal",
-        "set": "MC25"
+        "set": "MC25",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Dragon of Arcane Frost",
         "number": 9,
         "shape": "normal",
-        "set": "MC25"
+        "set": "MC25",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Profane Call",
         "number": 14,
         "shape": "normal",
-        "set": "MC25"
+        "set": "MC25",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Crusader of the Blood Moon",
         "number": 18,
         "shape": "normal",
-        "set": "MC25"
+        "set": "MC25",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "In Search of Grandeur",
         "number": 23,
         "shape": "normal",
-        "set": "MC25"
+        "set": "MC25",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Welcoming Light",
         "number": 6,
         "shape": "normal",
-        "set": "MC25"
+        "set": "MC25",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Rise From Depths",
         "number": 10,
         "shape": "normal",
-        "set": "MC25"
+        "set": "MC25",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Wasteful Decay",
         "number": 15,
         "shape": "normal",
-        "set": "MC25"
+        "set": "MC25",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Dragon of Celestial Wishes",
         "number": 19,
         "shape": "normal",
-        "set": "MC25"
+        "set": "MC25",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Unceasing Explorer",
         "number": 24,
         "shape": "normal",
-        "set": "MC25"
+        "set": "MC25",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
@@ -126,7 +166,9 @@
         "card_name": "Visions of The Great Beyond",
         "number": 11,
         "shape": "normal",
-        "set": "MC25"
+        "set": "MC25",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
@@ -135,13 +177,17 @@
         "card_name": "Wayward Impulse",
         "number": 20,
         "shape": "normal",
-        "set": "MC25"
+        "set": "MC25",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Verdant Call",
         "number": 25,
         "shape": "normal",
-        "set": "MC25"
+        "set": "MC25",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "er"
@@ -160,19 +206,25 @@
         "card_name": "Magius Udel, Oracle of Light",
         "number": 32,
         "shape": "planeswalker",
-        "set": "MC25"
+        "set": "MC25",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Darkness Unchained",
         "number": 28,
         "shape": "normal",
-        "set": "MC25"
+        "set": "MC25",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "The Last Dozandi",
         "number": 31,
         "shape": "normal",
-        "set": "MC25"
+        "set": "MC25",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
@@ -181,7 +233,9 @@
         "card_name": "Drorix, Divine Outcast",
         "number": 29,
         "shape": "planeswalker",
-        "set": "MC25"
+        "set": "MC25",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "er"
@@ -202,31 +256,41 @@
         "card_name": "Call of Chaos",
         "number": 27,
         "shape": "normal",
-        "set": "MC25"
+        "set": "MC25",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Arcane Oracle",
         "number": 26,
         "shape": "normal",
-        "set": "MC25"
+        "set": "MC25",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Explorer of Finality",
         "number": 30,
         "shape": "normal",
-        "set": "MC25"
+        "set": "MC25",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Outpost of Radiant Fire",
         "number": 33,
         "shape": "normal",
-        "set": "MC25"
+        "set": "MC25",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Unfathomable Exploration",
         "number": 34,
         "shape": "normal",
-        "set": "MC25"
+        "set": "MC25",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "er"
@@ -245,13 +309,17 @@
         "card_name": "Galen, Kinzan Engineer",
         "number": 2,
         "shape": "planeswalker",
-        "set": "MC25"
+        "set": "MC25",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "",
         "number": 1,
         "shape": "normal",
-        "set": "MC25"
+        "set": "MC25",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
@@ -281,7 +349,9 @@
         "card_name": "Caves of Premonition",
         "number": 35,
         "shape": "normal",
-        "set": "MC25"
+        "set": "MC25",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"

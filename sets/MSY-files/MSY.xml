@@ -1,0 +1,746 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>MSY</name>
+			<longname>Aanginer MSEM Mystery Community Slots</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-02-15</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Astral Pathfinder</name>
+			<text>When Astral Pathfinder enters, look at the top three cards of your library, then you may reveal a creature card with mana value 3 or less from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/MSY-files/img/2_Astral Pathfinder.jpg" num="2">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stormborn Griffin</name>
+			<text>Flying
+Threshold — Whenever Stormborn Griffin enters or attacks, surveil 1. If there are seven or more cards in your graveyard, put a +1/+1 counter on Stormborn Griffin.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/MSY-files/img/13_Stormborn Griffin.jpg" num="13">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Griffin</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Forbidding Outsider</name>
+			<text>At the beginning of each end step, if you lost 3 or more life this turn, put a +1/+1 counter on Forbidding Outsider.
+Forbidding Outsider has lifelink as long as it has power 4 or greater.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/MSY-files/img/17_Forbidding Outsider.jpg" num="17">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Worldseeking Existence</name>
+			<text>At the beginning of combat on your turn, you may discard a noncreature card. If you do, put a +1/+1 counter on Worldseeking Existence.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/MSY-files/img/25_Worldseeking Existence.jpg" num="25">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Woodland Huntsman</name>
+			<text>At the beginning of your end step, if you attacked with a creature with power 4 or greater this turn, draw a card.
+{3}{G}: Double target creature&apos;s power until end of turn.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/MSY-files/img/31_Woodland Huntsman.jpg" num="31">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Perennial Journey</name>
+			<text>When Perennial Journey enters, create a 1/1 white Human creature token.
+Creature tokens you control get +1/+0.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/MSY-files/img/6_Perennial Journey.jpg" num="6">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>WW</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Embrace of the Boundless</name>
+			<text>Counter target spell unless its controller pays {1} for each instant and sorcery card in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/MSY-files/img/9_Embrace of the Boundless.jpg" num="9">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Behold Shadowed Light</name>
+			<text>Mill two cards, then each opponent loses 1 life for each card put into your graveyard from anywhere this turn.
+Memory {3}{B}{B} (You may cast this card from your graveyard by paying its memory cost and discarding a card. Then exile it.)</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/MSY-files/img/14_Behold Shadowed Light.jpg" num="14">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rite of Release</name>
+			<text>Exile the top X cards of your library, where X was the amount of mana spent to cast Rite of Release. You may play them during your next turn.
+Reprocess {X}{R}{R} (Cast a copy of this from your graveyard by exiling it and paying {X}{R}{R}. Spend only mana from differently named sources this way.)</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/MSY-files/img/24_Rite of Release.jpg" num="24">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>One To Many</name>
+			<text>As an additional cost to cast One To Many, sacrifice a creature.
+Put X +1/+1 counters on each creature you control, where X is the sacrificed creature&apos;s power.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/MSY-files/img/30_One To Many.jpg" num="30">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Enlightened Recluse</name>
+			<text>Whenever one or more enchantments you control enter for the first time each turn, create a 1/1 white Avatar creature token.
+As long as you control three or more creatures, Enlightened Recluse gets +1/+2 and has vigilance.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MSY-files/img/4_Enlightened Recluse.jpg" num="4">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Starlight Wayfarer</name>
+			<text>Whenever you cast an instant spell or a spell with flash, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+As long as there are five or more instant and sorcery cards in your graveyard, Starlight Wayfarer gets +2/+1 and has flying.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MSY-files/img/12_Starlight Wayfarer.jpg" num="12">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nightfall Voyager</name>
+			<text>Whenever an opponent loses life for the first time each turn, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+As long as there are seven or more cards in your graveyard, Nightfall Voyager gets +2/+0 and has menace.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MSY-files/img/18_Nightfall Voyager.jpg" num="18">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chained Terror</name>
+			<text>Whenever you cast a spell from anywhere other than your hand, Chained Terror deals 1 damage to each opponent.
+As long as an opponent has lost 3 or more life this turn, Chained Terror gets +2/+2.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MSY-files/img/21_Chained Terror.jpg" num="21">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deepgrowth Wraith</name>
+			<text>Whenever you cast a creature spell, put a +1/+1 counter on Deepgrowth Wraith.
+As long as there are three or more counters on Deepgrowth Wraith, it has trample.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MSY-files/img/26_Deepgrowth Wraith.jpg" num="26">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk Spirit Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Embodiment of Radiance</name>
+			<text>Vigilance
+Embodiment of Radiance gets +1/+1 for each other creature you control.
+At the beginning of your end step, create a 1/1 white Avatar creature token.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MSY-files/img/3_Embodiment of Radiance.jpg" num="3">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avatar Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Embodiment of Fear</name>
+			<text>Menace
+Embodiment of Fear gets +1/+1 for each card in your graveyard.
+At the beginning of your end step, mill three cards.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MSY-files/img/16_Embodiment of Fear.jpg" num="16">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avatar Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Embodiment of Wrath</name>
+			<text>Haste
+Embodiment of Wrath gets +1/+1 for each noncreature, nonland permanent you control.
+At the beginning of your end step, create a treasure token.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MSY-files/img/23_Embodiment of Wrath.jpg" num="23">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avatar Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Embodiment of Strength</name>
+			<text>Trample
+Embodiment of Strength gets +1/+1 for each land you control.
+At the beginning of your end step, search your library for a land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MSY-files/img/28_Embodiment of Strength.jpg" num="28">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avatar Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Light the Paths</name>
+			<text>Exile up to two target nonland permanents you control, then return up to one of them to your hand and return the other to the battlefield.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MSY-files/img/5_Light the Paths.jpg" num="5">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Skywatching</name>
+			<text>Skywatching costs {1} less to cast if you&apos;ve cast another noncreature spell this turn.
+Look at the top three cards of your library. You may reveal a noncreature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MSY-files/img/11_Skywatching.jpg" num="11">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Devoured by the Boundless</name>
+			<text>As an additional cost to cast Devoured by the Boundless, pay X life.
+Put X -1/-1 counters on target creature.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MSY-files/img/15_Devoured by the Boundless.jpg" num="15">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Abyssal Bolt</name>
+			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Abyssal Bolt deals X damage to target creature or planeswalker.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MSY-files/img/20_Abyssal Bolt.jpg" num="20">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XR</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Might of Inner Fire</name>
+			<text>Put X +1/+1 counters on target creature, where X is that creature&apos;s power.
+Flashback {3}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MSY-files/img/29_Might of Inner Fire.jpg" num="29">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Transformation Aurora</name>
+			<text>At the beginning of your end step, you may sacrifice an enchantment. If you do, search your library or graveyard for another enchantment card with mana value 1 greater than the sacrificed enchantment&apos;s mana value, put it onto the battlefield, then shuffle.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MSY-files/img/7_Transformation Aurora.jpg" num="7">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Moonlit Wishes</name>
+			<text>When Moonlit Wishes enters, if you cast it, shuffle your hand and graveyard into your library, then draw seven cards.
+At the beginning of each end step, create a 1/1 white Spirit creature token with flying if you drew two or more cards this turn.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MSY-files/img/10_Moonlit Wishes.jpg" num="10">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Twilight&apos;s Dawn</name>
+			<text>When Twilight&apos;s Dawn enters, if you cast it, each creature gets -3/-3 until end of turn.
+Whenever a creature dies, its controller loses 1 life.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MSY-files/img/19_Twilight&apos;s Dawn.jpg" num="19">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Divine Inferno</name>
+			<text>At the beginning of each end step, Divine Inferno deals 1 damage to each opponent for each spell they cast this turn.
+At the beginning of your upkeep, exile the top card of your library. You may play it this turn.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MSY-files/img/22_Divine Inferno.jpg" num="22">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Echoing Heartbeats</name>
+			<text>Once each turn, when one or more other permanents enter under your control, you may create a token that&apos;s a copy of each of them.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MSY-files/img/27_Echoing Heartbeats.jpg" num="27">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Depths Soulthief</name>
+			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+When Depths Soulthief enters, destroy target creature with mana value less than or equal to the number of card types among cards exiled with Depths Soulthief.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/MSY-files/img/33_Depths Soulthief.jpg" num="33">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>6UB</manacost>
+				<cmc>8</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Darkness Unchained</name>
+			<text>Destroy target creature if it has mana value 3 or less or you have seven or more cards in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/MSY-files/img/32_Darkness Unchained.jpg" num="32">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Garden Guardian</name>
+			<text>Landfall — Whenever a land enters under your control, you gain 1 life.
+At the beginning of your end step, draw a card if you&apos;ve gained 3 or more life this turn.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MSY-files/img/35_Garden Guardian.jpg" num="35">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Statue</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dreams of the Forgotten</name>
+			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Draw a card for each mana spent to cast Dreams of the Forgotten. You gain 1 life for each card exiled with Dreams of the Forgotten.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MSY-files/img/34_Dreams of the Forgotten.jpg" num="34">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>7WU</manacost>
+				<cmc>9</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Blue-Flame Bearer</name>
+			<text>When Blue-Flame Bearer enters, put two +1/+1 counters on up to one target noncreature permanent. It becomes a creature in addition to its other types.
+When Blue-Flame Bearer dies, it deals 2 damage to any target.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/MSY-files/img/37_Blue-Flame Bearer.jpg" num="37">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Artifact Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/MSY-files/img/36_.jpg" num="36">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Draconic Dread</name>
+			<text>This spell costs {1} less to cast for each creature card in your graveyard.
+Flying
+{X}, Exile a creature card from your graveyard with mana value X: Create a token that&apos;s a copy of that creature. Activate only once each turn and only as a sorcery.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MSY-files/img/1_Draconic Dread.jpg" num="1">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Demon Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>10</manacost>
+				<cmc>10</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pathbridger</name>
+			<text>{T}, Sacrifice an artifact you control: You may put an artifact with mana value less than or equal to 1 plus the mana value of the sacrificed artifact from your hand or graveyard onto the battlefield.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MSY-files/img/38_Pathbridger.jpg" num="38">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/MSY-files/img/39_.jpg" num="39">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Tranquil Haven</name>
+			<text>When Tranquil Haven enters, you gain 3 life.
+{T}: Add {C}.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MSY-files/img/40_Tranquil Haven.jpg" num="40">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Embodiment of Stars</name>
+			<text>Flying
+Embodiment of Stars gets +1/+1 for each card in your hand.
+At the beginning of your end step, draw a card.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/MSY-files/img/8_Embodiment of Stars.jpg" num="8">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avatar Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Avatar MSY</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/MSY-files/img/1t_Avatar.jpg" num="1">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Spirit MSY</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/MSY-files/img/2t_Spirit.jpg" num="2">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Treasure MSY</name>
+			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/MSY-files/img/3t_Treasure.jpg" num="3">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

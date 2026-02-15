@@ -3,139 +3,185 @@
         "card_name": "Call of the Celestial Tree",
         "number": 5,
         "shape": "normal",
-        "set": "CC01"
+        "set": "CC01",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Call of the Starsea",
         "number": 10,
         "shape": "normal",
-        "set": "CC01"
+        "set": "CC01",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Call of the Soul",
         "number": 15,
         "shape": "normal",
-        "set": "CC01"
+        "set": "CC01",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Call of the Sunset",
         "number": 20,
         "shape": "normal",
-        "set": "CC01"
+        "set": "CC01",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Call of the Lifebringer",
         "number": 25,
         "shape": "normal",
-        "set": "CC01"
+        "set": "CC01",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Demonheart Overseer",
         "number": 6,
         "shape": "normal",
-        "set": "CC01"
+        "set": "CC01",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Cosmic Lookout",
         "number": 11,
         "shape": "adventure",
-        "set": "CC01"
+        "set": "CC01",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Darksun Executioner",
         "number": 16,
         "shape": "normal",
-        "set": "CC01"
+        "set": "CC01",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Dark Omen Raven",
         "number": 21,
         "shape": "normal",
-        "set": "CC01"
+        "set": "CC01",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Darkgrowth Columns",
         "number": 26,
         "shape": "transform double faced",
-        "set": "CC01"
+        "set": "CC01",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Lifebound Synthesizer",
         "number": 7,
         "shape": "normal",
-        "set": "CC01"
+        "set": "CC01",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Reflected Familiar",
         "number": 12,
         "shape": "normal",
-        "set": "CC01"
+        "set": "CC01",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Extraplanar Observer",
         "number": 17,
         "shape": "adventure",
-        "set": "CC01"
+        "set": "CC01",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Melting Glowdragon",
         "number": 22,
         "shape": "adventure",
-        "set": "CC01"
+        "set": "CC01",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Forgotten Effigy",
         "number": 27,
         "shape": "normal",
-        "set": "CC01"
+        "set": "CC01",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Skykeeper",
         "number": 8,
         "shape": "adventure",
-        "set": "CC01"
+        "set": "CC01",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Stormwrought Titan",
         "number": 13,
         "shape": "normal",
-        "set": "CC01"
+        "set": "CC01",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Somber Emptiness",
         "number": 18,
         "shape": "transform double faced",
-        "set": "CC01"
+        "set": "CC01",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Portal to Destruction",
         "number": 23,
         "shape": "transform double faced",
-        "set": "CC01"
+        "set": "CC01",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Sentinel of Empty Lands",
         "number": 28,
         "shape": "adventure",
-        "set": "CC01"
+        "set": "CC01",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Starts in Sanctum",
         "number": 9,
         "shape": "normal",
-        "set": "CC01"
+        "set": "CC01",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Untouched Falls",
         "number": 14,
         "shape": "transform double faced",
-        "set": "CC01"
+        "set": "CC01",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Starbrought Avatar",
         "number": 19,
         "shape": "normal",
-        "set": "CC01"
+        "set": "CC01",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
@@ -144,7 +190,9 @@
         "card_name": "Ursine Woodheart",
         "number": 29,
         "shape": "normal",
-        "set": "CC01"
+        "set": "CC01",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "er"
@@ -163,31 +211,41 @@
         "card_name": "Changeling with typal payoff",
         "number": 1,
         "shape": "normal",
-        "set": "CC01"
+        "set": "CC01",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Colorless Planeswalker",
         "number": 2,
         "shape": "planeswalker",
-        "set": "CC01"
+        "set": "CC01",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Expensive card with alt mode",
         "number": 3,
         "shape": "normal",
-        "set": "CC01"
+        "set": "CC01",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Reserves hate card",
         "number": 4,
         "shape": "normal",
-        "set": "CC01"
+        "set": "CC01",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Monument to Lapsed Realms",
         "number": 40,
         "shape": "normal",
-        "set": "CC01"
+        "set": "CC01",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "er"
@@ -206,13 +264,17 @@
         "card_name": "Avatar",
         "number": 1,
         "shape": "token",
-        "set": "CC01"
+        "set": "CC01",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Avatar",
         "number": 2,
         "shape": "token",
-        "set": "CC01"
+        "set": "CC01",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"

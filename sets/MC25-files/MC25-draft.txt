@@ -388,7 +388,9 @@
 	2 Galen, Kinzan Engineer
 	1 In Search of Brilliance
 [uncommon(3)]
-[common(7)]
+[common(6)]
+	8 
+[common | masterpiece(1)]
 	8 
 [foil(1)]
 	2 Cryptic Call

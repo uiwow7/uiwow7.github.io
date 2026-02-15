@@ -177,7 +177,7 @@
 			"type": "Token Enchantment Creature — Human",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DCO-files/img/1_Human.jpg"
+				"en": "https://uiwow7.github.io/sets/DCO-files/img/1t_Human.jpg"
 			}
 		},
 		{
@@ -2007,7 +2007,7 @@
 			"type": "Token Creature — Demon",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DCO-files/img/2_Demon.jpg"
+				"en": "https://uiwow7.github.io/sets/DCO-files/img/2t_Demon.jpg"
 			}
 		},
 		{
@@ -2017,7 +2017,7 @@
 			"type": "Token Artifact Creature — Construct",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DCO-files/img/4_Construct.jpg"
+				"en": "https://uiwow7.github.io/sets/DCO-files/img/4t_Construct.jpg"
 			}
 		},
 		{
@@ -2027,7 +2027,7 @@
 			"type": "Token Creature — Warlock",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DCO-files/img/3_Warlock.jpg"
+				"en": "https://uiwow7.github.io/sets/DCO-files/img/3t_Warlock.jpg"
 			}
 		},
 		{
@@ -2087,7 +2087,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DCO-files/img/5_Treasure.jpg"
+				"en": "https://uiwow7.github.io/sets/DCO-files/img/5t_Treasure.jpg"
 			}
 		}
 	]
@@ -2293,7 +2293,8 @@
 	2 Cosmic Incarnation
 	2 Marshland Birth
 [uncommon(3)]
-[common(7)]
+[common(6)]
+[common | masterpiece(1)]
 [foil(1)]
 	2 In Search of Eternity
 	2 The Arbiter's Watcher

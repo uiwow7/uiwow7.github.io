@@ -1,0 +1,4094 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>SHS</name>
+			<longname>A Shattered Sword</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-02-15</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Warlock SHS</name>
+			<text>When this creature dies, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/3t_Warlock.jpg" num="3">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>Frostpath Soldier</reverse-related>
+			<reverse-related>Shattered Sword Cleaver</reverse-related>
+			<reverse-related>Unchained Nightwatcher</reverse-related>
+			<reverse-related>Cosmic Manipulator</reverse-related>
+			<reverse-related>Western Army Commander</reverse-related>
+			<reverse-related>Shattered Sword Defender</reverse-related>
+			<reverse-related>Corrupted Ritualist</reverse-related>
+			<reverse-related>Gate to the Tower</reverse-related>
+		</card>
+		<card>
+			<name>Search the Forest</name>
+			<text>Attune (Add text based on basic land types among different lands you control)
+{G}|Search your library for a basic land card, put it into your hand, then shuffle.
+{W}|Create a 1/1 Ally creature token that&apos;s all colors.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/180_Search the Forest.jpg" num="180">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G/W</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Corrupted Kirali</name>
+			<text>Blight {1}{W} (You can cast this from your graveyard transformed for {1}{W}. If you do, it enters under an opponent&apos;s control. Exile it if it would leave the battlefield or not resolve.)
+---
+(Back): Desert&apos;s Consumption</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/9_Corrupted Kirali_front.jpg" num="9a">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Desert&apos;s Consumption</related>
+		</card>
+		<card>
+			<name>Desert&apos;s Consumption</name>
+			<text>When Desert&apos;s Consumption enters, choose a creature you control to have it enchant.
+Enchanted creature can&apos;t attack or block and its activated abilities can&apos;t be activated.
+---
+(Front): Corrupted Kirali</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/9_Corrupted Kirali_back.jpg" num="9b">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Corrupted Kirali</related>
+		</card>
+		<card>
+			<name>Frostpath Traveler</name>
+			<text>At the beginning of your upkeep, you gain 1 life and may exile a card from a graveyard.
+Blight {2}{WU}{WU} (You can cast this from your graveyard transformed for {2}{WU}{WU}. If you do, it enters under an opponent&apos;s control. Exile it if it would leave the battlefield or not resolve.)
+---
+(Back): Curse of the Frostpath</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/14_Frostpath Traveler_front.jpg" num="14a">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Curse of the Frostpath</related>
+		</card>
+		<card>
+			<name>Curse of the Frostpath</name>
+			<text>At the beginning of each end step, put a stun counter on two target tapped permanents you control. You lose 2 life.
+---
+(Front): Frostpath Traveler</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/14_Frostpath Traveler_back.jpg" num="14b">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Frostpath Traveler</related>
+		</card>
+		<card>
+			<name>Desert Commander</name>
+			<text>Vigilance</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/12_Desert Commander.jpg" num="12">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>New Recruit</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/19_New Recruit.jpg" num="19">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related>Aenir Expedition</reverse-related>
+			<reverse-related>Armored Recruiter</reverse-related>
+			<reverse-related>Recruit Trainer</reverse-related>
+			<reverse-related>Southern Fireblade</reverse-related>
+			<reverse-related>Thalur Recruiter</reverse-related>
+			<reverse-related>Thirak Commander</reverse-related>
+		</card>
+		<card>
+			<name>Head of Recruitment</name>
+			<text>Whenever another creature enters under your control for the first time each turn, create a 1/1 Ally creature token that&apos;s all colors.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/15_Head of Recruitment.jpg" num="15">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shattered Swordsman</name>
+			<text>Blight {5}{W} (You can cast this from your graveyard transformed for {5}{W}. If you do, it enters under an opponent&apos;s control. Exile it if it would leave the battlefield or not resolve.)
+---
+(Back): Lingering Spirits</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/25_Shattered Swordsman_front.jpg" num="25a">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Lingering Spirits</related>
+		</card>
+		<card>
+			<name>Lingering Spirits</name>
+			<text>Whenever you cast a spell, target opponent gains 1 life and you lose 1 life.
+---
+(Front): Shattered Swordsman</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/25_Shattered Swordsman_back.jpg" num="25b">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Shattered Swordsman</related>
+		</card>
+		<card>
+			<name>Aqiman Charger</name>
+			<text>When Aqiman Charger enters, conjure a duplicate of another target nontoken creature you control into your hand.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/6_Aqiman Charger.jpg" num="6">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crafty Escape</name>
+			<text>Target creature you control gains indestructible until end of turn. If that creature was a Warrior, it also gets +2/+2 until end of turn.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/10_Crafty Escape.jpg" num="10">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shattered Swordbearer</name>
+			<text>First strike
+Once each turn, when a card leaves your graveyard, you gain 3 life.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/24_Shattered Swordbearer.jpg" num="24">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frostpath Soldier</name>
+			<text>Once each turn, when a card leaves your graveyard, you may create a 1/1 blue and black Warlock token with &quot;When this creature dies, surveil 1&quot; (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/13_Frostpath Soldier.jpg" num="13">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Alnak Blade Student</name>
+			<text>First strike
+Blight {5}{W} (You can cast this from your graveyard transformed for {5}{W}. If you do, it enters under an opponent&apos;s control. Exile it if it would leave the battlefield or not resolve.)
+---
+(Back): Alnak Blade Master</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/3_Alnak Blade Student_front.jpg" num="3a">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Alnak Blade Master</related>
+		</card>
+		<card>
+			<name>Alnak Blade Master</name>
+			<text>First strike
+Other creatures you control lose all abilities.
+---
+(Front): Alnak Blade Student</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/3_Alnak Blade Student_back.jpg" num="3b">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Alnak Blade Student</related>
+		</card>
+		<card>
+			<name>Spirit Strike</name>
+			<text>Target creature loses all abilities until end of turn.
+Draw a card.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/26_Spirit Strike.jpg" num="26">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Soul Drain</name>
+			<text>Attune (Add text based on basic land types among different lands you control)
+{W}|You gain 3 life.
+{B}|Each opponent loses 3 life.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/183_Soul Drain.jpg" num="183">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W/B</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Prophetic Crystal</name>
+			<text>{2}, Sacrifice Prophetic Crystal: Draw a card.
+Blight {3}{U}{U}. You may cast Prophetic Crystal for its blight cost as though it had flash. (You can cast this from your graveyard transformed for {3}{U}{U}. If you do, it enters under an opponent&apos;s control. Exile it if it would leave the battlefield or not resolve.)
+---
+(Back): Prophet of Crystals</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/50_Prophetic Crystal_front.jpg" num="50a">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Artifact — Clue</type>
+				<maintype>Artifact</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Prophet of Crystals</related>
+		</card>
+		<card>
+			<name>Prophet of Crystals</name>
+			<text>When Prophet of Crystals enters, return target spell and another target creature you control to their owner&apos;s hand.
+---
+(Front): Prophetic Crystal</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/50_Prophetic Crystal_back.jpg" num="50b">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Prophetic Crystal</related>
+		</card>
+		<card>
+			<name>Seek Answers</name>
+			<text>Acquire a noncreature card. (Reveal cards from the top of your library until you reveal a noncreature card. Put that card into your hand and the rest on the bottom of your library in a random order.)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/181_Seek Answers.jpg" num="181">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U/R</manacost>
+				<cmc>1</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse-related>Answer Seeker</reverse-related>
+			<reverse-related>Beyond the Tower</reverse-related>
+			<reverse-related>Call of Answers</reverse-related>
+			<reverse-related>Cave of Ice</reverse-related>
+			<reverse-related>Crimson Lights</reverse-related>
+			<reverse-related>Darkness Searcher</reverse-related>
+			<reverse-related>Seek the World of Dreams</reverse-related>
+			<reverse-related>Volcano Sage</reverse-related>
+		</card>
+		<card>
+			<name>Call of Control</name>
+			<text>Attune (Add text based on basic land types among different lands you control)
+{W}|You gain 3 life.
+{U}|Return up to one target creature to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/156_Call of Control.jpg" num="156">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W/U</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Icefire Bolt</name>
+			<text>Attune (Add text based on basic land types among different lands you control)
+{U}|Scry 2.
+{R}|Icefire Bolt deals 2 damage to any target.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/170_Icefire Bolt.jpg" num="170">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U/R</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shattered Sword Iceblade</name>
+			<text>When Shattered Sword Iceblade enters, draw a card.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/55_Shattered Sword Iceblade.jpg" num="55">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lightning Retort</name>
+			<text>Counter target spell.
+Blight {4}{U}{U} (You can cast this from your graveyard transformed for {4}{U}{U}. If you do, it enters under an opponent&apos;s control. Exile it if it would leave the battlefield or not resolve.)
+---
+(Back): Stone of Lightning</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/46_Lightning Retort_front.jpg" num="46a">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">Stone of Lightning</related>
+		</card>
+		<card>
+			<name>Stone of Lightning</name>
+			<text>Spells you cast cost {1} more to cast.
+---
+(Front): Lightning Retort</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/46_Lightning Retort_back.jpg" num="46b">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Lightning Retort</related>
+		</card>
+		<card>
+			<name>Enchanting of Stones</name>
+			<text>Attune (Add text based on basic land types among different lands you control)
+{U}{U}|Draw a card.
+{G}{G}|You may play an additional land this turn.
+{U}{G}|Scry 2.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/41_Enchanting of Stones.jpg" num="41">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Learn Through Repetition</name>
+			<text>Conjure two duplicates of target instant or sorcery card in your graveyard. Put one into your hand and one on top of your library.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/45_Learn Through Repetition.jpg" num="45">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sage of Aenir&apos;s Reclamation</name>
+			<text>Attune (Add text based on basic land types among different lands you control)
+Once each turn, when you conjure a card,
+{G}{G}|Search your library for a basic land card, put it into your hand, then shuffle.
+{R}{R}|You may discard a card. If you do, draw a card.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/51_Sage of Aenir&apos;s Reclamation.jpg" num="51">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>URG</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Window to Lost Souls</name>
+			<text>When Window to Lost Souls enters or when a permanent you own enters under an opponent&apos;s control, draw a card.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/58_Window to Lost Souls.jpg" num="58">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Answer Seeker</name>
+			<text>Spells you cast named Seek Answers cost {U} less to cast.
+Whenever Answer Seeker attacks, conjure a card named Seek Answers into your hand. (It&apos;s an instant that costs {UR} and has &quot;Acquire a noncreature card&quot;)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/34_Answer Seeker.jpg" num="34">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Darkness Searcher</name>
+			<text>When Darkness Searcher dies, conjure a card named Shattered Sword Warlock or Seek Answers into your hand. (Shattered Sword Warlock is a 0/1 Warlock that costs {B} that gives other copies of itself +1/+1. Seek Answers is an instant that costs {UR} and has &quot;Acquire a noncreature card&quot;)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/38_Darkness Searcher.jpg" num="38">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Icy Aurora</name>
+			<text>Enchant land
+When Icy Aurora enters, draw a card, then choose a basic land type.
+Enchanted land is the chosen type in addition to its other types.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/43_Icy Aurora.jpg" num="43">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Alanar Teacher</name>
+			<text>Attune (Add text based on basic land types among different lands you control)
+When Alanar Teacher enters, draw a card.
+{U}{G}|Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+{U}{R}|Alanar Teacher deals 2 damage to any target.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/32_Alanar Teacher.jpg" num="32">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>URG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shattered Sword Warlock</name>
+			<text>Other creatures you control named Shattered Sword Warlock get +1/+1.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/81_Shattered Sword Warlock.jpg" num="81">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related>Corrupted Grounds</reverse-related>
+			<reverse-related>Cosmic Manipulator</reverse-related>
+			<reverse-related>Darkness Searcher</reverse-related>
+			<reverse-related>Grand Warlock Talnir</reverse-related>
+			<reverse-related>Seek the Depths</reverse-related>
+		</card>
+		<card>
+			<name>Into the Cave</name>
+			<text>Attune (Add text based on basic land types among different lands you control)
+{U}|Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+{B}|Return target creature card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/172_Into the Cave.jpg" num="172">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U/B</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Explore the Depths</name>
+			<text>Attune (Add text based on basic land types among different lands you control)
+{B}|Mill four cards.
+{G}|Choose a card in your graveyard. Return it to your hand.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/168_Explore the Depths.jpg" num="168">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B/G</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Corrupted Grounds</name>
+			<text>When Corrupted Grounds enters, conjure a card named Shattered Sword Warlock into your hand. (They&apos;re 0/1 Warlocks that cost {B} that give each other +1/+1.)
+Once each turn, when a creature you control dies, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/62_Corrupted Grounds.jpg" num="62">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Warlock of the Tower</name>
+			<text>When Warlock of the Tower enters or dies, acquire a Warlock card. (Reveal cards from the top of your library until you reveal a Warlock card. Put that card into your hand and the rest on the bottom of your library in a random order.)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/86_Warlock of the Tower.jpg" num="86">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Soul Whisperer</name>
+			<text>Menace
+{T}, Sacrifice a creature: You draw a card and lose 3 life.
+Blight {3}{B} (You can cast this from your graveyard transformed for {3}{B}. If you do, it enters under an opponent&apos;s control. Exile it if it would leave the battlefield or not resolve.)
+---
+(Back): Soul Controller</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/82_Soul Whisperer_front.jpg" num="82a">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Soul Controller</related>
+		</card>
+		<card>
+			<name>Soul Controller</name>
+			<text>At the beginning of your upkeep, you lose 2 life unless you sacrifice another nonland permanent or discard a card.
+---
+(Front): Soul Whisperer</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/82_Soul Whisperer_back.jpg" num="82b">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Soul Whisperer</related>
+		</card>
+		<card>
+			<name>Shattered Sword Soldier</name>
+			<text>Whenever you attack, you may discard a card. If you do, each opponent loses 2 life.
+Blight {2}{B} (You can cast this from your graveyard transformed for {2}{B}. If you do, it enters under an opponent&apos;s control. Exile it if it would leave the battlefield or not resolve.)
+---
+(Back): Night Rider of Darkness</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/80_Shattered Sword Soldier_front.jpg" num="80a">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Night Rider of Darkness</related>
+		</card>
+		<card>
+			<name>Night Rider of Darkness</name>
+			<text>Whenever a creature dies under your control, you lose 1 life.
+---
+(Front): Shattered Sword Soldier</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/80_Shattered Sword Soldier_back.jpg" num="80b">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Shattered Sword Soldier</related>
+		</card>
+		<card>
+			<name>Seek the Depths</name>
+			<text>Conjure two cards named Shattered Sword Warlock into your graveyard. (They&apos;re 0/1 Warlocks that cost {B} that give each other +1/+1.)
+{1}{B}, Exile Seek the Depths from your graveyard: Return target creature card with mana value 1 from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/76_Seek the Depths.jpg" num="76">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>One With Shadows</name>
+			<text>You may sacrifice a Warlock and discard a card rather than pay this spell&apos;s mana cost.
+Destroy target creature.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/74_One With Shadows.jpg" num="74">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Irkian Mindrender</name>
+			<text>{T}, Sacrifice a creature: You draw a card, lose 1 life, and mill two cards.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/71_Irkian Mindrender.jpg" num="71">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Darkmoon Aurora</name>
+			<text>At the beginning of combat on your turn, exile a card from your graveyard.
+Whenever one or more cards leave your graveyard, target creature gets -1/-0 until end of turn.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/64_Darkmoon Aurora.jpg" num="64">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Witch of Thirak</name>
+			<text>When Witch of Thirak enters, mill two cards.
+Once during each of your turns, when a card leaves your graveyard, target player discards a card.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/88_Witch of Thirak.jpg" num="88">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Undying Shadowblade</name>
+			<text>Deathtouch
+When Undying Shadowblade is put into a graveyard from your library, you may put it into your hand.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/83_Undying Shadowblade.jpg" num="83">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Altar of Lost Shadows</name>
+			<text>Warlocks you control have deathtouch.
+{T}, Sacrifice a creature: Each opponent sacrifice a creature.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/61_Altar of Lost Shadows.jpg" num="61">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Corrupting Fire</name>
+			<text>Attune (Add text based on basic land types among different lands you control)
+{B}|Target creature gains menace until end of turn.
+{R}| Corrupting Fire deals 2 damage to any target.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/162_Corrupting Fire.jpg" num="162">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B/R</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Immolating Smite</name>
+			<text>Attune (Add text based on basic land types among different lands you control)
+{R}| Immolating Smite deals 2 damage to any target.
+{W}|Target creature gets +2/+2 until end of turn.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/171_Immolating Smite.jpg" num="171">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R/W</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Crimson Lights</name>
+			<text>Crimson Lights deals 3 damage to any target. 
+Landfall — If a land entered under your control this turn, conjure a card named Seek Answers into your hand (It&apos;s an instant that costs {UR} and has &quot;Acquire a noncreature card&quot;)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/98_Crimson Lights.jpg" num="98">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Kangal Martyr</name>
+			<text>Sacrifice Kangal Martyr: It deals 2 damage to any target.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/105_Kangal Martyr.jpg" num="105">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fellfire Restoration</name>
+			<text>Exile the top three cards of your library. You may play them until the end of your next turn.
+Landfall — If a land has entered under your control this turn, add {R}. You may play an additional land this turn.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/100_Fellfire Restoration.jpg" num="100">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Warlock of Dark Fire</name>
+			<text>When Warlock of Dark Fire or another creature you control dies, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/117_Warlock of Dark Fire.jpg" num="117">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brave Strike</name>
+			<text>Brave Strike deals damage to target creature or planeswalker equal to the number of creatures you control.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/154_Brave Strike.jpg" num="154">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>RR/W</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mesa Spearman</name>
+			<text>When Mesa Spearman enters or dies, exile the top card of your library. You may play it this turn.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/107_Mesa Spearman.jpg" num="107">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spearman of the Alliance</name>
+			<text>When Spearman of the Alliance enters or dies, create a 1/1 Ally creature token that&apos;s all colors.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/114_Spearman of the Alliance.jpg" num="114">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thalur Firewizard</name>
+			<text>Whenever you conjure one or more cards, target creature you control gets +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/116_Thalur Firewizard.jpg" num="116">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Butcher of Graves</name>
+			<text>Attacking Allies you control have first strike.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/95_Butcher of Graves.jpg" num="95">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Night Rider of Fire</name>
+			<text>{T}, Sacrifice a creature: Night Rider of Fire deals 3 damage to each opponent.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/109_Night Rider of Fire.jpg" num="109">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jungle Adept</name>
+			<text>Landfall — Whenever a land enters under your control, create a 1/1 Ally creature token that&apos;s all colors.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/104_Jungle Adept.jpg" num="104">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Icefire Ally</name>
+			<text>Whenever you conjure a card, you may note its name.
+Whenever you cast a spell with a name noted by Icefire Ally, Icefire Ally deals 1 damage to each opponent.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/102_Icefire Ally.jpg" num="102">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Burning of the Ground</name>
+			<text>Attune (Add text based on basic land types among different lands you control)
+{R}|Exile the top two cards of your library. You may play them this turn.
+{G}|Add {R} or {G}.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/155_Burning of the Ground.jpg" num="155">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R/G</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wisdom of the Sea</name>
+			<text>Attune (Add text based on basic land types among different lands you control)
+{G}|Put a +1/+1 counter on up to one target creature.
+{U}|Scry 1, then draw a card.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/188_Wisdom of the Sea.jpg" num="188">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G/U</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lost Sanctuary</name>
+			<text>When Lost Sanctuary enters, search your library for a basic land card, put it into your hand, then shuffle.
+Whenever you cast a spell with attune, you may sacrifice Lost Sanctuary. If you do, you gain 3 life.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/138_Lost Sanctuary.jpg" num="138">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Iriatu Explorer</name>
+			<text>When Iriatu Explorer enters, conjure a duplicate of target land you control into your hand.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/132_Iriatu Explorer.jpg" num="132">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deep-Jungle Bear</name>
+			<text>Landfall — Whenever a land enters under your control, put a +1/+1 counter on Deep-Jungle Bear.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/127_Deep-Jungle Bear.jpg" num="127">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bear</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ruins of Decay</name>
+			<text>Mill three cards, then put a +1/+1 counter on target creature you control for each land card in your graveyard.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/142_Ruins of Decay.jpg" num="142">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dark Forest Surveyor</name>
+			<text>When Dark Forest Surveyor enters or attacks, mill two cards.
+{2}{G}, Sacrifice Dark Forest Surveyor: Return up to three other creature or land cards from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/126_Dark Forest Surveyor.jpg" num="126">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aenir Expedition</name>
+			<text>Whenever you create a token for the first time each turn, you may conjure a card named New Recruit into your hand. (They&apos;re 2/1 Human Warrior Allies that cost {W})</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/118_Aenir Expedition.jpg" num="118">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Last Watch of Alanar</name>
+			<text>When Last Watch of Alanar enters, put a +1/+1 counter on each creature you control. They gain vigilance until end of turn.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/135_Last Watch of Alanar.jpg" num="135">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scout of Jhal</name>
+			<text>Attune (Add text based on basic land types among different lands you control)
+When Scout of Jhal enters, choose a basic land type.
+{G}{G}{G}| Lands you control are the chosen type in addition to their other types.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/144_Scout of Jhal.jpg" num="144">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Iriatu Healer</name>
+			<text>Attune (Add text based on basic land types among different lands you control)
+{G}{W}|Lifelink
+{U}{U}|When Iriatu Healer enters, draw a card.
+{R}{R}|Landfall — Whenever a land enters under your control, Iriatu Healer gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/133_Iriatu Healer.jpg" num="133">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>WURG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lost Forest Relic</name>
+			<text>When Lost Forest Relic enters, search your library for a basic land card, put it into your hand, then shuffle.
+{T}: Target land you control becomes the basic land type of your choice until end of turn.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/136_Lost Forest Relic.jpg" num="136">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dark Forest Fighter</name>
+			<text>Landfall — Whenever a land enters under your control, target creature you control gets +1/+1 and gains trample until end of turn.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/125_Dark Forest Fighter.jpg" num="125">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jungle Scout</name>
+			<text>Whenever Jungle Scout or another nontoken Scout you control enters, create a 1/1 green Scout creature token.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/134_Jungle Scout.jpg" num="134">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Recruit Trainer</name>
+			<text>Creatures you control named New Recruit get +1/+1.
+{3}, {T}: Conjure a card named New Recruit into your hand. (They&apos;re 2/1 Human Warrior Allies that cost {W})</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/20_Recruit Trainer.jpg" num="20">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Armored Windblade</name>
+			<text>First strike
+Blight {1}{W} (You can cast this from your graveyard transformed for {1}{W}. If you do, it enters under an opponent&apos;s control. Exile it if it would leave the battlefield or not resolve.)
+---
+(Back): Banishing Winds</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/7_Armored Windblade_front.jpg" num="7a">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Banishing Winds</related>
+		</card>
+		<card>
+			<name>Banishing Winds</name>
+			<text>When Banishing Winds enters, exile another target nonland permanent you control until Banishing Winds leaves the battlefield.
+---
+(Front): Armored Windblade</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/7_Armored Windblade_back.jpg" num="7b">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Armored Windblade</related>
+		</card>
+		<card>
+			<name>Shattered Sword Cleaver</name>
+			<text>When Shattered Sword Cleaver enters, create a 1/1 blue and black Human Warlock creature token with &quot;When this creature dies, surveil 1.&quot; (To surveil 1, look at the top card of your library. You may put it into your graveyard.)
+Blight {5}{W} (You can cast this from your graveyard transformed for {5}{W}. If you do, it enters under an opponent&apos;s control. Exile it if it would leave the battlefield or not resolve.)
+---
+(Back): Recleaving</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/22_Shattered Sword Cleaver_front.jpg" num="22a">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Demon Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Recleaving</related>
+		</card>
+		<card>
+			<name>Recleaving</name>
+			<text>Whenever a creature you control dies, target opponent creates a 1/1 blue and black Human Warlock creature token with &quot;When this creature dies, surveil 1.&quot; (To surveil 1, look at the top card of your library. You may put it into your graveyard.)
+---
+(Front): Shattered Sword Cleaver</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/22_Shattered Sword Cleaver_back.jpg" num="22b">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Shattered Sword Cleaver</related>
+		</card>
+		<card>
+			<name>Dark Dredging</name>
+			<text>When Dark Dredging enters, mill three cards.
+At the beginning of your upkeep, conjure a duplicate of target card in your graveyard into your graveyard and library, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/163_Dark Dredging.jpg" num="163">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>BB/G</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lit Meteorite</name>
+			<text>Create two 1/1 Ally creature tokens that are all colors.
+Whenever another card leaves your graveyard, you may exile Lit Meteorite from your graveyard, then you gain 2 life.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/17_Lit Meteorite.jpg" num="17">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Thirak Commander</name>
+			<text>Thirak Commander costs {1} less to cast for each creature you control.
+Once each turn, when a creature you control enters, conjure a card named New Recruit into your hand. (They&apos;re 2/1 Human Warrior Allies that cost {W})</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/29_Thirak Commander.jpg" num="29">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>6W</manacost>
+				<cmc>7</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thalur Recruiter</name>
+			<text>Spells you cast named New Recruit cost {W} less to cast.
+When Thalur Recruiter enters, conjure a card named New Recruit into your hand. Creatures you control get +1/+1 until end of turn. (They&apos;re 2/1 Human Warrior Allies that cost {W})</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/28_Thalur Recruiter.jpg" num="28">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dark Thought-Thief</name>
+			<text>Whenever one or more cards leave your graveyard, put a +1/+1 counter on Dark Thought-Thief.
+Blight {2}{W}{UB} (You can cast this from your graveyard transformed for {2}{W}{UB}. If you do, it enters under an opponent&apos;s control. Exile it if it would leave the battlefield or not resolve.)
+---
+(Back): Confluence of Stolen Thoughts</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/11_Dark Thought-Thief_front.jpg" num="11a">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Confluence of Stolen Thoughts</related>
+		</card>
+		<card>
+			<name>Confluence of Stolen Thoughts</name>
+			<text>Whenever a creature you control dies, exile it.
+At the beginning of your upkeep, mill a card for each card you own in exile and each permanent you control but don&apos;t own.
+---
+(Front): Dark Thought-Thief</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/11_Dark Thought-Thief_back.jpg" num="11b">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Dark Thought-Thief</related>
+		</card>
+		<card>
+			<name>Unchained Nightwatcher</name>
+			<text>Whenever another creature you control dies for the first time each turn, create three 1/1 blue and black Warlock creature tokens with &quot;When this creature dies, surveil 1.&quot;
+Blight {4}{W}{W} (You can cast this from your graveyard transformed for {4}{W}{W}. If you do, it enters under an opponent&apos;s control. Exile it if it would leave the battlefield or not resolve.)
+---
+(Back): Nightwatching</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/30_Unchained Nightwatcher_front.jpg" num="30a">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Nightwatching</related>
+		</card>
+		<card>
+			<name>Nightwatching</name>
+			<text>Whenever a nontoken creature enters under your control, choose one—
+• Target opponent creates a copy of that creature, except it has base power and toughness 1/1.
+• Target opponent gains 1 life and draws a card.
+---
+(Front): Unchained Nightwatcher</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/30_Unchained Nightwatcher_back.jpg" num="30b">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Unchained Nightwatcher</related>
+		</card>
+		<card>
+			<name>Beyond the Tower</name>
+			<text>When Beyond the Tower enters, conjure a card named Seek Answers into your hand. (It&apos;s an instant that costs {UR} and has &quot;Acquire a noncreature card&quot;)
+Once each turn, when you conjure a card, draw a card.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/35_Beyond the Tower.jpg" num="35">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Seek the World of Dreams</name>
+			<text>Conjure two cards named Seek Answers into your hand. (They&apos;re instants that costs {UR} and have &quot;Acquire a noncreature card&quot;)
+At the beginning of your end step, if you cast a sorcery spell each turn, return Seek the World of Dreams from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/182_Seek the World of Dreams.jpg" num="182">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU/R</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dreams of Color</name>
+			<text>Attune (Add text based on basic land types among different lands you control)
+Counter target spell unless its controller pays {1} for each land type among lands you control.
+{G}{G}|You gain 3 life.
+{U}{U}{U}{U}{G}{G}|Scry 1, then draw a card.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/40_Dreams of Color.jpg" num="40">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Corrupter of Magic</name>
+			<text>Once each turn, when another Warlock enters under your control, draw a card.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/36_Corrupter of Magic.jpg" num="36">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Servant to Magius</name>
+			<text>When Servant to Magius enters, return up to one target creature to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/53_Servant to Magius.jpg" num="53">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shattered Sword Duplicator</name>
+			<text>When Shattered Sword Duplicator enters, you may reveal a noncreature card from your hand. If you do, you may conjure a duplicate of it into your hand.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/54_Shattered Sword Duplicator.jpg" num="54">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dark Summoner</name>
+			<text>When Dark Summoner enters, return target instant or sorcery card from your graveyard to your hand.
+Blight {2}{UB}{UB} (You can cast this from your graveyard transformed for {2}{UB}{UB}. If you do, it enters under an opponent&apos;s control. Exile it if it would leave the battlefield or not resolve.)
+---
+(Back): Mangled Summoning</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/37_Dark Summoner_front.jpg" num="37a">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Mangled Summoning</related>
+		</card>
+		<card>
+			<name>Mangled Summoning</name>
+			<text>Whenever you cast a noncreature spell, choose one—
+• You lose 2 life.
+• Discard a card.
+---
+(Front): Dark Summoner</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/37_Dark Summoner_back.jpg" num="37b">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Dark Summoner</related>
+		</card>
+		<card>
+			<name>Adaptive Mage</name>
+			<text>Discard a card: Lands you control become Plains in addition to their other types until end of turn if that card is white. The same is true with Islands if the card is blue, Swamps if the card is black, Mountains if the card is red, and Forests if the card is green. Activate only once each turn.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/31_Adaptive Mage.jpg" num="31">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Oracle of Wisps</name>
+			<text>When Oracle of Wisps enters, draw X cards, where X is the number of Warlocks you control.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/49_Oracle of Wisps.jpg" num="49">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shattered Sword Assassin</name>
+			<text>Whenever Shattered Sword Assassin blocks or becomes blocked, it deals damage to blocked or blocking creature equal to its power.
+Blight {3}{B}{B} (You can cast this from your graveyard transformed for {3}{B}{B}. If you do, it enters under an opponent&apos;s control. Exile it if it would leave the battlefield or not resolve.)
+---
+(Back): Assassin&apos;s Traps</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/78_Shattered Sword Assassin_front.jpg" num="78a">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Demon Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Assassin&apos;s Traps</related>
+		</card>
+		<card>
+			<name>Assassin&apos;s Traps</name>
+			<text>Whenever a creature you control blocks or becomes blocked, the creature blocked or blocking it deals damage equal to its power to the creature you control.
+---
+(Front): Shattered Sword Assassin</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/78_Shattered Sword Assassin_back.jpg" num="78b">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Shattered Sword Assassin</related>
+		</card>
+		<card>
+			<name>Destruction Circle</name>
+			<text>Destroy target creature. Acquire a card with its mana value. (Reveal cards from the top of your library until you reveal a card with its mana value.. Put that card into your hand and the rest on the bottom of your library in a random order.)</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/68_Destruction Circle.jpg" num="68">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cosmic Manipulator</name>
+			<text>Whenever Cosmic Manipulator or another Warlock with mana value 2 or greater enters under your control, choose one—
+ • Conjure a card named Shattered Sword Warlock into your hand. (They&apos;re 0/1 Warlocks that cost {B} that give each other +1/+1.)
+• Create a 1/1 blue and black Warlock creature token with &quot;When this creature dies, surveil 1&quot; (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/63_Cosmic Manipulator.jpg" num="63">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Horror of the Bog</name>
+			<text>When Horror of the Bog enters, you may sacrifice a creature. If you do, you draw 2 cards and lose 2 life.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/70_Horror of the Bog.jpg" num="70">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shadow Duplication</name>
+			<text>Conjure two duplicates of target card in your graveyard into your graveyard.
+You draw a card and lose 1 life.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/77_Shadow Duplication.jpg" num="77">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Western Army Commander</name>
+			<text>When Western Army Commander enters, create three 1/1 blue and black Warlock creature tokens with &quot;When this creature dies, surveil 1.&quot; (To surveil 1, look at the top card of your library. You may put it into your graveyard.)
+Sacrifice a creature: Warlocks and Demons you control get +1/+1 until end of turn. Activate only once each turn.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/87_Western Army Commander.jpg" num="87">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lost Crypt</name>
+			<text>At the beginning of your upkeep, exile up to one target card from your graveyard.
+{1}{B}, {T}, Put a card exiled with Lost Crypt into its owner&apos;s graveyard: Conjure three duplicates of that card into your library, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/73_Lost Crypt.jpg" num="73">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Angel of Darkened Faith</name>
+			<text>Whenever one or more cards leave your graveyard, creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/150_Angel of Darkened Faith.jpg" num="150">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW/B</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shattered Sword Brainwasher</name>
+			<text>Opponents can&apos;t gain control of permanents you own.
+{B}, Pay 3 life: Target creature you control gains menace until end of turn.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/79_Shattered Sword Brainwasher.jpg" num="79">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Arid Attacker</name>
+			<text>Whenever Arid Attacker dies, you may sacrifice a creature. When you do, it deals 2 damage to any target.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/91_Arid Attacker.jpg" num="91">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rage of Fiery Darkness</name>
+			<text>As an additional cost to cast this spell, you may sacrifice a creature.
+Creatures you control get +2/+0 until end of turn. If you paid Rage of Fiery Darkness&apos;s additional cost, creatures you control get an additional +1/+1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/111_Rage of Fiery Darkness.jpg" num="111">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Altar of Lost Fire</name>
+			<text>Damage can&apos;t be prevented.
+{T}: Sacrifice a creature: Altar of Lost Fire deals 2 damage to each opponent.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/90_Altar of Lost Fire.jpg" num="90">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Firelight Duelist</name>
+			<text>When Firelight Duelist enters, you may sacrifice a creature. If you do, exile the top two cards of your library. You may play them until the end of your next turn.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/101_Firelight Duelist.jpg" num="101">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Arid Forest Venturer</name>
+			<text>Attune (Add text based on basic land types among different lands you control)
+{W}{G}|Vigilance
+{G}{G}{R}{R}|Whenever Arid Forest Venturer attacks or blocks, discard a card, then draw a card.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/92_Arid Forest Venturer.jpg" num="92">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Conjurer of Lost Joy</name>
+			<text>Whenever you conjure one or more cards, put a +1/+1 counter on Conjurer of Lost Joy. If at least one was named New Recruit, create a 1/1 Ally creature token that&apos;s all colors. If at least one was named Seek Answers, scry 2.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/97_Conjurer of Lost Joy.jpg" num="97">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Irkian Flagbearer</name>
+			<text>When Irkian Flagbearer enters, it deals 2 damage to each player.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/103_Irkian Flagbearer.jpg" num="103">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Desert Admiral</name>
+			<text>Menace
+Landfall — Whenever a land enters under your control, Desert Admiral deals 1 damage to any target.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/99_Desert Admiral.jpg" num="99">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shattered Sword Punisher</name>
+			<text>When Shattered Sword Punisher dies, acquire a red card. (Reveal cards from the top of your library until you reveal a red card. Put that card into your hand and the rest on the bottom of your library in a random order.)</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/112_Shattered Sword Punisher.jpg" num="112">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Warlock Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>River Scout</name>
+			<text>When River Scout enters, acquire a Scout card. (Reveal cards from the top of your library until you reveal a Scout card. Put that card into your hand and the rest on the bottom of your library in a random order.)
+Whenever a Scout enters under your control, scry 1.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/179_River Scout.jpg" num="179">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>GG/U</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Undiscovered Depths Scout</name>
+			<text>Landfall — Whenever a land enters under your control, mill a card.
+{2}{G}, {T}: Return target land card from your graveyard to the battlefield tapped.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/146_Undiscovered Depths Scout.jpg" num="146">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reclaimer of Aenir</name>
+			<text>When Reclaimer of Aenir enters, you may return target creature or land card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/141_Reclaimer of Aenir.jpg" num="141">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Marsh Explorer</name>
+			<text>When Marsh Explorer enters, draw a card.
+Whenever you cast a spell with attune, you may pay {1}{G}. If you do, conjure a duplicate of Marsh Explorer into your hand.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/139_Marsh Explorer.jpg" num="139">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related>Marsh Explorer</reverse-related>
+		</card>
+		<card>
+			<name>Alanar Forest Fighter</name>
+			<text>Other creatures you control get +1/+1.
+Whenever Alanar Forest Fighter attacks, create a 1/1 green Scout creature token.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/119_Alanar Forest Fighter.jpg" num="119">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Druid of Iriatu</name>
+			<text>When Druid of Iriatu enters, choose a basic land type, then create a 1/1 green Scout creature token for each land you control with that type.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/128_Druid of Iriatu.jpg" num="128">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blade of Verdant Exploration</name>
+			<text>Landfall — Whenever a land enters under your control, put a +1/+1 counter on equipped creature.
+Whenever equipped creature attacks, if it has power 4 or greater, draw a card.
+Equip {2}</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/121_Blade of Verdant Exploration.jpg" num="121">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Scout of Attunement</name>
+			<text>Attune (Add text based on basic land types among different lands you control)
+{G}{G}{U}|When Scout of Attunement enters, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/143_Scout of Attunement.jpg" num="143">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cloud Invocation</name>
+			<text>Attune (Add text based on basic land types among different lands you control)
+Lands you control are Forests in addition to their other types.
+{R}{R}|Creatures you control have haste.
+{U}{U}|Creatures you control have flying.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/124_Cloud Invocation.jpg" num="124">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>URG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sunrise Savant</name>
+			<text>Attune (Add text based on basic land types among different lands you control)
+{R}{W}|Vigilance
+{R}{R}{R}|Haste, First strike
+{W}{W}{W}|When Sunrise Savant enters, you gain 3 life and draw a card.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/27_Sunrise Savant.jpg" num="27">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mind Healer</name>
+			<text>Whenever a creature enters under your control, you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/18_Mind Healer.jpg" num="18">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shattered Sword Defender</name>
+			<text>Blight {3}{W} (You can cast this from your graveyard transformed for {3}{W}. If you do, it enters under an opponent&apos;s control. Exile it if it would leave the battlefield or not resolve.)
+---
+(Back): Depths of Jhal</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/23_Shattered Sword Defender_front.jpg" num="23a">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Depths of Jhal</related>
+		</card>
+		<card>
+			<name>Depths of Jhal</name>
+			<text>At the beginning of your upkeep, target opponent creates a 1/1 blue and black Warlock creature token with &quot;When this creature dies, surveil 1.&quot; (To surveil 1, look at the top card of your library. You may put it into your graveyard.)
+---
+(Front): Shattered Sword Defender</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/23_Shattered Sword Defender_back.jpg" num="23b">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Shattered Sword Defender</related>
+		</card>
+		<card>
+			<name>Angel of Pure Faith</name>
+			<text>Flying, Vigilance
+Allies you control have lifelink.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/5_Angel of Pure Faith.jpg" num="5">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Journey&apos;s End</name>
+			<text>Put target creature or planeswalker on the bottom of its owner&apos;s library. Its controller may scry 1.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/16_Journey&apos;s End.jpg" num="16">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Allied Reinforcements</name>
+			<text>Once each turn, when one or more tokens enter under your control, draw a card.
+Whenever one or more nontoken creatures you control attack, create a tapped and attacking 1/1 Ally creature token that&apos;s all colors.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/2_Allied Reinforcements.jpg" num="2">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Icelord</name>
+			<text>Cards can&apos;t be conjured.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/42_The Icelord.jpg" num="42">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wielder of Stars</name>
+			<text>As an additional cost to cast this spell, discard up to three cards. This spell costs {2} less to cast for each card discarded this way.
+When Wielder of Stars enters or attacks, acquire an instant or sorcery card. (Reveal cards from the top of your library until you reveal an instant or sorcery card. Put that card into your hand and the rest on the bottom of your library in a random order.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/57_Wielder of Stars.jpg" num="57">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>8U</manacost>
+				<cmc>9</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kanil, Night Rider of Ice</name>
+			<text>Kanil, Night Rider of Ice can&apos;t be blocked.
+Whenever Kanil, Night Rider of Ice deals combat damage to a player, return up to one creature you control to its owner&apos;s hand.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/44_Kanil, Night Rider of Ice.jpg" num="44">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Seek Prosperity</name>
+			<text>Seek Prosperity costs {2} less to cast if you&apos;ve conjured a card this turn.
+Acquire X noncreature cards. (Reveal cards from the top of your library until you reveal X noncreature cards. Put those cards into your hand and the rest on the bottom of your library in a random order.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/52_Seek Prosperity.jpg" num="52">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XUUU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Whimsical Spellcaster</name>
+			<text>Whenever you draw a card, reveal the top card of your library. If it&apos;s an instant or sorcery card, put it into your hand.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/56_Whimsical Spellcaster.jpg" num="56">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wizard of Aenir</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Noncreature spells you cast have attune and &quot;{U}{U}{U}{R}{R}{R}|Draw a card.&quot;</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/59_Wizard of Aenir.jpg" num="59">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Warlock of Shadow Sorcery</name>
+			<text>When Warlock of Shadow Sorcery dies, you draw a card and lose 1 life.
+Blight {B} (You can cast this from your graveyard transformed for {B}. If you do, it enters under an opponent&apos;s control. Exile it if it would leave the battlefield or not resolve.)
+---
+(Back): Warlock of Demonic Darkness</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/85_Warlock of Shadow Sorcery_front.jpg" num="85a">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Warlock of Demonic Darkness</related>
+		</card>
+		<card>
+			<name>Warlock of Demonic Darkness</name>
+			<text>At the beginning of your upkeep, Warlock of Demonic Darkness deals 2 damage to you.
+---
+(Front): Warlock of Shadow Sorcery</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/85_Warlock of Shadow Sorcery_back.jpg" num="85b">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Demon Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Warlock of Shadow Sorcery</related>
+		</card>
+		<card>
+			<name>Demonic Studies</name>
+			<text>Search your library for a Demon or Warlock card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/67_Demonic Studies.jpg" num="67">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Grand Warlock Talnir</name>
+			<text>This spell costs {1} less to cast for each Warlock you control.
+When Grand Warlock Talnir enters, conjure three cards named Shattered Sword Warlock onto the battlefield under your control. (They&apos;re 0/1 Warlocks that cost {B} that give each other +1/+1.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/69_Grand Warlock Talnir.jpg" num="69">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demon Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>6BB</manacost>
+				<cmc>8</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deal With Ravens</name>
+			<text>When Deal With Ravens enters, you draw a card and lose 1 life.
+Whenever a creature dies, if you controlled it, target opponent loses 1 life. If you didn&apos;t, you lose 1 life.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/65_Deal With Ravens.jpg" num="65">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Villainous Fiend</name>
+			<text>Whenever one or more creatures die under an opponents control for the first time each turn, you draw a card and lose 1 life.
+Blight {1}{B}{B}{B} (You can cast this from your graveyard transformed for {1}{B}{B}{B}. If you do, it enters under an opponent&apos;s control. Exile it if it would leave the battlefield or not resolve.)
+---
+(Back): Villainy of Shadows</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/84_Villainous Fiend_front.jpg" num="84a">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Demon Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>BBB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Villainy of Shadows</related>
+		</card>
+		<card>
+			<name>Villainy of Shadows</name>
+			<text>Whenever you draw a card, Villainy of Shadows deals 2 damage to you and each opponent gains 2 life.
+---
+(Front): Villainous Fiend</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/84_Villainous Fiend_back.jpg" num="84b">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Villainous Fiend</related>
+		</card>
+		<card>
+			<name>Demonic Bloodlord</name>
+			<text>Lifelink
+Other Demons you control get +1/+1 and have lifelink.
+Whenever you gain life, target opponent loses 1 life.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/66_Demonic Bloodlord.jpg" num="66">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloodstained Moon</name>
+			<text>Lands are mountains in addition to their other types.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/94_Bloodstained Moon.jpg" num="94">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lava Lance</name>
+			<text>Attune (Add text based on basic land types among different lands you control)
+{R}|Lava Lance deals 3 damage to target creature.
+{R}{R}{R}|And 3 damage to its controller.
+{R}{R}{R}{R}{R}|And 2 damage to each other creature they control.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/106_Lava Lance.jpg" num="106">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Barbarian of the West</name>
+			<text>Trample, Haste
+Warriors you control have trample and haste.
+When Barbarian of the West enters, it deals 2 damage to you.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/93_Barbarian of the West.jpg" num="93">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Barbarian Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Southern Fireblade</name>
+			<text>When Southern Fireblade enters, conjure a card named New Recruit into your hand. (They&apos;re 2/1 Human Warrior Allies that cost {W})</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/113_Southern Fireblade.jpg" num="113">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nebula&apos;s Impulse</name>
+			<text>Exile the top X cards of your library, where X one plus is the number of cards named Nebula&apos;s Impulse in your graveyard. You may play them this turn.
+Conjure three duplicates of Nebula&apos;s Impulse and shuffle them into your deck.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/108_Nebula&apos;s Impulse.jpg" num="108">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse-related>Nebula&apos;s Impulse</reverse-related>
+		</card>
+		<card>
+			<name>Demonic Protector</name>
+			<text>If you would lose the game, instead exile Demonic Protector, each opponent loses 3 life, and you gain 3 life.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/165_Demonic Protector.jpg" num="165">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Intrepid Rootwalla</name>
+			<text>Attune (Add text based on basic land types among different lands you control)
+When Intrepid Rootwalla enters, acquire a land card.
+{R}{G}{W}{U}|Intrepid Rootwalla has base power and toughness 0/1 and has &quot;{0}: This creature gets +2/+2 until end of turn. Activate only once each turn.&quot;</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/131_Intrepid Rootwalla.jpg" num="131">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>WURG</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chromatic Attunement</name>
+			<text>Lands you control are each basic land type in addition to their other types.
+When Chromatic Attunement enters, acquire two land cards. (Reveal cards from the top of your library until you reveal two land cards. Put that card into your hand and the rest on the bottom of your library in a random order.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/123_Chromatic Attunement.jpg" num="123">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Shifting Roots</name>
+			<text>You may play two additional lands each turn.
+Whenever you play a land, if it doesn&apos;t have a land type or it shares a land type with a land you control, sacrifice a land.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/145_Shifting Roots.jpg" num="145">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Forest Giant</name>
+			<text>Attune (Add text based on basic land types among different lands you control)
+{G}{G}{G}{G}|Trample.
+{G}{G}{G}{G}{G}{G}|Other creatures you control get +2/+2 and have trample. 
+{G}{G}{G}{G}{G}{G}{G}{G}|Creatures you control get +2/+2.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/129_Forest Giant.jpg" num="129">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mountaineer Scout</name>
+			<text>Noncreature spells cost {1} more to cast.
+When Mountaineer Scout enters, you may destroy target noncreature permanent.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/140_Mountaineer Scout.jpg" num="140">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lost Forest Shrine</name>
+			<text>Attune (Add text based on basic land types among different lands you control)
+When Lost Forest Shrine enters, search your library for a basic land card, put it into your hand, then shuffle.
+{G}{G}{U}{U}|At the beginning of your end step, you gain 3 life. You may put a land card from your hand onto the battlefield.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/137_Lost Forest Shrine.jpg" num="137">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Battle of the Tower</name>
+			<text>When Battle of the Tower enters, acquire an Ally card. (Reveal cards from the top of your library until you reveal an Ally card. Put that card into your hand and the rest on the bottom of your library in a random order.)
+Whenever an Ally or Warrior enters under your control, creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHS-files/img/8_Battle of the Tower.jpg" num="8">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sacred Emissary</name>
+			<text>Sacred Emissary gets +2/+2 and has first strike as long as you control an Angel.
+If you would draw a card, you may instead search your library for a Angel card, reveal it, put it into your hand, then shuffle. You lose life equal to its mana value.</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHS-files/img/21_Sacred Emissary.jpg" num="21">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>WW</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lost From the World</name>
+			<text>Return each nonland permanent to its owner&apos;s hand. Take an extra turn after this one. Exile Lost From the World.</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHS-files/img/47_Lost From the World.jpg" num="47">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4UUUU</manacost>
+				<cmc>8</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Zirlir, Prodigious Decipherer</name>
+			<text>Whenever Zirlir, Prodigious Decipherer deals combat damage to a player, if you control three or more artifacts, draw a card.
+Artifact spells you cast have attune and &quot;{U}{G}|When this enters, create a 1/1 colorless Servo creature token.&quot;</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHS-files/img/60_Zirlir, Prodigious Decipherer.jpg" num="60">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Profane Emissary</name>
+			<text>Profane Emissary gets +2/+2 and has lifelink as long as you control a Demon.
+If you would draw a card, you may instead search your library for a Demon card, reveal it, put it into your hand, then shuffle. You lose life equal to that card&apos;s mana value.</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHS-files/img/75_Profane Emissary.jpg" num="75">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jklamdiel, Xirok&apos;s Chosen</name>
+			<text>Whenever a Demon enters under your control, target opponent loses life equal to its power.
+Whenever a Demon dies under your control, you draw a card and lose 1 life.</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHS-files/img/72_Jklamdiel, Xirok&apos;s Chosen.jpg" num="72">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Night Riders&apos; Bane</name>
+			<text>[+2]: Target creature must attack a Winmeari planeswalker next turn if able.
+[0]: The Night Riders&apos; Bane becomes a 4/4 Angel creature with flying and menace until end of turn. (She doesn&apos;t lose loyalty while not a planeswalker)
+[-3]: The Night Riders&apos; Bane deals 3 damage to any target.</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHS-files/img/110_The Night Riders&apos; Bane.jpg" num="110">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Winmeari</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Drorix&apos;s Sword</name>
+			<text>When Drorix&apos;s Sword enters, exile target creature until it leaves the battlefield.
+Equipped creature gets +X/+0, where X is the exiled creature&apos;s power.
+Equip {3}</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHS-files/img/191_Drorix&apos;s Sword.jpg" num="191">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Verdant Reclamation</name>
+			<text>For each color, return of a land that could produce that color of mana from your graveyard to the battlefield tapped.</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHS-files/img/147_Verdant Reclamation.jpg" num="147">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mind Thief</name>
+			<text>Spells you cast from your graveyard cost {1} less to cast.
+Whenever you cast a spell from your graveyard, you gain 2 life.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/174_Mind Thief.jpg" num="174">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Corrupted Ritualist</name>
+			<text>Whenever a nontoken Warlock you control deals combat damage to a player, create a 1/1 blue and black Warlock creature token with &quot;When this creature dies, surveil 1&quot; (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/160_Corrupted Ritualist.jpg" num="160">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Corrupter of Nature</name>
+			<text>Haste
+{T}, Sacrifice a creature: Target player discards a card and loses 1 life. You draw a card and gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/161_Corrupter of Nature.jpg" num="161">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3BR</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Autumn Mage</name>
+			<text>Autumn Mage can&apos;t be blocked by creatures with lesser power.
+Landfall — Whenever a land enters under your control, put a +1/+1 counter on Autumn Mage.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/153_Autumn Mage.jpg" num="153">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Armored Recruiter</name>
+			<text>Whenever Armored Recruiter enters, conjure a card named New Recruit into your hand. (They&apos;re 2/1 Human Warrior Allies that cost {W})
+Whenever you create a token or cast a spell named New Recruit, you may draw a card. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/151_Armored Recruiter.jpg" num="151">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ironrun Soldier</name>
+			<text>Once each turn, when a card leaves your graveyard, each opponent loses 2 life and you gain 2 life.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/173_Ironrun Soldier.jpg" num="173">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Volcano Sage</name>
+			<text>When Volcano Sage enters, conjure a card named Seek Answers into your hand. (It&apos;s an instant that costs {UR} and has &quot;Acquire a noncreature card&quot;)
+Whenever you conjure one or more cards, Volcano Sage deals 1 damage to target opponent.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/187_Volcano Sage.jpg" num="187">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Corrupted Forester</name>
+			<text>When Corrupted Forester enters or attacks, mill three cards.
+{B}{G}, Exile a card from your graveyard: Return a card that shares a type with that card from your graveyard to your hand. Activate only once during each of your turns.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/159_Corrupted Forester.jpg" num="159">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Allied Commander</name>
+			<text>Attacking Warriors and Allies you control have first strike.
+Whenever a nontoken Warrior enters under your control, create a 1/1 Ally creature token that&apos;s all colors.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/149_Allied Commander.jpg" num="149">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Alanar Water Mage</name>
+			<text>Attune (Add text based on basic land types among different lands you control)
+When Alanar Water Mage enters, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+{G}{G}{U}{U}|Whenever you cast a spell with attune, you gain 2 life and draw a card.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/148_Alanar Water Mage.jpg" num="148">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG/UU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cave of Ice</name>
+			<text>When Cave of Ice enters, conjure two cards named Seek Answers into your hand. (They&apos;re instants that cost {UR} and have &quot;Acquire a noncreature card.&quot;)
+Whenever you cast an instant or sorcery spell, scry 1, then tap up to one target creature.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/157_Cave of Ice.jpg" num="157">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Circle of Ash</name>
+			<text>When The Circle of Ash enters, you may sacrifice a creature. If you do, destroy target creature.
+Warlocks and Demons you control get +1/+1.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/158_The Circle of Ash.jpg" num="158">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Erki, Blade of Darkness</name>
+			<text>When Erki, Blade of Darkness enters or attacks, if you sacrificed two or more permanents this turn, target opponent sacrifices a creature and you draw a card.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/167_Erki, Blade of Darkness.jpg" num="167">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demon Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Attuned Landscape</name>
+			<text>When Attuned Landscape enters, search your library for a card with attune, put it into your hand, then shuffle.
+Whenever you cast a spell with attune, you may search your library for a basic land card, put it into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/152_Attuned Landscape.jpg" num="152">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Unending Reinforcements</name>
+			<text>Other creatures you control named Unending Reinforcements get +1/+1.
+Whenever you attack with one or more Allies, you may conjure three duplicates of Unending Reinforcements and shuffle them into your library.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/184_Unending Reinforcements.jpg" num="184">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>G/W</manacost>
+				<cmc>1</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related>Unending Reinforcements</reverse-related>
+		</card>
+		<card>
+			<name>Return the Sword</name>
+			<text>Return target creature from your graveyard to the battlefield. Sacrifice it.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/178_Return the Sword.jpg" num="178">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Relive Rage</name>
+			<text>Reveal your hand. For each card in it, conjure a duplicate of it and shuffle it into your main library.
+Draw a card.
+Flashback—{UR}, Discard a card. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/177_Relive Rage.jpg" num="177">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Recoiling Regrowth</name>
+			<text>Return up to two target land cards from your graveyard to the battlefield tapped.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/176_Recoiling Regrowth.jpg" num="176">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Raziq, Desert Hero</name>
+			<text>Allies and Warriors you control get +1/+0. If there are 5 or more eminence counters on Raziq, Desert Hero, they get an additional +1/+1.
+Whenever a creature you control attacks, put an eminence counter on Raziq.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/175_Raziq, Desert Hero.jpg" num="175">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Verdant Discovery</name>
+			<text>Attune (Add text based on basic land types among different lands you control)
+You may put a land card from your hand onto the battlefield tapped.
+ {G}{G}{GU}{U}{U}| Acquire a card with attune. (Reveal cards from the top of your library until you reveal a card with attune.. Put that card into your hand and the rest on the bottom of your library in a random order.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/186_Verdant Discovery.jpg" num="186">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G/U</manacost>
+				<cmc>1</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Attuned Spellcharger</name>
+			<text>Attune (Add text based on basic land types among different lands you control)
+{U}|Instant spells you cast cost {1} less to cast.
+{R}|Sorcery spells you cast cost {1} less to cast.
+{G}|Whenever you cast a spell, scry 1.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/190_Attuned Spellcharger.jpg" num="190">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>URG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Stone of Darkness</name>
+			<text>Once during each of your turns, when a card is put into your graveyard from anywhere other than the battlefield, each opponent loses 2 life.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/193_Stone of Darkness.jpg" num="193">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gate to the Tower</name>
+			<text>When Gate to the Tower enters, create a 1/1 blue and black Warlock creature token with &quot;When this creature dies, surveil 1 (Look at the top card of your library. You may put it into your graveyard.)
+{1}{B}, {T}, Sacrifice a Demon or Warlock: Target player loses 2 life.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/192_Gate to the Tower.jpg" num="192">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Altar of Lost Colors</name>
+			<text>As Altar of Lost Colors enters, choose a basic land type. Lands you control are that type in addition to their other types.
+{T}, Sacrifice a creature: Acquire a card with attune. (Reveal cards from the top of your library until you reveal a card with attune.. Put that card into your hand and the rest on the bottom of your library in a random order.)</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/120_Altar of Lost Colors.jpg" num="120">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Altar of Lost Light</name>
+			<text>Creature tokens you control get +1/+1.
+{T}: Sacrifice a creature: You gain 3 life and draw a card.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/4_Altar of Lost Light.jpg" num="4">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Altar of Lost Curiosity</name>
+			<text>When Altar of Lost Curiosity enters, mill two cards, then draw two cards.
+{T}, Sacrifice a creature: Remove or put a time counter on target permanent.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/33_Altar of Lost Curiosity.jpg" num="33">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Evolving Wilds</name>
+			<text>{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/195_Evolving Wilds.jpg" num="195">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Marraq</name>
+			<text>{T}: Add {C}.
+{1}, {T}, Sacrifice Marraq: Create a 1/1 Ally creature token that&apos;s all colors.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/200_Marraq.jpg" num="200">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Desert</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Lephyx&apos;s Crystal</name>
+			<text>{T}: Add {C}.
+{T}: Add one mana of any color among Warlock, Wizard, instant, or sorcery spells you&apos;ve cast this turn.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/199_Lephyx&apos;s Crystal.jpg" num="199">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Verdant Cliffside</name>
+			<text>Attune (Add text based on basic land types among different lands you control)
+{T}: Add {C}.
+{U}{R}{G}|{T}: Add one mana of any color.
+{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}|When Verdant Cliffside enters, you win the game.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/201_Verdant Cliffside.jpg" num="201">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>The Ice Wastes</name>
+			<text>{T}: Add {W} or {U}.
+The Ice Wastes enters tapped. When it does, tap up to one target creature.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/196_The Ice Wastes.jpg" num="196">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Iriatu Falls</name>
+			<text>{T}: Add {C}.
+{1}: Iriatu Falls becomes a Plains, Island, Swamp, Mountain, and Forest until end of turn. Activate only once each turn.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHS-files/img/197_Iriatu Falls.jpg" num="197">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Kiral, Desert Village</name>
+			<text>Kiral, Desert Village enters the battlefield tapped.
+{T}: Add {R} or {W}.
+{1}{R}{W}, {T}, Sacrifice Kiral, Desert Village: Search your library for a legendary creature card with mana value 2 or less, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/198_Kiral, Desert Village.jpg" num="198">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land — Desert</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>The Corrupted Lands</name>
+			<text>{T}: Add {C}.
+{2}, {T}, Sacrifice The Corrupted Lands: Search your library for a land card that could produce {C}, put it onto the battlefield, then shuffle.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/194_The Corrupted Lands.jpg" num="194">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Valley of Paradise</name>
+			<text>Once each turn, when a land enters the battlefield under your control, acquire a nonland card. (Reveal cards from the top of your library until you reveal a nonland card. Put that card into your hand and the rest on the bottom of your library in a random order.)
+Once each turn, when a nonland permanent enters the battlefield under your control, acquire a land card.</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHS-files/img/185_Valley of Paradise.jpg" num="185">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GGUU</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Akali Lava Giant</name>
+			<text>Attune (Add text based on basic land types among different lands you control)
+{R}{R}{R}|Trample, Protection from Blue
+{R}{R}{R}{R}|Whenever Akali Lava Giant enters or attacks, it deals 2 damage to any target.
+{R}{R}{R}{R}{R}{R}|Creatures you control get +2/+0.</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHS-files/img/89_Akali Lava Giant.jpg" num="89">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Xirok, the Shattered One</name>
+			<text>Ward—Discard two cards, Sacrifice two permanents.
+Whenever a creature dies for the first time each turn, return it to the battlefield under your control. Put a finality counter on it. It&apos;s a Warlock in addition to its other types.</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHS-files/img/189_Xirok, the Shattered One.jpg" num="189">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demon Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>4UBB</manacost>
+				<cmc>7</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Galranok, Oracle of Magic</name>
+			<text>Whenever you cast an instant or sorcery spell, surveil 1.
+Whenever a creature you control dies, you may pay {U}{B}. if you do, exile Galranok, then return him to the battlefield transformed.
+---
+(Back): Magius Abras, Oracle of Death</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHS-files/img/169_Galranok, Oracle of Magic_front.jpg" num="169a">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Magius Abras, Oracle of Death</related>
+		</card>
+		<card>
+			<name>Magius Abras, Oracle of Death</name>
+			<text>Whenever a creature you control dies, mill two cards.
+{2}{U}{B}, Sacrifice a creature: Return target creature from your graveyard to the battlefield. It&apos;s a Horror Warlock.
+---
+(Front): Galranok, Oracle of Magic</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHS-files/img/169_Galranok, Oracle of Magic_back.jpg" num="169b">SHS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Demon Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>UB</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Galranok, Oracle of Magic</related>
+		</card>
+		<card>
+			<name>Ally SHS</name>
+			<text>This creature is all colors.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/2t_Ally.jpg" num="2">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Ally</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRGI</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>Search the Forest</reverse-related>
+			<reverse-related>Head of Recruitment</reverse-related>
+			<reverse-related>Aqiman Charger</reverse-related>
+			<reverse-related>Spearman of the Alliance</reverse-related>
+			<reverse-related>Jungle Adept</reverse-related>
+			<reverse-related>Lit Meteorite</reverse-related>
+			<reverse-related>Conjurer of Lost Joy</reverse-related>
+			<reverse-related>Allied Reinforcements</reverse-related>
+			<reverse-related>Armored Recruiter</reverse-related>
+			<reverse-related>Aliied Commander</reverse-related>
+			<reverse-related>Marraq</reverse-related>
+			<reverse-related>Drorix, Divine Outcast</reverse-related>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/202_Plains.jpg" num="202">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/203_Island.jpg" num="203">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/204_Swamp.jpg" num="204">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/205_Mountain.jpg" num="205">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/206_Forest.jpg" num="206">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Alliance Medic</name>
+			<text>Whenever Alliance Medic or another Ally enters under your control, you gain 2 life.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/1_Alliance Medic.jpg" num="1">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lost Servant</name>
+			<text>Flash
+When Lost Servant enters, conjure a duplicate of target noncreature spell into your hand.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/48_Lost Servant.jpg" num="48">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Call of Answers</name>
+			<text>When Call of Answers enters, conjure a card named Seek Answers into your hand. (It&apos;s an instant that costs {UR} and has &quot;Acquire a noncreature card&quot;)
+Whenever you cast an instant spell, scry 2.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/96_Call of Answers.jpg" num="96">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Drain the Lands</name>
+			<text>This spell costs {1} less to cast for each Warlock you control.
+Counter target spell. Acquire a card that shares a card type with it. (Reveal cards from the top of your library until you reveal a card that shares a card type with it.. Put that card into your hand and the rest on the bottom of your library in a random order.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/39_Drain the Lands.jpg" num="39">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Take Back the Lands</name>
+			<text>This spell costs {1} less to cast for each Warrior and Ally you control.
+Creatures you control get +2/+0 and gain haste until end of turn.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/115_Take Back the Lands.jpg" num="115">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5R</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Brilliant Aurora</name>
+			<text>Attune (Add text based on basic land types among different lands you control)
+{T}: Target land you control becomes the basic land type of your choice in addition to its other types until end of turn.
+{G}{G}{U}{U}{R}|At the beginning of your first main phase, scry 1, then draw a card.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/122_Brilliant Aurora.jpg" num="122">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>URG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Darkness Unchained</name>
+			<text>Destroy target creature. Then discard a card unless there are seven or more cards in your graveyard.
+Flashback—{U}{B}, Discard a card (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/164_Darkness Unchained.jpg" num="164">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Drorix, Divine Outcast</name>
+			<text>[+1]: Create a 1/1 Ally creature token that&apos;s all colors.
+[-1]: Look at the top three cards of your library. You may reveal permanent card from among them and put it into your hand, then put the rest on the bottom of your library in any order.
+[-X]: Exile target creature with mana value X or less until Drorix leaves the battlefield.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/166_Drorix, Divine Outcast.jpg" num="166">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Drorix</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>In Search of Grandeur</name>
+			<text>Once each turn, when you cast a permanent spell, you may cast a permanent spell from your hand with mana value 1 greater than the spell cast without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHS-files/img/130_In Search of Grandeur.jpg" num="130">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Scout SHS</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHS-files/img/1t_Scout.jpg" num="1">SHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Scout</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>Jungle Scout</reverse-related>
+			<reverse-related>Alanar Forest Fighter</reverse-related>
+			<reverse-related>Druid of Iriatu</reverse-related>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="icon" type="image/png" href="/sets/MSY-files/icon.png"/>
-	<link rel="stylesheet" href="/resources/header.css">
+	<link rel="icon" type="image/png" href="../sets/MSY-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
 	<title>MSY visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
 	<style>
 		@font-face {
 			font-family: Beleren;
-			src: url('/resources/beleren.ttf');
+			src: url('../resources/beleren.ttf');
 		}
 		body {
 			font-family: Arial, sans-serif;
@@ -39,19 +42,21 @@
 			position: relative;
 		}
 		.sidebar-h-img {
-			display: none;
-			transform: rotate(90deg);
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
 			position: absolute;
 			left: 10%;
 			top: 10%;
 			width: 85%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.sidebar-img {
 			vertical-align: middle;
 			width: 100%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.close-btn {
-			background: url('/img/close.png') no-repeat;
+			background: url('../img/close.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 10%;
@@ -62,7 +67,7 @@
 			right: 4%;
 		}
 		.close-btn:hover {
-			background: url('/img/close-hover.png') no-repeat;
+			background: url('../img/close-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -83,6 +88,7 @@
 			display: block;
 			visibility: hidden;
 			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
 		}
 		.banner {
 			width: 100%;
@@ -103,9 +109,10 @@
 		.container img {
 			width: 100%;
 			height: auto;
+			border-radius: 3.733% / 2.677%;
 		}
 		.flip-btn {
-			background: url('/img/flip.png') no-repeat;
+			background: url('../img/flip.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 15%;
@@ -119,7 +126,7 @@
 			opacity: 0.5;
 		}
 		.flip-btn:hover {
-			background: url('/img/flip-hover.png') no-repeat;
+			background: url('../img/flip-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -127,12 +134,13 @@
 			background: rgba(23, 23, 23, 0.8);
 			border-radius: 8px;
 			position: absolute;
-			left: 10%;
+			left: 5%;
 			width: fit-content;
+			max-width: 90%;
 			margin: 20px 0;
 			padding: 5px 0;
-			display: flex;
-			flex-direction: column;
+			display: grid;
+			grid-template-columns: 1fr;
 			z-index: 3;
 		}
 		.dropdown .set-bar {
@@ -174,130 +182,146 @@
 	</style>
 </head>
 <body>
-	<img class="preload-hidden" src="/img/dot.png" />
-	<img class="preload-hidden" src="/sets/MSY-files/logo.png" />
-	<img class="preload-hidden" src="/sets/DCO-files/icon.png" />
-		<img class="preload-hidden" src="/sets/DSW-files/icon.png" />
-		<img class="preload-hidden" src="/sets/SHS-files/icon.png" />
-		<img class="preload-hidden" src="/sets/CC01-files/icon.png" />
-		<img class="preload-hidden" src="/sets/MC25-files/icon.png" />
-		<img class="preload-hidden" src="/sets/MSY-files/icon.png" />
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/MSY-files/logo.png" />
+	<img class="preload-hidden" src="../sets/DCO-files/icon.png" />
+		<img class="preload-hidden" src="../sets/DSW-files/icon.png" />
+		<img class="preload-hidden" src="../sets/SHS-files/icon.png" />
+		<img class="preload-hidden" src="../sets/CC01-files/icon.png" />
+		<img class="preload-hidden" src="../sets/MC25-files/icon.png" />
+		<img class="preload-hidden" src="../sets/MSY-files/icon.png" />
 		<div class="header">
 		<div class="search-grid">
-			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
-			<img class="sg-icon" src="/img/search.png">
-			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
-			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
-			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
-			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
 		</div>
 	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
 
-	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
-		<a class="set-bar" href="MSY"><img src="/sets/MSY-files/icon.png">Aanginer MSEM Mystery Community Slots</a>
+		<a class="set-bar" href="../previews/MSY"><img src="../sets/MSY-files/icon.png">Aanginer MSEM Mystery Community Slots</a>
 	
-		<a class="set-bar inactive" href="DCO"><img src="/sets/DCO-files/icon.png">Dazon: Cosmic Outcasts</a>
+		<a class="set-bar inactive" href="../previews/DCO"><img src="../sets/DCO-files/icon.png">Dazon: Cosmic Outcasts</a>
 	
-		<a class="set-bar inactive" href="DSW"><img src="/sets/DSW-files/icon.png">Dazon: Splintered Worlds</a>
+		<a class="set-bar inactive" href="../previews/DSW"><img src="../sets/DSW-files/icon.png">Dazon: Splintered Worlds</a>
 	
-		<a class="set-bar inactive" href="SHS"><img src="/sets/SHS-files/icon.png">A Shattered Sword</a>
+		<a class="set-bar inactive" href="../previews/SHS"><img src="../sets/SHS-files/icon.png">A Shattered Sword</a>
 	
-		<a class="set-bar inactive" href="CC01"><img src="/sets/CC01-files/icon.png">Voyager Card Contest 1 — Aanginer</a>
+		<a class="set-bar inactive" href="../previews/CC01"><img src="../sets/CC01-files/icon.png">Voyager Card Contest 1 — Aanginer</a>
 	
-		<a class="set-bar inactive" href="MC25"><img src="/sets/MC25-files/icon.png">Aaanginer MC25 Submission</a>
+		<a class="set-bar inactive" href="../previews/MC25"><img src="../sets/MC25-files/icon.png">Aaanginer MC25 Submission</a>
 	
 		</div>
 		<div class="banner">
-		<img class="logo" src="/sets/MSY-files/logo.png">
+		<img class="logo" src="../sets/MSY-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img alt="/sets\MSY-files\img\3_Embodiment of Radiance.jpg" id="3_Embodiment of Radiance" data-flag="@X" onclick="openSidebar('3_Embodiment of Radiance',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\8_Embodiment of Stars.jpg" id="8_Embodiment of Stars" data-flag="@X" onclick="openSidebar('8_Embodiment of Stars',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\15_Devoured by the Boundless.jpg" id="15_Devoured by the Boundless" data-flag="@X" onclick="openSidebar('15_Devoured by the Boundless',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\20_Abyssal Bolt.jpg" id="20_Abyssal Bolt" data-flag="@X" onclick="openSidebar('20_Abyssal Bolt',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\26_Deepgrowth Wraith.jpg" id="26_Deepgrowth Wraith" data-flag="@X" onclick="openSidebar('26_Deepgrowth Wraith',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\4_Enlightened Recluse.jpg" id="4_Enlightened Recluse" data-flag="@X" onclick="openSidebar('4_Enlightened Recluse',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\10_Moonlit Wishes.jpg" id="10_Moonlit Wishes" data-flag="@X" onclick="openSidebar('10_Moonlit Wishes',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\16_Embodiment of Fear.jpg" id="16_Embodiment of Fear" data-flag="@X" onclick="openSidebar('16_Embodiment of Fear',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\21_Chained Terror.jpg" id="21_Chained Terror" data-flag="@X" onclick="openSidebar('21_Chained Terror',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\27_Echoing Heartbeats.jpg" id="27_Echoing Heartbeats" data-flag="@X" onclick="openSidebar('27_Echoing Heartbeats',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\5_Light the Paths.jpg" id="5_Light the Paths" data-flag="@X" onclick="openSidebar('5_Light the Paths',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\11_Skywatching.jpg" id="11_Skywatching" data-flag="@X" onclick="openSidebar('11_Skywatching',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\18_Nightfall Voyager.jpg" id="18_Nightfall Voyager" data-flag="@X" onclick="openSidebar('18_Nightfall Voyager',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\22_Divine Inferno.jpg" id="22_Divine Inferno" data-flag="@X" onclick="openSidebar('22_Divine Inferno',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\28_Embodiment of Strength.jpg" id="28_Embodiment of Strength" data-flag="@X" onclick="openSidebar('28_Embodiment of Strength',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\7_Transformation Aurora.jpg" id="7_Transformation Aurora" data-flag="@X" onclick="openSidebar('7_Transformation Aurora',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\12_Starlight Wayfarer.jpg" id="12_Starlight Wayfarer" data-flag="@X" onclick="openSidebar('12_Starlight Wayfarer',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\19_Twilight's Dawn.jpg" id="19_Twilights Dawn" data-flag="@X" onclick="openSidebar('19_Twilights Dawn',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\23_Embodiment of Wrath.jpg" id="23_Embodiment of Wrath" data-flag="@X" onclick="openSidebar('23_Embodiment of Wrath',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\29_Might of Inner Fire.jpg" id="29_Might of Inner Fire" data-flag="@X" onclick="openSidebar('29_Might of Inner Fire',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\2_Astral Pathfinder.jpg" id="2_Astral Pathfinder" data-flag="@X" onclick="openSidebar('2_Astral Pathfinder',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\9_Embrace of the Boundless.jpg" id="9_Embrace of the Boundless" data-flag="@X" onclick="openSidebar('9_Embrace of the Boundless',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\14_Behold Shadowed Light.jpg" id="14_Behold Shadowed Light" data-flag="@X" onclick="openSidebar('14_Behold Shadowed Light',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\24_Rite of Release.jpg" id="24_Rite of Release" data-flag="@X" onclick="openSidebar('24_Rite of Release',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\30_One To Many.jpg" id="30_One To Many" data-flag="@X" onclick="openSidebar('30_One To Many',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\6_Perennial Journey.jpg" id="6_Perennial Journey" data-flag="@X" onclick="openSidebar('6_Perennial Journey',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\13_Stormborn Griffin.jpg" id="13_Stormborn Griffin" data-flag="@X" onclick="openSidebar('13_Stormborn Griffin',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\17_Forbidding Outsider.jpg" id="17_Forbidding Outsider" data-flag="@X" onclick="openSidebar('17_Forbidding Outsider',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\25_Worldseeking Existence.jpg" id="25_Worldseeking Existence" data-flag="@X" onclick="openSidebar('25_Worldseeking Existence',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\31_Woodland Huntsman.jpg" id="31_Woodland Huntsman" data-flag="@X" onclick="openSidebar('31_Woodland Huntsman',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="sets\MSY-files\img\3_Embodiment of Radiance.jpg" id="MSY_3_Embodiment of Radiance" data-flag="@X" onclick="openSidebar('MSY_3_Embodiment of Radiance',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\8_Embodiment of Stars.jpg" id="MSY_8_Embodiment of Stars" data-flag="@X" onclick="openSidebar('MSY_8_Embodiment of Stars',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\15_Devoured by the Boundless.jpg" id="MSY_15_Devoured by the Boundless" data-flag="@X" onclick="openSidebar('MSY_15_Devoured by the Boundless',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\20_Abyssal Bolt.jpg" id="MSY_20_Abyssal Bolt" data-flag="@X" onclick="openSidebar('MSY_20_Abyssal Bolt',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\26_Deepgrowth Wraith.jpg" id="MSY_26_Deepgrowth Wraith" data-flag="@X" onclick="openSidebar('MSY_26_Deepgrowth Wraith',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\4_Enlightened Recluse.jpg" id="MSY_4_Enlightened Recluse" data-flag="@X" onclick="openSidebar('MSY_4_Enlightened Recluse',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\10_Moonlit Wishes.jpg" id="MSY_10_Moonlit Wishes" data-flag="@X" onclick="openSidebar('MSY_10_Moonlit Wishes',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\16_Embodiment of Fear.jpg" id="MSY_16_Embodiment of Fear" data-flag="@X" onclick="openSidebar('MSY_16_Embodiment of Fear',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\21_Chained Terror.jpg" id="MSY_21_Chained Terror" data-flag="@X" onclick="openSidebar('MSY_21_Chained Terror',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\27_Echoing Heartbeats.jpg" id="MSY_27_Echoing Heartbeats" data-flag="@X" onclick="openSidebar('MSY_27_Echoing Heartbeats',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\5_Light the Paths.jpg" id="MSY_5_Light the Paths" data-flag="@X" onclick="openSidebar('MSY_5_Light the Paths',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\11_Skywatching.jpg" id="MSY_11_Skywatching" data-flag="@X" onclick="openSidebar('MSY_11_Skywatching',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\18_Nightfall Voyager.jpg" id="MSY_18_Nightfall Voyager" data-flag="@X" onclick="openSidebar('MSY_18_Nightfall Voyager',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\22_Divine Inferno.jpg" id="MSY_22_Divine Inferno" data-flag="@X" onclick="openSidebar('MSY_22_Divine Inferno',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\28_Embodiment of Strength.jpg" id="MSY_28_Embodiment of Strength" data-flag="@X" onclick="openSidebar('MSY_28_Embodiment of Strength',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\7_Transformation Aurora.jpg" id="MSY_7_Transformation Aurora" data-flag="@X" onclick="openSidebar('MSY_7_Transformation Aurora',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\12_Starlight Wayfarer.jpg" id="MSY_12_Starlight Wayfarer" data-flag="@X" onclick="openSidebar('MSY_12_Starlight Wayfarer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\19_Twilight's Dawn.jpg" id="MSY_19_Twilights Dawn" data-flag="@X" onclick="openSidebar('MSY_19_Twilights Dawn',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\23_Embodiment of Wrath.jpg" id="MSY_23_Embodiment of Wrath" data-flag="@X" onclick="openSidebar('MSY_23_Embodiment of Wrath',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\29_Might of Inner Fire.jpg" id="MSY_29_Might of Inner Fire" data-flag="@X" onclick="openSidebar('MSY_29_Might of Inner Fire',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\2_Astral Pathfinder.jpg" id="MSY_2_Astral Pathfinder" data-flag="@X" onclick="openSidebar('MSY_2_Astral Pathfinder',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\9_Embrace of the Boundless.jpg" id="MSY_9_Embrace of the Boundless" data-flag="@X" onclick="openSidebar('MSY_9_Embrace of the Boundless',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\14_Behold Shadowed Light.jpg" id="MSY_14_Behold Shadowed Light" data-flag="@X" onclick="openSidebar('MSY_14_Behold Shadowed Light',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\24_Rite of Release.jpg" id="MSY_24_Rite of Release" data-flag="@X" onclick="openSidebar('MSY_24_Rite of Release',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\30_One To Many.jpg" id="MSY_30_One To Many" data-flag="@X" onclick="openSidebar('MSY_30_One To Many',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\6_Perennial Journey.jpg" id="MSY_6_Perennial Journey" data-flag="@X" onclick="openSidebar('MSY_6_Perennial Journey',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\13_Stormborn Griffin.jpg" id="MSY_13_Stormborn Griffin" data-flag="@X" onclick="openSidebar('MSY_13_Stormborn Griffin',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\17_Forbidding Outsider.jpg" id="MSY_17_Forbidding Outsider" data-flag="@X" onclick="openSidebar('MSY_17_Forbidding Outsider',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\25_Worldseeking Existence.jpg" id="MSY_25_Worldseeking Existence" data-flag="@X" onclick="openSidebar('MSY_25_Worldseeking Existence',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\31_Woodland Huntsman.jpg" id="MSY_31_Woodland Huntsman" data-flag="@X" onclick="openSidebar('MSY_31_Woodland Huntsman',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MSY_er" data-flag="@E" onclick="openSidebar('MSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MSY_er" data-flag="@E" onclick="openSidebar('MSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MSY_er" data-flag="@E" onclick="openSidebar('MSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MSY_er" data-flag="@E" onclick="openSidebar('MSY_er',false)"></div>
 				<div id="gold" class="anchor"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\34_Dreams of the Forgotten.jpg" id="34_Dreams of the Forgotten" data-flag="@X" onclick="openSidebar('34_Dreams of the Forgotten',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\32_Darkness Unchained.jpg" id="32_Darkness Unchained" data-flag="@X" onclick="openSidebar('32_Darkness Unchained',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\35_Garden Guardian.jpg" id="35_Garden Guardian" data-flag="@X" onclick="openSidebar('35_Garden Guardian',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\33_Depths Soulthief.jpg" id="33_Depths Soulthief" data-flag="@X" onclick="openSidebar('33_Depths Soulthief',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\34_Dreams of the Forgotten.jpg" id="MSY_34_Dreams of the Forgotten" data-flag="@X" onclick="openSidebar('MSY_34_Dreams of the Forgotten',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\32_Darkness Unchained.jpg" id="MSY_32_Darkness Unchained" data-flag="@X" onclick="openSidebar('MSY_32_Darkness Unchained',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MSY_e" data-flag="@E" onclick="openSidebar('MSY_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MSY_e" data-flag="@E" onclick="openSidebar('MSY_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\35_Garden Guardian.jpg" id="MSY_35_Garden Guardian" data-flag="@X" onclick="openSidebar('MSY_35_Garden Guardian',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MSY_e" data-flag="@E" onclick="openSidebar('MSY_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\33_Depths Soulthief.jpg" id="MSY_33_Depths Soulthief" data-flag="@X" onclick="openSidebar('MSY_33_Depths Soulthief',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MSY_e" data-flag="@E" onclick="openSidebar('MSY_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MSY_e" data-flag="@E" onclick="openSidebar('MSY_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MSY_e" data-flag="@E" onclick="openSidebar('MSY_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MSY_er" data-flag="@E" onclick="openSidebar('MSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MSY_er" data-flag="@E" onclick="openSidebar('MSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MSY_er" data-flag="@E" onclick="openSidebar('MSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MSY_er" data-flag="@E" onclick="openSidebar('MSY_er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\1_Draconic Dread.jpg" id="1_Draconic Dread" data-flag="@X" onclick="openSidebar('1_Draconic Dread',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\38_Pathbridger.jpg" id="38_Pathbridger" data-flag="@X" onclick="openSidebar('38_Pathbridger',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\37_Blue-Flame Bearer.jpg" id="37_Blue-Flame Bearer" data-flag="@X" onclick="openSidebar('37_Blue-Flame Bearer',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\40_Tranquil Haven.jpg" id="40_Tranquil Haven" data-flag="@X" onclick="openSidebar('40_Tranquil Haven',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\39_.jpg" id="39_" data-flag="@X" onclick="openSidebar('39_',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\1_Draconic Dread.jpg" id="MSY_1_Draconic Dread" data-flag="@X" onclick="openSidebar('MSY_1_Draconic Dread',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\38_Pathbridger.jpg" id="MSY_38_Pathbridger" data-flag="@X" onclick="openSidebar('MSY_38_Pathbridger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\37_Blue-Flame Bearer.jpg" id="MSY_37_Blue-Flame Bearer" data-flag="@X" onclick="openSidebar('MSY_37_Blue-Flame Bearer',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MSY_e" data-flag="@E" onclick="openSidebar('MSY_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MSY_e" data-flag="@E" onclick="openSidebar('MSY_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MSY_er" data-flag="@E" onclick="openSidebar('MSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MSY_er" data-flag="@E" onclick="openSidebar('MSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MSY_er" data-flag="@E" onclick="openSidebar('MSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MSY_er" data-flag="@E" onclick="openSidebar('MSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MSY_er" data-flag="@E" onclick="openSidebar('MSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\40_Tranquil Haven.jpg" id="MSY_40_Tranquil Haven" data-flag="@X" onclick="openSidebar('MSY_40_Tranquil Haven',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\39_.jpg" id="MSY_39_" data-flag="@X" onclick="openSidebar('MSY_39_',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MSY_e" data-flag="@E" onclick="openSidebar('MSY_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MSY_e" data-flag="@E" onclick="openSidebar('MSY_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MSY_e" data-flag="@E" onclick="openSidebar('MSY_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MSY_er" data-flag="@E" onclick="openSidebar('MSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MSY_er" data-flag="@E" onclick="openSidebar('MSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MSY_er" data-flag="@E" onclick="openSidebar('MSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MSY_er" data-flag="@E" onclick="openSidebar('MSY_er',false)"></div>
 				<div id="token" class="anchor"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\3t_Treasure.jpg" id="3t_Treasure" data-flag="@X" onclick="openSidebar('3t_Treasure',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\1t_Avatar.jpg" id="1t_Avatar" data-flag="@X" onclick="openSidebar('1t_Avatar',false)"></div>
-				<div class="container"><img alt="/sets\MSY-files\img\2t_Spirit.jpg" id="2t_Spirit" data-flag="@X" onclick="openSidebar('2t_Spirit',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\3t_Treasure.jpg" id="MSY_3t_Treasure" data-flag="@X" onclick="openSidebar('MSY_3t_Treasure',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\1t_Avatar.jpg" id="MSY_1t_Avatar" data-flag="@X" onclick="openSidebar('MSY_1t_Avatar',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MSY-files\img\2t_Spirit.jpg" id="MSY_2t_Spirit" data-flag="@X" onclick="openSidebar('MSY_2t_Spirit',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MSY_e" data-flag="@E" onclick="openSidebar('MSY_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MSY_e" data-flag="@E" onclick="openSidebar('MSY_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MSY_er" data-flag="@E" onclick="openSidebar('MSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MSY_er" data-flag="@E" onclick="openSidebar('MSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MSY_er" data-flag="@E" onclick="openSidebar('MSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MSY_er" data-flag="@E" onclick="openSidebar('MSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MSY_er" data-flag="@E" onclick="openSidebar('MSY_er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
 		<div class="sidebar-container">
-			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_img" class="sidebar-img">
 			<img id="sidebar_h_img" class="sidebar-h-img">
 			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
 		</div>
@@ -310,19 +334,111 @@
 		let specialchars = "";
 
 	document.addEventListener('DOMContentLoaded', async function() {
-		await fetch('/lists/all-cards.json')
+		await fetch(rootPath + '/lists/all-cards.json')
 					.then(response => response.json())
 					.then(json => {
 						card_list = json;
 				}).catch(error => console.error('Error:', error));
 
-				await fetch('/resources/replacechars.txt')
+				await fetch(rootPath + '/resources/replacechars.txt')
 					.then(response => response.text())
 					.then(text => {
 						specialchars = text; 
 				}).catch(error => console.error('Error:', error));
 
 				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
 
 		preloadImgs = document.getElementsByClassName('preload-hidden');
 
@@ -357,13 +473,16 @@
 			const flag = img.getAttribute('data-flag');
 
 			if (flag === '@N') {
-				img.src = '/img/card_back.png';
+				img.src = rootPath + '/img/card_back.png';
 				img.removeAttribute("onclick");
 				img.style.cursor = 'default';
 			}
 			else
 			{
-				img.src = img.alt;
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
 
 				if (flag === '@E') {
 					img.removeAttribute("onclick");
@@ -389,27 +508,51 @@
 	let horizontal = false;
 
 	function imgFlip(num) {
-		tmp = document.getElementById(num).src;
-		console.log(num);
-		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
-		document.getElementById(num).dataset.alt_src = tmp;
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
 
-		if (num == 'sidebar_img')
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
 		{
-			const rotated_img = document.getElementById('sidebar_h_img');
 			const sidebar_img = document.getElementById('sidebar_img');
 
-			if (horizontal && rotated_img.style.display == 'none')
-			{
-				rotated_img.style.display = "block";
-				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
-			}
-			else
-			{
-				rotated_img.style.display = "none";
-				sidebar_img.style.filter = "";
-			}
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
 		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
 	}
 
 	function openSidebar(id, h = false) {
@@ -421,17 +564,19 @@
 		const rotated_img = document.getElementById('sidebar_h_img');
 		const sidebar_img = document.getElementById('sidebar_img');
 
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
 		sidebar_img.src = document.getElementById(id).src;
 		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
 
 		if (horizontal && !sidebar_img.src.includes("_back"))
 		{
-			rotated_img.style.display = "block";
+			rotated_img.style.opacity = "1";
 			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
 		}
 		else
 		{
-			rotated_img.style.display = "none";
+			rotated_img.style.opacity = "0";
 			sidebar_img.style.filter = "";
 		}
 
@@ -464,6 +609,7 @@
 	}
 
 	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{
@@ -473,6 +619,7 @@
 	}
 
 	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{
@@ -489,16 +636,16 @@
 	});
 
 	function search() {
-		const url = new URL('search', window.location.origin);
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 		url.searchParams.append('search', document.getElementById("search").value);
-		window.location.href = url;
+		window.location.href = url.pathname + url.search;
 	}
 
 		function randomCard() {
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
 				let random_card = card_list_arrayified[i];
 
-				const url = new URL('card', window.location.origin);
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 				const params = {
 					set: random_card.set,
 					num: random_card.number,
@@ -508,7 +655,7 @@
 					url.searchParams.append(key, params[key]);
 				}
 
-				window.location.href = url;
+				window.location.href = url.pathname + url.search;
 			}
 	</script>
 </body>

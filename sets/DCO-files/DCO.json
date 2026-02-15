@@ -3422,7 +3422,7 @@
             "number": 45,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Draw two cards. Discard a card unless you've cast another noncreature spell this turn.",
+            "rules_text": "Draw two cards. Then discard a card unless you've cast another noncreature spell this turn.",
             "flavor_text": "[i]\u201cThis splinter is not yours. This plane is not yours. My world is not yours to keep forever.\u201d[/i]",
             "pt": "",
             "special_text": "",

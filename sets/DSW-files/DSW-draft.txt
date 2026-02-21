@@ -2065,9 +2065,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{B}",
 			"type": "Sorcery",
-			"collector_number": "267",
+			"collector_number": "266",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/267_Cosmic Voyage.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/266_Cosmic Voyage.jpg"
 			}
 		},
 		{
@@ -2075,9 +2075,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{R}",
 			"type": "Kindred Sorcery — Avatar Revelation",
-			"collector_number": "264",
+			"collector_number": "263",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/264_Bring Forth Calamity.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/263_Bring Forth Calamity.jpg"
 			}
 		},
 		{
@@ -2115,9 +2115,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Jellyfish Spirit",
-			"collector_number": "260",
+			"collector_number": "259",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/260_Blind Navigator.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/259_Blind Navigator.jpg"
 			}
 		},
 		{
@@ -2145,9 +2145,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Sorcery",
-			"collector_number": "263",
+			"collector_number": "262",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/263_Bounty of the Cosmos.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/262_Bounty of the Cosmos.jpg"
 			}
 		},
 		{
@@ -2165,9 +2165,9 @@
 			"rarity": "rare",
 			"mana_cost": "{C}{U}",
 			"type": "Kindred Instant — Avatar Revelation",
-			"collector_number": "259",
+			"collector_number": "258",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/259_Bind Unchained Dreams.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/258_Bind Unchained Dreams.jpg"
 			}
 		},
 		{
@@ -3025,9 +3025,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}{W}",
 			"type": "Creature — Eye",
-			"collector_number": "265",
+			"collector_number": "264",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/265_Conspicuous Glimpse.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/264_Conspicuous Glimpse.jpg"
 			}
 		},
 		{
@@ -3051,13 +3051,13 @@
 			}
 		},
 		{
-			"name": "",
+			"name": "GUR Arcun",
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}{R}",
 			"type": "Creature",
-			"collector_number": "257",
+			"collector_number": "268",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/257_.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/268_GUR Arcun.jpg"
 			}
 		},
 		{
@@ -3075,9 +3075,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{C}{W}{U}",
 			"type": "Creature — Avatar",
-			"collector_number": "258",
+			"collector_number": "257",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/258_The Arbiter's Oathwatcher.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/257_The Arbiter's Oathwatcher.jpg"
 			}
 		},
 		{
@@ -3095,9 +3095,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{C}{B}{R}",
 			"type": "Creature — Avatar",
-			"collector_number": "261",
+			"collector_number": "260",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/261_Bloodbringer.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/260_Bloodbringer.jpg"
 			}
 		},
 		{
@@ -3115,9 +3115,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{C}{G}{W}",
 			"type": "Creature — Avatar",
-			"collector_number": "262",
+			"collector_number": "261",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/262_Boundless Oath.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/261_Boundless Oath.jpg"
 			}
 		},
 		{
@@ -3195,9 +3195,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{C}{W}",
 			"type": "Kindred Sorcery — Avatar Revelation",
-			"collector_number": "268",
+			"collector_number": "267",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/268_Darken the Skies.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/267_Darken the Skies.jpg"
 			}
 		},
 		{
@@ -3215,9 +3215,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{C}{B}",
 			"type": "Kindred Sorcery — Avatar Revelation",
-			"collector_number": "266",
+			"collector_number": "265",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/266_Cosmic Expansion.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/265_Cosmic Expansion.jpg"
 			}
 		},
 		{
@@ -3548,7 +3548,7 @@
 	4 Conspicuous Glimpse
 	4 Warden of Secrets
 	4 RWB - Sacrifice
-	4 
+	4 GUR Arcun
 	4 WBG - Counters
 	4 The Arbiter's Oathwatcher
 	4 IUB - Noncreatures
@@ -4069,7 +4069,7 @@
 	6 Conspicuous Glimpse
 	6 Warden of Secrets
 	6 RWB - Sacrifice
-	6 
+	6 GUR Arcun
 	6 WBG - Counters
 	6 The Arbiter's Oathwatcher
 	6 IUB - Noncreatures
@@ -4390,7 +4390,7 @@
 	15 Conspicuous Glimpse
 	15 Warden of Secrets
 	15 RWB - Sacrifice
-	15 
+	15 GUR Arcun
 	15 WBG - Counters
 	15 The Arbiter's Oathwatcher
 	15 IUB - Noncreatures

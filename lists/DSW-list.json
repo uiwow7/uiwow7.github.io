@@ -2066,7 +2066,7 @@
     },
     {
         "card_name": "Cosmic Voyage",
-        "number": 267,
+        "number": 266,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2074,7 +2074,7 @@
     },
     {
         "card_name": "Bring Forth Calamity",
-        "number": 264,
+        "number": 263,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2162,7 +2162,7 @@
     },
     {
         "card_name": "Darken the Skies",
-        "number": 268,
+        "number": 267,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2170,7 +2170,7 @@
     },
     {
         "card_name": "Bind Unchained Dreams",
-        "number": 259,
+        "number": 258,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2178,7 +2178,7 @@
     },
     {
         "card_name": "Cosmic Expansion",
-        "number": 266,
+        "number": 265,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2238,7 +2238,7 @@
     },
     {
         "card_name": "Blind Navigator",
-        "number": 260,
+        "number": 259,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2262,7 +2262,7 @@
     },
     {
         "card_name": "Bounty of the Cosmos",
-        "number": 263,
+        "number": 262,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2383,7 +2383,7 @@
     },
     {
         "card_name": "The Arbiter's Oathwatcher",
-        "number": 258,
+        "number": 257,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2410,7 +2410,7 @@
     },
     {
         "card_name": "Boundless Oath",
-        "number": 262,
+        "number": 261,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2440,8 +2440,8 @@
         "position": ""
     },
     {
-        "card_name": "",
-        "number": 257,
+        "card_name": "GUR Arcun",
+        "number": 268,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2457,7 +2457,7 @@
     },
     {
         "card_name": "Conspicuous Glimpse",
-        "number": 265,
+        "number": 264,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2503,7 +2503,7 @@
     },
     {
         "card_name": "Bloodbringer",
-        "number": 261,
+        "number": 260,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2539,6 +2539,14 @@
         "card_name": "er"
     },
     "a->colorless",
+    {
+        "card_name": "",
+        "number": 0,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
     {
         "card_name": "The Arbiter, Eternal",
         "number": 1,
@@ -2618,6 +2626,18 @@
         "set": "DSW",
         "rotated": false,
         "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"

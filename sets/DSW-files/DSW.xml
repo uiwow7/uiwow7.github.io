@@ -5,7 +5,7 @@
 			<name>DSW</name>
 			<longname>Dazon: Splintered Worlds</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-02-19</releasedate>
+			<releasedate>2026-02-21</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -3627,7 +3627,7 @@ Realize {X}{G}{G}{G}{G} (Then if you cast this spell for its realize cost, put i
 		<card>
 			<name>Cosmic Voyage</name>
 			<text>Mill two cards. When you do, return target creature card with mana value less than or equal to the number of cards put into your graveyard from anywhere this turn from your graveyard to the battlefield.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/267_Cosmic Voyage.jpg" num="267">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/266_Cosmic Voyage.jpg" num="266">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3645,7 +3645,7 @@ Realize {X}{G}{G}{G}{G} (Then if you cast this spell for its realize cost, put i
 			<text>Target opponent sacrifices a creature. This spell deals 2 damage to them.
 Realize {3}{B}{R} (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)
 At the beginning of your upkeep, each opponent loses 1 life.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/264_Bring Forth Calamity.jpg" num="264">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/263_Bring Forth Calamity.jpg" num="263">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3715,7 +3715,7 @@ Whenever a creature you control dies, each opponent loses 1 life and you gain 1 
 		<card>
 			<name>Blind Navigator</name>
 			<text>Whenever you cast a Vertex spell, copy it. You may choose new targets for the copy.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/260_Blind Navigator.jpg" num="260">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/259_Blind Navigator.jpg" num="259">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3770,7 +3770,7 @@ Realize {3}{R}{W} (Then if you cast this spell for its realize cost, put it onto
 			<text>You gain 2 life and choose one —
 • Surveil 1, then draw a card. You may play an additional land this turn.
 • Create an 0/0 colorless Fractal creature token. Put X +1/+1 counters on it, where X is the number of lands you control.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/263_Bounty of the Cosmos.jpg" num="263">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/262_Bounty of the Cosmos.jpg" num="262">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3806,7 +3806,7 @@ Other creatures you control with flying get +2/+2 and have decayed. (A creature 
 			<text>Tap target creature and put a stun counter on it. 
 Realize {3}{I}{U} (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)
 Creatures with counters on them lose all abilities and card types.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/259_Bind Unchained Dreams.jpg" num="259">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/258_Bind Unchained Dreams.jpg" num="258">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5313,7 +5313,7 @@ Whenever you cast a silver spell, sift 1.</text>
 			<text>Whenever one or more Avatars you control attack, choose one —
 • This creature deals 3 damage to target player or planeswalker and you gain 3 life.
 • Draw a card.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/265_Conspicuous Glimpse.jpg" num="265">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/264_Conspicuous Glimpse.jpg" num="264">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5366,10 +5366,10 @@ When this creature enters, create two 1/1 red Spirit creature tokens.
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name></name>
+			<name>GUR Arcun</name>
 			<text>Landfall — Whenever a land enters under your control, create a treasure token.
 {6}: Put the top card of your library onto the battlefield face-down as a land with &quot;{T}: Add one mana of any color&quot; and &quot;Turn this face-up as a sorcery for its mana cost if its a permanent.&quot;</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/257_.jpg" num="257">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/268_GUR Arcun.jpg" num="268">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5405,7 +5405,7 @@ Whenever a +1/+1 counter is put on a creature you control, put a +1/+1 counter o
 			<name>The Arbiter&apos;s Oathwatcher</name>
 			<text>Other Avatars and Anima you control get +1/+1.
 At the beginning of your end step, you may sacrifice a token. If you do, create a 1/1 silver Avatar creature token.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/258_The Arbiter&apos;s Oathwatcher.jpg" num="258">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/257_The Arbiter&apos;s Oathwatcher.jpg" num="257">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5440,7 +5440,7 @@ When this creature enters, you may create a colorless 0/0 Fractal Horror creatur
 		<card>
 			<name>Bloodbringer</name>
 			<text>At the beginning of combat on your turn, you may put a decayed counter on target creature you control without one. If you do, that creature gains haste and you get {VU}. (A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat. Spend {V} to cast copies of Vertex spells.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/261_Bloodbringer.jpg" num="261">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/260_Bloodbringer.jpg" num="260">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5476,7 +5476,7 @@ Whenever this creature enters or you realize a Revelation, draw a card.</text>
 			<name>Boundless Oath</name>
 			<text>When this creature enters, return up to two target creature cards with total mana value 3 or less from your graveyard to the battlefield.
 Whenever this creature attacks, other creatures you control get +1/+0 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/262_Boundless Oath.jpg" num="262">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/261_Boundless Oath.jpg" num="261">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5623,7 +5623,7 @@ Realize {4}{I}{G} (Then if you cast this spell for its realize cost, put it onto
 			<text>Create three 1/1 black Spirit creature tokens with decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)
 Realize {2}{I}{W} (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)
 Decayed</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/268_Darken the Skies.jpg" num="268">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/267_Darken the Skies.jpg" num="267">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5660,7 +5660,7 @@ Flying</text>
 			<name>Cosmic Expansion</name>
 			<text>You draw two cards and create two 1/1 silver Avatar creature tokens.
 Realize—{2}{I}{B}, Sacrifice a creature (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/266_Cosmic Expansion.jpg" num="266">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/265_Cosmic Expansion.jpg" num="265">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

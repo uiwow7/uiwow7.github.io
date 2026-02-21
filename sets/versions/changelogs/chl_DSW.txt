@@ -1,4 +1,17 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+GUR Arcun added.
+
+
+
+type: Creature — Avatar Incarnation => 
+cost: {W} => 
+rules_text: When this creature or another Avatar you control enters, you gain 1 life. => 
+pt: 1/1 => 
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

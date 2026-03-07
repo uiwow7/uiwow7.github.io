@@ -2,7 +2,7 @@
 	[
 		{
 			"name": "Cryptic Call",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
 			"collector_number": "7",
@@ -12,7 +12,7 @@
 		},
 		{
 			"name": "Profane Call",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Sorcery",
 			"collector_number": "14",
@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "Blazing Call",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "17",
@@ -32,7 +32,7 @@
 		},
 		{
 			"name": "Verdant Call",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Sorcery",
 			"collector_number": "25",
@@ -42,7 +42,7 @@
 		},
 		{
 			"name": "Illusory Companion",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Creature — Illusion Spirit",
 			"collector_number": "5",
@@ -52,7 +52,7 @@
 		},
 		{
 			"name": "Deep Sea Consumer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{U}{U}{U}",
 			"type": "Creature — Leviathan",
 			"collector_number": "8",
@@ -62,7 +62,7 @@
 		},
 		{
 			"name": "Wasteful Decay",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
 			"collector_number": "15",
@@ -72,7 +72,7 @@
 		},
 		{
 			"name": "Wayward Impulse",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
 			"collector_number": "20",
@@ -82,7 +82,7 @@
 		},
 		{
 			"name": "Forest's Watcher",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Creature — Elk Warlock",
 			"collector_number": "21",
@@ -92,7 +92,7 @@
 		},
 		{
 			"name": "Divine Call",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Sorcery",
 			"collector_number": "4",
@@ -102,7 +102,7 @@
 		},
 		{
 			"name": "Rise From Depths",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Instant — Revelation",
 			"collector_number": "10",
@@ -112,7 +112,7 @@
 		},
 		{
 			"name": "Darkened Strix",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Owl Horror",
 			"collector_number": "12",
@@ -122,7 +122,7 @@
 		},
 		{
 			"name": "Crusader of the Blood Moon",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Warrior",
 			"collector_number": "18",
@@ -132,7 +132,7 @@
 		},
 		{
 			"name": "Angelic Wrath",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Kindred Sorcery — Angel Revelation",
 			"collector_number": "3",
@@ -142,7 +142,7 @@
 		},
 		{
 			"name": "Dragon of Arcane Frost",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Creature — Dragon Avatar",
 			"collector_number": "9",
@@ -152,7 +152,7 @@
 		},
 		{
 			"name": "Intoxicating Decay",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Sorcery",
 			"collector_number": "13",
@@ -162,7 +162,7 @@
 		},
 		{
 			"name": "Dragon of Celestial Wishes",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{5}{R}{R}",
 			"type": "Creature — Dragon",
 			"collector_number": "19",
@@ -172,7 +172,7 @@
 		},
 		{
 			"name": "Unceasing Explorer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Scout",
 			"collector_number": "24",
@@ -182,7 +182,7 @@
 		},
 		{
 			"name": "Welcoming Light",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
 			"collector_number": "6",
@@ -192,7 +192,7 @@
 		},
 		{
 			"name": "Visions of The Great Beyond",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
 			"collector_number": "11",
@@ -202,7 +202,7 @@
 		},
 		{
 			"name": "Arcane Onslaught",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Enchantment",
 			"collector_number": "16",
@@ -212,7 +212,7 @@
 		},
 		{
 			"name": "In Search of Grandeur",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Enchantment",
 			"collector_number": "23",
@@ -222,7 +222,7 @@
 		},
 		{
 			"name": "Magius Udel, Oracle of Light",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{W}{U}",
 			"type": "Legendary Planeswalker — Udel",
 			"collector_number": "32",
@@ -232,7 +232,7 @@
 		},
 		{
 			"name": "Darkness Unchained",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{U}{B}",
 			"type": "Instant",
 			"collector_number": "28",
@@ -242,7 +242,7 @@
 		},
 		{
 			"name": "The Last Dozandi",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Creature — Demon Soldier",
 			"collector_number": "31",
@@ -252,7 +252,7 @@
 		},
 		{
 			"name": "Drorix, Divine Outcast",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Legendary Planeswalker — Drorix",
 			"collector_number": "29",
@@ -262,7 +262,7 @@
 		},
 		{
 			"name": "Call of Chaos",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{W}{B}",
 			"type": "Sorcery — Revelation",
 			"collector_number": "27",
@@ -272,7 +272,7 @@
 		},
 		{
 			"name": "Arcane Oracle",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Human Wizard",
 			"collector_number": "26",
@@ -282,7 +282,7 @@
 		},
 		{
 			"name": "Explorer of Finality",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Creature — Zombie Scout",
 			"collector_number": "30",
@@ -292,7 +292,7 @@
 		},
 		{
 			"name": "Outpost of Radiant Fire",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}{W}",
 			"type": "Enchantment",
 			"collector_number": "33",
@@ -302,7 +302,7 @@
 		},
 		{
 			"name": "Unfathomable Exploration",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Sorcery",
 			"collector_number": "34",
@@ -312,7 +312,7 @@
 		},
 		{
 			"name": "Caves of Premonition",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "35",
@@ -322,7 +322,7 @@
 		},
 		{
 			"name": "Galen, Kinzan Engineer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Legendary Planeswalker — Galen",
 			"collector_number": "2",
@@ -332,7 +332,7 @@
 		},
 		{
 			"name": "In Search of Brilliance",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Enchantment",
 			"collector_number": "22",
@@ -342,7 +342,7 @@
 		},
 		{
 			"name": "",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
 			"collector_number": "1",
@@ -352,115 +352,39 @@
 		}
 	]
 
-[rare(1)]
-	2 Cryptic Call
-	2 Profane Call
-	2 Blazing Call
-	2 Verdant Call
-	2 Illusory Companion
-	2 Deep Sea Consumer
-	2 Wasteful Decay
-	2 Wayward Impulse
-	2 Forest's Watcher
-	2 Divine Call
-	2 Rise From Depths
-	2 Darkened Strix
-	2 Crusader of the Blood Moon
-	2 Angelic Wrath
-	2 Dragon of Arcane Frost
-	2 Intoxicating Decay
-	2 Dragon of Celestial Wishes
-	2 Unceasing Explorer
-	2 Welcoming Light
-	2 Visions of The Great Beyond
-	2 Arcane Onslaught
-	2 In Search of Grandeur
-	2 Magius Udel, Oracle of Light
-	2 Darkness Unchained
-	2 The Last Dozandi
-	2 Drorix, Divine Outcast
-	2 Call of Chaos
-	2 Arcane Oracle
-	2 Explorer of Finality
-	2 Outpost of Radiant Fire
-	2 Unfathomable Exploration
-	2 Caves of Premonition
-	2 Galen, Kinzan Engineer
+[cube(15)]
+	1 Cryptic Call
+	1 Profane Call
+	1 Blazing Call
+	1 Verdant Call
+	1 Illusory Companion
+	1 Deep Sea Consumer
+	1 Wasteful Decay
+	1 Wayward Impulse
+	1 Forest's Watcher
+	1 Divine Call
+	1 Rise From Depths
+	1 Darkened Strix
+	1 Crusader of the Blood Moon
+	1 Angelic Wrath
+	1 Dragon of Arcane Frost
+	1 Intoxicating Decay
+	1 Dragon of Celestial Wishes
+	1 Unceasing Explorer
+	1 Welcoming Light
+	1 Visions of The Great Beyond
+	1 Arcane Onslaught
+	1 In Search of Grandeur
+	1 Magius Udel, Oracle of Light
+	1 Darkness Unchained
+	1 The Last Dozandi
+	1 Drorix, Divine Outcast
+	1 Call of Chaos
+	1 Arcane Oracle
+	1 Explorer of Finality
+	1 Outpost of Radiant Fire
+	1 Unfathomable Exploration
+	1 Caves of Premonition
+	1 Galen, Kinzan Engineer
 	1 In Search of Brilliance
-[uncommon(3)]
-[common(6)]
-	8 
-[common | masterpiece(1)]
-	8 
-[foil(1)]
-	2 Cryptic Call
-	2 Profane Call
-	2 Blazing Call
-	2 Verdant Call
-	2 Illusory Companion
-	2 Deep Sea Consumer
-	2 Wasteful Decay
-	2 Wayward Impulse
-	2 Forest's Watcher
-	2 Divine Call
-	2 Rise From Depths
-	2 Darkened Strix
-	2 Crusader of the Blood Moon
-	2 Angelic Wrath
-	2 Dragon of Arcane Frost
-	2 Intoxicating Decay
-	2 Dragon of Celestial Wishes
-	2 Unceasing Explorer
-	2 Welcoming Light
-	2 Visions of The Great Beyond
-	2 Arcane Onslaught
-	2 In Search of Grandeur
-	2 Magius Udel, Oracle of Light
-	2 Darkness Unchained
-	2 The Last Dozandi
-	2 Drorix, Divine Outcast
-	2 Call of Chaos
-	2 Arcane Oracle
-	2 Explorer of Finality
-	2 Outpost of Radiant Fire
-	2 Unfathomable Exploration
-	2 Caves of Premonition
-	2 Galen, Kinzan Engineer
-	1 In Search of Brilliance
-	12 
-[wildcard(1)]
-	7 Cryptic Call
-	7 Profane Call
-	7 Blazing Call
-	7 Verdant Call
-	7 Illusory Companion
-	7 Deep Sea Consumer
-	7 Wasteful Decay
-	7 Wayward Impulse
-	7 Forest's Watcher
-	7 Divine Call
-	7 Rise From Depths
-	7 Darkened Strix
-	7 Crusader of the Blood Moon
-	7 Angelic Wrath
-	7 Dragon of Arcane Frost
-	7 Intoxicating Decay
-	7 Dragon of Celestial Wishes
-	7 Unceasing Explorer
-	7 Welcoming Light
-	7 Visions of The Great Beyond
-	7 Arcane Onslaught
-	7 In Search of Grandeur
-	7 Magius Udel, Oracle of Light
-	7 Darkness Unchained
-	7 The Last Dozandi
-	7 Drorix, Divine Outcast
-	7 Call of Chaos
-	7 Arcane Oracle
-	7 Explorer of Finality
-	7 Outpost of Radiant Fire
-	7 Unfathomable Exploration
-	7 Caves of Premonition
-	7 Galen, Kinzan Engineer
-	4 In Search of Brilliance
-	6 
+	1 

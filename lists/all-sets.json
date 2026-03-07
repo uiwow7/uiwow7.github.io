@@ -6,6 +6,11 @@
             "formats": ""
         },
         {
+            "set_code": "CC01-OLD",
+            "set_name": "Voyager Card Contest 1 Old \u2014 Aanginer",
+            "formats": ""
+        },
+        {
             "set_code": "DCO",
             "set_name": "Dazon: Cosmic Outcasts",
             "formats": ""
@@ -23,6 +28,11 @@
         {
             "set_code": "MSY",
             "set_name": "Aanginer MSEM Mystery Community Slots",
+            "formats": ""
+        },
+        {
+            "set_code": "SHD",
+            "set_name": "Shattering Divinity",
             "formats": ""
         },
         {

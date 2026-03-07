@@ -2,7 +2,7 @@
 	[
 		{
 			"name": "In Search of Eternity",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{G}{G}",
 			"type": "Enchantment",
 			"collector_number": "157",
@@ -12,7 +12,7 @@
 		},
 		{
 			"name": "The Arbiter's Watcher",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment Creature — Avatar",
 			"collector_number": "12",
@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "Icedroid",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}{U}",
 			"type": "Artifact Creature — Construct",
 			"collector_number": "57",
@@ -32,7 +32,7 @@
 		},
 		{
 			"name": "Lost Ghast",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Creature — Demon Spirit",
 			"collector_number": "94",
@@ -42,7 +42,7 @@
 		},
 		{
 			"name": "Savan Warden",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment Creature — Avatar",
 			"collector_number": "130",
@@ -52,7 +52,7 @@
 		},
 		{
 			"name": "Twisting Nebulas",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{G}",
 			"type": "Enchantment",
 			"collector_number": "169",
@@ -62,7 +62,7 @@
 		},
 		{
 			"name": "Last Light of Naroz",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Sorcery",
 			"collector_number": "25",
@@ -72,7 +72,7 @@
 		},
 		{
 			"name": "Stack Popper",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Wizard",
 			"collector_number": "69",
@@ -82,7 +82,7 @@
 		},
 		{
 			"name": "Ghost of Fallen Angels",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Creature — Angel Demon Spirit",
 			"collector_number": "89",
@@ -92,7 +92,7 @@
 		},
 		{
 			"name": "Recursive Pyromage",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Soldier Wizard",
 			"collector_number": "128",
@@ -102,7 +102,7 @@
 		},
 		{
 			"name": "Chosen of the Grand Oracles",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Avatar",
 			"collector_number": "43",
@@ -112,7 +112,7 @@
 		},
 		{
 			"name": "Package Manager",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Avatar",
 			"collector_number": "192",
@@ -122,7 +122,7 @@
 		},
 		{
 			"name": "Watching Eternity",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Aura",
 			"collector_number": "138",
@@ -132,7 +132,7 @@
 		},
 		{
 			"name": "Circular Import",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
 			"collector_number": "79",
@@ -142,7 +142,7 @@
 		},
 		{
 			"name": "Unexpected Token",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
 			"collector_number": "170",
@@ -152,7 +152,7 @@
 		},
 		{
 			"name": "Drorix, Cosmic Outcast",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{W}{B}{G}",
 			"type": "Legendary Planeswalker — Drorix",
 			"collector_number": "176",
@@ -162,7 +162,7 @@
 		},
 		{
 			"name": "Luminescent Golem",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Artifact Creature — Golem",
 			"collector_number": "27",
@@ -172,7 +172,7 @@
 		},
 		{
 			"name": "Human",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Enchantment Creature — Human",
 			"collector_number": "1",
@@ -182,7 +182,7 @@
 		},
 		{
 			"name": "The Final Frontier",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Enchantment Land",
 			"collector_number": "195",
@@ -192,7 +192,7 @@
 		},
 		{
 			"name": "Cavesplitter",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Enchantment Creature — Dragon",
 			"collector_number": "3",
@@ -202,7 +202,7 @@
 		},
 		{
 			"name": "Sava's Last Eclipse",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Instant",
 			"collector_number": "186",
@@ -212,7 +212,7 @@
 		},
 		{
 			"name": "Cosmically Centered",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Enchantment — Aura",
 			"collector_number": "145",
@@ -222,7 +222,7 @@
 		},
 		{
 			"name": "Otherworldly Wayfarer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Creature — Spirit",
 			"collector_number": "29",
@@ -232,7 +232,7 @@
 		},
 		{
 			"name": "The Arbiter's Raider",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Enchantment Creature — Avatar",
 			"collector_number": "107",
@@ -242,7 +242,7 @@
 		},
 		{
 			"name": "Past Left Behind",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
 			"collector_number": "99",
@@ -252,7 +252,7 @@
 		},
 		{
 			"name": "Stack Pusher",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Wizard",
 			"collector_number": "134",
@@ -262,7 +262,7 @@
 		},
 		{
 			"name": "Shrouded Subjugator",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "32",
@@ -272,7 +272,7 @@
 		},
 		{
 			"name": "Ocean Watcher",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Creature — Human",
 			"collector_number": "65",
@@ -282,7 +282,7 @@
 		},
 		{
 			"name": "Shock",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Instant",
 			"collector_number": "132",
@@ -292,7 +292,7 @@
 		},
 		{
 			"name": "Fungal Raze",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{G}{G}",
 			"type": "Sorcery",
 			"collector_number": "152",
@@ -302,7 +302,7 @@
 		},
 		{
 			"name": "Traversing the Paths",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{5}{W}",
 			"type": "Enchantment",
 			"collector_number": "37",
@@ -312,7 +312,7 @@
 		},
 		{
 			"name": "Ethereal Spellbinder",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Avatar",
 			"collector_number": "52",
@@ -322,7 +322,7 @@
 		},
 		{
 			"name": "Enduring Guardian",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "85",
@@ -332,7 +332,7 @@
 		},
 		{
 			"name": "Boatman of Kala",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}{R}",
 			"type": "Creature — Demon",
 			"collector_number": "109",
@@ -342,7 +342,7 @@
 		},
 		{
 			"name": "Depths Giant",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{5}{G}",
 			"type": "Artifact Creature — Construct Giant",
 			"collector_number": "149",
@@ -352,7 +352,7 @@
 		},
 		{
 			"name": "Eldo, Abyssal City",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "194",
@@ -362,7 +362,7 @@
 		},
 		{
 			"name": "Night Rummager",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "98",
@@ -372,7 +372,7 @@
 		},
 		{
 			"name": "Karan Assassin",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Demon Warrior",
 			"collector_number": "92",
@@ -382,7 +382,7 @@
 		},
 		{
 			"name": "Interplanar Informer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment Creature — Avatar",
 			"collector_number": "159",
@@ -392,7 +392,7 @@
 		},
 		{
 			"name": "Laban Guardian",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment Creature — Avatar",
 			"collector_number": "24",
@@ -402,7 +402,7 @@
 		},
 		{
 			"name": "Planar Guard",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Enchantment Creature — Avatar",
 			"collector_number": "66",
@@ -412,7 +412,7 @@
 		},
 		{
 			"name": "Summoner of True Light",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Avatar Wizard",
 			"collector_number": "33",
@@ -422,7 +422,7 @@
 		},
 		{
 			"name": "Cosmic Watcher",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Eye",
 			"collector_number": "48",
@@ -432,7 +432,7 @@
 		},
 		{
 			"name": "Corruption From Beyond",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Horror",
 			"collector_number": "80",
@@ -442,7 +442,7 @@
 		},
 		{
 			"name": "Hellfire Wyrm",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Demon Dragon",
 			"collector_number": "116",
@@ -452,7 +452,7 @@
 		},
 		{
 			"name": "Preserver of Voro",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Treefolk",
 			"collector_number": "165",
@@ -462,7 +462,7 @@
 		},
 		{
 			"name": "Tree of Celestial Light",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Enchantment",
 			"collector_number": "38",
@@ -472,7 +472,7 @@
 		},
 		{
 			"name": "Memory Leak",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Instant",
 			"collector_number": "62",
@@ -482,7 +482,7 @@
 		},
 		{
 			"name": "Seeker of Eternity",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Avatar",
 			"collector_number": "102",
@@ -492,7 +492,7 @@
 		},
 		{
 			"name": "Marauder of Sava",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Enchantment Creature — Avatar",
 			"collector_number": "123",
@@ -502,7 +502,7 @@
 		},
 		{
 			"name": "Harmony of Voro",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Aura",
 			"collector_number": "154",
@@ -512,7 +512,7 @@
 		},
 		{
 			"name": "Clockwork Disciple",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Avatar",
 			"collector_number": "13",
@@ -522,7 +522,7 @@
 		},
 		{
 			"name": "Sky of Beya",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
 			"collector_number": "68",
@@ -532,7 +532,7 @@
 		},
 		{
 			"name": "Look Across the Lake",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
 			"collector_number": "93",
@@ -542,7 +542,7 @@
 		},
 		{
 			"name": "Careless Whims",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
 			"collector_number": "111",
@@ -552,7 +552,7 @@
 		},
 		{
 			"name": "Titan of Sunrise",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{6}{G}",
 			"type": "Creature — Spirit Giant",
 			"collector_number": "168",
@@ -562,7 +562,7 @@
 		},
 		{
 			"name": "Destiny Diviner",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Cleric",
 			"collector_number": "150",
@@ -572,7 +572,7 @@
 		},
 		{
 			"name": "Moonlight Spellbinder",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "96",
@@ -582,7 +582,7 @@
 		},
 		{
 			"name": "Whisperer of The Arbiter",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Enchantment Creature — Avatar",
 			"collector_number": "72",
@@ -592,7 +592,7 @@
 		},
 		{
 			"name": "Scorcher",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Artifact Creature — Construct",
 			"collector_number": "131",
@@ -602,7 +602,7 @@
 		},
 		{
 			"name": "Dutiful Companion",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Creature — Fox",
 			"collector_number": "19",
@@ -612,7 +612,7 @@
 		},
 		{
 			"name": "Griffin of Serenity",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Griffin",
 			"collector_number": "55",
@@ -622,7 +622,7 @@
 		},
 		{
 			"name": "Unchained Karan",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{B}{B}",
 			"type": "Creature — Demon Warrior",
 			"collector_number": "105",
@@ -632,7 +632,7 @@
 		},
 		{
 			"name": "Kala Eradicator",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}{R}",
 			"type": "Creature — Demon",
 			"collector_number": "119",
@@ -642,7 +642,7 @@
 		},
 		{
 			"name": "Yuku Mystic",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{G}{G}",
 			"type": "Creature — Human Shaman",
 			"collector_number": "171",
@@ -652,7 +652,7 @@
 		},
 		{
 			"name": "Warp Gateway",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
 			"collector_number": "41",
@@ -662,7 +662,7 @@
 		},
 		{
 			"name": "Deny Access",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "50",
@@ -672,7 +672,7 @@
 		},
 		{
 			"name": "Rite of the Grand Oracles",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment",
 			"collector_number": "101",
@@ -682,7 +682,7 @@
 		},
 		{
 			"name": "Marring Flames",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
 			"collector_number": "124",
@@ -692,7 +692,7 @@
 		},
 		{
 			"name": "Byte Down",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
 			"collector_number": "143",
@@ -702,7 +702,7 @@
 		},
 		{
 			"name": "Sunrise Lookout",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Creature — Dragon",
 			"collector_number": "34",
@@ -712,7 +712,7 @@
 		},
 		{
 			"name": "Intellect From Beyond",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Creature — Horror",
 			"collector_number": "58",
@@ -722,7 +722,7 @@
 		},
 		{
 			"name": "Behemoth Beckoner",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "76",
@@ -732,7 +732,7 @@
 		},
 		{
 			"name": "Savan Veteran",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Human Warrior",
 			"collector_number": "129",
@@ -742,7 +742,7 @@
 		},
 		{
 			"name": "Sentinel of Sanctuaries",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Creature — Human Cleric",
 			"collector_number": "166",
@@ -752,7 +752,7 @@
 		},
 		{
 			"name": "Shindu, Gleaming City",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "201",
@@ -762,7 +762,7 @@
 		},
 		{
 			"name": "Zidan, Shadowy City",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "204",
@@ -772,7 +772,7 @@
 		},
 		{
 			"name": "Kama, Shattered City",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "198",
@@ -782,7 +782,7 @@
 		},
 		{
 			"name": "Toshin, Verdant City",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "203",
@@ -792,7 +792,7 @@
 		},
 		{
 			"name": "Collected Entrancing",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Sorcery",
 			"collector_number": "14",
@@ -802,7 +802,7 @@
 		},
 		{
 			"name": "Power Off",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Enchantment",
 			"collector_number": "67",
@@ -812,7 +812,7 @@
 		},
 		{
 			"name": "Crystalized Dread",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Enchantment",
 			"collector_number": "81",
@@ -822,7 +822,7 @@
 		},
 		{
 			"name": "Pillar of Fury",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Instant",
 			"collector_number": "125",
@@ -832,7 +832,7 @@
 		},
 		{
 			"name": "Firmness of Toshin",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Aura",
 			"collector_number": "151",
@@ -842,7 +842,7 @@
 		},
 		{
 			"name": "Tranquil Wanderer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Elk Bird",
 			"collector_number": "36",
@@ -852,7 +852,7 @@
 		},
 		{
 			"name": "Final Arrival",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Instant",
 			"collector_number": "53",
@@ -862,7 +862,7 @@
 		},
 		{
 			"name": "Door to Eternity",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Artifact",
 			"collector_number": "83",
@@ -872,7 +872,7 @@
 		},
 		{
 			"name": "Rage of Sava",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Demon Dragon Spirit",
 			"collector_number": "127",
@@ -882,7 +882,7 @@
 		},
 		{
 			"name": "Moonrise",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Sorcery",
 			"collector_number": "162",
@@ -892,7 +892,7 @@
 		},
 		{
 			"name": "Shadowmare",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Creature — Nightmare Horse",
 			"collector_number": "103",
@@ -902,7 +902,7 @@
 		},
 		{
 			"name": "Heartless Executor",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Soldier",
 			"collector_number": "21",
@@ -912,7 +912,7 @@
 		},
 		{
 			"name": "Cosmic Roamer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{5}{U}",
 			"type": "Creature — Avatar",
 			"collector_number": "47",
@@ -922,7 +922,7 @@
 		},
 		{
 			"name": "Fragments of Times Past",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{5}{B}{B}",
 			"type": "Sorcery",
 			"collector_number": "88",
@@ -932,7 +932,7 @@
 		},
 		{
 			"name": "Warmth of a Thousand Souls",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Enchantment — Aura",
 			"collector_number": "137",
@@ -942,7 +942,7 @@
 		},
 		{
 			"name": "Herald of New Worlds",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Enchantment Creature — Avatar",
 			"collector_number": "155",
@@ -952,7 +952,7 @@
 		},
 		{
 			"name": "The Arbiter's Sight",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Enchantment Creature — Eye Avatar",
 			"collector_number": "11",
@@ -962,7 +962,7 @@
 		},
 		{
 			"name": "Naroz Sentinel",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Wizard",
 			"collector_number": "64",
@@ -972,7 +972,7 @@
 		},
 		{
 			"name": "Vicious Fiend",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Demon Warrior",
 			"collector_number": "135",
@@ -982,7 +982,7 @@
 		},
 		{
 			"name": "Artificial Ferocity",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Enchantment — Aura",
 			"collector_number": "141",
@@ -992,7 +992,7 @@
 		},
 		{
 			"name": "Dreary Voyager",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Scout",
 			"collector_number": "18",
@@ -1002,7 +1002,7 @@
 		},
 		{
 			"name": "Leviathan Caller",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Creature — Human Wizard",
 			"collector_number": "59",
@@ -1012,7 +1012,7 @@
 		},
 		{
 			"name": "Malignant Hexer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "95",
@@ -1022,7 +1022,7 @@
 		},
 		{
 			"name": "Herald of Sparks",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Shaman",
 			"collector_number": "117",
@@ -1032,7 +1032,7 @@
 		},
 		{
 			"name": "Phantom Stag",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Elk Spirit",
 			"collector_number": "164",
@@ -1042,7 +1042,7 @@
 		},
 		{
 			"name": "Undefined Reference",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
 			"collector_number": "40",
@@ -1052,7 +1052,7 @@
 		},
 		{
 			"name": "List Indexer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Artifact Creature — Construct",
 			"collector_number": "61",
@@ -1062,7 +1062,7 @@
 		},
 		{
 			"name": "Abyssal Callback",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Sorcery",
 			"collector_number": "74",
@@ -1072,7 +1072,7 @@
 		},
 		{
 			"name": "Race Against Omnipotence",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Aura",
 			"collector_number": "126",
@@ -1082,7 +1082,7 @@
 		},
 		{
 			"name": "The Arbiter's Strength",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment Creature — Avatar",
 			"collector_number": "140",
@@ -1092,7 +1092,7 @@
 		},
 		{
 			"name": "Adrift Surveyor",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Scout",
 			"collector_number": "9",
@@ -1102,7 +1102,7 @@
 		},
 		{
 			"name": "Wistful Observer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human",
 			"collector_number": "73",
@@ -1112,7 +1112,7 @@
 		},
 		{
 			"name": "Cache Recovery",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
 			"collector_number": "77",
@@ -1122,7 +1122,7 @@
 		},
 		{
 			"name": "Vulpine Sage",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Fox",
 			"collector_number": "136",
@@ -1132,7 +1132,7 @@
 		},
 		{
 			"name": "Deepgrowth Drake",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Elk Drake",
 			"collector_number": "146",
@@ -1142,7 +1142,7 @@
 		},
 		{
 			"name": "The Arbiter's Elite",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}{W}",
 			"type": "Enchantment Creature — Avatar",
 			"collector_number": "10",
@@ -1152,7 +1152,7 @@
 		},
 		{
 			"name": "Ghastly Wanderer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Spirit Wizard",
 			"collector_number": "54",
@@ -1162,7 +1162,7 @@
 		},
 		{
 			"name": "Fallen of Kara",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Creature — Spirit",
 			"collector_number": "87",
@@ -1172,7 +1172,7 @@
 		},
 		{
 			"name": "Splintering Fire",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "133",
@@ -1182,7 +1182,7 @@
 		},
 		{
 			"name": "Lost to the Storm",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Enchantment — Aura",
 			"collector_number": "160",
@@ -1192,7 +1192,7 @@
 		},
 		{
 			"name": "Paths of Stolen Life",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
 			"collector_number": "30",
@@ -1202,7 +1202,7 @@
 		},
 		{
 			"name": "Herald of Naroz",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Creature — Druid",
 			"collector_number": "56",
@@ -1212,7 +1212,7 @@
 		},
 		{
 			"name": "Nausea From Beyond",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Horror",
 			"collector_number": "97",
@@ -1222,7 +1222,7 @@
 		},
 		{
 			"name": "Gazing Rage",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Eye",
 			"collector_number": "115",
@@ -1232,7 +1232,7 @@
 		},
 		{
 			"name": "Champion of Drakol",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Warrior",
 			"collector_number": "144",
@@ -1242,7 +1242,7 @@
 		},
 		{
 			"name": "The Arbiter",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{15}",
 			"type": "Legendary Enchantment Creature — God",
 			"collector_number": "1",
@@ -1252,7 +1252,7 @@
 		},
 		{
 			"name": "Peaceful Charmer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Cleric",
 			"collector_number": "31",
@@ -1262,7 +1262,7 @@
 		},
 		{
 			"name": "Twilight Revelation",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{U}{U}",
 			"type": "Sorcery",
 			"collector_number": "70",
@@ -1272,7 +1272,7 @@
 		},
 		{
 			"name": "Drakoli Piracy",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{B}{B}",
 			"type": "Enchantment",
 			"collector_number": "84",
@@ -1282,7 +1282,7 @@
 		},
 		{
 			"name": "Wisps of Flaming Brilliance",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment — Aura",
 			"collector_number": "139",
@@ -1292,7 +1292,7 @@
 		},
 		{
 			"name": "Goliath Assailant",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Warrior",
 			"collector_number": "153",
@@ -1302,7 +1302,7 @@
 		},
 		{
 			"name": "Doomteller Adept",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "16",
@@ -1312,7 +1312,7 @@
 		},
 		{
 			"name": "Cultist of Cold Fate",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "49",
@@ -1322,7 +1322,7 @@
 		},
 		{
 			"name": "Harbinger of Demise",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "90",
@@ -1332,7 +1332,7 @@
 		},
 		{
 			"name": "Demon of Ruinous Fire",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Demon Warlock",
 			"collector_number": "112",
@@ -1342,7 +1342,7 @@
 		},
 		{
 			"name": "Illuminating Augur",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "156",
@@ -1352,7 +1352,7 @@
 		},
 		{
 			"name": "Dread From Beyond",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Horror",
 			"collector_number": "17",
@@ -1362,7 +1362,7 @@
 		},
 		{
 			"name": "Celestial Encroachment",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment",
 			"collector_number": "42",
@@ -1372,7 +1372,7 @@
 		},
 		{
 			"name": "All The Darkest Hopes",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment",
 			"collector_number": "75",
@@ -1382,7 +1382,7 @@
 		},
 		{
 			"name": "Free Rider",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human",
 			"collector_number": "114",
@@ -1392,7 +1392,7 @@
 		},
 		{
 			"name": "Inquiry From Beyond",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Horror",
 			"collector_number": "158",
@@ -1402,7 +1402,7 @@
 		},
 		{
 			"name": "Uncover",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Sorcery",
 			"collector_number": "39",
@@ -1412,7 +1412,7 @@
 		},
 		{
 			"name": "Cosmic Immenseness",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Enchantment",
 			"collector_number": "46",
@@ -1422,7 +1422,7 @@
 		},
 		{
 			"name": "Celestial Darkness",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment",
 			"collector_number": "78",
@@ -1432,7 +1432,7 @@
 		},
 		{
 			"name": "Lively Pup",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Creature — Fox",
 			"collector_number": "122",
@@ -1442,7 +1442,7 @@
 		},
 		{
 			"name": "Spidroid",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Artifact Creature — Construct Spider",
 			"collector_number": "167",
@@ -1452,7 +1452,7 @@
 		},
 		{
 			"name": "Sunset Dreamer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human",
 			"collector_number": "35",
@@ -1462,7 +1462,7 @@
 		},
 		{
 			"name": "Ghastly Hunter",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Spirit",
 			"collector_number": "20",
@@ -1472,7 +1472,7 @@
 		},
 		{
 			"name": "Leviathan Tides",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Enchantment",
 			"collector_number": "60",
@@ -1482,7 +1482,7 @@
 		},
 		{
 			"name": "Writhing Mound",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Artifact",
 			"collector_number": "106",
@@ -1492,7 +1492,7 @@
 		},
 		{
 			"name": "Blood of Moonlight",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
 			"collector_number": "108",
@@ -1502,7 +1502,7 @@
 		},
 		{
 			"name": "Deepgrowth Explorer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Scout",
 			"collector_number": "148",
@@ -1512,7 +1512,7 @@
 		},
 		{
 			"name": "Lost Curiosity",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
 			"collector_number": "26",
@@ -1522,7 +1522,7 @@
 		},
 		{
 			"name": "Energy Displacer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact",
 			"collector_number": "51",
@@ -1532,7 +1532,7 @@
 		},
 		{
 			"name": "Reaper of Kara",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Enchantment Creature — Avatar",
 			"collector_number": "100",
@@ -1542,7 +1542,7 @@
 		},
 		{
 			"name": "Burning Quasar",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
 			"collector_number": "110",
@@ -1552,7 +1552,7 @@
 		},
 		{
 			"name": "Monk of Deafening Peace",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Creature — Human Cleric",
 			"collector_number": "161",
@@ -1562,7 +1562,7 @@
 		},
 		{
 			"name": "Idyllic Tutor",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
 			"collector_number": "22",
@@ -1572,7 +1572,7 @@
 		},
 		{
 			"name": "Wavebringer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Dragon Avatar",
 			"collector_number": "71",
@@ -1582,7 +1582,7 @@
 		},
 		{
 			"name": "Eternity From Beyond",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
 			"collector_number": "86",
@@ -1592,7 +1592,7 @@
 		},
 		{
 			"name": "Kalan Explorer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact Creature — Construct Scout",
 			"collector_number": "120",
@@ -1602,7 +1602,7 @@
 		},
 		{
 			"name": "Deepgrowth Expansion",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
 			"collector_number": "147",
@@ -1612,7 +1612,7 @@
 		},
 		{
 			"name": "Magitel, Flaming Brilliance",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Legendary Creature — Dragon",
 			"collector_number": "28",
@@ -1622,7 +1622,7 @@
 		},
 		{
 			"name": "Cira, Lost in the Stars",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Fox",
 			"collector_number": "44",
@@ -1632,7 +1632,7 @@
 		},
 		{
 			"name": "Talza, the Defeated",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{B}{B}",
 			"type": "Legendary Creature — Human Warlock",
 			"collector_number": "104",
@@ -1642,7 +1642,7 @@
 		},
 		{
 			"name": "Jhakan, Failed Lich",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Legendary Creature — Skeleton Warlock",
 			"collector_number": "118",
@@ -1652,7 +1652,7 @@
 		},
 		{
 			"name": "Nashar, Starry Turtle",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{G}{G}",
 			"type": "Legendary Enchantment Creature — Turtle",
 			"collector_number": "163",
@@ -1662,7 +1662,7 @@
 		},
 		{
 			"name": "Designed Emptiness",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
 			"collector_number": "15",
@@ -1672,7 +1672,7 @@
 		},
 		{
 			"name": "Naroz Icebreaker",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Artifact",
 			"collector_number": "63",
@@ -1682,7 +1682,7 @@
 		},
 		{
 			"name": "Into Eternity",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
 			"collector_number": "91",
@@ -1692,7 +1692,7 @@
 		},
 		{
 			"name": "Firespace Seeker",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact Creature — Construct",
 			"collector_number": "113",
@@ -1702,7 +1702,7 @@
 		},
 		{
 			"name": "Bringer of New Times",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Avatar",
 			"collector_number": "142",
@@ -1712,7 +1712,7 @@
 		},
 		{
 			"name": "Illuminating Vortex",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
 			"collector_number": "23",
@@ -1722,7 +1722,7 @@
 		},
 		{
 			"name": "Cold Truths",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
 			"collector_number": "45",
@@ -1732,7 +1732,7 @@
 		},
 		{
 			"name": "Dark Dragonfire",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
 			"collector_number": "82",
@@ -1742,7 +1742,7 @@
 		},
 		{
 			"name": "Lightning Radiator",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Artifact",
 			"collector_number": "121",
@@ -1752,7 +1752,7 @@
 		},
 		{
 			"name": "Chromatic Starlight",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Enchantment",
 			"collector_number": "4",
@@ -1762,7 +1762,7 @@
 		},
 		{
 			"name": "Emptylands Rover",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact Creature — Construct Scout",
 			"collector_number": "191",
@@ -1772,7 +1772,7 @@
 		},
 		{
 			"name": "Darkwave Container",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Enchantment",
 			"collector_number": "5",
@@ -1782,7 +1782,7 @@
 		},
 		{
 			"name": "The Arbiter's Retriever",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Enchantment Creature — Avatar",
 			"collector_number": "2",
@@ -1792,7 +1792,7 @@
 		},
 		{
 			"name": "Spacelight",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Enchantment",
 			"collector_number": "8",
@@ -1802,7 +1802,7 @@
 		},
 		{
 			"name": "Energizer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Enchantment Creature — Avatar",
 			"collector_number": "6",
@@ -1812,7 +1812,7 @@
 		},
 		{
 			"name": "Swarm Engine",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Construct",
 			"collector_number": "193",
@@ -1822,7 +1822,7 @@
 		},
 		{
 			"name": "Shorian, Herald of the Beyond",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{6}",
 			"type": "Legendary Creature — Horror Avatar",
 			"collector_number": "7",
@@ -1832,7 +1832,7 @@
 		},
 		{
 			"name": "Peace in Twilight",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Enchantment",
 			"collector_number": "184",
@@ -1842,7 +1842,7 @@
 		},
 		{
 			"name": "Warlock of Venomous Fire",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "189",
@@ -1852,7 +1852,7 @@
 		},
 		{
 			"name": "Unbound Soul",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}{G}",
 			"type": "Enchantment — Aura",
 			"collector_number": "188",
@@ -1862,7 +1862,7 @@
 		},
 		{
 			"name": "The Arbiter's Harmonizer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Enchantment Creature — Avatar",
 			"collector_number": "173",
@@ -1872,7 +1872,7 @@
 		},
 		{
 			"name": "Beyan Tormentor",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Creature — Human Warrior",
 			"collector_number": "174",
@@ -1882,7 +1882,7 @@
 		},
 		{
 			"name": "Necromancer of the Depths",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Creature — Demon Warlock",
 			"collector_number": "182",
@@ -1892,7 +1892,7 @@
 		},
 		{
 			"name": "Lantern Bearer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Creature — Wolf",
 			"collector_number": "180",
@@ -1902,7 +1902,7 @@
 		},
 		{
 			"name": "Risen Thicket",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}{G}{U}",
 			"type": "Creature — Treefolk Giant",
 			"collector_number": "185",
@@ -1912,7 +1912,7 @@
 		},
 		{
 			"name": "Night of Stopped Water",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{U}{B}",
 			"type": "Enchantment",
 			"collector_number": "183",
@@ -1922,7 +1922,7 @@
 		},
 		{
 			"name": "Sunset Dancer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{U}{B}{R}",
 			"type": "Creature — Human Wizard",
 			"collector_number": "187",
@@ -1932,7 +1932,7 @@
 		},
 		{
 			"name": "Endless Wreckage",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{B}{R}{G}",
 			"type": "Instant",
 			"collector_number": "178",
@@ -1942,7 +1942,7 @@
 		},
 		{
 			"name": "Knight of Beya",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{G}{W}",
 			"type": "Creature — Human Knight",
 			"collector_number": "179",
@@ -1952,7 +1952,7 @@
 		},
 		{
 			"name": "Watchful Gaze",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{W}{U}",
 			"type": "Enchantment",
 			"collector_number": "190",
@@ -1962,7 +1962,7 @@
 		},
 		{
 			"name": "Endless Sunrise",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Instant",
 			"collector_number": "177",
@@ -1972,7 +1972,7 @@
 		},
 		{
 			"name": "Ancients From Beyond",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{G}{U}{R}",
 			"type": "Creature — Giant Horror",
 			"collector_number": "172",
@@ -1982,7 +1982,7 @@
 		},
 		{
 			"name": "Cosmic Incarnation",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{U}{R}{W}",
 			"type": "Creature — Elemental Wizard",
 			"collector_number": "175",
@@ -1992,7 +1992,7 @@
 		},
 		{
 			"name": "Marshland Birth",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{B}{G}{U}",
 			"type": "Sorcery",
 			"collector_number": "181",
@@ -2002,7 +2002,7 @@
 		},
 		{
 			"name": "Demon",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Demon",
 			"collector_number": "2",
@@ -2012,7 +2012,7 @@
 		},
 		{
 			"name": "Construct",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Construct",
 			"collector_number": "4",
@@ -2022,7 +2022,7 @@
 		},
 		{
 			"name": "Warlock",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Warlock",
 			"collector_number": "3",
@@ -2032,7 +2032,7 @@
 		},
 		{
 			"name": "Plains",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
 			"collector_number": "200",
@@ -2042,7 +2042,7 @@
 		},
 		{
 			"name": "Island",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
 			"collector_number": "197",
@@ -2052,7 +2052,7 @@
 		},
 		{
 			"name": "Swamp",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
 			"collector_number": "202",
@@ -2062,7 +2062,7 @@
 		},
 		{
 			"name": "Mountain",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
 			"collector_number": "199",
@@ -2072,7 +2072,7 @@
 		},
 		{
 			"name": "Forest",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
 			"collector_number": "196",
@@ -2082,7 +2082,7 @@
 		},
 		{
 			"name": "Treasure",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
 			"collector_number": "5",
@@ -2092,606 +2092,203 @@
 		}
 	]
 
-[rare(1)]
-	2 In Search of Eternity
-	2 The Arbiter's Watcher
-	2 Icedroid
-	2 Lost Ghast
-	2 Savan Warden
-	2 Twisting Nebulas
-	2 Last Light of Naroz
-	2 Stack Popper
-	2 Ghost of Fallen Angels
-	2 Recursive Pyromage
-	2 Chosen of the Grand Oracles
-	2 Package Manager
-	2 Watching Eternity
-	2 Circular Import
-	2 Unexpected Token
-	2 Drorix, Cosmic Outcast
-	2 Luminescent Golem
-	2 The Final Frontier
-	2 Cavesplitter
-	2 Sava's Last Eclipse
-	2 Cosmically Centered
-	2 Otherworldly Wayfarer
-	2 The Arbiter's Raider
-	2 Past Left Behind
-	2 Stack Pusher
-	2 Shrouded Subjugator
-	2 Ocean Watcher
-	2 Shock
-	2 Fungal Raze
-	2 Traversing the Paths
-	2 Ethereal Spellbinder
-	2 Enduring Guardian
-	2 Boatman of Kala
-	2 Depths Giant
-	2 Eldo, Abyssal City
-	2 Night Rummager
-	2 Karan Assassin
-	2 Interplanar Informer
-	2 Laban Guardian
-	2 Planar Guard
-	2 Summoner of True Light
-	2 Cosmic Watcher
-	2 Corruption From Beyond
-	2 Hellfire Wyrm
-	2 Preserver of Voro
-	2 Tree of Celestial Light
-	2 Memory Leak
-	2 Seeker of Eternity
-	2 Marauder of Sava
-	2 Harmony of Voro
-	2 Clockwork Disciple
-	2 Sky of Beya
-	2 Look Across the Lake
-	2 Careless Whims
-	2 Titan of Sunrise
-	2 Destiny Diviner
-	2 Moonlight Spellbinder
-	2 Whisperer of The Arbiter
-	2 Scorcher
-	2 Dutiful Companion
-	2 Griffin of Serenity
-	2 Unchained Karan
-	2 Kala Eradicator
-	2 Yuku Mystic
-	2 Warp Gateway
-	2 Deny Access
-	2 Rite of the Grand Oracles
-	2 Marring Flames
-	2 Byte Down
-	2 Sunrise Lookout
-	2 Intellect From Beyond
-	2 Behemoth Beckoner
-	2 Savan Veteran
-	2 Sentinel of Sanctuaries
-	2 Shindu, Gleaming City
-	2 Zidan, Shadowy City
-	2 Kama, Shattered City
-	2 Toshin, Verdant City
-	2 Collected Entrancing
-	2 Power Off
-	2 Crystalized Dread
-	2 Pillar of Fury
-	2 Firmness of Toshin
-	2 Tranquil Wanderer
-	2 Final Arrival
-	2 Door to Eternity
-	2 Rage of Sava
-	2 Moonrise
-	2 Shadowmare
-	2 Heartless Executor
-	2 Cosmic Roamer
-	2 Fragments of Times Past
-	2 Warmth of a Thousand Souls
-	2 Herald of New Worlds
-	2 The Arbiter's Sight
-	2 Naroz Sentinel
-	2 Vicious Fiend
-	2 Artificial Ferocity
-	2 Dreary Voyager
-	2 Leviathan Caller
-	2 Malignant Hexer
-	2 Herald of Sparks
-	2 Phantom Stag
-	2 Undefined Reference
-	2 List Indexer
-	2 Abyssal Callback
-	2 Race Against Omnipotence
-	2 The Arbiter's Strength
-	2 Adrift Surveyor
-	2 Wistful Observer
-	2 Cache Recovery
-	2 Vulpine Sage
-	2 Deepgrowth Drake
-	2 The Arbiter's Elite
-	2 Ghastly Wanderer
-	2 Fallen of Kara
-	2 Splintering Fire
-	2 Lost to the Storm
-	2 Paths of Stolen Life
-	2 Herald of Naroz
-	2 Nausea From Beyond
-	2 Gazing Rage
-	2 Champion of Drakol
-	2 The Arbiter
-	2 Peaceful Charmer
-	2 Twilight Revelation
-	2 Drakoli Piracy
-	2 Wisps of Flaming Brilliance
-	2 Goliath Assailant
-	2 Doomteller Adept
-	2 Cultist of Cold Fate
-	2 Harbinger of Demise
-	2 Demon of Ruinous Fire
-	2 Illuminating Augur
-	2 Dread From Beyond
-	2 Celestial Encroachment
-	2 All The Darkest Hopes
-	2 Free Rider
-	2 Inquiry From Beyond
-	2 Uncover
-	2 Cosmic Immenseness
-	2 Celestial Darkness
-	2 Lively Pup
-	2 Spidroid
-	2 Sunset Dreamer
-	2 Ghastly Hunter
-	2 Leviathan Tides
-	2 Writhing Mound
-	2 Blood of Moonlight
-	2 Deepgrowth Explorer
-	2 Lost Curiosity
-	2 Energy Displacer
-	2 Reaper of Kara
-	2 Burning Quasar
-	2 Monk of Deafening Peace
-	2 Idyllic Tutor
-	2 Wavebringer
-	2 Eternity From Beyond
-	2 Kalan Explorer
-	2 Deepgrowth Expansion
-	2 Magitel, Flaming Brilliance
-	2 Cira, Lost in the Stars
-	2 Talza, the Defeated
-	2 Jhakan, Failed Lich
-	2 Nashar, Starry Turtle
-	2 Designed Emptiness
-	2 Naroz Icebreaker
-	2 Into Eternity
-	2 Firespace Seeker
-	2 Bringer of New Times
-	2 Illuminating Vortex
-	2 Cold Truths
-	2 Dark Dragonfire
-	2 Lightning Radiator
-	2 Chromatic Starlight
-	2 Emptylands Rover
-	2 Darkwave Container
-	2 The Arbiter's Retriever
-	2 Spacelight
-	2 Energizer
-	2 Swarm Engine
-	2 Shorian, Herald of the Beyond
-	2 Peace in Twilight
-	2 Warlock of Venomous Fire
-	2 Unbound Soul
-	2 The Arbiter's Harmonizer
-	2 Beyan Tormentor
-	2 Necromancer of the Depths
-	2 Lantern Bearer
-	2 Risen Thicket
-	2 Night of Stopped Water
-	2 Sunset Dancer
-	2 Endless Wreckage
-	2 Knight of Beya
-	2 Watchful Gaze
-	2 Endless Sunrise
-	2 Ancients From Beyond
-	2 Cosmic Incarnation
-	2 Marshland Birth
-[uncommon(3)]
-[common(6)]
-[common | masterpiece(1)]
-[foil(1)]
-	2 In Search of Eternity
-	2 The Arbiter's Watcher
-	2 Icedroid
-	2 Lost Ghast
-	2 Savan Warden
-	2 Twisting Nebulas
-	2 Last Light of Naroz
-	2 Stack Popper
-	2 Ghost of Fallen Angels
-	2 Recursive Pyromage
-	2 Chosen of the Grand Oracles
-	2 Package Manager
-	2 Watching Eternity
-	2 Circular Import
-	2 Unexpected Token
-	2 Drorix, Cosmic Outcast
-	2 Luminescent Golem
-	2 The Final Frontier
-	2 Cavesplitter
-	2 Sava's Last Eclipse
-	2 Cosmically Centered
-	2 Otherworldly Wayfarer
-	2 The Arbiter's Raider
-	2 Past Left Behind
-	2 Stack Pusher
-	2 Shrouded Subjugator
-	2 Ocean Watcher
-	2 Shock
-	2 Fungal Raze
-	2 Traversing the Paths
-	2 Ethereal Spellbinder
-	2 Enduring Guardian
-	2 Boatman of Kala
-	2 Depths Giant
-	2 Eldo, Abyssal City
-	2 Night Rummager
-	2 Karan Assassin
-	2 Interplanar Informer
-	2 Laban Guardian
-	2 Planar Guard
-	2 Summoner of True Light
-	2 Cosmic Watcher
-	2 Corruption From Beyond
-	2 Hellfire Wyrm
-	2 Preserver of Voro
-	2 Tree of Celestial Light
-	2 Memory Leak
-	2 Seeker of Eternity
-	2 Marauder of Sava
-	2 Harmony of Voro
-	2 Clockwork Disciple
-	2 Sky of Beya
-	2 Look Across the Lake
-	2 Careless Whims
-	2 Titan of Sunrise
-	2 Destiny Diviner
-	2 Moonlight Spellbinder
-	2 Whisperer of The Arbiter
-	2 Scorcher
-	2 Dutiful Companion
-	2 Griffin of Serenity
-	2 Unchained Karan
-	2 Kala Eradicator
-	2 Yuku Mystic
-	2 Warp Gateway
-	2 Deny Access
-	2 Rite of the Grand Oracles
-	2 Marring Flames
-	2 Byte Down
-	2 Sunrise Lookout
-	2 Intellect From Beyond
-	2 Behemoth Beckoner
-	2 Savan Veteran
-	2 Sentinel of Sanctuaries
-	2 Shindu, Gleaming City
-	2 Zidan, Shadowy City
-	2 Kama, Shattered City
-	2 Toshin, Verdant City
-	2 Collected Entrancing
-	2 Power Off
-	2 Crystalized Dread
-	2 Pillar of Fury
-	2 Firmness of Toshin
-	2 Tranquil Wanderer
-	2 Final Arrival
-	2 Door to Eternity
-	2 Rage of Sava
-	2 Moonrise
-	2 Shadowmare
-	2 Heartless Executor
-	2 Cosmic Roamer
-	2 Fragments of Times Past
-	2 Warmth of a Thousand Souls
-	2 Herald of New Worlds
-	2 The Arbiter's Sight
-	2 Naroz Sentinel
-	2 Vicious Fiend
-	2 Artificial Ferocity
-	2 Dreary Voyager
-	2 Leviathan Caller
-	2 Malignant Hexer
-	2 Herald of Sparks
-	2 Phantom Stag
-	2 Undefined Reference
-	2 List Indexer
-	2 Abyssal Callback
-	2 Race Against Omnipotence
-	2 The Arbiter's Strength
-	2 Adrift Surveyor
-	2 Wistful Observer
-	2 Cache Recovery
-	2 Vulpine Sage
-	2 Deepgrowth Drake
-	2 The Arbiter's Elite
-	2 Ghastly Wanderer
-	2 Fallen of Kara
-	2 Splintering Fire
-	2 Lost to the Storm
-	2 Paths of Stolen Life
-	2 Herald of Naroz
-	2 Nausea From Beyond
-	2 Gazing Rage
-	2 Champion of Drakol
-	2 The Arbiter
-	2 Peaceful Charmer
-	2 Twilight Revelation
-	2 Drakoli Piracy
-	2 Wisps of Flaming Brilliance
-	2 Goliath Assailant
-	2 Doomteller Adept
-	2 Cultist of Cold Fate
-	2 Harbinger of Demise
-	2 Demon of Ruinous Fire
-	2 Illuminating Augur
-	2 Dread From Beyond
-	2 Celestial Encroachment
-	2 All The Darkest Hopes
-	2 Free Rider
-	2 Inquiry From Beyond
-	2 Uncover
-	2 Cosmic Immenseness
-	2 Celestial Darkness
-	2 Lively Pup
-	2 Spidroid
-	2 Sunset Dreamer
-	2 Ghastly Hunter
-	2 Leviathan Tides
-	2 Writhing Mound
-	2 Blood of Moonlight
-	2 Deepgrowth Explorer
-	2 Lost Curiosity
-	2 Energy Displacer
-	2 Reaper of Kara
-	2 Burning Quasar
-	2 Monk of Deafening Peace
-	2 Idyllic Tutor
-	2 Wavebringer
-	2 Eternity From Beyond
-	2 Kalan Explorer
-	2 Deepgrowth Expansion
-	2 Magitel, Flaming Brilliance
-	2 Cira, Lost in the Stars
-	2 Talza, the Defeated
-	2 Jhakan, Failed Lich
-	2 Nashar, Starry Turtle
-	2 Designed Emptiness
-	2 Naroz Icebreaker
-	2 Into Eternity
-	2 Firespace Seeker
-	2 Bringer of New Times
-	2 Illuminating Vortex
-	2 Cold Truths
-	2 Dark Dragonfire
-	2 Lightning Radiator
-	2 Chromatic Starlight
-	2 Emptylands Rover
-	2 Darkwave Container
-	2 The Arbiter's Retriever
-	2 Spacelight
-	2 Energizer
-	2 Swarm Engine
-	2 Shorian, Herald of the Beyond
-	2 Peace in Twilight
-	2 Warlock of Venomous Fire
-	2 Unbound Soul
-	2 The Arbiter's Harmonizer
-	2 Beyan Tormentor
-	2 Necromancer of the Depths
-	2 Lantern Bearer
-	2 Risen Thicket
-	2 Night of Stopped Water
-	2 Sunset Dancer
-	2 Endless Wreckage
-	2 Knight of Beya
-	2 Watchful Gaze
-	2 Endless Sunrise
-	2 Ancients From Beyond
-	2 Cosmic Incarnation
-	2 Marshland Birth
-[wildcard(1)]
-	7 In Search of Eternity
-	7 The Arbiter's Watcher
-	7 Icedroid
-	7 Lost Ghast
-	7 Savan Warden
-	7 Twisting Nebulas
-	7 Last Light of Naroz
-	7 Stack Popper
-	7 Ghost of Fallen Angels
-	7 Recursive Pyromage
-	7 Chosen of the Grand Oracles
-	7 Package Manager
-	7 Watching Eternity
-	7 Circular Import
-	7 Unexpected Token
-	7 Drorix, Cosmic Outcast
-	7 Luminescent Golem
-	7 The Final Frontier
-	7 Cavesplitter
-	7 Sava's Last Eclipse
-	7 Cosmically Centered
-	7 Otherworldly Wayfarer
-	7 The Arbiter's Raider
-	7 Past Left Behind
-	7 Stack Pusher
-	7 Shrouded Subjugator
-	7 Ocean Watcher
-	7 Shock
-	7 Fungal Raze
-	7 Traversing the Paths
-	7 Ethereal Spellbinder
-	7 Enduring Guardian
-	7 Boatman of Kala
-	7 Depths Giant
-	7 Eldo, Abyssal City
-	7 Night Rummager
-	7 Karan Assassin
-	7 Interplanar Informer
-	7 Laban Guardian
-	7 Planar Guard
-	7 Summoner of True Light
-	7 Cosmic Watcher
-	7 Corruption From Beyond
-	7 Hellfire Wyrm
-	7 Preserver of Voro
-	7 Tree of Celestial Light
-	7 Memory Leak
-	7 Seeker of Eternity
-	7 Marauder of Sava
-	7 Harmony of Voro
-	7 Clockwork Disciple
-	7 Sky of Beya
-	7 Look Across the Lake
-	7 Careless Whims
-	7 Titan of Sunrise
-	7 Destiny Diviner
-	7 Moonlight Spellbinder
-	7 Whisperer of The Arbiter
-	7 Scorcher
-	7 Dutiful Companion
-	7 Griffin of Serenity
-	7 Unchained Karan
-	7 Kala Eradicator
-	7 Yuku Mystic
-	7 Warp Gateway
-	7 Deny Access
-	7 Rite of the Grand Oracles
-	7 Marring Flames
-	7 Byte Down
-	7 Sunrise Lookout
-	7 Intellect From Beyond
-	7 Behemoth Beckoner
-	7 Savan Veteran
-	7 Sentinel of Sanctuaries
-	7 Shindu, Gleaming City
-	7 Zidan, Shadowy City
-	7 Kama, Shattered City
-	7 Toshin, Verdant City
-	7 Collected Entrancing
-	7 Power Off
-	7 Crystalized Dread
-	7 Pillar of Fury
-	7 Firmness of Toshin
-	7 Tranquil Wanderer
-	7 Final Arrival
-	7 Door to Eternity
-	7 Rage of Sava
-	7 Moonrise
-	7 Shadowmare
-	7 Heartless Executor
-	7 Cosmic Roamer
-	7 Fragments of Times Past
-	7 Warmth of a Thousand Souls
-	7 Herald of New Worlds
-	7 The Arbiter's Sight
-	7 Naroz Sentinel
-	7 Vicious Fiend
-	7 Artificial Ferocity
-	7 Dreary Voyager
-	7 Leviathan Caller
-	7 Malignant Hexer
-	7 Herald of Sparks
-	7 Phantom Stag
-	7 Undefined Reference
-	7 List Indexer
-	7 Abyssal Callback
-	7 Race Against Omnipotence
-	7 The Arbiter's Strength
-	7 Adrift Surveyor
-	7 Wistful Observer
-	7 Cache Recovery
-	7 Vulpine Sage
-	7 Deepgrowth Drake
-	7 The Arbiter's Elite
-	7 Ghastly Wanderer
-	7 Fallen of Kara
-	7 Splintering Fire
-	7 Lost to the Storm
-	7 Paths of Stolen Life
-	7 Herald of Naroz
-	7 Nausea From Beyond
-	7 Gazing Rage
-	7 Champion of Drakol
-	7 The Arbiter
-	7 Peaceful Charmer
-	7 Twilight Revelation
-	7 Drakoli Piracy
-	7 Wisps of Flaming Brilliance
-	7 Goliath Assailant
-	7 Doomteller Adept
-	7 Cultist of Cold Fate
-	7 Harbinger of Demise
-	7 Demon of Ruinous Fire
-	7 Illuminating Augur
-	7 Dread From Beyond
-	7 Celestial Encroachment
-	7 All The Darkest Hopes
-	7 Free Rider
-	7 Inquiry From Beyond
-	7 Uncover
-	7 Cosmic Immenseness
-	7 Celestial Darkness
-	7 Lively Pup
-	7 Spidroid
-	7 Sunset Dreamer
-	7 Ghastly Hunter
-	7 Leviathan Tides
-	7 Writhing Mound
-	7 Blood of Moonlight
-	7 Deepgrowth Explorer
-	7 Lost Curiosity
-	7 Energy Displacer
-	7 Reaper of Kara
-	7 Burning Quasar
-	7 Monk of Deafening Peace
-	7 Idyllic Tutor
-	7 Wavebringer
-	7 Eternity From Beyond
-	7 Kalan Explorer
-	7 Deepgrowth Expansion
-	7 Magitel, Flaming Brilliance
-	7 Cira, Lost in the Stars
-	7 Talza, the Defeated
-	7 Jhakan, Failed Lich
-	7 Nashar, Starry Turtle
-	7 Designed Emptiness
-	7 Naroz Icebreaker
-	7 Into Eternity
-	7 Firespace Seeker
-	7 Bringer of New Times
-	7 Illuminating Vortex
-	7 Cold Truths
-	7 Dark Dragonfire
-	7 Lightning Radiator
-	7 Chromatic Starlight
-	7 Emptylands Rover
-	7 Darkwave Container
-	7 The Arbiter's Retriever
-	7 Spacelight
-	7 Energizer
-	7 Swarm Engine
-	7 Shorian, Herald of the Beyond
-	7 Peace in Twilight
-	7 Warlock of Venomous Fire
-	7 Unbound Soul
-	7 The Arbiter's Harmonizer
-	7 Beyan Tormentor
-	7 Necromancer of the Depths
-	7 Lantern Bearer
-	7 Risen Thicket
-	7 Night of Stopped Water
-	7 Sunset Dancer
-	7 Endless Wreckage
-	7 Knight of Beya
-	7 Watchful Gaze
-	7 Endless Sunrise
-	7 Ancients From Beyond
-	7 Cosmic Incarnation
-	7 Marshland Birth
+[cube(15)]
+	1 In Search of Eternity
+	1 The Arbiter's Watcher
+	1 Icedroid
+	1 Lost Ghast
+	1 Savan Warden
+	1 Twisting Nebulas
+	1 Last Light of Naroz
+	1 Stack Popper
+	1 Ghost of Fallen Angels
+	1 Recursive Pyromage
+	1 Chosen of the Grand Oracles
+	1 Package Manager
+	1 Watching Eternity
+	1 Circular Import
+	1 Unexpected Token
+	1 Drorix, Cosmic Outcast
+	1 Luminescent Golem
+	1 The Final Frontier
+	1 Cavesplitter
+	1 Sava's Last Eclipse
+	1 Cosmically Centered
+	1 Otherworldly Wayfarer
+	1 The Arbiter's Raider
+	1 Past Left Behind
+	1 Stack Pusher
+	1 Shrouded Subjugator
+	1 Ocean Watcher
+	1 Shock
+	1 Fungal Raze
+	1 Traversing the Paths
+	1 Ethereal Spellbinder
+	1 Enduring Guardian
+	1 Boatman of Kala
+	1 Depths Giant
+	1 Eldo, Abyssal City
+	1 Night Rummager
+	1 Karan Assassin
+	1 Interplanar Informer
+	1 Laban Guardian
+	1 Planar Guard
+	1 Summoner of True Light
+	1 Cosmic Watcher
+	1 Corruption From Beyond
+	1 Hellfire Wyrm
+	1 Preserver of Voro
+	1 Tree of Celestial Light
+	1 Memory Leak
+	1 Seeker of Eternity
+	1 Marauder of Sava
+	1 Harmony of Voro
+	1 Clockwork Disciple
+	1 Sky of Beya
+	1 Look Across the Lake
+	1 Careless Whims
+	1 Titan of Sunrise
+	1 Destiny Diviner
+	1 Moonlight Spellbinder
+	1 Whisperer of The Arbiter
+	1 Scorcher
+	1 Dutiful Companion
+	1 Griffin of Serenity
+	1 Unchained Karan
+	1 Kala Eradicator
+	1 Yuku Mystic
+	1 Warp Gateway
+	1 Deny Access
+	1 Rite of the Grand Oracles
+	1 Marring Flames
+	1 Byte Down
+	1 Sunrise Lookout
+	1 Intellect From Beyond
+	1 Behemoth Beckoner
+	1 Savan Veteran
+	1 Sentinel of Sanctuaries
+	1 Shindu, Gleaming City
+	1 Zidan, Shadowy City
+	1 Kama, Shattered City
+	1 Toshin, Verdant City
+	1 Collected Entrancing
+	1 Power Off
+	1 Crystalized Dread
+	1 Pillar of Fury
+	1 Firmness of Toshin
+	1 Tranquil Wanderer
+	1 Final Arrival
+	1 Door to Eternity
+	1 Rage of Sava
+	1 Moonrise
+	1 Shadowmare
+	1 Heartless Executor
+	1 Cosmic Roamer
+	1 Fragments of Times Past
+	1 Warmth of a Thousand Souls
+	1 Herald of New Worlds
+	1 The Arbiter's Sight
+	1 Naroz Sentinel
+	1 Vicious Fiend
+	1 Artificial Ferocity
+	1 Dreary Voyager
+	1 Leviathan Caller
+	1 Malignant Hexer
+	1 Herald of Sparks
+	1 Phantom Stag
+	1 Undefined Reference
+	1 List Indexer
+	1 Abyssal Callback
+	1 Race Against Omnipotence
+	1 The Arbiter's Strength
+	1 Adrift Surveyor
+	1 Wistful Observer
+	1 Cache Recovery
+	1 Vulpine Sage
+	1 Deepgrowth Drake
+	1 The Arbiter's Elite
+	1 Ghastly Wanderer
+	1 Fallen of Kara
+	1 Splintering Fire
+	1 Lost to the Storm
+	1 Paths of Stolen Life
+	1 Herald of Naroz
+	1 Nausea From Beyond
+	1 Gazing Rage
+	1 Champion of Drakol
+	1 The Arbiter
+	1 Peaceful Charmer
+	1 Twilight Revelation
+	1 Drakoli Piracy
+	1 Wisps of Flaming Brilliance
+	1 Goliath Assailant
+	1 Doomteller Adept
+	1 Cultist of Cold Fate
+	1 Harbinger of Demise
+	1 Demon of Ruinous Fire
+	1 Illuminating Augur
+	1 Dread From Beyond
+	1 Celestial Encroachment
+	1 All The Darkest Hopes
+	1 Free Rider
+	1 Inquiry From Beyond
+	1 Uncover
+	1 Cosmic Immenseness
+	1 Celestial Darkness
+	1 Lively Pup
+	1 Spidroid
+	1 Sunset Dreamer
+	1 Ghastly Hunter
+	1 Leviathan Tides
+	1 Writhing Mound
+	1 Blood of Moonlight
+	1 Deepgrowth Explorer
+	1 Lost Curiosity
+	1 Energy Displacer
+	1 Reaper of Kara
+	1 Burning Quasar
+	1 Monk of Deafening Peace
+	1 Idyllic Tutor
+	1 Wavebringer
+	1 Eternity From Beyond
+	1 Kalan Explorer
+	1 Deepgrowth Expansion
+	1 Magitel, Flaming Brilliance
+	1 Cira, Lost in the Stars
+	1 Talza, the Defeated
+	1 Jhakan, Failed Lich
+	1 Nashar, Starry Turtle
+	1 Designed Emptiness
+	1 Naroz Icebreaker
+	1 Into Eternity
+	1 Firespace Seeker
+	1 Bringer of New Times
+	1 Illuminating Vortex
+	1 Cold Truths
+	1 Dark Dragonfire
+	1 Lightning Radiator
+	1 Chromatic Starlight
+	1 Emptylands Rover
+	1 Darkwave Container
+	1 The Arbiter's Retriever
+	1 Spacelight
+	1 Energizer
+	1 Swarm Engine
+	1 Shorian, Herald of the Beyond
+	1 Peace in Twilight
+	1 Warlock of Venomous Fire
+	1 Unbound Soul
+	1 The Arbiter's Harmonizer
+	1 Beyan Tormentor
+	1 Necromancer of the Depths
+	1 Lantern Bearer
+	1 Risen Thicket
+	1 Night of Stopped Water
+	1 Sunset Dancer
+	1 Endless Wreckage
+	1 Knight of Beya
+	1 Watchful Gaze
+	1 Endless Sunrise
+	1 Ancients From Beyond
+	1 Cosmic Incarnation
+	1 Marshland Birth

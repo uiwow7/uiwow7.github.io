@@ -1,0 +1,914 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="../sets/SHD-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
+	<title>SHD visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('../resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.close-btn {
+			background: url('../img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('../img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr ;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			max-width: 1200px;
+			margin: auto;
+			justify-items: center;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+			border-radius: 3.733% / 2.677%;
+		}
+		.flip-btn {
+			background: url('../img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('../img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 5%;
+			width: fit-content;
+			max-width: 90%;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: grid;
+			grid-template-columns: 1fr;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/SHD-files/logo.png" />
+	<img class="preload-hidden" src="../sets/DCO-files/icon.png" />
+		<img class="preload-hidden" src="../sets/DSW-files/icon.png" />
+		<img class="preload-hidden" src="../sets/SHS-files/icon.png" />
+		<img class="preload-hidden" src="../sets/CC01-files/icon.png" />
+		<img class="preload-hidden" src="../sets/MC25-files/icon.png" />
+		<img class="preload-hidden" src="../sets/MSY-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
+		</div>
+	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="../previews/SHD"><img src="../sets/SHD-files/icon.png">Shattering Divinity</a>
+	
+		<a class="set-bar inactive" href="../previews/DCO"><img src="../sets/DCO-files/icon.png">Dazon: Cosmic Outcasts</a>
+	
+		<a class="set-bar inactive" href="../previews/DSW"><img src="../sets/DSW-files/icon.png">Dazon: Splintered Worlds</a>
+	
+		<a class="set-bar inactive" href="../previews/SHS"><img src="../sets/SHS-files/icon.png">A Shattered Sword</a>
+	
+		<a class="set-bar inactive" href="../previews/CC01"><img src="../sets/CC01-files/icon.png">Voyager Card Contest 1 — Aanginer</a>
+	
+		<a class="set-bar inactive" href="../previews/MC25"><img src="../sets/MC25-files/icon.png">Aaanginer MC25 Submission</a>
+	
+		<a class="set-bar inactive" href="../previews/MSY"><img src="../sets/MSY-files/icon.png">Aanginer MSEM Mystery Community Slots</a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="../sets/SHD-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img loading="lazy" alt="sets\SHD-files\img\18_MW01 Small Creature.jpg" id="SHD_18_MW01 Small Creature" data-flag="@X" onclick="openSidebar('SHD_18_MW01 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\61_MU01 Large Creature.jpg" id="SHD_61_MU01 Large Creature" data-flag="@X" onclick="openSidebar('SHD_61_MU01 Large Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\102_MB01 Medium Creature.jpg" id="SHD_102_MB01 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_102_MB01 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\144_MR01 Medium Creature.jpg" id="SHD_144_MR01 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_144_MR01 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\186_MG01 Small Creature.jpg" id="SHD_186_MG01 Small Creature" data-flag="@X" onclick="openSidebar('SHD_186_MG01 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\19_MW02 Large Creature.jpg" id="SHD_19_MW02 Large Creature" data-flag="@X" onclick="openSidebar('SHD_19_MW02 Large Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\62_MU02 Noncreature.jpg" id="SHD_62_MU02 Noncreature" data-flag="@X" onclick="openSidebar('SHD_62_MU02 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\103_MB02 Noncreature.jpg" id="SHD_103_MB02 Noncreature" data-flag="@X" onclick="openSidebar('SHD_103_MB02 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\145_MR02 Noncreature.jpg" id="SHD_145_MR02 Noncreature" data-flag="@X" onclick="openSidebar('SHD_145_MR02 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\187_MG02 Small Creature.jpg" id="SHD_187_MG02 Small Creature" data-flag="@X" onclick="openSidebar('SHD_187_MG02 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\20_RW01 Small Creature.jpg" id="SHD_20_RW01 Small Creature" data-flag="@X" onclick="openSidebar('SHD_20_RW01 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\63_RU01 SmallWall Creature.jpg" id="SHD_63_RU01 SmallWall Creature" data-flag="@X" onclick="openSidebar('SHD_63_RU01 SmallWall Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\104_RB01 Small Creature.jpg" id="SHD_104_RB01 Small Creature" data-flag="@X" onclick="openSidebar('SHD_104_RB01 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\146_RR01 Small Creature.jpg" id="SHD_146_RR01 Small Creature" data-flag="@X" onclick="openSidebar('SHD_146_RR01 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\188_RG01 Medium Creature.jpg" id="SHD_188_RG01 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_188_RG01 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\21_RW02 Small Creature.jpg" id="SHD_21_RW02 Small Creature" data-flag="@X" onclick="openSidebar('SHD_21_RW02 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\64_RU02 Medium Creature.jpg" id="SHD_64_RU02 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_64_RU02 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\105_RB02 Medium Creature.jpg" id="SHD_105_RB02 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_105_RB02 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\147_RR02 Medium Creature.jpg" id="SHD_147_RR02 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_147_RR02 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\189_RG02 Medium Creature.jpg" id="SHD_189_RG02 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_189_RG02 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\22_RW03 Medium Creature.jpg" id="SHD_22_RW03 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_22_RW03 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\65_RU03 Medium Creature.jpg" id="SHD_65_RU03 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_65_RU03 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\106_RB03 Medium Creature.jpg" id="SHD_106_RB03 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_106_RB03 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\148_RR03 Large Creature.jpg" id="SHD_148_RR03 Large Creature" data-flag="@X" onclick="openSidebar('SHD_148_RR03 Large Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\190_RG03 Medium Creature.jpg" id="SHD_190_RG03 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_190_RG03 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\23_RW04 Medium Creature.jpg" id="SHD_23_RW04 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_23_RW04 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\66_RU04 Large Creature.jpg" id="SHD_66_RU04 Large Creature" data-flag="@X" onclick="openSidebar('SHD_66_RU04 Large Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\107_RB04 Noncreature.jpg" id="SHD_107_RB04 Noncreature" data-flag="@X" onclick="openSidebar('SHD_107_RB04 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\149_RR04 Noncreature.jpg" id="SHD_149_RR04 Noncreature" data-flag="@X" onclick="openSidebar('SHD_149_RR04 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\191_RG04 Noncreature.jpg" id="SHD_191_RG04 Noncreature" data-flag="@X" onclick="openSidebar('SHD_191_RG04 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\24_RW05 Large Creature.jpg" id="SHD_24_RW05 Large Creature" data-flag="@X" onclick="openSidebar('SHD_24_RW05 Large Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\67_RU05 Noncreature.jpg" id="SHD_67_RU05 Noncreature" data-flag="@X" onclick="openSidebar('SHD_67_RU05 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\108_RB05 Noncreature.jpg" id="SHD_108_RB05 Noncreature" data-flag="@X" onclick="openSidebar('SHD_108_RB05 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\150_RR05 Noncreature.jpg" id="SHD_150_RR05 Noncreature" data-flag="@X" onclick="openSidebar('SHD_150_RR05 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\192_RG05 Noncreature.jpg" id="SHD_192_RG05 Noncreature" data-flag="@X" onclick="openSidebar('SHD_192_RG05 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\25_RW06 Noncreature.jpg" id="SHD_25_RW06 Noncreature" data-flag="@X" onclick="openSidebar('SHD_25_RW06 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\68_RU06 Noncreature.jpg" id="SHD_68_RU06 Noncreature" data-flag="@X" onclick="openSidebar('SHD_68_RU06 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\109_RB06 Noncreature.jpg" id="SHD_109_RB06 Noncreature" data-flag="@X" onclick="openSidebar('SHD_109_RB06 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\151_RR06 Noncreature.jpg" id="SHD_151_RR06 Noncreature" data-flag="@X" onclick="openSidebar('SHD_151_RR06 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\193_RG06 Noncreature.jpg" id="SHD_193_RG06 Noncreature" data-flag="@X" onclick="openSidebar('SHD_193_RG06 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\26_RW07 Noncreature.jpg" id="SHD_26_RW07 Noncreature" data-flag="@X" onclick="openSidebar('SHD_26_RW07 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\69_RU07 Noncreature.jpg" id="SHD_69_RU07 Noncreature" data-flag="@X" onclick="openSidebar('SHD_69_RU07 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\110_RB07 Noncreature.jpg" id="SHD_110_RB07 Noncreature" data-flag="@X" onclick="openSidebar('SHD_110_RB07 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\152_RR07 Noncreature.jpg" id="SHD_152_RR07 Noncreature" data-flag="@X" onclick="openSidebar('SHD_152_RR07 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\194_RG07 Noncreature.jpg" id="SHD_194_RG07 Noncreature" data-flag="@X" onclick="openSidebar('SHD_194_RG07 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\27_RW08 Noncreature.jpg" id="SHD_27_RW08 Noncreature" data-flag="@X" onclick="openSidebar('SHD_27_RW08 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\70_UU01 Small Creature.jpg" id="SHD_70_UU01 Small Creature" data-flag="@X" onclick="openSidebar('SHD_70_UU01 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\111_RB08 Noncreature.jpg" id="SHD_111_RB08 Noncreature" data-flag="@X" onclick="openSidebar('SHD_111_RB08 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\153_RR08 Noncreature.jpg" id="SHD_153_RR08 Noncreature" data-flag="@X" onclick="openSidebar('SHD_153_RR08 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\195_UG01 Small Creature.jpg" id="SHD_195_UG01 Small Creature" data-flag="@X" onclick="openSidebar('SHD_195_UG01 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\28_RW09 Noncreature.jpg" id="SHD_28_RW09 Noncreature" data-flag="@X" onclick="openSidebar('SHD_28_RW09 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\71_UU02 Small Creature.jpg" id="SHD_71_UU02 Small Creature" data-flag="@X" onclick="openSidebar('SHD_71_UU02 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\112_UB01 Small Creature.jpg" id="SHD_112_UB01 Small Creature" data-flag="@X" onclick="openSidebar('SHD_112_UB01 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\154_UR01 Small Creature.jpg" id="SHD_154_UR01 Small Creature" data-flag="@X" onclick="openSidebar('SHD_154_UR01 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\196_UG02 Small Creature.jpg" id="SHD_196_UG02 Small Creature" data-flag="@X" onclick="openSidebar('SHD_196_UG02 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\29_UW01 Small Creature.jpg" id="SHD_29_UW01 Small Creature" data-flag="@X" onclick="openSidebar('SHD_29_UW01 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\72_UU03 Small Creature.jpg" id="SHD_72_UU03 Small Creature" data-flag="@X" onclick="openSidebar('SHD_72_UU03 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\113_UB02 Small Creature.jpg" id="SHD_113_UB02 Small Creature" data-flag="@X" onclick="openSidebar('SHD_113_UB02 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\155_UR02 Small Creature.jpg" id="SHD_155_UR02 Small Creature" data-flag="@X" onclick="openSidebar('SHD_155_UR02 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\197_UG03 Small Creature.jpg" id="SHD_197_UG03 Small Creature" data-flag="@X" onclick="openSidebar('SHD_197_UG03 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\30_UW02 Small Creature.jpg" id="SHD_30_UW02 Small Creature" data-flag="@X" onclick="openSidebar('SHD_30_UW02 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\73_UU04 Small Creature.jpg" id="SHD_73_UU04 Small Creature" data-flag="@X" onclick="openSidebar('SHD_73_UU04 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\114_UB03 Small Creature.jpg" id="SHD_114_UB03 Small Creature" data-flag="@X" onclick="openSidebar('SHD_114_UB03 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\156_UR03 Small Creature.jpg" id="SHD_156_UR03 Small Creature" data-flag="@X" onclick="openSidebar('SHD_156_UR03 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\198_UG04 Small Creature.jpg" id="SHD_198_UG04 Small Creature" data-flag="@X" onclick="openSidebar('SHD_198_UG04 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\31_UW03 Small Creature.jpg" id="SHD_31_UW03 Small Creature" data-flag="@X" onclick="openSidebar('SHD_31_UW03 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\74_UU05 Small Creature.jpg" id="SHD_74_UU05 Small Creature" data-flag="@X" onclick="openSidebar('SHD_74_UU05 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\115_UB04 Small Creature.jpg" id="SHD_115_UB04 Small Creature" data-flag="@X" onclick="openSidebar('SHD_115_UB04 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\157_UR04 SmallWall Creature.jpg" id="SHD_157_UR04 SmallWall Creature" data-flag="@X" onclick="openSidebar('SHD_157_UR04 SmallWall Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\199_UG05 Medium Creature.jpg" id="SHD_199_UG05 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_199_UG05 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\32_UW04 Small Creature.jpg" id="SHD_32_UW04 Small Creature" data-flag="@X" onclick="openSidebar('SHD_32_UW04 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\75_UU06 Small Creature.jpg" id="SHD_75_UU06 Small Creature" data-flag="@X" onclick="openSidebar('SHD_75_UU06 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\116_UB05 Small Creature.jpg" id="SHD_116_UB05 Small Creature" data-flag="@X" onclick="openSidebar('SHD_116_UB05 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\158_UR05 Medium Creature.jpg" id="SHD_158_UR05 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_158_UR05 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\200_UG06 Medium Creature.jpg" id="SHD_200_UG06 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_200_UG06 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\33_UW05 Small Creature.jpg" id="SHD_33_UW05 Small Creature" data-flag="@X" onclick="openSidebar('SHD_33_UW05 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\76_UU07 Medium Creature.jpg" id="SHD_76_UU07 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_76_UU07 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\117_UB06 Medium Creature.jpg" id="SHD_117_UB06 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_117_UB06 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\159_UR06 Medium Creature.jpg" id="SHD_159_UR06 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_159_UR06 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\201_UG07 Medium Creature.jpg" id="SHD_201_UG07 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_201_UG07 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\34_UW06 Medium Creature.jpg" id="SHD_34_UW06 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_34_UW06 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\77_UU08 Medium Creature.jpg" id="SHD_77_UU08 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_77_UU08 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\118_UB07 Medium Creature.jpg" id="SHD_118_UB07 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_118_UB07 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\160_UR07 Medium Creature.jpg" id="SHD_160_UR07 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_160_UR07 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\202_UG08 Medium Creature.jpg" id="SHD_202_UG08 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_202_UG08 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\35_UW07 Medium Creature.jpg" id="SHD_35_UW07 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_35_UW07 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\78_UU09 Large Creature.jpg" id="SHD_78_UU09 Large Creature" data-flag="@X" onclick="openSidebar('SHD_78_UU09 Large Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\119_UB08 Medium Creature.jpg" id="SHD_119_UB08 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_119_UB08 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\161_UR08 Large Creature.jpg" id="SHD_161_UR08 Large Creature" data-flag="@X" onclick="openSidebar('SHD_161_UR08 Large Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\203_UG09 Medium Creature.jpg" id="SHD_203_UG09 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_203_UG09 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\36_UW08 Medium Creature.jpg" id="SHD_36_UW08 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_36_UW08 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\79_UU10 Noncreature.jpg" id="SHD_79_UU10 Noncreature" data-flag="@X" onclick="openSidebar('SHD_79_UU10 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\120_UB09 Large Creature.jpg" id="SHD_120_UB09 Large Creature" data-flag="@X" onclick="openSidebar('SHD_120_UB09 Large Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\162_UR09 Large Creature.jpg" id="SHD_162_UR09 Large Creature" data-flag="@X" onclick="openSidebar('SHD_162_UR09 Large Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\204_UG10 Large Creature.jpg" id="SHD_204_UG10 Large Creature" data-flag="@X" onclick="openSidebar('SHD_204_UG10 Large Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\37_UW09 Medium Creature.jpg" id="SHD_37_UW09 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_37_UW09 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\80_UU11 Noncreature.jpg" id="SHD_80_UU11 Noncreature" data-flag="@X" onclick="openSidebar('SHD_80_UU11 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\121_UB10 Noncreature.jpg" id="SHD_121_UB10 Noncreature" data-flag="@X" onclick="openSidebar('SHD_121_UB10 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\163_UR10 Noncreature.jpg" id="SHD_163_UR10 Noncreature" data-flag="@X" onclick="openSidebar('SHD_163_UR10 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\205_UG11 Large Creature.jpg" id="SHD_205_UG11 Large Creature" data-flag="@X" onclick="openSidebar('SHD_205_UG11 Large Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\38_UW10 Large Creature.jpg" id="SHD_38_UW10 Large Creature" data-flag="@X" onclick="openSidebar('SHD_38_UW10 Large Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\81_UU12 Noncreature.jpg" id="SHD_81_UU12 Noncreature" data-flag="@X" onclick="openSidebar('SHD_81_UU12 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\122_UB11 Noncreature.jpg" id="SHD_122_UB11 Noncreature" data-flag="@X" onclick="openSidebar('SHD_122_UB11 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\164_UR11 Noncreature.jpg" id="SHD_164_UR11 Noncreature" data-flag="@X" onclick="openSidebar('SHD_164_UR11 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\206_UG12 Noncreature.jpg" id="SHD_206_UG12 Noncreature" data-flag="@X" onclick="openSidebar('SHD_206_UG12 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\39_UW11 Noncreature.jpg" id="SHD_39_UW11 Noncreature" data-flag="@X" onclick="openSidebar('SHD_39_UW11 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\82_UU13 Noncreature.jpg" id="SHD_82_UU13 Noncreature" data-flag="@X" onclick="openSidebar('SHD_82_UU13 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\123_UB12 Noncreature.jpg" id="SHD_123_UB12 Noncreature" data-flag="@X" onclick="openSidebar('SHD_123_UB12 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\165_UR12 Noncreature.jpg" id="SHD_165_UR12 Noncreature" data-flag="@X" onclick="openSidebar('SHD_165_UR12 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\207_UG13 Noncreature.jpg" id="SHD_207_UG13 Noncreature" data-flag="@X" onclick="openSidebar('SHD_207_UG13 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\40_UW12 Noncreature.jpg" id="SHD_40_UW12 Noncreature" data-flag="@X" onclick="openSidebar('SHD_40_UW12 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\83_UU14 Noncreature.jpg" id="SHD_83_UU14 Noncreature" data-flag="@X" onclick="openSidebar('SHD_83_UU14 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\124_UB13 Noncreature.jpg" id="SHD_124_UB13 Noncreature" data-flag="@X" onclick="openSidebar('SHD_124_UB13 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\166_UR13 Noncreature.jpg" id="SHD_166_UR13 Noncreature" data-flag="@X" onclick="openSidebar('SHD_166_UR13 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\208_UG14 Noncreature.jpg" id="SHD_208_UG14 Noncreature" data-flag="@X" onclick="openSidebar('SHD_208_UG14 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\41_UW13 Noncreature.jpg" id="SHD_41_UW13 Noncreature" data-flag="@X" onclick="openSidebar('SHD_41_UW13 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\84_UU15 Noncreature.jpg" id="SHD_84_UU15 Noncreature" data-flag="@X" onclick="openSidebar('SHD_84_UU15 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\125_UB14 Noncreature.jpg" id="SHD_125_UB14 Noncreature" data-flag="@X" onclick="openSidebar('SHD_125_UB14 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\167_UR14 Noncreature.jpg" id="SHD_167_UR14 Noncreature" data-flag="@X" onclick="openSidebar('SHD_167_UR14 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\209_UG15 Noncreature.jpg" id="SHD_209_UG15 Noncreature" data-flag="@X" onclick="openSidebar('SHD_209_UG15 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\42_UW14 Noncreature.jpg" id="SHD_42_UW14 Noncreature" data-flag="@X" onclick="openSidebar('SHD_42_UW14 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\85_UU16 Noncreature.jpg" id="SHD_85_UU16 Noncreature" data-flag="@X" onclick="openSidebar('SHD_85_UU16 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\126_UB15 Noncreature.jpg" id="SHD_126_UB15 Noncreature" data-flag="@X" onclick="openSidebar('SHD_126_UB15 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\168_UR15 Noncreature.jpg" id="SHD_168_UR15 Noncreature" data-flag="@X" onclick="openSidebar('SHD_168_UR15 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\210_UG16 Noncreature.jpg" id="SHD_210_UG16 Noncreature" data-flag="@X" onclick="openSidebar('SHD_210_UG16 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\43_UW15 Noncreature.jpg" id="SHD_43_UW15 Noncreature" data-flag="@X" onclick="openSidebar('SHD_43_UW15 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\86_UU17 Noncreature.jpg" id="SHD_86_UU17 Noncreature" data-flag="@X" onclick="openSidebar('SHD_86_UU17 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\127_UB16 Noncreature.jpg" id="SHD_127_UB16 Noncreature" data-flag="@X" onclick="openSidebar('SHD_127_UB16 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\169_UR16 Noncreature.jpg" id="SHD_169_UR16 Noncreature" data-flag="@X" onclick="openSidebar('SHD_169_UR16 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\211_UG17 Noncreature.jpg" id="SHD_211_UG17 Noncreature" data-flag="@X" onclick="openSidebar('SHD_211_UG17 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\44_UW16 Noncreature.jpg" id="SHD_44_UW16 Noncreature" data-flag="@X" onclick="openSidebar('SHD_44_UW16 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\46_CU01 Small Creature.jpg" id="SHD_46_CU01 Small Creature" data-flag="@X" onclick="openSidebar('SHD_46_CU01 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\128_UB17 Noncreature.jpg" id="SHD_128_UB17 Noncreature" data-flag="@X" onclick="openSidebar('SHD_128_UB17 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\170_UR17 Noncreature.jpg" id="SHD_170_UR17 Noncreature" data-flag="@X" onclick="openSidebar('SHD_170_UR17 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\171_CG01 Small Creature.jpg" id="SHD_171_CG01 Small Creature" data-flag="@X" onclick="openSidebar('SHD_171_CG01 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\45_UW17 Noncreature.jpg" id="SHD_45_UW17 Noncreature" data-flag="@X" onclick="openSidebar('SHD_45_UW17 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\47_CU02 Small Creature.jpg" id="SHD_47_CU02 Small Creature" data-flag="@X" onclick="openSidebar('SHD_47_CU02 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\87_CB01 Small Creature.jpg" id="SHD_87_CB01 Small Creature" data-flag="@X" onclick="openSidebar('SHD_87_CB01 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\129_CR01 Small Creature.jpg" id="SHD_129_CR01 Small Creature" data-flag="@X" onclick="openSidebar('SHD_129_CR01 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\172_CG02 Small Creature.jpg" id="SHD_172_CG02 Small Creature" data-flag="@X" onclick="openSidebar('SHD_172_CG02 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\3_CW01 Small Creature.jpg" id="SHD_3_CW01 Small Creature" data-flag="@X" onclick="openSidebar('SHD_3_CW01 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\48_CU03 Medium Creature.jpg" id="SHD_48_CU03 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_48_CU03 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\88_CB02 Small Creature.jpg" id="SHD_88_CB02 Small Creature" data-flag="@X" onclick="openSidebar('SHD_88_CB02 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\130_CR02 Small Creature.jpg" id="SHD_130_CR02 Small Creature" data-flag="@X" onclick="openSidebar('SHD_130_CR02 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\173_CG03 Small Creature.jpg" id="SHD_173_CG03 Small Creature" data-flag="@X" onclick="openSidebar('SHD_173_CG03 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\4_CW02 Small Creature.jpg" id="SHD_4_CW02 Small Creature" data-flag="@X" onclick="openSidebar('SHD_4_CW02 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\49_CU04 Medium Creature.jpg" id="SHD_49_CU04 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_49_CU04 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\89_CB03 Small Creature.jpg" id="SHD_89_CB03 Small Creature" data-flag="@X" onclick="openSidebar('SHD_89_CB03 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\131_CR03 Small Creature.jpg" id="SHD_131_CR03 Small Creature" data-flag="@X" onclick="openSidebar('SHD_131_CR03 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\174_CG04 Medium Creature.jpg" id="SHD_174_CG04 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_174_CG04 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\5_CW03 Small Creature.jpg" id="SHD_5_CW03 Small Creature" data-flag="@X" onclick="openSidebar('SHD_5_CW03 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\50_CU05 Medium Creature.jpg" id="SHD_50_CU05 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_50_CU05 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\90_CB04 Small Creature.jpg" id="SHD_90_CB04 Small Creature" data-flag="@X" onclick="openSidebar('SHD_90_CB04 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\132_CR04 Small Creature.jpg" id="SHD_132_CR04 Small Creature" data-flag="@X" onclick="openSidebar('SHD_132_CR04 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\175_CG05 Medium Creature.jpg" id="SHD_175_CG05 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_175_CG05 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\6_CW04 Small Creature.jpg" id="SHD_6_CW04 Small Creature" data-flag="@X" onclick="openSidebar('SHD_6_CW04 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\51_CU06 Medium Creature.jpg" id="SHD_51_CU06 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_51_CU06 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\91_CB05 Small Creature.jpg" id="SHD_91_CB05 Small Creature" data-flag="@X" onclick="openSidebar('SHD_91_CB05 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\133_CR05 Medium Creature.jpg" id="SHD_133_CR05 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_133_CR05 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\176_CG06 Medium Creature.jpg" id="SHD_176_CG06 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_176_CG06 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\7_CW05 Small Creature.jpg" id="SHD_7_CW05 Small Creature" data-flag="@X" onclick="openSidebar('SHD_7_CW05 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\52_CU07 Medium Creature.jpg" id="SHD_52_CU07 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_52_CU07 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\92_CB06 Medium Creature.jpg" id="SHD_92_CB06 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_92_CB06 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\134_CR06 Medium Creature.jpg" id="SHD_134_CR06 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_134_CR06 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\177_CG07 Medium Creature.jpg" id="SHD_177_CG07 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_177_CG07 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\8_CW06 Small Creature.jpg" id="SHD_8_CW06 Small Creature" data-flag="@X" onclick="openSidebar('SHD_8_CW06 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\53_CU08 MediumWall Creature.jpg" id="SHD_53_CU08 MediumWall Creature" data-flag="@X" onclick="openSidebar('SHD_53_CU08 MediumWall Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\93_CB07 Medium Creature.jpg" id="SHD_93_CB07 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_93_CB07 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\135_CR07 Medium Creature.jpg" id="SHD_135_CR07 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_135_CR07 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\178_CG08 Medium Creature.jpg" id="SHD_178_CG08 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_178_CG08 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\9_CW07 Small Creature.jpg" id="SHD_9_CW07 Small Creature" data-flag="@X" onclick="openSidebar('SHD_9_CW07 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\54_CU09 Large Creature.jpg" id="SHD_54_CU09 Large Creature" data-flag="@X" onclick="openSidebar('SHD_54_CU09 Large Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\94_CB08 Medium Creature.jpg" id="SHD_94_CB08 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_94_CB08 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\136_CR08 Medium Creature.jpg" id="SHD_136_CR08 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_136_CR08 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\179_CG09 Large Creature.jpg" id="SHD_179_CG09 Large Creature" data-flag="@X" onclick="openSidebar('SHD_179_CG09 Large Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\10_CW08 Medium Creature.jpg" id="SHD_10_CW08 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_10_CW08 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\55_CU10 Noncreature.jpg" id="SHD_55_CU10 Noncreature" data-flag="@X" onclick="openSidebar('SHD_55_CU10 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\95_CB09 Large Creature.jpg" id="SHD_95_CB09 Large Creature" data-flag="@X" onclick="openSidebar('SHD_95_CB09 Large Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\137_CR09 Medium Creature.jpg" id="SHD_137_CR09 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_137_CR09 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\180_CG10 Large Creature.jpg" id="SHD_180_CG10 Large Creature" data-flag="@X" onclick="openSidebar('SHD_180_CG10 Large Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\11_CW09 Medium Creature.jpg" id="SHD_11_CW09 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_11_CW09 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\56_CU11 Noncreature.jpg" id="SHD_56_CU11 Noncreature" data-flag="@X" onclick="openSidebar('SHD_56_CU11 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\96_CB10 Noncreature.jpg" id="SHD_96_CB10 Noncreature" data-flag="@X" onclick="openSidebar('SHD_96_CB10 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\138_CR10 Large Creature.jpg" id="SHD_138_CR10 Large Creature" data-flag="@X" onclick="openSidebar('SHD_138_CR10 Large Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\181_CG11 Noncreature.jpg" id="SHD_181_CG11 Noncreature" data-flag="@X" onclick="openSidebar('SHD_181_CG11 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\12_CW10 Medium Creature.jpg" id="SHD_12_CW10 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_12_CW10 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\57_CU12 Noncreature.jpg" id="SHD_57_CU12 Noncreature" data-flag="@X" onclick="openSidebar('SHD_57_CU12 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\97_CB11 Noncreature.jpg" id="SHD_97_CB11 Noncreature" data-flag="@X" onclick="openSidebar('SHD_97_CB11 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\139_CR11 Noncreature.jpg" id="SHD_139_CR11 Noncreature" data-flag="@X" onclick="openSidebar('SHD_139_CR11 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\182_CG12 Noncreature.jpg" id="SHD_182_CG12 Noncreature" data-flag="@X" onclick="openSidebar('SHD_182_CG12 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\13_CW12 Combat Trick.jpg" id="SHD_13_CW12 Combat Trick" data-flag="@X" onclick="openSidebar('SHD_13_CW12 Combat Trick',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\58_CU13 Noncreature.jpg" id="SHD_58_CU13 Noncreature" data-flag="@X" onclick="openSidebar('SHD_58_CU13 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\98_CB12 Noncreature.jpg" id="SHD_98_CB12 Noncreature" data-flag="@X" onclick="openSidebar('SHD_98_CB12 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\140_CR12 Noncreature.jpg" id="SHD_140_CR12 Noncreature" data-flag="@X" onclick="openSidebar('SHD_140_CR12 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\183_CG13 Noncreature.jpg" id="SHD_183_CG13 Noncreature" data-flag="@X" onclick="openSidebar('SHD_183_CG13 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\14_CW13 Banishing Light.jpg" id="SHD_14_CW13 Banishing Light" data-flag="@X" onclick="openSidebar('SHD_14_CW13 Banishing Light',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\59_CU14 Noncreature.jpg" id="SHD_59_CU14 Noncreature" data-flag="@X" onclick="openSidebar('SHD_59_CU14 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\99_CB13 Noncreature.jpg" id="SHD_99_CB13 Noncreature" data-flag="@X" onclick="openSidebar('SHD_99_CB13 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\141_CR13 Noncreature.jpg" id="SHD_141_CR13 Noncreature" data-flag="@X" onclick="openSidebar('SHD_141_CR13 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\184_CG14 Noncreature.jpg" id="SHD_184_CG14 Noncreature" data-flag="@X" onclick="openSidebar('SHD_184_CG14 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\15_CW14 Aura.jpg" id="SHD_15_CW14 Aura" data-flag="@X" onclick="openSidebar('SHD_15_CW14 Aura',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\60_CU15 Noncreature.jpg" id="SHD_60_CU15 Noncreature" data-flag="@X" onclick="openSidebar('SHD_60_CU15 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\100_CB14 Noncreature.jpg" id="SHD_100_CB14 Noncreature" data-flag="@X" onclick="openSidebar('SHD_100_CB14 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\142_CR14 Noncreature.jpg" id="SHD_142_CR14 Noncreature" data-flag="@X" onclick="openSidebar('SHD_142_CR14 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\185_CG15 Noncreature.jpg" id="SHD_185_CG15 Noncreature" data-flag="@X" onclick="openSidebar('SHD_185_CG15 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\16_CW15 Removal.jpg" id="SHD_16_CW15 Removal" data-flag="@X" onclick="openSidebar('SHD_16_CW15 Removal',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SHD_e" data-flag="@E" onclick="openSidebar('SHD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\101_CB15 Noncreature.jpg" id="SHD_101_CB15 Noncreature" data-flag="@X" onclick="openSidebar('SHD_101_CB15 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\143_CR15 Noncreature.jpg" id="SHD_143_CR15 Noncreature" data-flag="@X" onclick="openSidebar('SHD_143_CR15 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SHD_e" data-flag="@E" onclick="openSidebar('SHD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\17_Fate Smother.jpg" id="SHD_17_Fate Smother" data-flag="@X" onclick="openSidebar('SHD_17_Fate Smother',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SHD_e" data-flag="@E" onclick="openSidebar('SHD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SHD_e" data-flag="@E" onclick="openSidebar('SHD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SHD_e" data-flag="@E" onclick="openSidebar('SHD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SHD_e" data-flag="@E" onclick="openSidebar('SHD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SHD_er" data-flag="@E" onclick="openSidebar('SHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SHD_er" data-flag="@E" onclick="openSidebar('SHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SHD_er" data-flag="@E" onclick="openSidebar('SHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SHD_er" data-flag="@E" onclick="openSidebar('SHD_er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\222_RM09 Noncreature.jpg" id="SHD_222_RM09 Noncreature" data-flag="@X" onclick="openSidebar('SHD_222_RM09 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\223_RM10 Noncreature.jpg" id="SHD_223_RM10 Noncreature" data-flag="@X" onclick="openSidebar('SHD_223_RM10 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\224_RM11 Noncreature.jpg" id="SHD_224_RM11 Noncreature" data-flag="@X" onclick="openSidebar('SHD_224_RM11 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\215_RM02 Small Creature.jpg" id="SHD_215_RM02 Small Creature" data-flag="@X" onclick="openSidebar('SHD_215_RM02 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\214_RM01 Small Creature.jpg" id="SHD_214_RM01 Small Creature" data-flag="@X" onclick="openSidebar('SHD_214_RM01 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\228_UM02 Small Creature.jpg" id="SHD_228_UM02 Small Creature" data-flag="@X" onclick="openSidebar('SHD_228_UM02 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\238_UM08 Medium Creature.jpg" id="SHD_238_UM08 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_238_UM08 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\234_UM05 Small Creature.jpg" id="SHD_234_UM05 Small Creature" data-flag="@X" onclick="openSidebar('SHD_234_UM05 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\237_UM07 Medium Creature.jpg" id="SHD_237_UM07 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_237_UM07 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\241_UM09 Medium Creature.jpg" id="SHD_241_UM09 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_241_UM09 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SHD_er" data-flag="@E" onclick="openSidebar('SHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SHD_er" data-flag="@E" onclick="openSidebar('SHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SHD_er" data-flag="@E" onclick="openSidebar('SHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SHD_er" data-flag="@E" onclick="openSidebar('SHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SHD_er" data-flag="@E" onclick="openSidebar('SHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\217_RM04 Small Creature.jpg" id="SHD_217_RM04 Small Creature" data-flag="@X" onclick="openSidebar('SHD_217_RM04 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\219_RM06 Small Creature.jpg" id="SHD_219_RM06 Small Creature" data-flag="@X" onclick="openSidebar('SHD_219_RM06 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\221_RM08 Medium Creature.jpg" id="SHD_221_RM08 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_221_RM08 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\213_MM01 Medium Creature.jpg" id="SHD_213_MM01 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_213_MM01 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\218_RM05 Small Creature.jpg" id="SHD_218_RM05 Small Creature" data-flag="@X" onclick="openSidebar('SHD_218_RM05 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\243_UM10 Medium Creature.jpg" id="SHD_243_UM10 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_243_UM10 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\230_UM03 Small Creature.jpg" id="SHD_230_UM03 Small Creature" data-flag="@X" onclick="openSidebar('SHD_230_UM03 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\212_Depths Soulthief.jpg" id="SHD_212_Depths Soulthief" data-flag="@X" onclick="openSidebar('SHD_212_Depths Soulthief',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\216_RM03 Small Creature.jpg" id="SHD_216_RM03 Small Creature" data-flag="@X" onclick="openSidebar('SHD_216_RM03 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\226_UM01 Small Creature.jpg" id="SHD_226_UM01 Small Creature" data-flag="@X" onclick="openSidebar('SHD_226_UM01 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SHD_e" data-flag="@E" onclick="openSidebar('SHD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SHD_e" data-flag="@E" onclick="openSidebar('SHD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\235_UM06 Medium Creature.jpg" id="SHD_235_UM06 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_235_UM06 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\231_UM04 Grovekeeper 2.jpg" id="SHD_231_UM04 Grovekeeper 2" data-flag="@X" onclick="openSidebar('SHD_231_UM04 Grovekeeper 2',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SHD_e" data-flag="@E" onclick="openSidebar('SHD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SHD_e" data-flag="@E" onclick="openSidebar('SHD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SHD_e" data-flag="@E" onclick="openSidebar('SHD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SHD_e" data-flag="@E" onclick="openSidebar('SHD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\232_UM04 Small Creature.jpg" id="SHD_232_UM04 Small Creature" data-flag="@X" onclick="openSidebar('SHD_232_UM04 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SHD_e" data-flag="@E" onclick="openSidebar('SHD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SHD_er" data-flag="@E" onclick="openSidebar('SHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SHD_er" data-flag="@E" onclick="openSidebar('SHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SHD_er" data-flag="@E" onclick="openSidebar('SHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SHD_er" data-flag="@E" onclick="openSidebar('SHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SHD_er" data-flag="@E" onclick="openSidebar('SHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\220_RM07 Small Creature.jpg" id="SHD_220_RM07 Small Creature" data-flag="@X" onclick="openSidebar('SHD_220_RM07 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SHD_e" data-flag="@E" onclick="openSidebar('SHD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SHD_e" data-flag="@E" onclick="openSidebar('SHD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SHD_e" data-flag="@E" onclick="openSidebar('SHD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SHD_e" data-flag="@E" onclick="openSidebar('SHD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SHD_er" data-flag="@E" onclick="openSidebar('SHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SHD_er" data-flag="@E" onclick="openSidebar('SHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SHD_er" data-flag="@E" onclick="openSidebar('SHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SHD_er" data-flag="@E" onclick="openSidebar('SHD_er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\1_MX01 Noncreature.jpg" id="SHD_1_MX01 Noncreature" data-flag="@X" onclick="openSidebar('SHD_1_MX01 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\249_MA01 Noncreature.jpg" id="SHD_249_MA01 Noncreature" data-flag="@X" onclick="openSidebar('SHD_249_MA01 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\250_MA02 Noncreature.jpg" id="SHD_250_MA02 Noncreature" data-flag="@X" onclick="openSidebar('SHD_250_MA02 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\251_MA03 Noncreature.jpg" id="SHD_251_MA03 Noncreature" data-flag="@X" onclick="openSidebar('SHD_251_MA03 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\2_RX01 Large Creature.jpg" id="SHD_2_RX01 Large Creature" data-flag="@X" onclick="openSidebar('SHD_2_RX01 Large Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\252_RA01 Small Creature.jpg" id="SHD_252_RA01 Small Creature" data-flag="@X" onclick="openSidebar('SHD_252_RA01 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\253_RA02 Noncreature.jpg" id="SHD_253_RA02 Noncreature" data-flag="@X" onclick="openSidebar('SHD_253_RA02 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\254_RA03 Noncreature.jpg" id="SHD_254_RA03 Noncreature" data-flag="@X" onclick="openSidebar('SHD_254_RA03 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\255_UA01 Small Creature.jpg" id="SHD_255_UA01 Small Creature" data-flag="@X" onclick="openSidebar('SHD_255_UA01 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\256_UA02 Small Creature.jpg" id="SHD_256_UA02 Small Creature" data-flag="@X" onclick="openSidebar('SHD_256_UA02 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\257_UA03 Medium Creature.jpg" id="SHD_257_UA03 Medium Creature" data-flag="@X" onclick="openSidebar('SHD_257_UA03 Medium Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\258_UA04 Large Creature.jpg" id="SHD_258_UA04 Large Creature" data-flag="@X" onclick="openSidebar('SHD_258_UA04 Large Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\259_UA05 Noncreature.jpg" id="SHD_259_UA05 Noncreature" data-flag="@X" onclick="openSidebar('SHD_259_UA05 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\244_CA01 Small Creature.jpg" id="SHD_244_CA01 Small Creature" data-flag="@X" onclick="openSidebar('SHD_244_CA01 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\245_CA02 Noncreature.jpg" id="SHD_245_CA02 Noncreature" data-flag="@X" onclick="openSidebar('SHD_245_CA02 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\246_CA03 Noncreature.jpg" id="SHD_246_CA03 Noncreature" data-flag="@X" onclick="openSidebar('SHD_246_CA03 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\247_CA04 Noncreature.jpg" id="SHD_247_CA04 Noncreature" data-flag="@X" onclick="openSidebar('SHD_247_CA04 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\248_CA05 Noncreature.jpg" id="SHD_248_CA05 Noncreature" data-flag="@X" onclick="openSidebar('SHD_248_CA05 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SHD_e" data-flag="@E" onclick="openSidebar('SHD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SHD_e" data-flag="@E" onclick="openSidebar('SHD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SHD_er" data-flag="@E" onclick="openSidebar('SHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SHD_er" data-flag="@E" onclick="openSidebar('SHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SHD_er" data-flag="@E" onclick="openSidebar('SHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SHD_er" data-flag="@E" onclick="openSidebar('SHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SHD_er" data-flag="@E" onclick="openSidebar('SHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\266_ML01 Small Creature.jpg" id="SHD_266_ML01 Small Creature" data-flag="@X" onclick="openSidebar('SHD_266_ML01 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\267_ML02 Noncreature.jpg" id="SHD_267_ML02 Noncreature" data-flag="@X" onclick="openSidebar('SHD_267_ML02 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\268_ML03 Noncreature.jpg" id="SHD_268_ML03 Noncreature" data-flag="@X" onclick="openSidebar('SHD_268_ML03 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\269_ML04 Noncreature.jpg" id="SHD_269_ML04 Noncreature" data-flag="@X" onclick="openSidebar('SHD_269_ML04 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\270_ML05 Noncreature.jpg" id="SHD_270_ML05 Noncreature" data-flag="@X" onclick="openSidebar('SHD_270_ML05 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\271_RL01 Small Creature.jpg" id="SHD_271_RL01 Small Creature" data-flag="@X" onclick="openSidebar('SHD_271_RL01 Small Creature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\272_RL02 Noncreature.jpg" id="SHD_272_RL02 Noncreature" data-flag="@X" onclick="openSidebar('SHD_272_RL02 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\273_RL03 Noncreature.jpg" id="SHD_273_RL03 Noncreature" data-flag="@X" onclick="openSidebar('SHD_273_RL03 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\274_RL04 Noncreature.jpg" id="SHD_274_RL04 Noncreature" data-flag="@X" onclick="openSidebar('SHD_274_RL04 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\275_RL05 Noncreature.jpg" id="SHD_275_RL05 Noncreature" data-flag="@X" onclick="openSidebar('SHD_275_RL05 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\276_RL06 Noncreature.jpg" id="SHD_276_RL06 Noncreature" data-flag="@X" onclick="openSidebar('SHD_276_RL06 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\260_CL01 Noncreature.jpg" id="SHD_260_CL01 Noncreature" data-flag="@X" onclick="openSidebar('SHD_260_CL01 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\261_CL02 Noncreature.jpg" id="SHD_261_CL02 Noncreature" data-flag="@X" onclick="openSidebar('SHD_261_CL02 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\262_CL03 Noncreature.jpg" id="SHD_262_CL03 Noncreature" data-flag="@X" onclick="openSidebar('SHD_262_CL03 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\263_CL04 Noncreature.jpg" id="SHD_263_CL04 Noncreature" data-flag="@X" onclick="openSidebar('SHD_263_CL04 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\264_CL05 Noncreature.jpg" id="SHD_264_CL05 Noncreature" data-flag="@X" onclick="openSidebar('SHD_264_CL05 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\265_CL06 Noncreature.jpg" id="SHD_265_CL06 Noncreature" data-flag="@X" onclick="openSidebar('SHD_265_CL06 Noncreature',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SHD_e" data-flag="@E" onclick="openSidebar('SHD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SHD_e" data-flag="@E" onclick="openSidebar('SHD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SHD_e" data-flag="@E" onclick="openSidebar('SHD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SHD_er" data-flag="@E" onclick="openSidebar('SHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SHD_er" data-flag="@E" onclick="openSidebar('SHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SHD_er" data-flag="@E" onclick="openSidebar('SHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SHD_er" data-flag="@E" onclick="openSidebar('SHD_er',false)"></div>
+				<div id="token" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\SHD-files\img\1t_Archetypes.jpg" id="SHD_1t_Archetypes" data-flag="@X" onclick="openSidebar('SHD_1t_Archetypes',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SHD_e" data-flag="@E" onclick="openSidebar('SHD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SHD_e" data-flag="@E" onclick="openSidebar('SHD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SHD_e" data-flag="@E" onclick="openSidebar('SHD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SHD_e" data-flag="@E" onclick="openSidebar('SHD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SHD_er" data-flag="@E" onclick="openSidebar('SHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SHD_er" data-flag="@E" onclick="openSidebar('SHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SHD_er" data-flag="@E" onclick="openSidebar('SHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SHD_er" data-flag="@E" onclick="openSidebar('SHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SHD_er" data-flag="@E" onclick="openSidebar('SHD_er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch(rootPath + '/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch(rootPath + '/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = rootPath + '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
+
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
+		{
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
+		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.opacity = "1";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.opacity = "0";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url.pathname + url.search;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url.pathname + url.search;
+			}
+	</script>
+</body>
+</html>

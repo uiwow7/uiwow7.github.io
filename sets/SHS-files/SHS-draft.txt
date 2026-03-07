@@ -2,7 +2,7 @@
 	[
 		{
 			"name": "Warlock",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Human Warlock",
 			"collector_number": "3",
@@ -12,7 +12,7 @@
 		},
 		{
 			"name": "Search the Forest",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G/W}",
 			"type": "Instant",
 			"collector_number": "180",
@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "Corrupted Kirali",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Soldier",
 			"collector_number": "9",
@@ -39,7 +39,7 @@
 		},
 		{
 			"name": "Frostpath Traveler",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "14",
@@ -56,7 +56,7 @@
 		},
 		{
 			"name": "Desert Commander",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Human Warrior Ally",
 			"collector_number": "12",
@@ -66,7 +66,7 @@
 		},
 		{
 			"name": "New Recruit",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Warrior Ally",
 			"collector_number": "19",
@@ -76,7 +76,7 @@
 		},
 		{
 			"name": "Head of Recruitment",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Warrior Ally",
 			"collector_number": "15",
@@ -86,7 +86,7 @@
 		},
 		{
 			"name": "Shattered Swordsman",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Soldier",
 			"collector_number": "25",
@@ -103,7 +103,7 @@
 		},
 		{
 			"name": "Aqiman Charger",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Warrior Ally",
 			"collector_number": "6",
@@ -113,7 +113,7 @@
 		},
 		{
 			"name": "Crafty Escape",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Instant",
 			"collector_number": "10",
@@ -123,7 +123,7 @@
 		},
 		{
 			"name": "Shattered Swordbearer",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Demon Soldier",
 			"collector_number": "24",
@@ -133,7 +133,7 @@
 		},
 		{
 			"name": "Frostpath Soldier",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Demon Soldier",
 			"collector_number": "13",
@@ -143,7 +143,7 @@
 		},
 		{
 			"name": "Alnak Blade Student",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Soldier",
 			"collector_number": "3",
@@ -160,7 +160,7 @@
 		},
 		{
 			"name": "Spirit Strike",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Instant",
 			"collector_number": "26",
@@ -170,7 +170,7 @@
 		},
 		{
 			"name": "Soul Drain",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W/B}",
 			"type": "Instant",
 			"collector_number": "183",
@@ -180,7 +180,7 @@
 		},
 		{
 			"name": "Prophetic Crystal",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Artifact — Clue",
 			"collector_number": "50",
@@ -197,7 +197,7 @@
 		},
 		{
 			"name": "Seek Answers",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{U/R}",
 			"type": "Instant",
 			"collector_number": "181",
@@ -207,7 +207,7 @@
 		},
 		{
 			"name": "Call of Control",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{W/U}",
 			"type": "Instant",
 			"collector_number": "156",
@@ -217,7 +217,7 @@
 		},
 		{
 			"name": "Icefire Bolt",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U/R}",
 			"type": "Instant",
 			"collector_number": "170",
@@ -227,7 +227,7 @@
 		},
 		{
 			"name": "Shattered Sword Iceblade",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "55",
@@ -237,7 +237,7 @@
 		},
 		{
 			"name": "Lightning Retort",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
 			"collector_number": "46",
@@ -254,7 +254,7 @@
 		},
 		{
 			"name": "Enchanting of Stones",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
 			"collector_number": "41",
@@ -264,7 +264,7 @@
 		},
 		{
 			"name": "Learn Through Repetition",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
 			"collector_number": "45",
@@ -274,7 +274,7 @@
 		},
 		{
 			"name": "Sage of Aenir's Reclamation",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Wizard Ally",
 			"collector_number": "51",
@@ -284,7 +284,7 @@
 		},
 		{
 			"name": "Window to Lost Souls",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact",
 			"collector_number": "58",
@@ -294,7 +294,7 @@
 		},
 		{
 			"name": "Answer Seeker",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "34",
@@ -304,7 +304,7 @@
 		},
 		{
 			"name": "Darkness Searcher",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "38",
@@ -314,7 +314,7 @@
 		},
 		{
 			"name": "Icy Aurora",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Enchantment — Aura",
 			"collector_number": "43",
@@ -324,7 +324,7 @@
 		},
 		{
 			"name": "Alanar Teacher",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Human Wizard Ally",
 			"collector_number": "32",
@@ -334,7 +334,7 @@
 		},
 		{
 			"name": "Shattered Sword Warlock",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "81",
@@ -344,7 +344,7 @@
 		},
 		{
 			"name": "Into the Cave",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U/B}",
 			"type": "Instant",
 			"collector_number": "172",
@@ -354,7 +354,7 @@
 		},
 		{
 			"name": "Explore the Depths",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B/G}",
 			"type": "Instant",
 			"collector_number": "168",
@@ -364,7 +364,7 @@
 		},
 		{
 			"name": "Corrupted Grounds",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
 			"collector_number": "62",
@@ -374,7 +374,7 @@
 		},
 		{
 			"name": "Warlock of the Tower",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "86",
@@ -384,7 +384,7 @@
 		},
 		{
 			"name": "Soul Whisperer",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "82",
@@ -401,7 +401,7 @@
 		},
 		{
 			"name": "Shattered Sword Soldier",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Creature — Human Soldier Warlock",
 			"collector_number": "80",
@@ -418,7 +418,7 @@
 		},
 		{
 			"name": "Seek the Depths",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
 			"collector_number": "76",
@@ -428,7 +428,7 @@
 		},
 		{
 			"name": "One With Shadows",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Instant",
 			"collector_number": "74",
@@ -438,7 +438,7 @@
 		},
 		{
 			"name": "Irkian Mindrender",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Demon Warlock",
 			"collector_number": "71",
@@ -448,7 +448,7 @@
 		},
 		{
 			"name": "Darkmoon Aurora",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
 			"collector_number": "64",
@@ -458,7 +458,7 @@
 		},
 		{
 			"name": "Witch of Thirak",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "88",
@@ -468,7 +468,7 @@
 		},
 		{
 			"name": "Undying Shadowblade",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "83",
@@ -478,7 +478,7 @@
 		},
 		{
 			"name": "Altar of Lost Shadows",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Artifact",
 			"collector_number": "61",
@@ -488,7 +488,7 @@
 		},
 		{
 			"name": "Corrupting Fire",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{B/R}",
 			"type": "Instant",
 			"collector_number": "162",
@@ -498,7 +498,7 @@
 		},
 		{
 			"name": "Immolating Smite",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R/W}",
 			"type": "Instant",
 			"collector_number": "171",
@@ -508,7 +508,7 @@
 		},
 		{
 			"name": "Crimson Lights",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
 			"collector_number": "98",
@@ -518,7 +518,7 @@
 		},
 		{
 			"name": "Kangal Martyr",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Warrior Ally",
 			"collector_number": "105",
@@ -528,7 +528,7 @@
 		},
 		{
 			"name": "Fellfire Restoration",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{R}",
 			"type": "Sorcery",
 			"collector_number": "100",
@@ -538,7 +538,7 @@
 		},
 		{
 			"name": "Warlock of Dark Fire",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Demon Warlock",
 			"collector_number": "117",
@@ -548,7 +548,7 @@
 		},
 		{
 			"name": "Brave Strike",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{R}{R/W}",
 			"type": "Instant",
 			"collector_number": "154",
@@ -558,7 +558,7 @@
 		},
 		{
 			"name": "Mesa Spearman",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Warrior Ally",
 			"collector_number": "107",
@@ -568,7 +568,7 @@
 		},
 		{
 			"name": "Spearman of the Alliance",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Warrior Ally",
 			"collector_number": "114",
@@ -578,7 +578,7 @@
 		},
 		{
 			"name": "Thalur Firewizard",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Wizard Ally",
 			"collector_number": "116",
@@ -588,7 +588,7 @@
 		},
 		{
 			"name": "Butcher of Graves",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Warrior Ally",
 			"collector_number": "95",
@@ -598,7 +598,7 @@
 		},
 		{
 			"name": "Night Rider of Fire",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Demon Knight",
 			"collector_number": "109",
@@ -608,7 +608,7 @@
 		},
 		{
 			"name": "Jungle Adept",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Wizard Ally",
 			"collector_number": "104",
@@ -618,7 +618,7 @@
 		},
 		{
 			"name": "Icefire Ally",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Wizard Ally",
 			"collector_number": "102",
@@ -628,7 +628,7 @@
 		},
 		{
 			"name": "Burning of the Ground",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{R/G}",
 			"type": "Instant",
 			"collector_number": "155",
@@ -638,7 +638,7 @@
 		},
 		{
 			"name": "Wisdom of the Sea",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G/U}",
 			"type": "Instant",
 			"collector_number": "188",
@@ -648,7 +648,7 @@
 		},
 		{
 			"name": "Lost Sanctuary",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Enchantment",
 			"collector_number": "138",
@@ -658,7 +658,7 @@
 		},
 		{
 			"name": "Iriatu Explorer",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Scout",
 			"collector_number": "132",
@@ -668,7 +668,7 @@
 		},
 		{
 			"name": "Deep-Jungle Bear",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Bear",
 			"collector_number": "127",
@@ -678,7 +678,7 @@
 		},
 		{
 			"name": "Ruins of Decay",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
 			"collector_number": "142",
@@ -688,7 +688,7 @@
 		},
 		{
 			"name": "Dark Forest Surveyor",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Scout Ally",
 			"collector_number": "126",
@@ -698,7 +698,7 @@
 		},
 		{
 			"name": "Aenir Expedition",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Enchantment",
 			"collector_number": "118",
@@ -708,7 +708,7 @@
 		},
 		{
 			"name": "Last Watch of Alanar",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Human Warrior Ally",
 			"collector_number": "135",
@@ -718,7 +718,7 @@
 		},
 		{
 			"name": "Scout of Jhal",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Scout",
 			"collector_number": "144",
@@ -728,7 +728,7 @@
 		},
 		{
 			"name": "Iriatu Healer",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Wizard Ally",
 			"collector_number": "133",
@@ -738,7 +738,7 @@
 		},
 		{
 			"name": "Lost Forest Relic",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Artifact",
 			"collector_number": "136",
@@ -748,7 +748,7 @@
 		},
 		{
 			"name": "Dark Forest Fighter",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Warrior Scout",
 			"collector_number": "125",
@@ -758,7 +758,7 @@
 		},
 		{
 			"name": "Jungle Scout",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Scout Ally",
 			"collector_number": "134",
@@ -768,7 +768,7 @@
 		},
 		{
 			"name": "Recruit Trainer",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Ally",
 			"collector_number": "20",
@@ -778,7 +778,7 @@
 		},
 		{
 			"name": "Armored Windblade",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Soldier",
 			"collector_number": "7",
@@ -795,7 +795,7 @@
 		},
 		{
 			"name": "Shattered Sword Cleaver",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Demon Soldier",
 			"collector_number": "22",
@@ -812,7 +812,7 @@
 		},
 		{
 			"name": "Dark Dredging",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{B}{B/G}",
 			"type": "Enchantment",
 			"collector_number": "163",
@@ -822,7 +822,7 @@
 		},
 		{
 			"name": "Lit Meteorite",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
 			"collector_number": "17",
@@ -832,7 +832,7 @@
 		},
 		{
 			"name": "Thirak Commander",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{6}{W}",
 			"type": "Creature — Human Warrior Ally",
 			"collector_number": "29",
@@ -842,7 +842,7 @@
 		},
 		{
 			"name": "Thalur Recruiter",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Human Warrior Ally",
 			"collector_number": "28",
@@ -852,7 +852,7 @@
 		},
 		{
 			"name": "Dark Thought-Thief",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "11",
@@ -869,7 +869,7 @@
 		},
 		{
 			"name": "Unchained Nightwatcher",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "30",
@@ -886,7 +886,7 @@
 		},
 		{
 			"name": "Beyond the Tower",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Enchantment",
 			"collector_number": "35",
@@ -896,7 +896,7 @@
 		},
 		{
 			"name": "Seek the World of Dreams",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{U/R}",
 			"type": "Instant",
 			"collector_number": "182",
@@ -906,7 +906,7 @@
 		},
 		{
 			"name": "Dreams of Color",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
 			"collector_number": "40",
@@ -916,7 +916,7 @@
 		},
 		{
 			"name": "Corrupter of Magic",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "36",
@@ -926,7 +926,7 @@
 		},
 		{
 			"name": "Servant to Magius",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "53",
@@ -936,7 +936,7 @@
 		},
 		{
 			"name": "Shattered Sword Duplicator",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "54",
@@ -946,7 +946,7 @@
 		},
 		{
 			"name": "Dark Summoner",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "37",
@@ -963,7 +963,7 @@
 		},
 		{
 			"name": "Adaptive Mage",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Human Wizard Ally",
 			"collector_number": "31",
@@ -973,7 +973,7 @@
 		},
 		{
 			"name": "Oracle of Wisps",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "49",
@@ -983,7 +983,7 @@
 		},
 		{
 			"name": "Shattered Sword Assassin",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Demon Assassin",
 			"collector_number": "78",
@@ -1000,7 +1000,7 @@
 		},
 		{
 			"name": "Destruction Circle",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Instant",
 			"collector_number": "68",
@@ -1010,7 +1010,7 @@
 		},
 		{
 			"name": "Cosmic Manipulator",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "63",
@@ -1020,7 +1020,7 @@
 		},
 		{
 			"name": "Horror of the Bog",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Horror",
 			"collector_number": "70",
@@ -1030,7 +1030,7 @@
 		},
 		{
 			"name": "Shadow Duplication",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
 			"collector_number": "77",
@@ -1040,7 +1040,7 @@
 		},
 		{
 			"name": "Western Army Commander",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Demon Soldier",
 			"collector_number": "87",
@@ -1050,7 +1050,7 @@
 		},
 		{
 			"name": "Lost Crypt",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Artifact",
 			"collector_number": "73",
@@ -1060,7 +1060,7 @@
 		},
 		{
 			"name": "Angel of Darkened Faith",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{W/B}",
 			"type": "Creature — Angel Horror",
 			"collector_number": "150",
@@ -1070,7 +1070,7 @@
 		},
 		{
 			"name": "Shattered Sword Brainwasher",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Demon",
 			"collector_number": "79",
@@ -1080,7 +1080,7 @@
 		},
 		{
 			"name": "Arid Attacker",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Warrior Ally",
 			"collector_number": "91",
@@ -1090,7 +1090,7 @@
 		},
 		{
 			"name": "Rage of Fiery Darkness",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "111",
@@ -1100,7 +1100,7 @@
 		},
 		{
 			"name": "Altar of Lost Fire",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Artifact",
 			"collector_number": "90",
@@ -1110,7 +1110,7 @@
 		},
 		{
 			"name": "Firelight Duelist",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Human Warrior Ally",
 			"collector_number": "101",
@@ -1120,7 +1120,7 @@
 		},
 		{
 			"name": "Arid Forest Venturer",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Human Scout Ally",
 			"collector_number": "92",
@@ -1130,7 +1130,7 @@
 		},
 		{
 			"name": "Conjurer of Lost Joy",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Wizard Ally",
 			"collector_number": "97",
@@ -1140,7 +1140,7 @@
 		},
 		{
 			"name": "Irkian Flagbearer",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Warrior Ally",
 			"collector_number": "103",
@@ -1150,7 +1150,7 @@
 		},
 		{
 			"name": "Desert Admiral",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Demon Soldier",
 			"collector_number": "99",
@@ -1160,7 +1160,7 @@
 		},
 		{
 			"name": "Shattered Sword Punisher",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Demon Warlock Soldier",
 			"collector_number": "112",
@@ -1170,7 +1170,7 @@
 		},
 		{
 			"name": "River Scout",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{G}{G/U}",
 			"type": "Creature — Human Scout Ally",
 			"collector_number": "179",
@@ -1180,7 +1180,7 @@
 		},
 		{
 			"name": "Undiscovered Depths Scout",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Scout",
 			"collector_number": "146",
@@ -1190,7 +1190,7 @@
 		},
 		{
 			"name": "Reclaimer of Aenir",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Scout Ally",
 			"collector_number": "141",
@@ -1200,7 +1200,7 @@
 		},
 		{
 			"name": "Marsh Explorer",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{G}{G}",
 			"type": "Creature — Human Wizard Scout",
 			"collector_number": "139",
@@ -1210,7 +1210,7 @@
 		},
 		{
 			"name": "Alanar Forest Fighter",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Warrior",
 			"collector_number": "119",
@@ -1220,7 +1220,7 @@
 		},
 		{
 			"name": "Druid of Iriatu",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Wizard Ally",
 			"collector_number": "128",
@@ -1230,7 +1230,7 @@
 		},
 		{
 			"name": "Blade of Verdant Exploration",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Artifact",
 			"collector_number": "121",
@@ -1240,7 +1240,7 @@
 		},
 		{
 			"name": "Scout of Attunement",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Creature — Human Scout Ally",
 			"collector_number": "143",
@@ -1250,7 +1250,7 @@
 		},
 		{
 			"name": "Cloud Invocation",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{3}{G}",
 			"type": "Enchantment",
 			"collector_number": "124",
@@ -1260,7 +1260,7 @@
 		},
 		{
 			"name": "Sunrise Savant",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Creature — Human Wizard Ally",
 			"collector_number": "27",
@@ -1270,7 +1270,7 @@
 		},
 		{
 			"name": "Mind Healer",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Cleric Ally",
 			"collector_number": "18",
@@ -1280,7 +1280,7 @@
 		},
 		{
 			"name": "Shattered Sword Defender",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Soldier",
 			"collector_number": "23",
@@ -1297,7 +1297,7 @@
 		},
 		{
 			"name": "Angel of Pure Faith",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Angel",
 			"collector_number": "5",
@@ -1307,7 +1307,7 @@
 		},
 		{
 			"name": "Journey's End",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
 			"collector_number": "16",
@@ -1317,7 +1317,7 @@
 		},
 		{
 			"name": "Allied Reinforcements",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
 			"collector_number": "2",
@@ -1327,7 +1327,7 @@
 		},
 		{
 			"name": "The Icelord",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "42",
@@ -1337,7 +1337,7 @@
 		},
 		{
 			"name": "Wielder of Stars",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{8}{U}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "57",
@@ -1347,7 +1347,7 @@
 		},
 		{
 			"name": "Kanil, Night Rider of Ice",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Knight",
 			"collector_number": "44",
@@ -1357,7 +1357,7 @@
 		},
 		{
 			"name": "Seek Prosperity",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{X}{U}{U}{U}",
 			"type": "Instant",
 			"collector_number": "52",
@@ -1367,7 +1367,7 @@
 		},
 		{
 			"name": "Whimsical Spellcaster",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Wizard Ally",
 			"collector_number": "56",
@@ -1377,7 +1377,7 @@
 		},
 		{
 			"name": "Wizard of Aenir",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Human Wizard",
 			"collector_number": "59",
@@ -1387,7 +1387,7 @@
 		},
 		{
 			"name": "Warlock of Shadow Sorcery",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "85",
@@ -1404,7 +1404,7 @@
 		},
 		{
 			"name": "Demonic Studies",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
 			"collector_number": "67",
@@ -1414,7 +1414,7 @@
 		},
 		{
 			"name": "Grand Warlock Talnir",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{6}{B}{B}",
 			"type": "Legendary Creature — Demon Warlock",
 			"collector_number": "69",
@@ -1424,7 +1424,7 @@
 		},
 		{
 			"name": "Deal With Ravens",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment",
 			"collector_number": "65",
@@ -1434,7 +1434,7 @@
 		},
 		{
 			"name": "Villainous Fiend",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{B}{B}{B}",
 			"type": "Creature — Demon Warlock",
 			"collector_number": "84",
@@ -1451,7 +1451,7 @@
 		},
 		{
 			"name": "Demonic Bloodlord",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Demon Warlock",
 			"collector_number": "66",
@@ -1461,7 +1461,7 @@
 		},
 		{
 			"name": "Bloodstained Moon",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Enchantment",
 			"collector_number": "94",
@@ -1471,7 +1471,7 @@
 		},
 		{
 			"name": "Lava Lance",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Instant",
 			"collector_number": "106",
@@ -1481,7 +1481,7 @@
 		},
 		{
 			"name": "Barbarian of the West",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}{R}",
 			"type": "Creature — Human Barbarian Ally",
 			"collector_number": "93",
@@ -1491,7 +1491,7 @@
 		},
 		{
 			"name": "Southern Fireblade",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Warrior Ally",
 			"collector_number": "113",
@@ -1501,7 +1501,7 @@
 		},
 		{
 			"name": "Nebula's Impulse",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
 			"collector_number": "108",
@@ -1511,7 +1511,7 @@
 		},
 		{
 			"name": "Demonic Protector",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Creature — Demon Soldier",
 			"collector_number": "165",
@@ -1521,7 +1521,7 @@
 		},
 		{
 			"name": "Intrepid Rootwalla",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Creature — Lizard",
 			"collector_number": "131",
@@ -1531,7 +1531,7 @@
 		},
 		{
 			"name": "Chromatic Attunement",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
 			"collector_number": "123",
@@ -1541,7 +1541,7 @@
 		},
 		{
 			"name": "Shifting Roots",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{G}{G}",
 			"type": "Enchantment",
 			"collector_number": "145",
@@ -1551,7 +1551,7 @@
 		},
 		{
 			"name": "Forest Giant",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Giant",
 			"collector_number": "129",
@@ -1561,7 +1561,7 @@
 		},
 		{
 			"name": "Mountaineer Scout",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Human Scout",
 			"collector_number": "140",
@@ -1571,7 +1571,7 @@
 		},
 		{
 			"name": "Lost Forest Shrine",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Artifact",
 			"collector_number": "137",
@@ -1581,7 +1581,7 @@
 		},
 		{
 			"name": "Battle of the Tower",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Enchantment",
 			"collector_number": "8",
@@ -1591,7 +1591,7 @@
 		},
 		{
 			"name": "Sacred Emissary",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{W}{W}",
 			"type": "Creature — Human Cleric",
 			"collector_number": "21",
@@ -1601,7 +1601,7 @@
 		},
 		{
 			"name": "Lost From the World",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{4}{U}{U}{U}{U}",
 			"type": "Sorcery",
 			"collector_number": "47",
@@ -1611,7 +1611,7 @@
 		},
 		{
 			"name": "Zirlir, Prodigious Decipherer",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Human",
 			"collector_number": "60",
@@ -1621,7 +1621,7 @@
 		},
 		{
 			"name": "Profane Emissary",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{B}{B}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "75",
@@ -1631,7 +1631,7 @@
 		},
 		{
 			"name": "Jklamdiel, Xirok's Chosen",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{5}{B}",
 			"type": "Legendary Creature — Demon",
 			"collector_number": "72",
@@ -1641,7 +1641,7 @@
 		},
 		{
 			"name": "The Night Riders' Bane",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Legendary Planeswalker — Winmeari",
 			"collector_number": "110",
@@ -1651,7 +1651,7 @@
 		},
 		{
 			"name": "Drorix's Sword",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "191",
@@ -1661,7 +1661,7 @@
 		},
 		{
 			"name": "Verdant Reclamation",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
 			"collector_number": "147",
@@ -1671,7 +1671,7 @@
 		},
 		{
 			"name": "Mind Thief",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "174",
@@ -1681,7 +1681,7 @@
 		},
 		{
 			"name": "Corrupted Ritualist",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "160",
@@ -1691,7 +1691,7 @@
 		},
 		{
 			"name": "Corrupter of Nature",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{3}{B}{R}",
 			"type": "Creature — Demon Horror",
 			"collector_number": "161",
@@ -1701,7 +1701,7 @@
 		},
 		{
 			"name": "Autumn Mage",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Creature — Human Wizard Ally",
 			"collector_number": "153",
@@ -1711,7 +1711,7 @@
 		},
 		{
 			"name": "Armored Recruiter",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Creature — Human Ally",
 			"collector_number": "151",
@@ -1721,7 +1721,7 @@
 		},
 		{
 			"name": "Ironrun Soldier",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Human Soldier",
 			"collector_number": "173",
@@ -1731,7 +1731,7 @@
 		},
 		{
 			"name": "Volcano Sage",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{U}{R}",
 			"type": "Creature — Human Wizard",
 			"collector_number": "187",
@@ -1741,7 +1741,7 @@
 		},
 		{
 			"name": "Corrupted Forester",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Creature — Demon Warlock",
 			"collector_number": "159",
@@ -1751,7 +1751,7 @@
 		},
 		{
 			"name": "Allied Commander",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Creature — Human Warrior Ally",
 			"collector_number": "149",
@@ -1761,7 +1761,7 @@
 		},
 		{
 			"name": "Alanar Water Mage",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{1}{G}{G/U}{U}",
 			"type": "Creature — Human Wizard",
 			"collector_number": "148",
@@ -1771,7 +1771,7 @@
 		},
 		{
 			"name": "Cave of Ice",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Enchantment",
 			"collector_number": "157",
@@ -1781,7 +1781,7 @@
 		},
 		{
 			"name": "The Circle of Ash",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{U}{B}",
 			"type": "Enchantment",
 			"collector_number": "158",
@@ -1791,7 +1791,7 @@
 		},
 		{
 			"name": "Erki, Blade of Darkness",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{B}{R}",
 			"type": "Legendary Creature — Demon Soldier",
 			"collector_number": "167",
@@ -1801,7 +1801,7 @@
 		},
 		{
 			"name": "Attuned Landscape",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}{G}",
 			"type": "Enchantment",
 			"collector_number": "152",
@@ -1811,7 +1811,7 @@
 		},
 		{
 			"name": "Unending Reinforcements",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{G/W}",
 			"type": "Creature — Human Warrior Ally",
 			"collector_number": "184",
@@ -1821,7 +1821,7 @@
 		},
 		{
 			"name": "Return the Sword",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Sorcery",
 			"collector_number": "178",
@@ -1831,7 +1831,7 @@
 		},
 		{
 			"name": "Relive Rage",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{U}{R}",
 			"type": "Sorcery",
 			"collector_number": "177",
@@ -1841,7 +1841,7 @@
 		},
 		{
 			"name": "Recoiling Regrowth",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Sorcery",
 			"collector_number": "176",
@@ -1851,7 +1851,7 @@
 		},
 		{
 			"name": "Raziq, Desert Hero",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}{W}",
 			"type": "Legendary Creature — Human Warrior Ally",
 			"collector_number": "175",
@@ -1861,7 +1861,7 @@
 		},
 		{
 			"name": "Verdant Discovery",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{G/U}",
 			"type": "Instant",
 			"collector_number": "186",
@@ -1871,7 +1871,7 @@
 		},
 		{
 			"name": "Attuned Spellcharger",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact",
 			"collector_number": "190",
@@ -1881,7 +1881,7 @@
 		},
 		{
 			"name": "Stone of Darkness",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact",
 			"collector_number": "193",
@@ -1891,7 +1891,7 @@
 		},
 		{
 			"name": "Gate to the Tower",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
 			"collector_number": "192",
@@ -1901,7 +1901,7 @@
 		},
 		{
 			"name": "Altar of Lost Colors",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{3}{G}",
 			"type": "Artifact",
 			"collector_number": "120",
@@ -1911,7 +1911,7 @@
 		},
 		{
 			"name": "Altar of Lost Light",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Artifact",
 			"collector_number": "4",
@@ -1921,7 +1921,7 @@
 		},
 		{
 			"name": "Altar of Lost Curiosity",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Artifact",
 			"collector_number": "33",
@@ -1931,7 +1931,7 @@
 		},
 		{
 			"name": "Evolving Wilds",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "195",
@@ -1941,7 +1941,7 @@
 		},
 		{
 			"name": "Marraq",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Desert",
 			"collector_number": "200",
@@ -1951,7 +1951,7 @@
 		},
 		{
 			"name": "Lephyx's Crystal",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "199",
@@ -1961,7 +1961,7 @@
 		},
 		{
 			"name": "Verdant Cliffside",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "201",
@@ -1971,7 +1971,7 @@
 		},
 		{
 			"name": "The Ice Wastes",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "196",
@@ -1981,7 +1981,7 @@
 		},
 		{
 			"name": "Iriatu Falls",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "197",
@@ -1991,7 +1991,7 @@
 		},
 		{
 			"name": "Kiral, Desert Village",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land — Desert",
 			"collector_number": "198",
@@ -2001,7 +2001,7 @@
 		},
 		{
 			"name": "The Corrupted Lands",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "194",
@@ -2011,7 +2011,7 @@
 		},
 		{
 			"name": "Valley of Paradise",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{1}{G}{G}{U}{U}",
 			"type": "Enchantment",
 			"collector_number": "185",
@@ -2021,7 +2021,7 @@
 		},
 		{
 			"name": "Akali Lava Giant",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Giant",
 			"collector_number": "89",
@@ -2031,7 +2031,7 @@
 		},
 		{
 			"name": "Xirok, the Shattered One",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{4}{U}{B}{B}",
 			"type": "Legendary Creature — Demon Warlock",
 			"collector_number": "189",
@@ -2041,7 +2041,7 @@
 		},
 		{
 			"name": "Galranok, Oracle of Magic",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{U}{R}",
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "169",
@@ -2058,7 +2058,7 @@
 		},
 		{
 			"name": "Ally",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Ally",
 			"collector_number": "2",
@@ -2068,7 +2068,7 @@
 		},
 		{
 			"name": "Plains",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
 			"collector_number": "202",
@@ -2078,7 +2078,7 @@
 		},
 		{
 			"name": "Island",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
 			"collector_number": "203",
@@ -2088,7 +2088,7 @@
 		},
 		{
 			"name": "Swamp",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
 			"collector_number": "204",
@@ -2098,7 +2098,7 @@
 		},
 		{
 			"name": "Mountain",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
 			"collector_number": "205",
@@ -2108,7 +2108,7 @@
 		},
 		{
 			"name": "Forest",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
 			"collector_number": "206",
@@ -2118,7 +2118,7 @@
 		},
 		{
 			"name": "Alliance Medic",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Cleric Ally",
 			"collector_number": "1",
@@ -2128,7 +2128,7 @@
 		},
 		{
 			"name": "Lost Servant",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Warlock Ally",
 			"collector_number": "48",
@@ -2138,7 +2138,7 @@
 		},
 		{
 			"name": "Call of Answers",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Enchantment",
 			"collector_number": "96",
@@ -2148,7 +2148,7 @@
 		},
 		{
 			"name": "Drain the Lands",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{5}{U}",
 			"type": "Instant",
 			"collector_number": "39",
@@ -2158,7 +2158,7 @@
 		},
 		{
 			"name": "Take Back the Lands",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{5}{R}",
 			"type": "Sorcery",
 			"collector_number": "115",
@@ -2168,7 +2168,7 @@
 		},
 		{
 			"name": "Brilliant Aurora",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
 			"collector_number": "122",
@@ -2178,7 +2178,7 @@
 		},
 		{
 			"name": "Darkness Unchained",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Instant",
 			"collector_number": "164",
@@ -2188,7 +2188,7 @@
 		},
 		{
 			"name": "Drorix, Divine Outcast",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Legendary Planeswalker — Drorix",
 			"collector_number": "166",
@@ -2198,7 +2198,7 @@
 		},
 		{
 			"name": "In Search of Grandeur",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Enchantment",
 			"collector_number": "130",
@@ -2208,7 +2208,7 @@
 		},
 		{
 			"name": "Scout",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Scout",
 			"collector_number": "1",
@@ -2218,38 +2218,152 @@
 		}
 	]
 
-[rare(1)]
-	2 Seek the Depths
-	2 Armored Windblade
-	2 Thirak Commander
-	2 Cosmic Manipulator
-	2 Sunrise Savant
-	2 Shattered Sword Defender
-	2 Journey's End
-	2 Allied Reinforcements
-	2 The Icelord
-	2 Wielder of Stars
-	2 Kanil, Night Rider of Ice
-	2 Seek Prosperity
-	2 Whimsical Spellcaster
-	2 Wizard of Aenir
-	2 Warlock of Shadow Sorcery
-	2 Grand Warlock Talnir
-	2 Deal With Ravens
-	2 Villainous Fiend
-	2 Demonic Bloodlord
-	2 Bloodstained Moon
-	2 Lava Lance
-	2 Barbarian of the West
-	2 Southern Fireblade
-	2 Nebula's Impulse
-	2 Demonic Protector
-	2 Intrepid Rootwalla
-	2 Chromatic Attunement
-	2 Shifting Roots
-	2 Forest Giant
-	2 Mountaineer Scout
-	2 Lost Forest Shrine
+[cube(15)]
+	1 Search the Forest
+	1 Corrupted Kirali
+	1 Frostpath Traveler
+	1 Desert Commander
+	1 New Recruit
+	1 Head of Recruitment
+	1 Shattered Swordsman
+	1 Aqiman Charger
+	1 Crafty Escape
+	1 Shattered Swordbearer
+	1 Frostpath Soldier
+	1 Alnak Blade Student
+	1 Spirit Strike
+	1 Soul Drain
+	1 Prophetic Crystal
+	1 Seek Answers
+	1 Call of Control
+	1 Icefire Bolt
+	1 Shattered Sword Iceblade
+	1 Lightning Retort
+	1 Enchanting of Stones
+	1 Learn Through Repetition
+	1 Sage of Aenir's Reclamation
+	1 Window to Lost Souls
+	1 Answer Seeker
+	1 Darkness Searcher
+	1 Icy Aurora
+	1 Alanar Teacher
+	1 Shattered Sword Warlock
+	1 Into the Cave
+	1 Explore the Depths
+	1 Corrupted Grounds
+	1 Warlock of the Tower
+	1 Soul Whisperer
+	1 Shattered Sword Soldier
+	1 Seek the Depths
+	1 One With Shadows
+	1 Irkian Mindrender
+	1 Darkmoon Aurora
+	1 Witch of Thirak
+	1 Undying Shadowblade
+	1 Altar of Lost Shadows
+	1 Corrupting Fire
+	1 Immolating Smite
+	1 Crimson Lights
+	1 Kangal Martyr
+	1 Fellfire Restoration
+	1 Warlock of Dark Fire
+	1 Brave Strike
+	1 Mesa Spearman
+	1 Spearman of the Alliance
+	1 Thalur Firewizard
+	1 Butcher of Graves
+	1 Night Rider of Fire
+	1 Jungle Adept
+	1 Icefire Ally
+	1 Burning of the Ground
+	1 Wisdom of the Sea
+	1 Lost Sanctuary
+	1 Iriatu Explorer
+	1 Deep-Jungle Bear
+	1 Ruins of Decay
+	1 Dark Forest Surveyor
+	1 Aenir Expedition
+	1 Last Watch of Alanar
+	1 Scout of Jhal
+	1 Iriatu Healer
+	1 Lost Forest Relic
+	1 Dark Forest Fighter
+	1 Jungle Scout
+	1 Recruit Trainer
+	1 Armored Windblade
+	1 Shattered Sword Cleaver
+	1 Dark Dredging
+	1 Lit Meteorite
+	1 Thirak Commander
+	1 Thalur Recruiter
+	1 Dark Thought-Thief
+	1 Unchained Nightwatcher
+	1 Beyond the Tower
+	1 Seek the World of Dreams
+	1 Dreams of Color
+	1 Corrupter of Magic
+	1 Servant to Magius
+	1 Shattered Sword Duplicator
+	1 Dark Summoner
+	1 Adaptive Mage
+	1 Oracle of Wisps
+	1 Shattered Sword Assassin
+	1 Destruction Circle
+	1 Cosmic Manipulator
+	1 Horror of the Bog
+	1 Shadow Duplication
+	1 Western Army Commander
+	1 Lost Crypt
+	1 Angel of Darkened Faith
+	1 Shattered Sword Brainwasher
+	1 Arid Attacker
+	1 Rage of Fiery Darkness
+	1 Altar of Lost Fire
+	1 Firelight Duelist
+	1 Arid Forest Venturer
+	1 Conjurer of Lost Joy
+	1 Irkian Flagbearer
+	1 Desert Admiral
+	1 Shattered Sword Punisher
+	1 River Scout
+	1 Undiscovered Depths Scout
+	1 Reclaimer of Aenir
+	1 Marsh Explorer
+	1 Alanar Forest Fighter
+	1 Druid of Iriatu
+	1 Blade of Verdant Exploration
+	1 Scout of Attunement
+	1 Cloud Invocation
+	1 Sunrise Savant
+	1 Mind Healer
+	1 Shattered Sword Defender
+	1 Angel of Pure Faith
+	1 Journey's End
+	1 Allied Reinforcements
+	1 The Icelord
+	1 Wielder of Stars
+	1 Kanil, Night Rider of Ice
+	1 Seek Prosperity
+	1 Whimsical Spellcaster
+	1 Wizard of Aenir
+	1 Warlock of Shadow Sorcery
+	1 Demonic Studies
+	1 Grand Warlock Talnir
+	1 Deal With Ravens
+	1 Villainous Fiend
+	1 Demonic Bloodlord
+	1 Bloodstained Moon
+	1 Lava Lance
+	1 Barbarian of the West
+	1 Southern Fireblade
+	1 Nebula's Impulse
+	1 Demonic Protector
+	1 Intrepid Rootwalla
+	1 Chromatic Attunement
+	1 Shifting Roots
+	1 Forest Giant
+	1 Mountaineer Scout
+	1 Lost Forest Shrine
 	1 Battle of the Tower
 	1 Sacred Emissary
 	1 Lost From the World
@@ -2259,645 +2373,50 @@
 	1 The Night Riders' Bane
 	1 Drorix's Sword
 	1 Verdant Reclamation
-	2 Cave of Ice
-	2 The Circle of Ash
-	2 Erki, Blade of Darkness
-	2 Attuned Landscape
-	2 Unending Reinforcements
-	2 Return the Sword
-	2 Relive Rage
-	2 Recoiling Regrowth
-	2 Raziq, Desert Hero
-	2 Verdant Discovery
-	2 Attuned Spellcharger
-	2 Verdant Cliffside
-	2 Kiral, Desert Village
-	2 The Corrupted Lands
+	1 Mind Thief
+	1 Corrupted Ritualist
+	1 Corrupter of Nature
+	1 Autumn Mage
+	1 Armored Recruiter
+	1 Ironrun Soldier
+	1 Volcano Sage
+	1 Corrupted Forester
+	1 Allied Commander
+	1 Alanar Water Mage
+	1 Cave of Ice
+	1 The Circle of Ash
+	1 Erki, Blade of Darkness
+	1 Attuned Landscape
+	1 Unending Reinforcements
+	1 Return the Sword
+	1 Relive Rage
+	1 Recoiling Regrowth
+	1 Raziq, Desert Hero
+	1 Verdant Discovery
+	1 Attuned Spellcharger
+	1 Stone of Darkness
+	1 Gate to the Tower
+	1 Altar of Lost Colors
+	1 Altar of Lost Light
+	1 Altar of Lost Curiosity
+	1 Evolving Wilds
+	1 Marraq
+	1 Lephyx's Crystal
+	1 Verdant Cliffside
+	1 The Ice Wastes
+	1 Iriatu Falls
+	1 Kiral, Desert Village
+	1 The Corrupted Lands
 	1 Valley of Paradise
 	1 Akali Lava Giant
 	1 Xirok, the Shattered One
 	1 Galranok, Oracle of Magic
-	2 Drain the Lands
-	2 Take Back the Lands
-	2 Brilliant Aurora
-	2 Darkness Unchained
-	2 Drorix, Divine Outcast
-	2 In Search of Grandeur
-[uncommon(3)]
-	4 Sage of Aenir's Reclamation
-	4 One With Shadows
-	4 Altar of Lost Shadows
-	4 Brave Strike
-	4 Mesa Spearman
-	4 Recruit Trainer
-	4 Shattered Sword Cleaver
-	4 Dark Dredging
-	4 Lit Meteorite
-	4 Thalur Recruiter
-	4 Dark Thought-Thief
-	4 Unchained Nightwatcher
-	4 Beyond the Tower
-	4 Seek the World of Dreams
-	4 Dreams of Color
-	4 Corrupter of Magic
-	4 Shattered Sword Duplicator
-	4 Dark Summoner
-	4 Adaptive Mage
-	4 Oracle of Wisps
-	4 Shattered Sword Assassin
-	4 Destruction Circle
-	4 Western Army Commander
-	4 Lost Crypt
-	4 Angel of Darkened Faith
-	4 Shattered Sword Brainwasher
-	4 Rage of Fiery Darkness
-	4 Altar of Lost Fire
-	4 Firelight Duelist
-	4 Arid Forest Venturer
-	4 Conjurer of Lost Joy
-	4 Desert Admiral
-	4 Shattered Sword Punisher
-	4 River Scout
-	4 Undiscovered Depths Scout
-	4 Reclaimer of Aenir
-	4 Marsh Explorer
-	4 Alanar Forest Fighter
-	4 Druid of Iriatu
-	4 Blade of Verdant Exploration
-	4 Scout of Attunement
-	4 Cloud Invocation
-	4 Mind Healer
-	4 Angel of Pure Faith
-	4 Demonic Studies
-	4 Mind Thief
-	4 Corrupted Ritualist
-	4 Corrupter of Nature
-	4 Autumn Mage
-	4 Armored Recruiter
-	4 Ironrun Soldier
-	4 Volcano Sage
-	4 Corrupted Forester
-	4 Allied Commander
-	4 Alanar Water Mage
-	4 Gate to the Tower
-	4 Altar of Lost Colors
-	4 Altar of Lost Light
-	4 Altar of Lost Curiosity
-	4 Marraq
-	4 Lephyx's Crystal
-	4 The Ice Wastes
-	4 Iriatu Falls
-[common(6)]
-	8 Search the Forest
-	8 Corrupted Kirali
-	8 Frostpath Traveler
-	8 Desert Commander
-	8 New Recruit
-	8 Head of Recruitment
-	8 Shattered Swordsman
-	8 Aqiman Charger
-	8 Crafty Escape
-	8 Shattered Swordbearer
-	8 Frostpath Soldier
-	8 Alnak Blade Student
-	8 Spirit Strike
-	8 Soul Drain
-	8 Prophetic Crystal
-	8 Seek Answers
-	8 Call of Control
-	8 Icefire Bolt
-	8 Shattered Sword Iceblade
-	8 Lightning Retort
-	8 Enchanting of Stones
-	8 Learn Through Repetition
-	8 Window to Lost Souls
-	8 Answer Seeker
-	8 Darkness Searcher
-	8 Icy Aurora
-	8 Alanar Teacher
-	8 Shattered Sword Warlock
-	8 Into the Cave
-	8 Explore the Depths
-	8 Corrupted Grounds
-	8 Warlock of the Tower
-	8 Soul Whisperer
-	8 Shattered Sword Soldier
-	8 Irkian Mindrender
-	8 Darkmoon Aurora
-	8 Witch of Thirak
-	8 Undying Shadowblade
-	8 Corrupting Fire
-	8 Immolating Smite
-	8 Crimson Lights
-	8 Kangal Martyr
-	8 Fellfire Restoration
-	8 Warlock of Dark Fire
-	8 Spearman of the Alliance
-	8 Thalur Firewizard
-	8 Butcher of Graves
-	8 Night Rider of Fire
-	8 Jungle Adept
-	8 Icefire Ally
-	8 Burning of the Ground
-	8 Wisdom of the Sea
-	8 Lost Sanctuary
-	8 Iriatu Explorer
-	8 Deep-Jungle Bear
-	8 Ruins of Decay
-	8 Dark Forest Surveyor
-	8 Aenir Expedition
-	8 Last Watch of Alanar
-	8 Scout of Jhal
-	8 Iriatu Healer
-	8 Lost Forest Relic
-	8 Dark Forest Fighter
-	8 Jungle Scout
-	8 Servant to Magius
-	8 Horror of the Bog
-	8 Shadow Duplication
-	8 Arid Attacker
-	8 Irkian Flagbearer
-	8 Stone of Darkness
-	8 Evolving Wilds
-	8 Alliance Medic
-	8 Lost Servant
-	8 Call of Answers
-[common | masterpiece(1)]
-	8 Search the Forest
-	8 Corrupted Kirali
-	8 Frostpath Traveler
-	8 Desert Commander
-	8 New Recruit
-	8 Head of Recruitment
-	8 Shattered Swordsman
-	8 Aqiman Charger
-	8 Crafty Escape
-	8 Shattered Swordbearer
-	8 Frostpath Soldier
-	8 Alnak Blade Student
-	8 Spirit Strike
-	8 Soul Drain
-	8 Prophetic Crystal
-	8 Seek Answers
-	8 Call of Control
-	8 Icefire Bolt
-	8 Shattered Sword Iceblade
-	8 Lightning Retort
-	8 Enchanting of Stones
-	8 Learn Through Repetition
-	8 Window to Lost Souls
-	8 Answer Seeker
-	8 Darkness Searcher
-	8 Icy Aurora
-	8 Alanar Teacher
-	8 Shattered Sword Warlock
-	8 Into the Cave
-	8 Explore the Depths
-	8 Corrupted Grounds
-	8 Warlock of the Tower
-	8 Soul Whisperer
-	8 Shattered Sword Soldier
-	8 Irkian Mindrender
-	8 Darkmoon Aurora
-	8 Witch of Thirak
-	8 Undying Shadowblade
-	8 Corrupting Fire
-	8 Immolating Smite
-	8 Crimson Lights
-	8 Kangal Martyr
-	8 Fellfire Restoration
-	8 Warlock of Dark Fire
-	8 Spearman of the Alliance
-	8 Thalur Firewizard
-	8 Butcher of Graves
-	8 Night Rider of Fire
-	8 Jungle Adept
-	8 Icefire Ally
-	8 Burning of the Ground
-	8 Wisdom of the Sea
-	8 Lost Sanctuary
-	8 Iriatu Explorer
-	8 Deep-Jungle Bear
-	8 Ruins of Decay
-	8 Dark Forest Surveyor
-	8 Aenir Expedition
-	8 Last Watch of Alanar
-	8 Scout of Jhal
-	8 Iriatu Healer
-	8 Lost Forest Relic
-	8 Dark Forest Fighter
-	8 Jungle Scout
-	8 Servant to Magius
-	8 Horror of the Bog
-	8 Shadow Duplication
-	8 Arid Attacker
-	8 Irkian Flagbearer
-	8 Stone of Darkness
-	8 Evolving Wilds
-	8 Alliance Medic
-	8 Lost Servant
-	8 Call of Answers
-[foil(1)]
-	12 Search the Forest
-	12 Corrupted Kirali
-	12 Frostpath Traveler
-	12 Desert Commander
-	12 New Recruit
-	12 Head of Recruitment
-	12 Shattered Swordsman
-	12 Aqiman Charger
-	12 Crafty Escape
-	12 Shattered Swordbearer
-	12 Frostpath Soldier
-	12 Alnak Blade Student
-	12 Spirit Strike
-	12 Soul Drain
-	12 Prophetic Crystal
-	12 Seek Answers
-	12 Call of Control
-	12 Icefire Bolt
-	12 Shattered Sword Iceblade
-	12 Lightning Retort
-	12 Enchanting of Stones
-	12 Learn Through Repetition
-	6 Sage of Aenir's Reclamation
-	12 Window to Lost Souls
-	12 Answer Seeker
-	12 Darkness Searcher
-	12 Icy Aurora
-	12 Alanar Teacher
-	12 Shattered Sword Warlock
-	12 Into the Cave
-	12 Explore the Depths
-	12 Corrupted Grounds
-	12 Warlock of the Tower
-	12 Soul Whisperer
-	12 Shattered Sword Soldier
-	2 Seek the Depths
-	6 One With Shadows
-	12 Irkian Mindrender
-	12 Darkmoon Aurora
-	12 Witch of Thirak
-	12 Undying Shadowblade
-	6 Altar of Lost Shadows
-	12 Corrupting Fire
-	12 Immolating Smite
-	12 Crimson Lights
-	12 Kangal Martyr
-	12 Fellfire Restoration
-	12 Warlock of Dark Fire
-	6 Brave Strike
-	6 Mesa Spearman
-	12 Spearman of the Alliance
-	12 Thalur Firewizard
-	12 Butcher of Graves
-	12 Night Rider of Fire
-	12 Jungle Adept
-	12 Icefire Ally
-	12 Burning of the Ground
-	12 Wisdom of the Sea
-	12 Lost Sanctuary
-	12 Iriatu Explorer
-	12 Deep-Jungle Bear
-	12 Ruins of Decay
-	12 Dark Forest Surveyor
-	12 Aenir Expedition
-	12 Last Watch of Alanar
-	12 Scout of Jhal
-	12 Iriatu Healer
-	12 Lost Forest Relic
-	12 Dark Forest Fighter
-	12 Jungle Scout
-	6 Recruit Trainer
-	2 Armored Windblade
-	6 Shattered Sword Cleaver
-	6 Dark Dredging
-	6 Lit Meteorite
-	2 Thirak Commander
-	6 Thalur Recruiter
-	6 Dark Thought-Thief
-	6 Unchained Nightwatcher
-	6 Beyond the Tower
-	6 Seek the World of Dreams
-	6 Dreams of Color
-	6 Corrupter of Magic
-	12 Servant to Magius
-	6 Shattered Sword Duplicator
-	6 Dark Summoner
-	6 Adaptive Mage
-	6 Oracle of Wisps
-	6 Shattered Sword Assassin
-	6 Destruction Circle
-	2 Cosmic Manipulator
-	12 Horror of the Bog
-	12 Shadow Duplication
-	6 Western Army Commander
-	6 Lost Crypt
-	6 Angel of Darkened Faith
-	6 Shattered Sword Brainwasher
-	12 Arid Attacker
-	6 Rage of Fiery Darkness
-	6 Altar of Lost Fire
-	6 Firelight Duelist
-	6 Arid Forest Venturer
-	6 Conjurer of Lost Joy
-	12 Irkian Flagbearer
-	6 Desert Admiral
-	6 Shattered Sword Punisher
-	6 River Scout
-	6 Undiscovered Depths Scout
-	6 Reclaimer of Aenir
-	6 Marsh Explorer
-	6 Alanar Forest Fighter
-	6 Druid of Iriatu
-	6 Blade of Verdant Exploration
-	6 Scout of Attunement
-	6 Cloud Invocation
-	2 Sunrise Savant
-	6 Mind Healer
-	2 Shattered Sword Defender
-	6 Angel of Pure Faith
-	2 Journey's End
-	2 Allied Reinforcements
-	2 The Icelord
-	2 Wielder of Stars
-	2 Kanil, Night Rider of Ice
-	2 Seek Prosperity
-	2 Whimsical Spellcaster
-	2 Wizard of Aenir
-	2 Warlock of Shadow Sorcery
-	6 Demonic Studies
-	2 Grand Warlock Talnir
-	2 Deal With Ravens
-	2 Villainous Fiend
-	2 Demonic Bloodlord
-	2 Bloodstained Moon
-	2 Lava Lance
-	2 Barbarian of the West
-	2 Southern Fireblade
-	2 Nebula's Impulse
-	2 Demonic Protector
-	2 Intrepid Rootwalla
-	2 Chromatic Attunement
-	2 Shifting Roots
-	2 Forest Giant
-	2 Mountaineer Scout
-	2 Lost Forest Shrine
-	1 Battle of the Tower
-	1 Sacred Emissary
-	1 Lost From the World
-	1 Zirlir, Prodigious Decipherer
-	1 Profane Emissary
-	1 Jklamdiel, Xirok's Chosen
-	1 The Night Riders' Bane
-	1 Drorix's Sword
-	1 Verdant Reclamation
-	6 Mind Thief
-	6 Corrupted Ritualist
-	6 Corrupter of Nature
-	6 Autumn Mage
-	6 Armored Recruiter
-	6 Ironrun Soldier
-	6 Volcano Sage
-	6 Corrupted Forester
-	6 Allied Commander
-	6 Alanar Water Mage
-	2 Cave of Ice
-	2 The Circle of Ash
-	2 Erki, Blade of Darkness
-	2 Attuned Landscape
-	2 Unending Reinforcements
-	2 Return the Sword
-	2 Relive Rage
-	2 Recoiling Regrowth
-	2 Raziq, Desert Hero
-	2 Verdant Discovery
-	2 Attuned Spellcharger
-	12 Stone of Darkness
-	6 Gate to the Tower
-	6 Altar of Lost Colors
-	6 Altar of Lost Light
-	6 Altar of Lost Curiosity
-	12 Evolving Wilds
-	6 Marraq
-	6 Lephyx's Crystal
-	2 Verdant Cliffside
-	6 The Ice Wastes
-	6 Iriatu Falls
-	2 Kiral, Desert Village
-	2 The Corrupted Lands
-	1 Valley of Paradise
-	1 Akali Lava Giant
-	1 Xirok, the Shattered One
-	1 Galranok, Oracle of Magic
-	12 Alliance Medic
-	12 Lost Servant
-	12 Call of Answers
-	2 Drain the Lands
-	2 Take Back the Lands
-	2 Brilliant Aurora
-	2 Darkness Unchained
-	2 Drorix, Divine Outcast
-	2 In Search of Grandeur
-[wildcard(1)]
-	6 Search the Forest
-	6 Corrupted Kirali
-	6 Frostpath Traveler
-	6 Desert Commander
-	6 New Recruit
-	6 Head of Recruitment
-	6 Shattered Swordsman
-	6 Aqiman Charger
-	6 Crafty Escape
-	6 Shattered Swordbearer
-	6 Frostpath Soldier
-	6 Alnak Blade Student
-	6 Spirit Strike
-	6 Soul Drain
-	6 Prophetic Crystal
-	6 Seek Answers
-	6 Call of Control
-	6 Icefire Bolt
-	6 Shattered Sword Iceblade
-	6 Lightning Retort
-	6 Enchanting of Stones
-	6 Learn Through Repetition
-	15 Sage of Aenir's Reclamation
-	6 Window to Lost Souls
-	6 Answer Seeker
-	6 Darkness Searcher
-	6 Icy Aurora
-	6 Alanar Teacher
-	6 Shattered Sword Warlock
-	6 Into the Cave
-	6 Explore the Depths
-	6 Corrupted Grounds
-	6 Warlock of the Tower
-	6 Soul Whisperer
-	6 Shattered Sword Soldier
-	7 Seek the Depths
-	15 One With Shadows
-	6 Irkian Mindrender
-	6 Darkmoon Aurora
-	6 Witch of Thirak
-	6 Undying Shadowblade
-	15 Altar of Lost Shadows
-	6 Corrupting Fire
-	6 Immolating Smite
-	6 Crimson Lights
-	6 Kangal Martyr
-	6 Fellfire Restoration
-	6 Warlock of Dark Fire
-	15 Brave Strike
-	15 Mesa Spearman
-	6 Spearman of the Alliance
-	6 Thalur Firewizard
-	6 Butcher of Graves
-	6 Night Rider of Fire
-	6 Jungle Adept
-	6 Icefire Ally
-	6 Burning of the Ground
-	6 Wisdom of the Sea
-	6 Lost Sanctuary
-	6 Iriatu Explorer
-	6 Deep-Jungle Bear
-	6 Ruins of Decay
-	6 Dark Forest Surveyor
-	6 Aenir Expedition
-	6 Last Watch of Alanar
-	6 Scout of Jhal
-	6 Iriatu Healer
-	6 Lost Forest Relic
-	6 Dark Forest Fighter
-	6 Jungle Scout
-	15 Recruit Trainer
-	7 Armored Windblade
-	15 Shattered Sword Cleaver
-	15 Dark Dredging
-	15 Lit Meteorite
-	7 Thirak Commander
-	15 Thalur Recruiter
-	15 Dark Thought-Thief
-	15 Unchained Nightwatcher
-	15 Beyond the Tower
-	15 Seek the World of Dreams
-	15 Dreams of Color
-	15 Corrupter of Magic
-	6 Servant to Magius
-	15 Shattered Sword Duplicator
-	15 Dark Summoner
-	15 Adaptive Mage
-	15 Oracle of Wisps
-	15 Shattered Sword Assassin
-	15 Destruction Circle
-	7 Cosmic Manipulator
-	6 Horror of the Bog
-	6 Shadow Duplication
-	15 Western Army Commander
-	15 Lost Crypt
-	15 Angel of Darkened Faith
-	15 Shattered Sword Brainwasher
-	6 Arid Attacker
-	15 Rage of Fiery Darkness
-	15 Altar of Lost Fire
-	15 Firelight Duelist
-	15 Arid Forest Venturer
-	15 Conjurer of Lost Joy
-	6 Irkian Flagbearer
-	15 Desert Admiral
-	15 Shattered Sword Punisher
-	15 River Scout
-	15 Undiscovered Depths Scout
-	15 Reclaimer of Aenir
-	15 Marsh Explorer
-	15 Alanar Forest Fighter
-	15 Druid of Iriatu
-	15 Blade of Verdant Exploration
-	15 Scout of Attunement
-	15 Cloud Invocation
-	7 Sunrise Savant
-	15 Mind Healer
-	7 Shattered Sword Defender
-	15 Angel of Pure Faith
-	7 Journey's End
-	7 Allied Reinforcements
-	7 The Icelord
-	7 Wielder of Stars
-	7 Kanil, Night Rider of Ice
-	7 Seek Prosperity
-	7 Whimsical Spellcaster
-	7 Wizard of Aenir
-	7 Warlock of Shadow Sorcery
-	15 Demonic Studies
-	7 Grand Warlock Talnir
-	7 Deal With Ravens
-	7 Villainous Fiend
-	7 Demonic Bloodlord
-	7 Bloodstained Moon
-	7 Lava Lance
-	7 Barbarian of the West
-	7 Southern Fireblade
-	7 Nebula's Impulse
-	7 Demonic Protector
-	7 Intrepid Rootwalla
-	7 Chromatic Attunement
-	7 Shifting Roots
-	7 Forest Giant
-	7 Mountaineer Scout
-	7 Lost Forest Shrine
-	4 Battle of the Tower
-	4 Sacred Emissary
-	4 Lost From the World
-	4 Zirlir, Prodigious Decipherer
-	4 Profane Emissary
-	4 Jklamdiel, Xirok's Chosen
-	4 The Night Riders' Bane
-	4 Drorix's Sword
-	4 Verdant Reclamation
-	15 Mind Thief
-	15 Corrupted Ritualist
-	15 Corrupter of Nature
-	15 Autumn Mage
-	15 Armored Recruiter
-	15 Ironrun Soldier
-	15 Volcano Sage
-	15 Corrupted Forester
-	15 Allied Commander
-	15 Alanar Water Mage
-	7 Cave of Ice
-	7 The Circle of Ash
-	7 Erki, Blade of Darkness
-	7 Attuned Landscape
-	7 Unending Reinforcements
-	7 Return the Sword
-	7 Relive Rage
-	7 Recoiling Regrowth
-	7 Raziq, Desert Hero
-	7 Verdant Discovery
-	7 Attuned Spellcharger
-	6 Stone of Darkness
-	15 Gate to the Tower
-	15 Altar of Lost Colors
-	15 Altar of Lost Light
-	15 Altar of Lost Curiosity
-	6 Evolving Wilds
-	15 Marraq
-	15 Lephyx's Crystal
-	7 Verdant Cliffside
-	15 The Ice Wastes
-	15 Iriatu Falls
-	7 Kiral, Desert Village
-	7 The Corrupted Lands
-	4 Valley of Paradise
-	4 Akali Lava Giant
-	4 Xirok, the Shattered One
-	4 Galranok, Oracle of Magic
-	6 Alliance Medic
-	6 Lost Servant
-	6 Call of Answers
-	7 Drain the Lands
-	7 Take Back the Lands
-	7 Brilliant Aurora
-	7 Darkness Unchained
-	7 Drorix, Divine Outcast
-	7 In Search of Grandeur
+	1 Alliance Medic
+	1 Lost Servant
+	1 Call of Answers
+	1 Drain the Lands
+	1 Take Back the Lands
+	1 Brilliant Aurora
+	1 Darkness Unchained
+	1 Drorix, Divine Outcast
+	1 In Search of Grandeur

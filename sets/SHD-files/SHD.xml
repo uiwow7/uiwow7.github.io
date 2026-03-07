@@ -1,0 +1,4463 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>SHD</name>
+			<longname>Shattering Divinity</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-03-06</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>CW01 Small Creature</name>
+			<text>Sacralize (When this creature deals combat damage to a player, you may sacrifice it.)
+Whenever this creature or another creature you control leaves the battlefield, you gain 1 life. If this creature was sacralized, you gain 3 life instead.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/3_CW01 Small Creature.jpg" num="3">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW02 Small Creature</name>
+			<text>LIFEGAIN PAYOFF
+At the beginning of your upkeep, you may exile a creature card from your graveyard. If you do, you gain 1 life.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/4_CW02 Small Creature.jpg" num="4">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW03 Small Creature</name>
+			<text>Lifelink
+When this creature dies, revere. (Put a Celestial card you own from outside the game into your hand or graveyard. If a card wasn&apos;t put into your hand, create a Clue token.)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/5_CW03 Small Creature.jpg" num="5">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW04 Small Creature</name>
+			<text>Flying
+When this creature enters, revere. (Put a Celestial card you own from outside the game into your hand or graveyard. If a card wasn&apos;t put into your hand, create a Clue token.)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/6_CW04 Small Creature.jpg" num="6">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW05 Small Creature</name>
+			<text>Sacralize (When this creature deals combat damage to a player, you may sacrifice it.)
+Whenever another creature you control leaves the battlefield, put a +1/+1 counter on this creature.
+When this creature dies, put its counters on target creature you control.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/7_CW05 Small Creature.jpg" num="7">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW06 Small Creature</name>
+			<text>When this creature enters, create a 1/1 white XXX creature token. 
+Warp {W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/8_CW06 Small Creature.jpg" num="8">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW07 Small Creature</name>
+			<text>Creatures you control with power 2 or less have vigilance.
+Creatures you don&apos;t control with power 4 or greater can&apos;t block.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/9_CW07 Small Creature.jpg" num="9">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW08 Medium Creature</name>
+			<text>Vigilance
+Whenever this creature attacks, it gets +1/+1 for each other creature you control with power 2 or less until end of turn.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/10_CW08 Medium Creature.jpg" num="10">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW09 Medium Creature</name>
+			<text>Sacralize (When this creature deals combat damage to a player, you may sacrifice it.)
+When this creature is sacralized, put a +1/+1 counter on each creature you control.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/11_CW09 Medium Creature.jpg" num="11">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW10 Medium Creature</name>
+			<text>When this creature enters or dies, create two 1/1 XXX white creature tokens with lifelink.
+Augury — Whenever this creature attacks, if you exiled a card this turn, it gets +1/+1 for each creature you control.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/12_CW10 Medium Creature.jpg" num="12">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fate Smother</name>
+			<text>Augury — This spell deals 3 damage to target attacking or blocking creature. If you exiled a card this turn, it deals 5 damage instead.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/17_Fate Smother.jpg" num="17">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW12 Combat Trick</name>
+			<text>Target creature you control gets +2/+1 until end of turn.
+Revere. (Put a Celestial card you own from outside the game into your hand or graveyard. If a card wasn&apos;t put into your hand, create a Clue token.)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/13_CW12 Combat Trick.jpg" num="13">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW13 Banishing Light</name>
+			<text>When this enchantment enters, exile target creature you don&apos;t control until this enchantment leave the battlefield.
+Augury — At the beginning of each end step, if you exiled a card this turn, you gain 1 life.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/14_CW13 Banishing Light.jpg" num="14">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW14 Aura</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+1 and has vigilance.
+Whenever enchanted creature attacks, you gain 1 life.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/15_CW14 Aura.jpg" num="15">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW15 Removal</name>
+			<text>Exile target tapped creature.
+Revere. (Put a Celestial card you own from outside the game into your hand or graveyard. If a card wasn&apos;t put into your hand, create a Clue token.)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/16_CW15 Removal.jpg" num="16">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU01 Small Creature</name>
+			<text>Defender
+Augury — As long as you&apos;ve exiled a card this turn, this creature can attack as though it didn&apos;t have defender.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/46_CU01 Small Creature.jpg" num="46">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU02 Small Creature</name>
+			<text>Whenever this creature attacks, mill two cards.
+{3}{U}, Exile three other cards from your graveyard: Return this creature from your graveyard to the battlefield with a finality counter on it. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/47_CU02 Small Creature.jpg" num="47">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU03 Medium Creature</name>
+			<text>Once during each of your turns, when a card leaves your graveyard, target creature you control gets +1/+1 and gains flying until end of turn.
+{3}{U}: Surveil 1, then draw a card and discard a card.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/48_CU03 Medium Creature.jpg" num="48">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU04 Medium Creature</name>
+			<text>Whenever a creature you control enters, if it wasn&apos;t cast from your hand, put a +1/+1 counter on it.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/49_CU04 Medium Creature.jpg" num="49">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU05 Medium Creature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/50_CU05 Medium Creature.jpg" num="50">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU06 Medium Creature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/51_CU06 Medium Creature.jpg" num="51">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU07 Medium Creature</name>
+			<text>Augury — When this creature enters, if you exiled a card this turn, return target nonland permanent to its owner&apos;s hand.
+Warp {1}{U} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/52_CU07 Medium Creature.jpg" num="52">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU08 MediumWall Creature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/53_CU08 MediumWall Creature.jpg" num="53">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU09 Large Creature</name>
+			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+When this creature enters, revere. (Put a Celestial card you own from outside the game into your hand or graveyard. If a card wasn&apos;t put into your hand, create a Clue token.)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/54_CU09 Large Creature.jpg" num="54">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>6UU</manacost>
+				<cmc>8</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU10 Noncreature</name>
+			<text>Enchant creature
+Augury — When this enchantment enters, if you exiled a card this turn, tap enchanted creature.
+Enchanted creature doesn&apos;t untap during its controllers untap step.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/55_CU10 Noncreature.jpg" num="55">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU11 Noncreature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/56_CU11 Noncreature.jpg" num="56">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU12 Noncreature</name>
+			<text>Counter target spell unless its controller pays {2}. If they do, revere. (Put a Celestial card you own from outside the game into your hand or graveyard. If a card wasn&apos;t put into your hand, create a Clue token.)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/57_CU12 Noncreature.jpg" num="57">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU13 Noncreature</name>
+			<text>Tap up to one target creature and put a stun counter on it.
+Revere (Put a Celestial card you own from outside the game into your hand or graveyard. If a card wasn&apos;t put into your hand, create a Clue token.)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/58_CU13 Noncreature.jpg" num="58">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU14 Noncreature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/59_CU14 Noncreature.jpg" num="59">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU15 Noncreature</name>
+			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Target creature&apos;s owner puts it on their choice of the top or bottom of their library.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/60_CU15 Noncreature.jpg" num="60">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB01 Small Creature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/87_CB01 Small Creature.jpg" num="87">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB02 Small Creature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/88_CB02 Small Creature.jpg" num="88">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB03 Small Creature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/89_CB03 Small Creature.jpg" num="89">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB04 Small Creature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/90_CB04 Small Creature.jpg" num="90">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB05 Small Creature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/91_CB05 Small Creature.jpg" num="91">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB06 Medium Creature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/92_CB06 Medium Creature.jpg" num="92">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB07 Medium Creature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/93_CB07 Medium Creature.jpg" num="93">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB08 Medium Creature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/94_CB08 Medium Creature.jpg" num="94">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB09 Large Creature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/95_CB09 Large Creature.jpg" num="95">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB10 Noncreature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/96_CB10 Noncreature.jpg" num="96">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB11 Noncreature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/97_CB11 Noncreature.jpg" num="97">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB12 Noncreature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/98_CB12 Noncreature.jpg" num="98">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB13 Noncreature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/99_CB13 Noncreature.jpg" num="99">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB14 Noncreature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/100_CB14 Noncreature.jpg" num="100">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB15 Noncreature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/101_CB15 Noncreature.jpg" num="101">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR01 Small Creature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/129_CR01 Small Creature.jpg" num="129">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR02 Small Creature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/130_CR02 Small Creature.jpg" num="130">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR03 Small Creature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/131_CR03 Small Creature.jpg" num="131">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR04 Small Creature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/132_CR04 Small Creature.jpg" num="132">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR05 Medium Creature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/133_CR05 Medium Creature.jpg" num="133">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR06 Medium Creature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/134_CR06 Medium Creature.jpg" num="134">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR07 Medium Creature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/135_CR07 Medium Creature.jpg" num="135">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR08 Medium Creature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/136_CR08 Medium Creature.jpg" num="136">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR09 Medium Creature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/137_CR09 Medium Creature.jpg" num="137">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>6R</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR10 Large Creature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/138_CR10 Large Creature.jpg" num="138">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR11 Noncreature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/139_CR11 Noncreature.jpg" num="139">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR12 Noncreature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/140_CR12 Noncreature.jpg" num="140">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR13 Noncreature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/141_CR13 Noncreature.jpg" num="141">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR14 Noncreature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/142_CR14 Noncreature.jpg" num="142">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR15 Noncreature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/143_CR15 Noncreature.jpg" num="143">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG01 Small Creature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/171_CG01 Small Creature.jpg" num="171">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG02 Small Creature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/172_CG02 Small Creature.jpg" num="172">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG03 Small Creature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/173_CG03 Small Creature.jpg" num="173">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG04 Medium Creature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/174_CG04 Medium Creature.jpg" num="174">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG05 Medium Creature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/175_CG05 Medium Creature.jpg" num="175">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG06 Medium Creature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/176_CG06 Medium Creature.jpg" num="176">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG07 Medium Creature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/177_CG07 Medium Creature.jpg" num="177">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG08 Medium Creature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/178_CG08 Medium Creature.jpg" num="178">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG09 Large Creature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/179_CG09 Large Creature.jpg" num="179">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG10 Large Creature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/180_CG10 Large Creature.jpg" num="180">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>6G</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG11 Noncreature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/181_CG11 Noncreature.jpg" num="181">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG12 Noncreature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/182_CG12 Noncreature.jpg" num="182">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG13 Noncreature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/183_CG13 Noncreature.jpg" num="183">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG14 Noncreature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/184_CG14 Noncreature.jpg" num="184">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG15 Noncreature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/185_CG15 Noncreature.jpg" num="185">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CA01 Small Creature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/244_CA01 Small Creature.jpg" num="244">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CA02 Noncreature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/245_CA02 Noncreature.jpg" num="245">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CA03 Noncreature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/246_CA03 Noncreature.jpg" num="246">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CA04 Noncreature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/247_CA04 Noncreature.jpg" num="247">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CA05 Noncreature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/248_CA05 Noncreature.jpg" num="248">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CL01 Noncreature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/260_CL01 Noncreature.jpg" num="260">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL02 Noncreature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/261_CL02 Noncreature.jpg" num="261">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL03 Noncreature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/262_CL03 Noncreature.jpg" num="262">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL04 Noncreature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/263_CL04 Noncreature.jpg" num="263">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL05 Noncreature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/264_CL05 Noncreature.jpg" num="264">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL06 Noncreature</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/265_CL06 Noncreature.jpg" num="265">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UW01 Small Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/29_UW01 Small Creature.jpg" num="29">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW02 Small Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/30_UW02 Small Creature.jpg" num="30">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW03 Small Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/31_UW03 Small Creature.jpg" num="31">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW04 Small Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/32_UW04 Small Creature.jpg" num="32">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW05 Small Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/33_UW05 Small Creature.jpg" num="33">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW06 Medium Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/34_UW06 Medium Creature.jpg" num="34">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW07 Medium Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/35_UW07 Medium Creature.jpg" num="35">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW08 Medium Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/36_UW08 Medium Creature.jpg" num="36">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW09 Medium Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/37_UW09 Medium Creature.jpg" num="37">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW10 Large Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/38_UW10 Large Creature.jpg" num="38">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW11 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/39_UW11 Noncreature.jpg" num="39">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UW12 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/40_UW12 Noncreature.jpg" num="40">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UW13 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/41_UW13 Noncreature.jpg" num="41">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UW14 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/42_UW14 Noncreature.jpg" num="42">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UW15 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/43_UW15 Noncreature.jpg" num="43">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UW16 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/44_UW16 Noncreature.jpg" num="44">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UW17 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/45_UW17 Noncreature.jpg" num="45">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU01 Small Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/70_UU01 Small Creature.jpg" num="70">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU02 Small Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/71_UU02 Small Creature.jpg" num="71">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU03 Small Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/72_UU03 Small Creature.jpg" num="72">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU04 Small Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/73_UU04 Small Creature.jpg" num="73">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU05 Small Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/74_UU05 Small Creature.jpg" num="74">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU06 Small Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/75_UU06 Small Creature.jpg" num="75">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU07 Medium Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/76_UU07 Medium Creature.jpg" num="76">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU08 Medium Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/77_UU08 Medium Creature.jpg" num="77">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU09 Large Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/78_UU09 Large Creature.jpg" num="78">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>6U</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU10 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/79_UU10 Noncreature.jpg" num="79">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU11 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/80_UU11 Noncreature.jpg" num="80">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU12 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/81_UU12 Noncreature.jpg" num="81">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU13 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/82_UU13 Noncreature.jpg" num="82">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU14 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/83_UU14 Noncreature.jpg" num="83">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU15 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/84_UU15 Noncreature.jpg" num="84">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU16 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/85_UU16 Noncreature.jpg" num="85">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU17 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/86_UU17 Noncreature.jpg" num="86">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB01 Small Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/112_UB01 Small Creature.jpg" num="112">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB02 Small Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/113_UB02 Small Creature.jpg" num="113">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB03 Small Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/114_UB03 Small Creature.jpg" num="114">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB04 Small Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/115_UB04 Small Creature.jpg" num="115">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB05 Small Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/116_UB05 Small Creature.jpg" num="116">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB06 Medium Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/117_UB06 Medium Creature.jpg" num="117">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB07 Medium Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/118_UB07 Medium Creature.jpg" num="118">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB08 Medium Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/119_UB08 Medium Creature.jpg" num="119">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB09 Large Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/120_UB09 Large Creature.jpg" num="120">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB10 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/121_UB10 Noncreature.jpg" num="121">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB11 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/122_UB11 Noncreature.jpg" num="122">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB12 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/123_UB12 Noncreature.jpg" num="123">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB13 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/124_UB13 Noncreature.jpg" num="124">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB14 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/125_UB14 Noncreature.jpg" num="125">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB15 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/126_UB15 Noncreature.jpg" num="126">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB16 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/127_UB16 Noncreature.jpg" num="127">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB17 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/128_UB17 Noncreature.jpg" num="128">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR01 Small Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/154_UR01 Small Creature.jpg" num="154">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR02 Small Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/155_UR02 Small Creature.jpg" num="155">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR03 Small Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/156_UR03 Small Creature.jpg" num="156">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR04 SmallWall Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/157_UR04 SmallWall Creature.jpg" num="157">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR05 Medium Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/158_UR05 Medium Creature.jpg" num="158">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR06 Medium Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/159_UR06 Medium Creature.jpg" num="159">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR07 Medium Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/160_UR07 Medium Creature.jpg" num="160">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR08 Large Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/161_UR08 Large Creature.jpg" num="161">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR09 Large Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/162_UR09 Large Creature.jpg" num="162">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>5R</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR10 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/163_UR10 Noncreature.jpg" num="163">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR11 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/164_UR11 Noncreature.jpg" num="164">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR12 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/165_UR12 Noncreature.jpg" num="165">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR13 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/166_UR13 Noncreature.jpg" num="166">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR14 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/167_UR14 Noncreature.jpg" num="167">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR15 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/168_UR15 Noncreature.jpg" num="168">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR16 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/169_UR16 Noncreature.jpg" num="169">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR17 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/170_UR17 Noncreature.jpg" num="170">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>5R</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UG01 Small Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/195_UG01 Small Creature.jpg" num="195">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UG02 Small Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/196_UG02 Small Creature.jpg" num="196">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UG03 Small Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/197_UG03 Small Creature.jpg" num="197">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UG04 Small Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/198_UG04 Small Creature.jpg" num="198">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UG05 Medium Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/199_UG05 Medium Creature.jpg" num="199">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UG06 Medium Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/200_UG06 Medium Creature.jpg" num="200">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UG07 Medium Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/201_UG07 Medium Creature.jpg" num="201">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UG08 Medium Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/202_UG08 Medium Creature.jpg" num="202">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UG09 Medium Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/203_UG09 Medium Creature.jpg" num="203">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UG10 Large Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/204_UG10 Large Creature.jpg" num="204">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UG11 Large Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/205_UG11 Large Creature.jpg" num="205">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>6G</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UG12 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/206_UG12 Noncreature.jpg" num="206">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UG13 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/207_UG13 Noncreature.jpg" num="207">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UG14 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/208_UG14 Noncreature.jpg" num="208">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UG15 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/209_UG15 Noncreature.jpg" num="209">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UG16 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/210_UG16 Noncreature.jpg" num="210">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UG17 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/211_UG17 Noncreature.jpg" num="211">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM01 Small Creature</name>
+			<text>Whenever one or more cards leave your graveyard, put a +1/+1 counter on this creature and it gains flying until end of turn.
+{2}{G}{U}, Exile this creature from your graveyard: Surveil 1, then return up to one creature or land card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/225_UM01 Small Creature.jpg" num="225">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Celestial Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>3GU</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM02 Small Creature</name>
+			<text>Flying
+When this creature enters, tap up to one target creature and put a stun counter on it. You gain life equal to its power.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/227_UM02 Small Creature.jpg" num="227">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Celestial Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3WU</manacost>
+				<cmc>5</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM03 Small Creature</name>
+			<text>Flying
+At the beginning of combat on your turn, you may exile a card from your graveyard. If you do, tap up to one target creature.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/229_UM03 Small Creature.jpg" num="229">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Celestial Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM04 Small Creature</name>
+			<text>Whenever a creature you control with power 2 or less attacks, this creature deals 1 damage to each opponent.
+Whenever a creature you control with power 2 or less dies, exile the top card of your library. You may play it until end of turn.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/232_UM04 Small Creature.jpg" num="232">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Celestial Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM05 Small Creature</name>
+			<text>Other Horrors you control get +1/+0 and have haste.
+Sacralize (When this creature deals combat damage to a player, you may sacrifice it.)
+When this creature dies, create a 2/2 black Horror creature token. If this creature was sacralized, create two of those tokens instead.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/233_UM05 Small Creature.jpg" num="233">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Celestial Horror Eye</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM06 Medium Creature</name>
+			<text>Once each turn, when a card is put into your graveyard from anywhere, each opponent loses 1 life and you gain 1 life.
+{4}{B}{G}: Return this creature from your graveyard to the battlefield tapped.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/235_UM06 Medium Creature.jpg" num="235">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Celestial Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM07 Medium Creature</name>
+			<text>When this creature enters, destroy up to one target artifact or enchantment.
+Warp {R}{G} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/236_UM07 Medium Creature.jpg" num="236">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Celestial Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM09 Medium Creature</name>
+			<text>At the beginning of combat on your turn, if you&apos;ve gained life this turn, put a +1/+1 counter on each creature you control.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/240_UM09 Medium Creature.jpg" num="240">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Celestial Elk</type>
+				<maintype>Creature</maintype>
+				<manacost>3GW</manacost>
+				<cmc>5</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM10 Medium Creature</name>
+			<text>Flying
+Whenever this creature or another creature dies, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/242_UM10 Medium Creature.jpg" num="242">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Celestial Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UA01 Small Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/255_UA01 Small Creature.jpg" num="255">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UA02 Small Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/256_UA02 Small Creature.jpg" num="256">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UA03 Medium Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/257_UA03 Medium Creature.jpg" num="257">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UA04 Large Creature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/258_UA04 Large Creature.jpg" num="258">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UA05 Noncreature</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/259_UA05 Noncreature.jpg" num="259">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RW01 Small Creature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/20_RW01 Small Creature.jpg" num="20">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RW02 Small Creature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/21_RW02 Small Creature.jpg" num="21">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RW03 Medium Creature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/22_RW03 Medium Creature.jpg" num="22">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RW04 Medium Creature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/23_RW04 Medium Creature.jpg" num="23">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RW05 Large Creature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/24_RW05 Large Creature.jpg" num="24">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RW06 Noncreature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/25_RW06 Noncreature.jpg" num="25">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RW07 Noncreature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/26_RW07 Noncreature.jpg" num="26">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RW08 Noncreature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/27_RW08 Noncreature.jpg" num="27">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RW09 Noncreature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/28_RW09 Noncreature.jpg" num="28">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RU01 SmallWall Creature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/63_RU01 SmallWall Creature.jpg" num="63">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RU02 Medium Creature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/64_RU02 Medium Creature.jpg" num="64">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RU03 Medium Creature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/65_RU03 Medium Creature.jpg" num="65">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RU04 Large Creature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/66_RU04 Large Creature.jpg" num="66">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>6U</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RU05 Noncreature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/67_RU05 Noncreature.jpg" num="67">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RU06 Noncreature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/68_RU06 Noncreature.jpg" num="68">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RU07 Noncreature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/69_RU07 Noncreature.jpg" num="69">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RB01 Small Creature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/104_RB01 Small Creature.jpg" num="104">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RB02 Medium Creature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/105_RB02 Medium Creature.jpg" num="105">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RB03 Medium Creature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/106_RB03 Medium Creature.jpg" num="106">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RB04 Noncreature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/107_RB04 Noncreature.jpg" num="107">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RB05 Noncreature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/108_RB05 Noncreature.jpg" num="108">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RB06 Noncreature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/109_RB06 Noncreature.jpg" num="109">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RB07 Noncreature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/110_RB07 Noncreature.jpg" num="110">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RB08 Noncreature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/111_RB08 Noncreature.jpg" num="111">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RR01 Small Creature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/146_RR01 Small Creature.jpg" num="146">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RR02 Medium Creature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/147_RR02 Medium Creature.jpg" num="147">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RR03 Large Creature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/148_RR03 Large Creature.jpg" num="148">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RR04 Noncreature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/149_RR04 Noncreature.jpg" num="149">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RR05 Noncreature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/150_RR05 Noncreature.jpg" num="150">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RR06 Noncreature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/151_RR06 Noncreature.jpg" num="151">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RR07 Noncreature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/152_RR07 Noncreature.jpg" num="152">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RR08 Noncreature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/153_RR08 Noncreature.jpg" num="153">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>5R</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RG01 Medium Creature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/188_RG01 Medium Creature.jpg" num="188">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RG02 Medium Creature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/189_RG02 Medium Creature.jpg" num="189">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RG03 Medium Creature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/190_RG03 Medium Creature.jpg" num="190">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RG04 Noncreature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/191_RG04 Noncreature.jpg" num="191">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RG05 Noncreature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/192_RG05 Noncreature.jpg" num="192">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RG06 Noncreature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/193_RG06 Noncreature.jpg" num="193">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RG07 Noncreature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/194_RG07 Noncreature.jpg" num="194">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RM01 Small Creature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/214_RM01 Small Creature.jpg" num="214">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RM02 Small Creature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/215_RM02 Small Creature.jpg" num="215">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RM03 Small Creature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/216_RM03 Small Creature.jpg" num="216">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RM04 Small Creature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/217_RM04 Small Creature.jpg" num="217">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RM05 Small Creature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/218_RM05 Small Creature.jpg" num="218">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RM06 Small Creature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/219_RM06 Small Creature.jpg" num="219">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RM07 Small Creature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/220_RM07 Small Creature.jpg" num="220">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>WUBRG</manacost>
+				<cmc>5</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RM08 Medium Creature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/221_RM08 Medium Creature.jpg" num="221">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RM09 Noncreature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/222_RM09 Noncreature.jpg" num="222">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RM10 Noncreature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/223_RM10 Noncreature.jpg" num="223">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>4UB</manacost>
+				<cmc>6</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RM11 Noncreature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/224_RM11 Noncreature.jpg" num="224">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>5BR</manacost>
+				<cmc>7</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RA01 Small Creature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/252_RA01 Small Creature.jpg" num="252">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RA02 Noncreature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/253_RA02 Noncreature.jpg" num="253">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RA03 Noncreature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/254_RA03 Noncreature.jpg" num="254">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RL01 Small Creature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/271_RL01 Small Creature.jpg" num="271">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RL02 Noncreature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/272_RL02 Noncreature.jpg" num="272">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>RL03 Noncreature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/273_RL03 Noncreature.jpg" num="273">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>RL04 Noncreature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/274_RL04 Noncreature.jpg" num="274">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>RL05 Noncreature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/275_RL05 Noncreature.jpg" num="275">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>RL06 Noncreature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/276_RL06 Noncreature.jpg" num="276">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>RX01 Large Creature</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/2_RX01 Large Creature.jpg" num="2">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>MW01 Small Creature</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/18_MW01 Small Creature.jpg" num="18">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>MW02 Large Creature</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/19_MW02 Large Creature.jpg" num="19">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>MU01 Large Creature</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/61_MU01 Large Creature.jpg" num="61">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>MU02 Noncreature</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/62_MU02 Noncreature.jpg" num="62">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>MB01 Medium Creature</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/102_MB01 Medium Creature.jpg" num="102">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>MB02 Noncreature</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/103_MB02 Noncreature.jpg" num="103">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>MR01 Medium Creature</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/144_MR01 Medium Creature.jpg" num="144">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>MR02 Noncreature</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/145_MR02 Noncreature.jpg" num="145">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>MG01 Small Creature</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/186_MG01 Small Creature.jpg" num="186">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>MG02 Small Creature</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/187_MG02 Small Creature.jpg" num="187">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>7G</manacost>
+				<cmc>8</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>MM01 Medium Creature</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/213_MM01 Medium Creature.jpg" num="213">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4RW</manacost>
+				<cmc>6</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>MA01 Noncreature</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/249_MA01 Noncreature.jpg" num="249">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>MA02 Noncreature</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/250_MA02 Noncreature.jpg" num="250">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>MA03 Noncreature</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/251_MA03 Noncreature.jpg" num="251">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>ML01 Small Creature</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/266_ML01 Small Creature.jpg" num="266">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>ML02 Noncreature</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/267_ML02 Noncreature.jpg" num="267">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>ML03 Noncreature</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/268_ML03 Noncreature.jpg" num="268">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>ML04 Noncreature</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/269_ML04 Noncreature.jpg" num="269">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>ML05 Noncreature</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/270_ML05 Noncreature.jpg" num="270">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>MX01 Noncreature</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/1_MX01 Noncreature.jpg" num="1">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Archetypes SHD</name>
+			<text>{W}{U}: Celestial control
+{U}{B}: Unearth
+{B}{R}: Horror typal
+{R}{G}: Warp midrange
+{G}{W}: Lifegain
+{W}{B}: Sacralize aristocrats
+{U}{R}: Augury
+{B}{G}: Delve selfmill
+{R}{W}: Power 2 or less
+{G}{U}: Leaves graveyard</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/1t_Archetypes.jpg" num="1">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>UM01 Small Creature</name>
+			<text>Once during each of your turns, when a land card leaves your graveyard, you may put it onto the battlefield under your control.
+{1}{G}{U}, Exile three cards from your graveyard: Draw a card.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/226_UM01 Small Creature.jpg" num="226">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Eye</type>
+				<maintype>Creature</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM02 Small Creature</name>
+			<text>Flash
+When this creature enters, you gain 3 life and revere. (Put a Celestial card you own from outside the game into your hand or graveyard. If a card wasn&apos;t put into your hand, create a Clue token.)</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/228_UM02 Small Creature.jpg" num="228">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM03 Small Creature</name>
+			<text>Menace
+Augury — Whenever this creature attacks, if you&apos;ve exiled a card this turn, draw a card.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/230_UM03 Small Creature.jpg" num="230">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM04 Grovekeeper 2</name>
+			<text>Haste
+Whenever this creature attacks, reveal the top three cards of your library. You may put a creature card with power 2 or less from among them into your hand and the rest on the bottom in a random order.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/231_UM04 Grovekeeper 2.jpg" num="231">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horse</type>
+				<maintype>Creature</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM05 Small Creature</name>
+			<text>Whenever this creature or another Horror you control enters, this creature deals 1 damage to each opponent.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/234_UM05 Small Creature.jpg" num="234">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM07 Medium Creature</name>
+			<text>When this creature enters, exile the top two cards of your library. You may play them during your next turn.
+Warp {1}{R}{G} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/237_UM07 Medium Creature.jpg" num="237">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4RG</manacost>
+				<cmc>6</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM08 Medium Creature</name>
+			<text>When this creature enters, mill four cards.
+When this card leaves your graveyard during your turn, you may pay {2}. If you do, create a 2/2 blue XXX creature token.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/239_UM08 Medium Creature.jpg" num="239">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Celestial Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM09 Medium Creature</name>
+			<text>Whenever a creature you control enters, you gain 1 life.
+This creature gets +X/+X, where X is the amount of life you&apos;ve gained this turn.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/241_UM09 Medium Creature.jpg" num="241">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM10 Medium Creature</name>
+			<text>Sacralize (When this creature deals combat damage to a player, you may sacrifice it.)
+TODO</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/243_UM10 Medium Creature.jpg" num="243">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Depths Soulthief</name>
+			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+When this creature enters, destroy target creature with mana value less than or equal to the number of card types among cards exiled with this creature.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/212_Depths Soulthief.jpg" num="212">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>6BG</manacost>
+				<cmc>8</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM08 Medium Creature</name>
+			<text>When this creature enters, surveil 2. If this creature entered from a graveyard or was cast from a graveyard, draw two cards. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/238_UM08 Medium Creature.jpg" num="238">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fish</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

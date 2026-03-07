@@ -1,0 +1,541 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>CC01</name>
+			<longname>Voyager Card Contest 1 — Aanginer</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-03-06</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Unsummon</name>
+			<text>Return target creature to its owner&apos;s hand. If its mana value was 2 or less, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/8_Unsummon.jpg" num="8">CC01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>White Removal</name>
+			<text>Exile target creature with mana value less than or equal to the number of creatures you control. Its controller gains 3 life.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/5_White Removal.jpg" num="5">CC01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Multicolor silver Planeswalker</name>
+			<text>​
+</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/CC01-files/img/21_Multicolor silver Planeswalker.jpg" num="21">CC01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Silver Value Engine</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/23_Silver Value Engine.jpg" num="23">CC01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Silver Topend Threat</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/22_Silver Topend Threat.jpg" num="22">CC01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3II</manacost>
+				<cmc>5</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tenzel, Contained by Frost</name>
+			<text>Warp {1}{U} (You may cast this card from your hand for its warp cost. Exile this planeswalker at the beginning of the next end step, then you may cast it from exile on a later turn.)
+[+1]: The next time target creature you control deals combat damage to a player, draw a card.
+[-1]: Create a 1/1 blue Spirit creature token with flying.
+[-2]: Tap target creature and put a stun counter on it. For as long as it remains tapped, it loses all abilities.</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/CC01-files/img/7_Tenzel, Contained by Frost.jpg" num="7">CC01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Tenzel</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mill Creature</name>
+			<text>When Mill Creature enters, you mill two cards and gain 2 life.
+When Mill Creature dies, return target land card from your graveyard to the battlefield tapped.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/16_Mill Creature.jpg" num="16">CC01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Silver Vertex</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/24_Silver Vertex.jpg" num="24">CC01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>ALIEN PRINCE?????</name>
+			<text>Heir—Condition (If this card is your chosen heir in your sanctum, you may replace a draw with this card if you&apos;ve met its condition.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/18_ALIEN PRINCE?????.jpg" num="18">CC01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Avatar Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Selfmill Cantrip</name>
+			<text>Surveil 2, then draw a card and discard a card. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/11_Selfmill Cantrip.jpg" num="11">CC01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Emissary of the Beyond</name>
+			<text>Whenever a creature you control enters, Emissary of the Beyond deals 1 damage to each opponent.
+[+1]: Exile the top card of your library. You may cast it until end of turn..
+[-2]: Create a 1/1 red XX creature token. Creatures you control get +1/+0 and gain haste until end of turn.</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/CC01-files/img/13_Emissary of the Beyond.jpg" num="13">CC01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Emissary</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Multiple Artifact Destruction</name>
+			<text>Destroy all artifacts. EFFECT</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/14_Multiple Artifact Destruction.jpg" num="14">CC01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sellon, Otherworldly Strength</name>
+			<text>If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead.
+[+1]: Put a +1/+1 counter on target creature. It gains trample until end of turn.
+[-2]: Draw a card for each creature you control with power greater than its base power.
+[-4]: Put two +1/+1 counters on each creature you control.</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/CC01-files/img/17_Sellon, Otherworldly Strength.jpg" num="17">CC01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Sellon</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1GGG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Insidious Mimic</name>
+			<text>Changeling (This card is every creature type.)
+As Insidious Mimic enters, choose a creature type.
+Attacking creatures you control of the chosen type get +1/+0.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/2_Insidious Mimic.jpg" num="2">CC01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Earthbound Brushwoods</name>
+			<text>When The Earthbound Brushwoods enters, search your library for a land card with a nonbasic land type, put it onto the battlefield tapped, then shuffle.
+{6}: Target land you control becomes a 0/0 creature with haste that&apos;s still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/25_The Earthbound Brushwoods.jpg" num="25">CC01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Enchantment — Wonder</type>
+				<maintype>Enchantment</maintype>
+				<manacost>II/GG</manacost>
+				<cmc>3</cmc>
+				<colors>GI</colors>
+				<coloridentity>GI</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Icefire Monuments</name>
+			<text>If an opponent would lose life, they loose that much life plus one instead. (Damage causes loss of life.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/26_The Icefire Monuments.jpg" num="26">CC01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Enchantment — Wonder</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1II/RR</manacost>
+				<cmc>4</cmc>
+				<colors>RI</colors>
+				<coloridentity>RI</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Moonlight Shadows</name>
+			<text>Whenever a creature enters under your control, you may liberate it. (Exile it if it isn&apos;t a Dragon. If it&apos;s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/27_The Moonlight Shadows.jpg" num="27">CC01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Enchantment — Wonder</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2II/WW</manacost>
+				<cmc>5</cmc>
+				<colors>WI</colors>
+				<coloridentity>WI</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Sunlit Pools</name>
+			<text>Whenever a creature is returned to a hand or library from the battlefield, create a token that&apos;s a copy of that creature.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/28_The Sunlit Pools.jpg" num="28">CC01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Enchantment — Wonder</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2II/UU</manacost>
+				<cmc>5</cmc>
+				<colors>UI</colors>
+				<coloridentity>UI</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Sunset Undergrowth</name>
+			<text>When The Sunset Undergrowth enters, return target permanent card with mana value 2 or less from your graveyard to the battlefield.
+At the beginning of your end step, each opponent loses 1 life.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/29_The Sunset Undergrowth.jpg" num="29">CC01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Enchantment — Wonder</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1II/BB</manacost>
+				<cmc>4</cmc>
+				<colors>BI</colors>
+				<coloridentity>BI</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Call of the Celestial Tree</name>
+			<text>Create two 1/1 white Avatar creature tokens, then pursue Wonder. (Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/3_Call of the Celestial Tree.jpg" num="3">CC01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Call of the Lifebringer</name>
+			<text>Pursue Wonder (Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)
+You may put a land card from your hand onto the battlefield tapped.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/15_Call of the Lifebringer.jpg" num="15">CC01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Call of the Sky</name>
+			<text>Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+Pursue Wonder. (Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/19_Call of the Sky.jpg" num="19">CC01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Call of the Soul</name>
+			<text>Destroy target creature.
+Pursue Wonder (Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/9_Call of the Soul.jpg" num="9">CC01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Call of the Sea</name>
+			<text>Draw a card, then pursue Wonder. (Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)
+Discard a card.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/6_Call of the Sea.jpg" num="6">CC01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Call of the Sunset</name>
+			<text>Pursue Wonder (Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)
+Exile each card in your hand, then draw that many cards. You may play cards exiled this way until the end of your next turn.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/12_Call of the Sunset.jpg" num="12">CC01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Avatar CC01</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CC01-files/img/1t_Avatar.jpg" num="1">CC01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Monument to Lapsed Worlds</name>
+			<text>{T}: Add {C}{C}{C}{C}.
+Whenever you spend five or more mana to cast a spell, create a 2/2 colorless Avatar creature token.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/30_Monument to Lapsed Worlds.jpg" num="30">CC01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Artifact — Realm</type>
+				<maintype>Artifact</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nasahar, Voidbringer</name>
+			<text>At the beginning of each opponent&apos;s upkeep, if that player has one or fewer cards in hand, they lose 3 life.
+[+1]: Each player discards a card.
+[0]: Each opponent loses 2 life and you gain 2 life.
+[-2]: Return target creature card from your graveyard to your hand.</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/CC01-files/img/10_Nasahar, Voidbringer.jpg" num="10">CC01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Nasahar</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ego Robber</name>
+			<text>You may cast Ego Robber from your sanctum. (It can&apos;t start there.)
+[+1]: Sift 1. Each opponent loses 2 life and you gain 2 life.
+[-2]: Target creature gets +3/-3 until end of turn.</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/CC01-files/img/20_Ego Robber.jpg" num="20">CC01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Peross</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1II</manacost>
+				<cmc>3</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Namel, Blade of Oracles</name>
+			<text>Creatures you control get +1/+1.
+[+1]: Create a 1/1 white Avatar creature token.
+[-2]: Exile target creature. Its controller gains life equal to its power.
+[-7]: You get an emblem with &quot;If one or more tokens would be created under your control, twice that many of those tokens are created instead.&quot;</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/CC01-files/img/4_Namel, Blade of Oracles.jpg" num="4">CC01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Namel</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Contorted SOMETHING</name>
+			<text>Whenever this creature enters or attacks, exile target player&apos;s reserves.
+Warp {2} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/1_Contorted SOMETHING.jpg" num="1">CC01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

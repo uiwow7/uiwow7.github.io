@@ -5,14 +5,14 @@
 			<name>DSW</name>
 			<longname>Dazon: Splintered Worlds</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-02-26</releasedate>
+			<releasedate>2026-03-06</releasedate>
 		</set>
 	</sets>
 	<cards>
 		<card>
 			<name>Wandering Virtue</name>
 			<text>When this creature or another Avatar you control enters, you gain 1 life.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/44_Wandering Virtue.jpg" num="44">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/43_Wandering Virtue.jpg" num="43">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -47,7 +47,7 @@
 			<name>Traveler of Lost Planes</name>
 			<text>Infuse (When you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)
 This creature has lifelink as long as it has a counter on it.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/40_Traveler of Lost Planes.jpg" num="40">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/39_Traveler of Lost Planes.jpg" num="39">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -65,7 +65,7 @@ This creature has lifelink as long as it has a counter on it.</text>
 			<name>Naroz Path-Traveler</name>
 			<text>Infuse (When you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)
 Whenever one or more counters are put on this creature, you get {V}. (Spend {V} to cast copies of Vertex spells.)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/27_Naroz Path-Traveler.jpg" num="27">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/26_Naroz Path-Traveler.jpg" num="26">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -105,7 +105,7 @@ You gain 3 life and draw a card.</text>
 			<name>Najari Pathwalker</name>
 			<text>Infuse (When you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)
 This creature has vigilance as long as it has a counter on it.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/26_Najari Pathwalker.jpg" num="26">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/25_Najari Pathwalker.jpg" num="25">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -120,10 +120,10 @@ This creature has vigilance as long as it has a counter on it.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Fractured Avatar</name>
+			<name>Fractured Soul</name>
 			<text>Flying
 When this creature enters, put a +1/+1 counter on another target creature you control.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/17_Fractured Avatar.jpg" num="17">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/17_Fractured Soul.jpg" num="17">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -141,7 +141,7 @@ When this creature enters, put a +1/+1 counter on another target creature you co
 			<name>Ruptured Cetacean</name>
 			<text>Flying
 Whenever this creature or another Avatar enters under your control, you gain 1 life.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/33_Ruptured Cetacean.jpg" num="33">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/32_Ruptured Cetacean.jpg" num="32">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -158,7 +158,7 @@ Whenever this creature or another Avatar enters under your control, you gain 1 l
 		<card>
 			<name>Avatar of the Door</name>
 			<text>Whenever this creature enters or attacks, you get {VW} (Spend {V} to cast copies of Vertex spells.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/5_Avatar of the Door.jpg" num="5">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/4_Avatar of the Door.jpg" num="4">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -173,13 +173,13 @@ Whenever this creature or another Avatar enters under your control, you gain 1 l
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>The Arbiter&apos;s Wisp</name>
+			<name>Wisp of The Arbiter</name>
 			<text>Other Avatar creatures you control enter with an additional +1/+1 counter on them.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/4_The Arbiter&apos;s Wisp.jpg" num="4">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/45_Wisp of The Arbiter.jpg" num="45">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Elk Avatar</type>
+				<type>Creature — Elk Avatar Spirit</type>
 				<maintype>Creature</maintype>
 				<manacost>3W</manacost>
 				<cmc>4</cmc>
@@ -281,11 +281,11 @@ Flying</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Runebound Prison</name>
+			<name>Runebond Prison</name>
 			<text>Enchant creature
 When this enchantment enters, put a +1/+1 counter on up to one target creature you control.
 Enchanted creature can&apos;t attack or block and its activated abilities can&apos;t be activated.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/31_Runebound Prison.jpg" num="31">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/30_Runebond Prison.jpg" num="30">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -320,7 +320,7 @@ Realize {2}{W}{W} (Then if you cast this spell for its realize cost, put it onto
 			<name>Rise Forever Higher</name>
 			<text>Put a +1/+1 counter on target creature you control. 
 This spell deals damage to target creature equal to the number of creatures you control.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/29_Rise Forever Higher.jpg" num="29">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/28_Rise Forever Higher.jpg" num="28">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -337,7 +337,7 @@ This spell deals damage to target creature equal to the number of creatures you 
 			<name>Starbeam</name>
 			<text>This spell costs {1} less to cast for each Avatar you control.
 Destroy target tapped creature.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/37_Starbeam.jpg" num="37">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/36_Starbeam.jpg" num="36">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -354,7 +354,7 @@ Destroy target tapped creature.</text>
 			<name>Rise Through the Clouds</name>
 			<text>Create two 1/1 white Bird creature tokens with flying.
 You may sacrifice a creature. If you do, you gain 4 life.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/30_Rise Through the Clouds.jpg" num="30">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/29_Rise Through the Clouds.jpg" num="29">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -371,7 +371,7 @@ You may sacrifice a creature. If you do, you gain 4 life.</text>
 			<name>Chromatic Splinters</name>
 			<text>Creatures you control get +1/+1.
 Avatars you control have vigilance.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/8_Chromatic Splinters.jpg" num="8">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/7_Chromatic Splinters.jpg" num="7">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -423,7 +423,7 @@ When this creature enters, draw a card if you&apos;ve cast a noncreature spell t
 			<name>Najari Ascendant</name>
 			<text>Infuse (When you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)
 This creature has flying as long as it has a counter on it.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/66_Najari Ascendant.jpg" num="66">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/67_Najari Ascendant.jpg" num="67">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -480,7 +480,7 @@ Whenever this creature deals combat damage to a player, if it has a counter on i
 		<card>
 			<name>Najari Pathshaper</name>
 			<text>Noncreature spells you cast cost {1} less to cast.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/68_Najari Pathshaper.jpg" num="68">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/69_Najari Pathshaper.jpg" num="69">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -515,7 +515,7 @@ Other Avatars you control have flying.</text>
 		<card>
 			<name>Stillwater Sentry</name>
 			<text>Whenever you cast a noncreature, nonvertex spell, you get {V}. (Spend {V} to cast copies of Vertex spells.)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/80_Stillwater Sentry.jpg" num="80">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/81_Stillwater Sentry.jpg" num="81">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -533,7 +533,7 @@ Other Avatars you control have flying.</text>
 			<name>Najari Companion</name>
 			<text>Flying
 When this creature enters or attacks, tap target creature. If you control a Revelation creature, put a stun counter on that creature.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/67_Najari Companion.jpg" num="67">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/68_Najari Companion.jpg" num="68">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -586,7 +586,7 @@ When this creature enters, tap target creature and put a stun counter on it.</te
 		<card>
 			<name>Misrendering</name>
 			<text>Counter target spell unless its controller pays {2}. You get {VW}. (Spend {V} to cast copies of Vertex spells.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/65_Misrendering.jpg" num="65">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/66_Misrendering.jpg" num="66">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -603,7 +603,7 @@ When this creature enters, tap target creature and put a stun counter on it.</te
 			<name>Splinter New Worlds</name>
 			<text>Look at the top three cards of your library. Put one into your hand and the rest on the bottom of your library in a random order.
 Realize {5}{U} (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/79_Splinter New Worlds.jpg" num="79">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/80_Splinter New Worlds.jpg" num="80">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -634,10 +634,10 @@ Realize {5}{U} (Then if you cast this spell for its realize cost, put it onto th
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Walk Within the Skies</name>
+			<name>Walk Among the Stars</name>
 			<text>Enchant creature
 Enchanted creature becomes a 0/1 Avatar creature and loses all other abilities and types.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/84_Walk Within the Skies.jpg" num="84">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/84_Walk Among the Stars.jpg" num="84">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -655,7 +655,7 @@ Enchanted creature becomes a 0/1 Avatar creature and loses all other abilities a
 			<text>Tap target creature and put a stun counter on it.
 Realize {3}{U}{U} (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)
 Vigilance</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/75_Rise From Eternity.jpg" num="75">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/76_Rise From Eternity.jpg" num="76">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -675,7 +675,7 @@ Vigilance</text>
 Enchant creature
 Enchanted creature has hexproof.
 Whenever enchanted creature deals combat damage to an opponent, draw a card, then discard a card.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/69_Otherwordly Sensation.jpg" num="69">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/70_Otherwordly Sensation.jpg" num="70">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -710,7 +710,7 @@ Realize {5}{U} (Then if you cast this spell for its realize cost, put it onto th
 			<name>Spiritual Departure</name>
 			<text>Depart 2 (You may cast this from your sanctum by exiling an Avatar permanent you control with power 2 or greater.)
 Draw two cards from your sanctum or your library.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/78_Spiritual Departure.jpg" num="78">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/79_Spiritual Departure.jpg" num="79">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -746,7 +746,7 @@ Realize {5}{U}{U} (Then if you cast this spell for its realize cost, put it onto
 			<text>Choose one —
 • Sanctify target spell. (Put it into its owner&apos;s sanctum.)
 • Tap target creature. Draw a card from your sanctum.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/70_Overwhelming Existence.jpg" num="70">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/71_Overwhelming Existence.jpg" num="71">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -762,7 +762,7 @@ Realize {5}{U}{U} (Then if you cast this spell for its realize cost, put it onto
 		<card>
 			<name>The Arbiter&apos;s Fallen</name>
 			<text>When this creature enters, create a 2/2 black Zombie token with lifelink and decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/89_The Arbiter&apos;s Fallen.jpg" num="89">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/88_The Arbiter&apos;s Fallen.jpg" num="88">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -779,7 +779,7 @@ Realize {5}{U}{U} (Then if you cast this spell for its realize cost, put it onto
 		<card>
 			<name>Lightwoven Ghast</name>
 			<text>When this creature dies, each player discards a card. For each noncreature card discarded this way, put a +1/+1 counter on target creature.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/109_Lightwoven Ghast.jpg" num="109">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/114_Lightwoven Ghast.jpg" num="114">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -794,9 +794,9 @@ Realize {5}{U}{U} (Then if you cast this spell for its realize cost, put it onto
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Recycled Ikani</name>
+			<name>Reborn of the Void</name>
 			<text>{T}, Sacrifice an artifact or creature: Each opponent loses 1 life and you gain 1 life.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/115_Recycled Ikani.jpg" num="115">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/120_Reborn of the Void.jpg" num="120">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -814,7 +814,7 @@ Realize {5}{U}{U} (Then if you cast this spell for its realize cost, put it onto
 			<name>Infused Warrior</name>
 			<text>Infuse (When you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)
 Whenever you put one or more counters on this creature, each opponent lose 1 life.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/108_Infused Warrior.jpg" num="108">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/113_Infused Warrior.jpg" num="113">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -833,7 +833,7 @@ Whenever you put one or more counters on this creature, each opponent lose 1 lif
 			<text>Flying
 Infuse (When you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)
 This creature has a deathtouch as long as it has a counter on it</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/94_Depthslighter.jpg" num="94">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/93_Depthslighter.jpg" num="93">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -850,7 +850,7 @@ This creature has a deathtouch as long as it has a counter on it</text>
 		<card>
 			<name>Seer of the Beyond</name>
 			<text>Whenever an artifact or another enchantment you control enters, you get {V}. (Spend {V} to cast copies of Vertex spells.)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/116_Seer of the Beyond.jpg" num="116">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/121_Seer of the Beyond.jpg" num="121">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -872,7 +872,7 @@ This creature has a deathtouch as long as it has a counter on it</text>
 
 (You can cast copies of this while in play)
 Each opponent loses 2 life and you gain 2 life.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/111_Najari Shaper.jpg" num="111">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/116_Najari Shaper.jpg" num="116">DSW</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -889,7 +889,7 @@ Each opponent loses 2 life and you gain 2 life.</text>
 		<card>
 			<name>Doorwatcher</name>
 			<text>When this creature enters, you get {VB}. (Spend {V} to cast copies of Vertex spells.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/96_Doorwatcher.jpg" num="96">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/95_Doorwatcher.jpg" num="95">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -906,7 +906,7 @@ Each opponent loses 2 life and you gain 2 life.</text>
 		<card>
 			<name>Otherworldy Starbringer</name>
 			<text>When this creature enters, create two 1/1 black Avatar creature tokens.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/113_Otherworldy Starbringer.jpg" num="113">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/118_Otherworldy Starbringer.jpg" num="118">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -921,20 +921,19 @@ Each opponent loses 2 life and you gain 2 life.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Hollow</name>
-			<text>Menace
-When this creature is put into a graveyard or exile from the battlefield, you draw two cards and lose 2 life.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/106_Hollow.jpg" num="106">DSW</set>
+			<name>Eye of the Sword</name>
+			<text>Whenever you cast a noncreature spell, put a +1/+1 counter on target creature you control. If that spell was an artifact or an enchantment, that creature gains menace until end of turn.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/102_Eye of the Sword.jpg" num="102">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Avatar</type>
+				<type>Artifact Creature — Eye</type>
 				<maintype>Creature</maintype>
 				<manacost>4B</manacost>
 				<cmc>5</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>3/4</pt>
+				<pt>4/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -960,7 +959,7 @@ When this creature becomes infused, target opponent discards a card. If they can
 			<name>Eternal Wanderer</name>
 			<text>Depart 2 (You may cast this from your sanctum by exiling an Avatar permanent you control with power 2 or greater.)
 Menace</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/102_Eternal Wanderer.jpg" num="102">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/101_Eternal Wanderer.jpg" num="101">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -978,7 +977,7 @@ Menace</text>
 			<name>Corrupted Conviction</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature.
 Draw two cards.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/93_Corrupted Conviction.jpg" num="93">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/92_Corrupted Conviction.jpg" num="92">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -996,7 +995,7 @@ Draw two cards.</text>
 			<text>Choose one. If a creature died under your control this turn, you may choose both instead.
 • Target creature gets -1/-1 until end of turn.
 • Target player discards a card.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/118_Transcend Mortality.jpg" num="118">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/125_Transcend Mortality.jpg" num="125">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1013,7 +1012,7 @@ Draw two cards.</text>
 			<name>Drain Spiritual Realms</name>
 			<text>Target creature gets -3/-3 until end of turn. 
 Realize {3}{B}{B} (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/97_Drain Spiritual Realms.jpg" num="97">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/96_Drain Spiritual Realms.jpg" num="96">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1030,7 +1029,7 @@ Realize {3}{B}{B} (Then if you cast this spell for its realize cost, put it onto
 		<card>
 			<name>Embrace Eternity</name>
 			<text>Target player reveals their hand. You choose a nonland card from it. Sanctify that card. (Put it into its owner&apos;s sanctum.)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/100_Embrace Eternity.jpg" num="100">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/99_Embrace Eternity.jpg" num="99">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1044,10 +1043,10 @@ Realize {3}{B}{B} (Then if you cast this spell for its realize cost, put it onto
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Trianglify</name>
+			<name>To Dust</name>
 			<text>As an additional cost to cast this spell, sacrifice an artifact or creature.
 Draw two cards. You get {VU}. (Spend {V} to cast copies of Vertex spells.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/119_Trianglify.jpg" num="119">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/124_To Dust.jpg" num="124">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1061,11 +1060,11 @@ Draw two cards. You get {VU}. (Spend {V} to cast copies of Vertex spells.)</text
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Allocate Memory</name>
+			<name>Face Unfettered Judgement</name>
 			<text>Return up to two target creature cards from your graveyard to your hand.
 Realize {5}{B} (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)
 Menace</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/88_Allocate Memory.jpg" num="88">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/103_Face Unfettered Judgement.jpg" num="103">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1084,7 +1083,7 @@ Menace</text>
 			<text>Choose one —
 • Destroy target permanent with counters on it.
 • Remove all counters from target permanent or player.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/107_Inevitable Withering.jpg" num="107">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/112_Inevitable Withering.jpg" num="112">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1101,7 +1100,7 @@ Menace</text>
 			<name>Convergence of Paths</name>
 			<text>This spell costs {2} less to cast if there are three or more noncreature cards in your graveyard.
 You draw a card, lose 1 life, and get {VB}.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/92_Convergence of Paths.jpg" num="92">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/91_Convergence of Paths.jpg" num="91">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1118,7 +1117,7 @@ You draw a card, lose 1 life, and get {VB}.</text>
 			<name>Freed from Eternity</name>
 			<text>Depart 2 (You may cast this from your sanctum by exiling an Avatar permanent you control with power 2 or greater.)
 Return target creature card from your graveyard to the battlefield.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/104_Freed from Eternity.jpg" num="104">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/108_Freed from Eternity.jpg" num="108">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1134,7 +1133,7 @@ Return target creature card from your graveyard to the battlefield.</text>
 		<card>
 			<name>Savan Ascendant</name>
 			<text>When this creature enters, create a 1/1 red Avatar creature token.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/155_Savan Ascendant.jpg" num="155">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/163_Savan Ascendant.jpg" num="163">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1151,7 +1150,7 @@ Return target creature card from your graveyard to the battlefield.</text>
 		<card>
 			<name>Najari Bloodseeker</name>
 			<text>Whenever this creature attacks, create a tapped and attacking 1/1 red Avatar creature token. Sacrifice it at the beginning of the next end step.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/149_Najari Bloodseeker.jpg" num="149">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/156_Najari Bloodseeker.jpg" num="156">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1169,7 +1168,7 @@ Return target creature card from your graveyard to the battlefield.</text>
 			<name>Extraplanar Existence</name>
 			<text>Infuse (When you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)
 When this creature becomes infused, create a tapped treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/138_Extraplanar Existence.jpg" num="138">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/143_Extraplanar Existence.jpg" num="143">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1186,7 +1185,7 @@ When this creature becomes infused, create a tapped treasure token. (It&apos;s a
 		<card>
 			<name>Kalan Processor</name>
 			<text>Whenever this creature attacks, you get {VW}. (Spend {V} to cast copies of Vertex spells.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/146_Kalan Processor.jpg" num="146">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/153_Kalan Processor.jpg" num="153">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1204,7 +1203,7 @@ When this creature becomes infused, create a tapped treasure token. (It&apos;s a
 			<name>Cosmos Caller</name>
 			<text>Infuse (When you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)
 When this creature becomes infused, you get {VU}. (Spend {V} to cast copies of Vertex spells.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/134_Cosmos Caller.jpg" num="134">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/136_Cosmos Caller.jpg" num="136">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1222,7 +1221,7 @@ When this creature becomes infused, you get {VU}. (Spend {V} to cast copies of V
 			<name>Rage from Beyond</name>
 			<text>When this creature enters, create a 1/1 red Avatar creature token.
 {1}, Sacrifice a creature: This creature deals 1 damage to any target.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/153_Rage from Beyond.jpg" num="153">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/161_Rage from Beyond.jpg" num="161">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1244,7 +1243,7 @@ When this creature becomes infused, you get {VU}. (Spend {V} to cast copies of V
 
 (You can cast copies of this while in play)
 This spell deals 2 damage to any target.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/143_Ikan Explorer.jpg" num="143">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/150_Ikan Explorer.jpg" num="150">DSW</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -1262,7 +1261,7 @@ This spell deals 2 damage to any target.</text>
 			<name>Stormborn Flamebringer</name>
 			<text>Infuse (When you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)
 Whenever one or more counters are put on this creature, it deals that much damage to target opponent.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/159_Stormborn Flamebringer.jpg" num="159">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/167_Stormborn Flamebringer.jpg" num="167">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1297,7 +1296,7 @@ Whenever one or more counters are put on this creature, it deals that much damag
 			<name>The Arbiter&apos;s Pathlighter</name>
 			<text>This spell costs {1} less to cast for each noncreature, nonland card in your graveyard.
 When this creature enters, exile the top two cards of your library. You may play them during your next turn.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/130_The Arbiter&apos;s Pathlighter.jpg" num="130">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/131_The Arbiter&apos;s Pathlighter.jpg" num="131">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1314,7 +1313,7 @@ When this creature enters, exile the top two cards of your library. You may play
 		<card>
 			<name>Kara Mountain Guardian</name>
 			<text>When this creature enters, create three 1/1 black Spirit creature tokens with decayed. (They can&apos;t block. When one attacks, sacrifice it at end of combat.)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/147_Kara Mountain Guardian.jpg" num="147">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/154_Kara Mountain Guardian.jpg" num="154">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1332,7 +1331,7 @@ When this creature enters, exile the top two cards of your library. You may play
 			<name>Eternal Flamebearer</name>
 			<text>Depart 2 (You may cast this from your sanctum by exiling an Avatar permanent you control with power 2 or greater.)
 When this creature enters, discard a card, then draw two cards.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/137_Eternal Flamebearer.jpg" num="137">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/142_Eternal Flamebearer.jpg" num="142">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1350,7 +1349,7 @@ When this creature enters, discard a card, then draw two cards.</text>
 			<name>Perpetual Ricochet</name>
 			<text>This spell deals 1 damage to any target. 
 If you&apos;ve cast another noncreature spell this turn, this spell deals 1 damage to any target.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/152_Perpetual Ricochet.jpg" num="152">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/160_Perpetual Ricochet.jpg" num="160">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1366,7 +1365,7 @@ If you&apos;ve cast another noncreature spell this turn, this spell deals 1 dama
 		<card>
 			<name>Render Worlds</name>
 			<text>Draw a card. You get {VW}. (Spend {V} to cast copies of Vertex spells.)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/154_Render Worlds.jpg" num="154">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/162_Render Worlds.jpg" num="162">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1383,7 +1382,7 @@ If you&apos;ve cast another noncreature spell this turn, this spell deals 1 dama
 			<name>Shatter Eternity</name>
 			<text>Destroy up to one target artifact.
 Realize {3}{R} (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/157_Shatter Eternity.jpg" num="157">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/165_Shatter Eternity.jpg" num="165">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1400,7 +1399,7 @@ Realize {3}{R} (Then if you cast this spell for its realize cost, put it onto th
 		<card>
 			<name>Path Acceleration</name>
 			<text>Target creature you control gets +3/+0 and gains trample and haste until end of turn.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/151_Path Acceleration.jpg" num="151">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/159_Path Acceleration.jpg" num="159">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1417,7 +1416,7 @@ Realize {3}{R} (Then if you cast this spell for its realize cost, put it onto th
 			<name>Comsumed Memories</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature or discard a card.
 Draw two cards.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/133_Comsumed Memories.jpg" num="133">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/135_Comsumed Memories.jpg" num="135">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1434,7 +1433,7 @@ Draw two cards.</text>
 			<name>Hurled Flamestone</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature.
 This spell deals 4 damage to any target.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/142_Hurled Flamestone.jpg" num="142">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/149_Hurled Flamestone.jpg" num="149">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1452,7 +1451,7 @@ This spell deals 4 damage to any target.</text>
 			<text>Creatures you control get +2/+0 until end of turn.
 Realize {5}{R} (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)
 Haste</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/140_Forge Chromatic Fire.jpg" num="140">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/147_Forge Chromatic Fire.jpg" num="147">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1470,7 +1469,7 @@ Haste</text>
 			<name>Kalan Crystal Spear</name>
 			<text>Equipped creature gets +3/+0 and has trample.
 Equip {2}</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/145_Kalan Crystal Spear.jpg" num="145">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/152_Kalan Crystal Spear.jpg" num="152">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1487,7 +1486,7 @@ Equip {2}</text>
 			<name>Breaking Eternity</name>
 			<text>Depart 2 (You may cast this from your sanctum by exiling an Avatar permanent you control with power 2 or greater.)
 Discard any number of cards, then draw that many cards plus one. Then if there are seven or more cards in your graveyard, this spell deals 3 damage to each opponent.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/131_Breaking Eternity.jpg" num="131">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/132_Breaking Eternity.jpg" num="132">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1557,7 +1556,7 @@ When this creature becomes infused, you gain 3 life.</text>
 			<name>Ghostly Wanderer</name>
 			<text>When this creature enters, put a +1/+1 counter on target creature.
 This creature has trample as long as it has a counter on it.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/190_Ghostly Wanderer.jpg" num="190">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/191_Ghostly Wanderer.jpg" num="191">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1615,7 +1614,7 @@ When this creature enters, create a 1/1 green Avatar creature token.</text>
 			<name>Thicket&apos;s Incarnation</name>
 			<text>Infuse (When you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)
 Whenever one or more counters are put on this creature, target creature gets +2/+2 until end of turn.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/204_Thicket&apos;s Incarnation.jpg" num="204">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/209_Thicket&apos;s Incarnation.jpg" num="209">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1649,7 +1648,7 @@ Whenever one or more counters are put on this creature, target creature gets +2/
 		<card>
 			<name>Resolute Herald</name>
 			<text>When this creature enters, return target creature or Revelation card from your graveyard to your hand.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/198_Resolute Herald.jpg" num="198">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/202_Resolute Herald.jpg" num="202">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1684,7 +1683,7 @@ Whenever one or more counters are put on this creature, target creature you cont
 		<card>
 			<name>Nebula Titan</name>
 			<text>When this creature enters, put a +1/+1 counter on each other creature you control.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/195_Nebula Titan.jpg" num="195">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/198_Nebula Titan.jpg" num="198">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1719,7 +1718,7 @@ Whenever one or more counters are put on this creature, target creature you cont
 			<name>Eternal Blossoming</name>
 			<text>Depart 2 (You may cast this from your sanctum by exiling an Avatar permanent you control with power 2 or greater.)
 When this creature enters, you gain 3 life.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/189_Eternal Blossoming.jpg" num="189">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/190_Eternal Blossoming.jpg" num="190">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1736,7 +1735,7 @@ When this creature enters, you gain 3 life.</text>
 		<card>
 			<name>Snakeskin Veil</name>
 			<text>Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/200_Snakeskin Veil.jpg" num="200">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/205_Snakeskin Veil.jpg" num="205">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1771,7 +1770,7 @@ Enchanted land has &quot;{T}: Add one mana of any color.&quot;</text>
 			<name>Invigorate Forsaken Realms</name>
 			<text>Distribute three +1/+1 counters among any number of target creatures you control.
 Realize {4}{G}{G} (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/194_Invigorate Forsaken Realms.jpg" num="194">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/197_Invigorate Forsaken Realms.jpg" num="197">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1788,7 +1787,7 @@ Realize {4}{G}{G} (Then if you cast this spell for its realize cost, put it onto
 		<card>
 			<name>Stand Your Ground</name>
 			<text>Target creature you control deals damage equal to its toughness to target creature you don&apos;t control.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/202_Stand Your Ground.jpg" num="202">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/207_Stand Your Ground.jpg" num="207">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1823,7 +1822,7 @@ Realize {5}{G} (Then if you cast this spell for its realize cost, put it onto th
 			<name>Hunt for Eternity</name>
 			<text>Depart 2 (You may cast this from your sanctum by exiling an Avatar permanent you control with power 2 or greater.)
 Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/192_Hunt for Eternity.jpg" num="192">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/194_Hunt for Eternity.jpg" num="194">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1841,7 +1840,7 @@ Search your library for a basic land card, put it onto the battlefield tapped, t
 			<text>When this artifact enters, put a +1/+1 counter on up to one target creature.
 Equipped creature has trample as long as it has a counter on it and gets +2/+2.
 Equip {2}</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/191_Hammer of Forsaken Worlds.jpg" num="191">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/193_Hammer of Forsaken Worlds.jpg" num="193">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1892,7 +1891,7 @@ Trample</text>
 		<card>
 			<name>Clockwork Effigy</name>
 			<text>When this creature enters or leaves the battlefield, you may discard a card, then draw a card.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/299_Clockwork Effigy.jpg" num="299">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/298_Clockwork Effigy.jpg" num="298">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1921,10 +1920,10 @@ When this creature enters, put a +1/+1 counter on target creature you control.</
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CA04 Noncreature</name>
+			<name>Desolate Radiance</name>
 			<text>When this artifact is put into a graveyard from the battlefield, draw a card.
 {3}, {T}, Sacrifice this artifact: You draw a card and gain 2 life.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/297_CA04 Noncreature.jpg" num="297">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/299_Desolate Radiance.jpg" num="299">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1939,7 +1938,7 @@ When this creature enters, put a +1/+1 counter on target creature you control.</
 			<name>Celestial Chart</name>
 			<text>When this artifact enters, search your library for a basic land card, put it into your hand, then shuffle.
 {1}, {T}: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/298_Celestial Chart.jpg" num="298">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/297_Celestial Chart.jpg" num="297">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1969,7 +1968,7 @@ When this artifact enters, draw a card, then discard a card.
 		<card>
 			<name>Voiceless Caller</name>
 			<text>Whenever you cast a noncreature spell, you gain 1 life.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/42_Voiceless Caller.jpg" num="42">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/41_Voiceless Caller.jpg" num="41">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2003,7 +2002,7 @@ When this artifact enters, draw a card, then discard a card.
 		<card>
 			<name>Mystery from Beyond</name>
 			<text>Whenever this creature attacks, put a +1/+1 counter on up to one target attacking creature.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/25_Mystery from Beyond.jpg" num="25">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/24_Mystery from Beyond.jpg" num="24">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2018,10 +2017,10 @@ When this artifact enters, draw a card, then discard a card.
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Mysterious XXX</name>
+			<name>Collector of Mysteries</name>
 			<text>This creature gets +1/+1 for each creature you control.
 Whenever another creature you control enters, you gain 1 life.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/24_Mysterious XXX.jpg" num="24">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/8_Collector of Mysteries.jpg" num="8">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2039,7 +2038,7 @@ Whenever another creature you control enters, you gain 1 life.</text>
 			<name>Skyborn Whale</name>
 			<text>Infuse (When you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)
 Once each turn, when a counter is put on this creature, create a 1/1 white Avatar creature token.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/36_Skyborn Whale.jpg" num="36">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/35_Skyborn Whale.jpg" num="35">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2056,7 +2055,7 @@ Once each turn, when a counter is put on this creature, create a 1/1 white Avata
 		<card>
 			<name>Submit to Eternity</name>
 			<text>This spell deals 3 damage to target attacking, blocking, or Anima creature.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/38_Submit to Eternity.jpg" num="38">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/37_Submit to Eternity.jpg" num="37">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2072,7 +2071,7 @@ Once each turn, when a counter is put on this creature, create a 1/1 white Avata
 		<card>
 			<name>Protection of Starlight</name>
 			<text>Target creature you control gains indestructible until end of turn. You get {VU} (Spend {V} to cast copies of Vertex spells.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/28_Protection of Starlight.jpg" num="28">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/27_Protection of Starlight.jpg" num="27">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2088,7 +2087,7 @@ Once each turn, when a counter is put on this creature, create a 1/1 white Avata
 		<card>
 			<name>Touch of the Boundless</name>
 			<text>Destroy target tapped creature. You get {VW}. (Spend {V} to cast copies of Vertex spells.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/39_Touch of the Boundless.jpg" num="39">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/38_Touch of the Boundless.jpg" num="38">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2120,7 +2119,7 @@ Once each turn, when a counter is put on this creature, create a 1/1 white Avata
 		<card>
 			<name>Spirit Channeler</name>
 			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/77_Spirit Channeler.jpg" num="77">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/78_Spirit Channeler.jpg" num="78">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2135,10 +2134,10 @@ Once each turn, when a counter is put on this creature, create a 1/1 white Avata
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UU02 DESIGNED</name>
+			<name>Void Seeker</name>
 			<text>Infuse (When you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)
 When this creature becomes infused, draw a card, then discard a card.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/82_UU02 DESIGNED.jpg" num="82">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/83_Void Seeker.jpg" num="83">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2171,10 +2170,10 @@ Whenever this creature deals combat damage to a player, you get {VW} (Spend {V} 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UU04 DESIGNED</name>
+			<name>Insight in the Depths</name>
 			<text>Infuse (When you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)
 {T}: Add {U}. Spend this mana only to cast instant, sorcery, or Anima spells.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/83_UU04 DESIGNED.jpg" num="83">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/65_Insight in the Depths.jpg" num="65">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2189,10 +2188,10 @@ Whenever this creature deals combat damage to a player, you get {VW} (Spend {V} 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Boundless XXXX</name>
+			<name>Boundless Diviner</name>
 			<text>Infuse (When you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)
 Whenever this creature becomes infused, tap up to one other target creature and put a stun counter on it.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/49_Boundless XXXX.jpg" num="49">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/48_Boundless Diviner.jpg" num="48">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2241,7 +2240,7 @@ Whenever this creature becomes infused, tap up to one other target creature and 
 		<card>
 			<name>Cosmic Touch</name>
 			<text>Tap up to five target creatures and put stun counters on them.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/54_Cosmic Touch.jpg" num="54">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/55_Cosmic Touch.jpg" num="55">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2274,7 +2273,7 @@ Whenever this creature becomes infused, tap up to one other target creature and 
 			<name>Augur of the Beyond</name>
 			<text>Decayed (This creature can&apos;t block. When it attacks, sacrifice it at end of combat.)
 When this creature dies, you gain 2 life.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/90_Augur of the Beyond.jpg" num="90">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/89_Augur of the Beyond.jpg" num="89">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2291,7 +2290,7 @@ When this creature dies, you gain 2 life.</text>
 		<card>
 			<name>Forewarning Visitor</name>
 			<text>When this creature dies, you get {VB}. (Spend {V} to cast copies of Vertex spells.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/103_Forewarning Visitor.jpg" num="103">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/106_Forewarning Visitor.jpg" num="106">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2306,10 +2305,10 @@ When this creature dies, you gain 2 life.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UB03 DESIGNED</name>
+			<name>Hollow Vessel</name>
 			<text>Infuse (When you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)
 Whenever one or more counters are put on this creature, create a 1/1 black Spirit creature token with decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/120_UB03 DESIGNED.jpg" num="120">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/110_Hollow Vessel.jpg" num="110">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2324,13 +2323,13 @@ Whenever one or more counters are put on this creature, create a 1/1 black Spiri
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UB04 DESIGNED</name>
+			<name>Fate Robber</name>
 			<text>As you cast a noncreature spell, you may sacrifice a creature. If you do, that spell costs {1} less to cast.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/121_UB04 DESIGNED.jpg" num="121">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/105_Fate Robber.jpg" num="105">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Human Warrior</type>
+				<type>Creature — Fox Warlock</type>
 				<maintype>Creature</maintype>
 				<manacost>1B</manacost>
 				<cmc>2</cmc>
@@ -2341,10 +2340,10 @@ Whenever one or more counters are put on this creature, create a 1/1 black Spiri
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UB05 DESIGNED</name>
+			<name>Fallen of Najar</name>
 			<text>Flying
 {1}, Sacrifice a creature: Put a +1/+1 counter on target creature you control.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/122_UB05 DESIGNED.jpg" num="122">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/104_Fallen of Najar.jpg" num="104">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2359,9 +2358,9 @@ Whenever one or more counters are put on this creature, create a 1/1 black Spiri
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UB07 Blackhole</name>
+			<name>Spatial Rift</name>
 			<text>Target opponent discards a card. You get X {V}, where X is the mana value of the card they discarded. (Spend {V} to cast copies of Vertex spells.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/123_UB07 Blackhole.jpg" num="123">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/123_Spatial Rift.jpg" num="123">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2375,9 +2374,9 @@ Whenever one or more counters are put on this creature, create a 1/1 black Spiri
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>UB08 DESIGNED</name>
+			<name>Induced Entropy</name>
 			<text>Target creature gets -5/-5 until end of turn. If that creature would die this turn, sanctify it instead. (Put it into its owner&apos;s sanctum.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/124_UB08 DESIGNED.jpg" num="124">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/111_Induced Entropy.jpg" num="111">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2394,7 +2393,7 @@ Whenever one or more counters are put on this creature, create a 1/1 black Spiri
 			<name>Ominous Moon</name>
 			<text>When this enchantment enters, create two 1/1 black Spirit creature tokens with decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)
 Whenever a creature you control dies, sift 1. (Look at the top card of your library. You may put it into your sanctum.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/112_Ominous Moon.jpg" num="112">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/117_Ominous Moon.jpg" num="117">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2408,12 +2407,12 @@ Whenever a creature you control dies, sift 1. (Look at the top card of your libr
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UB11 Reart</name>
+			<name>Forsake the Light</name>
 			<text>Choose two —
 • Target player reveals their sanctum. You choose a card from it. Put that card into their graveyard.
 • Exile target player&apos;s graveyard.
 • Each opponent loses 2 life.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/125_UB11 Reart.jpg" num="125">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/107_Forsake the Light.jpg" num="107">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2427,9 +2426,9 @@ Whenever a creature you control dies, sift 1. (Look at the top card of your libr
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>UR01 DESIGNED</name>
-			<text>Haste, decayed (This creature can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/161_UR01 DESIGNED.jpg" num="161">DSW</set>
+			<name>Flame of Drakol</name>
+			<text>Haste; decayed (This creature can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/145_Flame of Drakol.jpg" num="145">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2444,10 +2443,10 @@ Whenever a creature you control dies, sift 1. (Look at the top card of your libr
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UR02 DESIGNED</name>
+			<name>Epoch Lancer</name>
 			<text>Infuse (When you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)
 This creature has haste as long as it has power 3 or greater.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/162_UR02 DESIGNED.jpg" num="162">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/141_Epoch Lancer.jpg" num="141">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2462,9 +2461,9 @@ This creature has haste as long as it has power 3 or greater.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UR04 DESIGNED</name>
+			<name>Approaching Wingbeats</name>
 			<text>Whenever a creature you control dies, this creature gets +1/+0 until end of turn. If it was attacking, this creature deals 1 damage to each opponent.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/163_UR04 DESIGNED.jpg" num="163">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/129_Approaching Wingbeats.jpg" num="129">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2479,10 +2478,10 @@ This creature has haste as long as it has power 3 or greater.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UR05 DESIGNED VOID</name>
+			<name>Spine Scion</name>
 			<text>At the beginning of your first main phase, you get {V}. (Spend {V} to cast copies of Vertex spells.)
 Whenever you cast a noncreature spell, this creature deals 1 damage to each opponent.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/164_UR05 DESIGNED VOID.jpg" num="164">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/166_Spine Scion.jpg" num="166">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2497,10 +2496,10 @@ Whenever you cast a noncreature spell, this creature deals 1 damage to each oppo
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UR06 DESIGNED</name>
+			<name>Calamity Sentinel</name>
 			<text>Infuse (When you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)
 Whenever you cast a noncreature spell, create a 1/1 red Avatar creature token.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/165_UR06 DESIGNED.jpg" num="165">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/134_Calamity Sentinel.jpg" num="134">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2515,9 +2514,9 @@ Whenever you cast a noncreature spell, create a 1/1 red Avatar creature token.</
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UR09 DESIGNED</name>
+			<name>Flay to Forever</name>
 			<text>This spell deals 2 damage to any target. Create a 1/1 black Spirit creature token with decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/166_UR09 DESIGNED.jpg" num="166">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/146_Flay to Forever.jpg" num="146">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2531,9 +2530,9 @@ Whenever you cast a noncreature spell, create a 1/1 red Avatar creature token.</
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>SOMETHING of Ruin</name>
+			<name>Winds of Ruin</name>
 			<text>This spell deals 2 damage to each creature. Create a 1/1 black Spirit creature token with decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/158_SOMETHING of Ruin.jpg" num="158">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/170_Winds of Ruin.jpg" num="170">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2547,10 +2546,10 @@ Whenever you cast a noncreature spell, create a 1/1 red Avatar creature token.</
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>UR11 DESIGNED</name>
+			<name>Creation&apos;s Entropy</name>
 			<text>When this enchantment enters, you get {VU}. (Spend {V} to cast copies of Vertex spells.)
 Whenever you cast a noncreature spell, this enchantment deals 1 damage to each opponent.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/167_UR11 DESIGNED.jpg" num="167">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/137_Creation&apos;s Entropy.jpg" num="137">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2564,9 +2563,9 @@ Whenever you cast a noncreature spell, this enchantment deals 1 damage to each o
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UR12 DESIGNED</name>
+			<name>Ego Rupture</name>
 			<text>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. You get {V} equal to its power. (Spend {V} to cast copies of Vertex spells.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/168_UR12 DESIGNED.jpg" num="168">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/140_Ego Rupture.jpg" num="140">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2580,9 +2579,9 @@ Whenever you cast a noncreature spell, this enchantment deals 1 damage to each o
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>UG01 DESIGNED</name>
+			<name>Servant of the Beyond</name>
 			<text>When this creature enters, search your library for a basic land card, put it into your hand, then shuffle.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/205_UG01 DESIGNED.jpg" num="205">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/204_Servant of the Beyond.jpg" num="204">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2599,7 +2598,7 @@ Whenever you cast a noncreature spell, this enchantment deals 1 damage to each o
 		<card>
 			<name>Solemn Lightbearer</name>
 			<text>Whenever you cast a Revelation spell, you get {V}. (Spend {V} to cast copies of Vertex spells.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/201_Solemn Lightbearer.jpg" num="201">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/206_Solemn Lightbearer.jpg" num="206">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2609,14 +2608,15 @@ Whenever you cast a noncreature spell, this enchantment deals 1 damage to each o
 				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UG04 TONAME</name>
+			<name>Growth from Demise</name>
 			<text>When this creature enters, put a +1/+1 counter on target creature.
 Each creature you control with the greatest power among creatures you control has trample.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/206_UG04 TONAME.jpg" num="206">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/192_Growth from Demise.jpg" num="192">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2634,7 +2634,7 @@ Each creature you control with the greatest power among creatures you control ha
 			<name>Imposing Stare</name>
 			<text>Infuse (When you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)
 When this creature becomes infused, destroy up to one target artifact or enchantment.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/193_Imposing Stare.jpg" num="193">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/195_Imposing Stare.jpg" num="195">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2649,9 +2649,9 @@ When this creature becomes infused, destroy up to one target artifact or enchant
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UG06 DESIGNED</name>
+			<name>Imprint of Aeons</name>
 			<text>Whenever you cast a Revelation spell, you may put it onto the battlefield as a creature after it resolves.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/207_UG06 DESIGNED.jpg" num="207">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/196_Imprint of Aeons.jpg" num="196">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2661,15 +2661,15 @@ When this creature becomes infused, destroy up to one target artifact or enchant
 				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>2/1</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UG07 DESIGNED</name>
+			<name>Prismheld Lux</name>
 			<text>Infuse (When you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)
 When this creature becomes infused, it fights up to one target creature.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/208_UG07 DESIGNED.jpg" num="208">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/201_Prismheld Lux.jpg" num="201">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2684,9 +2684,9 @@ When this creature becomes infused, it fights up to one target creature.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UG09 DESIGNED</name>
+			<name>Essence Assault</name>
 			<text>Put two +1/+1 counters on target creature you control. When you do, it fights target creature you don&apos;t control.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/209_UG09 DESIGNED.jpg" num="209">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/189_Essence Assault.jpg" num="189">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2717,10 +2717,10 @@ Up to one target creature you control gets +X/+X until end of turn, where X is t
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Earthbound Collision</name>
+			<name>Earthbound Fracturing</name>
 			<text>When this enchantment enters, create an X/X green Elemental Avatar creature token, where X is the number of lands you control.
 Whenever a land or Revelation you control enters, you get {V}. (Spend {V} to cast copies of Vertex spells.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/187_Earthbound Collision.jpg" num="187">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/187_Earthbound Fracturing.jpg" num="187">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2791,7 +2791,7 @@ When this creature enters, return target permanent you control to its owner&apos
 			<text>Flying
 Creatures you control get +1/+1 for each noncreature spell you&apos;ve cast this turn.
 Whenever you cast a noncreature spell, create a 1/1 silver Avatar creature token.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/7_Celestial Wanderer.jpg" num="7">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/6_Celestial Wanderer.jpg" num="6">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2809,7 +2809,7 @@ Whenever you cast a noncreature spell, create a 1/1 silver Avatar creature token
 			<name>Unbreakable Remembrance</name>
 			<text>Depart 2 (You may cast this from your sanctum by exiling an Avatar permanent you control with power 2 or greater.)
 When this creature enters, return target creature card with mana value 4 or less from your graveyard to the battlefield.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/41_Unbreakable Remembrance.jpg" num="41">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/40_Unbreakable Remembrance.jpg" num="40">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2826,8 +2826,8 @@ When this creature enters, return target creature card with mana value 4 or less
 		<card>
 			<name>Shrouded Subjugator</name>
 			<text>Infuse (When you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)
-Whenever one or more counters are put on this creature, put a +1/+1 counter on each creature you control not named Shrouded Subjugator.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/35_Shrouded Subjugator.jpg" num="35">DSW</set>
+Whenever one or more counters are put on this creature, put a +1/+1 counter on each other creature you control not named Shrouded Subjugator.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/34_Shrouded Subjugator.jpg" num="34">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2864,13 +2864,13 @@ Whenever one or more counters are put on this creature, put a +1/+1 counter on e
 			<text>Exile up to one target tapped creature.
 Realize {3}{W}{W} (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)
 If a card would be put into a graveyard from anywhere, exile it instead.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/34_Shatter Unfulfilled Promises.jpg" num="34">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/33_Shatter Unfulfilled Promises.jpg" num="33">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Kindred Instant — Avatar Revelation</type>
-				<maintype>Instant</maintype>
-				<manacost>1W</manacost>
+				<type>Kindred Sorcery — Avatar Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>WW</manacost>
 				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -2881,7 +2881,7 @@ If a card would be put into a graveyard from anywhere, exile it instead.</text>
 		<card>
 			<name>When the Stars Collide</name>
 			<text>Once each turn, when a creature you control dies, you may return a creature card with lesser power from your graveyard to the battlefield.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/45_When the Stars Collide.jpg" num="45">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/44_When the Stars Collide.jpg" num="44">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2897,7 +2897,7 @@ If a card would be put into a graveyard from anywhere, exile it instead.</text>
 		<card>
 			<name>Rupture Reality</name>
 			<text>Exile all creatures. At the beginning of your next end step, return a creature card you own exiled this way to the battlefield.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/32_Rupture Reality.jpg" num="32">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/31_Rupture Reality.jpg" num="31">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2915,7 +2915,7 @@ If a card would be put into a graveyard from anywhere, exile it instead.</text>
 			<text>Flash
 Flying
 At the beginning of each end step, if you cast three or more spells this turn, draw a card.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/48_Boundless Seeker.jpg" num="48">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/49_Boundless Seeker.jpg" num="49">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2933,7 +2933,7 @@ At the beginning of each end step, if you cast three or more spells this turn, d
 			<name>Reflected Familiar</name>
 			<text>Flash
 When this creature enters, you get {V} equal to the number of spells you&apos;ve cast this turn. (Spend {V} to cast copies of Vertex spells.)</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/72_Reflected Familiar.jpg" num="72">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/73_Reflected Familiar.jpg" num="73">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2948,10 +2948,10 @@ When this creature enters, you get {V} equal to the number of spells you&apos;ve
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Cosmos Augur</name>
+			<name>Cosmic Outsider</name>
 			<text>Flash
 When this creature enters, exile up to one target instant or sorcery card in your graveyard. You may cast a copy of that spell until end of turn by paying {VW} in addition to its other costs.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/55_Cosmos Augur.jpg" num="55">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/54_Cosmic Outsider.jpg" num="54">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2969,7 +2969,7 @@ When this creature enters, exile up to one target instant or sorcery card in you
 			<name>Portent of Stars</name>
 			<text>Whenever you draw your second card each turn, create a 1/1 silver Avatar creature token and sift 1. (Look at the top card of your library. You may put it into your sanctum.)
 As long as there are twelve or more cards in your sanctum, creatures you control have flying.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/71_Portent of Stars.jpg" num="71">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/72_Portent of Stars.jpg" num="72">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2987,7 +2987,7 @@ As long as there are twelve or more cards in your sanctum, creatures you control
 			<name>Uncontrollable Faltering</name>
 			<text>Depart 2 (You may cast this from your sanctum by exiling an Avatar permanent you control with power 2 or greater.)
 This creature has the activated and triggered abilities of cards exiled with it.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/81_Uncontrollable Faltering.jpg" num="81">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/82_Uncontrollable Faltering.jpg" num="82">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3025,7 +3025,7 @@ At the beginning of your end step, draw a card.</text>
 			<text>Return up to one target nonland permanent to its owner&apos;s hand. Sift 1.
 Realize {3}{U}{U} (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)
 Each player can&apos;t cast more than one spell each turn.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/76_Seal Futile Dreams.jpg" num="76">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/77_Seal Futile Dreams.jpg" num="77">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3079,7 +3079,7 @@ The first vertex spell you cast each turn costs {2} less to cast.</text>
 			<name>Reveal Veiled Truths</name>
 			<text>Mill four cards. When you do, return target instant or sorcery card from your graveyard to your hand. Exile this spell if it wasn&apos;t realized.
 Realize {8}{U}{U}{U}. This costs {1} less for each instant or sorcery card in your graveyard. (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/74_Reveal Veiled Truths.jpg" num="74">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/75_Reveal Veiled Truths.jpg" num="75">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3097,7 +3097,7 @@ Realize {8}{U}{U}{U}. This costs {1} less for each instant or sorcery card in yo
 			<name>Herald of Blackened Stars</name>
 			<text>Whenever a creature you control dies, you get {V}. (Spend {V} to cast copies of Vertex spells.)
 At the beginning of your end step, if you cast a noncreature spell this turn, sacrifice a creature.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/105_Herald of Blackened Stars.jpg" num="105">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/109_Herald of Blackened Stars.jpg" num="109">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3114,7 +3114,7 @@ At the beginning of your end step, if you cast a noncreature spell this turn, sa
 		<card>
 			<name>Enter the Mind</name>
 			<text>Choose a nonbasic card name. Search target player&apos;s graveyard, hand, library, and sanctum for any number of cards with that name and exile them. That player shuffles. For each card exiled from their hand this way, they draw a card and lose 1 life.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/101_Enter the Mind.jpg" num="101">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/100_Enter the Mind.jpg" num="100">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3131,7 +3131,7 @@ At the beginning of your end step, if you cast a noncreature spell this turn, sa
 			<name>Boundless Reawakener</name>
 			<text>Flying
 At the beginning of your end step, return target creature with mana value less than or equal to the number of noncreature spells you&apos;ve cast this turn from your graveyard to the battlefield.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/91_Boundless Reawakener.jpg" num="91">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/90_Boundless Reawakener.jpg" num="90">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3148,7 +3148,7 @@ At the beginning of your end step, return target creature with mana value less t
 		<card>
 			<name>Eclipse Warden</name>
 			<text>When this creature enters, you get {V} for each creature card in your graveyard. (Spend {V} to cast copies of Vertex spells.)</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/99_Eclipse Warden.jpg" num="99">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/98_Eclipse Warden.jpg" num="98">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3201,7 +3201,7 @@ Once each turn, you may cast a black spell with mana value 3 or less from your h
 		<card>
 			<name>Mark of Return</name>
 			<text>You may cast a creature or Revelation card from your graveyard without paying its mana cost. If it&apos;s a Revelation, it enters as a creature after it resolves.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/110_Mark of Return.jpg" num="110">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/115_Mark of Return.jpg" num="115">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3219,7 +3219,7 @@ Once each turn, you may cast a black spell with mana value 3 or less from your h
 			<text>Destroy up to one target creature. Its controller mills cards equal to its mana value.
 Realize {5}{B}{B} (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)
 At the beginning of each opponent&apos;s end step, they mill cards equal to the number of cards in their graveyard.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/95_Devour Absent Memories.jpg" num="95">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/94_Devour Absent Memories.jpg" num="94">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3237,7 +3237,7 @@ At the beginning of each opponent&apos;s end step, they mill cards equal to the 
 			<name>Shattered and Unbroken</name>
 			<text>Each card you sanctify from your graveyard while casting this spell pays for {1}. (To sanctify a card, put it into its owner&apos;s sanctum.)
 Draw three cards. You lose life equal to the number of cards in your sanctum.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/117_Shattered and Unbroken.jpg" num="117">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/122_Shattered and Unbroken.jpg" num="122">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3253,7 +3253,7 @@ Draw three cards. You lose life equal to the number of cards in your sanctum.</t
 		<card>
 			<name>Observer of Infernos</name>
 			<text>Discard a card: Exile the top card of your library. You may play it this turn. Activate only once during each of your turns.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/150_Observer of Infernos.jpg" num="150">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/158_Observer of Infernos.jpg" num="158">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3270,7 +3270,7 @@ Draw three cards. You lose life equal to the number of cards in your sanctum.</t
 		<card>
 			<name>Malignity from Beyond</name>
 			<text>When this creature enters, you get {V} for each permanent you control that left the battlefield this turn. (Spend {V} to cast copies of Vertex spells.)</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/148_Malignity from Beyond.jpg" num="148">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/155_Malignity from Beyond.jpg" num="155">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3289,7 +3289,7 @@ Draw three cards. You lose life equal to the number of cards in your sanctum.</t
 			<text>Depart 2 (You may cast this from your sanctum by exiling an Avatar permanent you control with power 2 or greater.)
 Flying, haste
 This creature gets +1/+1 for each permanent you control that left the battlefield this turn.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/160_Unchained Unrest.jpg" num="160">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/168_Unchained Unrest.jpg" num="168">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3307,7 +3307,7 @@ This creature gets +1/+1 for each permanent you control that left the battlefiel
 			<name>Interstellar Phoenix</name>
 			<text>Flying, haste
 {1}, Pay {VB}: Return this creature from your graveyard to the battlefield. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/144_Interstellar Phoenix.jpg" num="144">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/151_Interstellar Phoenix.jpg" num="151">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3322,20 +3322,20 @@ This creature gets +1/+1 for each permanent you control that left the battlefiel
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Worldsinger</name>
-			<text>When this creature enters, sift 3. (Look at the top three cards of your library, then put any number of them into your sanctum and the rest on top of your library in any order.)
+			<name>Nari, Worldsinger</name>
+			<text>When this creature enters, sift 2. (Look at the top two cards of your library, then put any number of them into your sanctum and the rest on top of your library in any order.)
 Whenever this creature attacks, you may put an Avatar or Anima creature card from your sanctum with mana value less than or equal to the number of attacking creatures onto the battlefield tapped and attacking.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/170_Worldsinger.jpg" num="170">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/157_Nari, Worldsinger.jpg" num="157">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Avatar Bard</type>
+				<type>Legendary Creature — Avatar Bard</type>
 				<maintype>Creature</maintype>
-				<manacost>2RR</manacost>
-				<cmc>4</cmc>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>3/3</pt>
+				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3344,7 +3344,7 @@ Whenever this creature attacks, you may put an Avatar or Anima creature card fro
 			<text>Discard your hand, then draw two cards. This spell deals 2 damage to each opponent.
 Realize {3}{R}{R} (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)
 Whenever you attack, you may discard a card. If you do, draw a card and this deals 1 damage to each opponent.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/132_Burn Forgotten Wishes.jpg" num="132">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/133_Burn Forgotten Wishes.jpg" num="133">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3362,7 +3362,7 @@ Whenever you attack, you may discard a card. If you do, draw a card and this dea
 			<name>Drakoli Resistance</name>
 			<text>Infuse (When you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)
 Whenever one or more counters are put on this creature, it deals 1 damage to each opponent.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/135_Drakoli Resistance.jpg" num="135">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/138_Drakoli Resistance.jpg" num="138">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3380,7 +3380,7 @@ Whenever one or more counters are put on this creature, it deals 1 damage to eac
 			<name>Fallen Star</name>
 			<text>{T}: Add {C}{C}. You can&apos;t spend this mana to cast a permanent spell.
 Exhaust — {X}{X}{R}: this creature deals X damage to any target. (Activate each exhaust ability only once.)</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/139_Fallen Star.jpg" num="139">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/144_Fallen Star.jpg" num="144">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3397,7 +3397,7 @@ Exhaust — {X}{X}{R}: this creature deals X damage to any target. (Activate eac
 		<card>
 			<name>Dreams of Memories Forgotten</name>
 			<text>Once during each of your turns, you may cast a permanent spell with mana value less than or equal to the number of creatures that have died this turn from your graveyard. It enters with a finality counter.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/136_Dreams of Memories Forgotten.jpg" num="136">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/139_Dreams of Memories Forgotten.jpg" num="139">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3412,9 +3412,9 @@ Exhaust — {X}{X}{R}: this creature deals X damage to any target. (Activate eac
 		</card>
 		<card>
 			<name>Seek the Unknowable</name>
-			<text>As an additional cost to cast this spell, discard a noncreature, nonland card.
-Draw two cards.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/156_Seek the Unknowable.jpg" num="156">DSW</set>
+			<text>As an additional cost to cast this spell, discard a card.
+Seek the Unknowable deals 5 damage to target creature.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/164_Seek the Unknowable.jpg" num="164">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3466,7 +3466,7 @@ This creature gets +1/+1 for each basic land you control</text>
 		<card>
 			<name>Nurturing Woodsoul</name>
 			<text>When this creature enters, you get {V} for each land you control. (Spend {V} to cast copies of Vertex spells.)</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/197_Nurturing Woodsoul.jpg" num="197">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/200_Nurturing Woodsoul.jpg" num="200">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3513,7 +3513,7 @@ When this creature dies, put a +1/+1 counter on each creature you control.</text
 				<cmc>7</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>4/5</pt>
+				<pt>6/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3522,7 +3522,7 @@ When this creature dies, put a +1/+1 counter on each creature you control.</text
 			<text>Draw a card. You may put a land card from your hand onto the battlefield tapped.
 Realize {4}{G}{G} (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)
 Lands you control are 2/2 creatures with hexproof in addition to their other types and abilities.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/199_Restore Unseen Tranquility.jpg" num="199">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/203_Restore Unseen Tranquility.jpg" num="203">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3576,7 +3576,7 @@ Whenever a creature you control with power greater than its base power dies, you
 			<name>Noxious Leech</name>
 			<text>Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)
 Whenever you cast a spell with mana value 5 or greater, target opponent gets a poison counter.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/196_Noxious Leech.jpg" num="196">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/199_Noxious Leech.jpg" num="199">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3611,7 +3611,7 @@ Realize {X}{G}{G}{G}{G} (Then if you cast this spell for its realize cost, put i
 		<card>
 			<name>Moonlight Prophet</name>
 			<text>Whenever you cast your second noncreature spell each turn, you may copy it and choose new targets for the copy.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/273_Moonlight Prophet.jpg" num="273">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/274_Moonlight Prophet.jpg" num="274">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3627,8 +3627,8 @@ Realize {X}{G}{G}{G}{G} (Then if you cast this spell for its realize cost, put i
 		</card>
 		<card>
 			<name>Cosmic Voyage</name>
-			<text>Mill two cards. When you do, return target creature card with mana value less than or equal to the number of cards put into your graveyard from anywhere this turn from your graveyard to the battlefield.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/266_Cosmic Voyage.jpg" num="266">DSW</set>
+			<text>Return target creature card with mana value less than or equal to the number of cards put into your graveyard from anywhere this turn from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/267_Cosmic Voyage.jpg" num="267">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3643,20 +3643,20 @@ Realize {X}{G}{G}{G}{G} (Then if you cast this spell for its realize cost, put i
 		</card>
 		<card>
 			<name>Bring Forth Calamity</name>
-			<text>Target opponent sacrifices a creature. This spell deals 2 damage to them.
+			<text>Target opponent sacrifices a nontoken creature. This spell deals 3 damage to them.
 Realize {3}{B}{R} (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)
 At the beginning of your upkeep, each opponent loses 1 life.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/263_Bring Forth Calamity.jpg" num="263">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/264_Bring Forth Calamity.jpg" num="264">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Kindred Sorcery — Avatar Revelation</type>
 				<maintype>Sorcery</maintype>
-				<manacost>BR</manacost>
-				<cmc>2</cmc>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
 				<colors>BR</colors>
 				<coloridentity>BR</coloridentity>
-				<pt>3/3</pt>
+				<pt>3/2</pt>
 			</prop>
 			<tablerow>3</tablerow>
 		</card>
@@ -3699,7 +3699,7 @@ When this creature enters, create two 1/1 silver and white Avatar creature token
 			<name>Sacred Defiler</name>
 			<text>At the beginning of combat on your turn, create a 1/1 black Spirit creature token with decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)
 Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/283_Sacred Defiler.jpg" num="283">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/285_Sacred Defiler.jpg" num="285">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3716,7 +3716,7 @@ Whenever a creature you control dies, each opponent loses 1 life and you gain 1 
 		<card>
 			<name>Blind Navigator</name>
 			<text>Whenever you cast a Vertex spell, copy it. You may choose new targets for the copy.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/259_Blind Navigator.jpg" num="259">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/260_Blind Navigator.jpg" num="260">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3751,7 +3751,7 @@ Whenever a creature you control dies, each opponent loses 1 life and you gain 1 
 			<name>Unleash Buried Power</name>
 			<text>Lifelink
 This spell deals 3 damage to any target.
-Realize {3}{R}{W} (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)</text>
+Realize {4}{R}{W} (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)</text>
 			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/290_Unleash Buried Power.jpg" num="290">DSW</set>
 			<prop>
 				<layout>normal</layout>
@@ -3771,7 +3771,7 @@ Realize {3}{R}{W} (Then if you cast this spell for its realize cost, put it onto
 			<text>You gain 2 life and choose one —
 • Sift 1, then draw a card. You may play an additional land this turn. (To sift 1, look at the top card of your library. You may put it into your sanctum.)
 • Create an 0/0 colorless Fractal creature token. Put X +1/+1 counters on it, where X is the number of lands you control.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/262_Bounty of the Cosmos.jpg" num="262">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/263_Bounty of the Cosmos.jpg" num="263">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3807,7 +3807,7 @@ Other creatures you control with flying get +2/+2 and have decayed. (A creature 
 			<text>Tap target creature and put a stun counter on it. 
 Realize {3}{I}{U} (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)
 Creatures with counters on them lose all abilities and card types.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/258_Bind Unchained Dreams.jpg" num="258">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/259_Bind Unchained Dreams.jpg" num="259">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3838,14 +3838,14 @@ Creatures with counters on them lose all abilities and card types.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Servant of Blood</name>
+			<name>Nandir, Servant of Blood</name>
 			<text>Haste
 Whenever this creature attacks, you may sacrifice a nontoken creature. When you do, this creature deals 1 damage to each opponent and you create a 1/1 red Spirit creature token.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/284_Servant of Blood.jpg" num="284">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/277_Nandir, Servant of Blood.jpg" num="277">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Avatar Horror</type>
+				<type>Legendary Creature — Avatar Horror</type>
 				<maintype>Creature</maintype>
 				<manacost>IR</manacost>
 				<cmc>2</cmc>
@@ -3859,7 +3859,7 @@ Whenever this creature attacks, you may sacrifice a nontoken creature. When you 
 			<name>Najari Bridge-Binder</name>
 			<text>When this creature enters, create a tapped token that&apos;s a copy of target land you control, except its name is Cosmic Path.
 This creature gets +1/+1 for each differently named land you control.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/275_Najari Bridge-Binder.jpg" num="275">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/276_Najari Bridge-Binder.jpg" num="276">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3892,7 +3892,7 @@ Whenever a creature enters under your control, search your library or sanctum fo
 			<name>Voidborn Cosmomancer</name>
 			<text>Infuse (When you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)
 Whenever you cast a noncreature spell, create a 1/1 white Avatar Wizard creature token with infuse.</text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/DSW-files/img/43_Voidborn Cosmomancer.jpg" num="43">DSW</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/DSW-files/img/42_Voidborn Cosmomancer.jpg" num="42">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3931,7 +3931,7 @@ Whenever you cast a noncreature spell, create a 1/1 white Avatar Wizard creature
 
 (You can cast copies of this while in play)
 Put a +1/+1 counter on each creature you control.</text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/DSW-files/img/6_Boundless Unifier.jpg" num="6">DSW</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/DSW-files/img/5_Boundless Unifier.jpg" num="5">DSW</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -3967,7 +3967,7 @@ When this creature enters, if you cast it, reveal a noncreature card from your s
 			<name>Dread of the Terminus</name>
 			<text>When this creature enters, each opponent sacrifices a creature.
 Once during each of your turns, when a nontoken creature dies, you may create a token that&apos;s a copy of it. It gains decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/DSW-files/img/98_Dread of the Terminus.jpg" num="98">DSW</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/DSW-files/img/97_Dread of the Terminus.jpg" num="97">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3985,11 +3985,11 @@ Once during each of your turns, when a nontoken creature dies, you may create a 
 			<name>Primordial Fright</name>
 			<text>When this creature enters, search your library for a card, put it into your sanctum, then shuffle.
 When this creature dies, draw a card from your sanctum.</text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/DSW-files/img/114_Primordial Fright.jpg" num="114">DSW</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/DSW-files/img/119_Primordial Fright.jpg" num="119">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Fox Incarnation</type>
+				<type>Legendary Creature — Fox Incarnation</type>
 				<maintype>Creature</maintype>
 				<manacost>1B</manacost>
 				<cmc>2</cmc>
@@ -4003,7 +4003,7 @@ When this creature dies, draw a card from your sanctum.</text>
 			<name>Heart of the Terminus</name>
 			<text>At the beginning of your end step, for each card you discarded this turn, exile the top card of your library. You may play it during your next turn.
 Discard a card: This creature deals 2 damage to each opponent. Activate only once during each of your turns.</text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/DSW-files/img/141_Heart of the Terminus.jpg" num="141">DSW</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/DSW-files/img/148_Heart of the Terminus.jpg" num="148">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4013,7 +4013,7 @@ Discard a card: This creature deals 2 damage to each opponent. Activate only onc
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>5/2</pt>
+				<pt>5/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4021,7 +4021,7 @@ Discard a card: This creature deals 2 damage to each opponent. Activate only onc
 			<name>The Arbiter&apos;s Folly</name>
 			<text>Whenever this creature attacks, exile the top card of your library. You may play it on any turn you&apos;ve attacked.
 Whenever you cast a spell from anywhere other than your hand, this creature deals 1 damage to each opponent.</text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/DSW-files/img/129_The Arbiter&apos;s Folly.jpg" num="129">DSW</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/DSW-files/img/130_The Arbiter&apos;s Folly.jpg" num="130">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4053,9 +4053,9 @@ Whenever you cast a spell from anywhere other than your hand, this creature deal
 		</card>
 		<card>
 			<name>Strength of the Terminus</name>
-			<text>Creature spells you cast with power 4 or greater cost {1} less to cast.
+			<text>Creatures you control with power 4 or greater have trample. 
 Whenever one or more creatures you control with power 4 or greater attack, put a +1/+1 counter on each of them and draw a card.</text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/DSW-files/img/203_Strength of the Terminus.jpg" num="203">DSW</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/DSW-files/img/208_Strength of the Terminus.jpg" num="208">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4089,9 +4089,9 @@ When this creature becomes infused, creatures you control get +2/+2 and gain tra
 		</card>
 		<card>
 			<name>Reveal New Apprehensions</name>
-			<text>You may put a permanent card from your hand onto the battlefield. If this spell was realized, create a token that&apos;s a copy of it, except the token isn&apos;t legendary.
+			<text>You may put a creature card from your hand onto the battlefield. If this spell was realized, create a token that&apos;s a copy of it, except the token isn&apos;t legendary.
 Realize {8}{U}{U} (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)</text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/DSW-files/img/73_Reveal New Apprehensions.jpg" num="73">DSW</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/DSW-files/img/74_Reveal New Apprehensions.jpg" num="74">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4111,7 +4111,7 @@ Realize {8}{U}{U} (Then if you cast this spell for its realize cost, put it onto
 • Return up to one target creature to its owner&apos;s hand.
 • Destroy all creatures.
 • Exile up to one target player&apos;s graveyard.</text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/DSW-files/img/270_Interplanar Collision.jpg" num="270">DSW</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/DSW-files/img/272_Interplanar Collision.jpg" num="272">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4129,11 +4129,11 @@ Realize {8}{U}{U} (Then if you cast this spell for its realize cost, put it onto
 			<text>Flying
 Whenever this creature deals combat damage to a player, sift 1. (Look at the top card of your library. You may put it into your sanctum.)
 You may cast creature spells with flying from your sanctum.</text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/DSW-files/img/276_Primordial Knowledge.jpg" num="276">DSW</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/DSW-files/img/278_Primordial Knowledge.jpg" num="278">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Bird Incarnation</type>
+				<type>Legendary Creature — Bird Incarnation</type>
 				<maintype>Creature</maintype>
 				<manacost>1IU</manacost>
 				<cmc>3</cmc>
@@ -4152,11 +4152,11 @@ Whenever this creature attacks, you get {VW}. (Spend {V} to cast copies of Verte
 
 (You can cast copies of this while in play.)
 Attacking creatures you control get +1/+0.</text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/DSW-files/img/277_Primordial Passion.jpg" num="277">DSW</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/DSW-files/img/279_Primordial Passion.jpg" num="279">DSW</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
-				<type>Creature — Dragon Incarnation // Vertex Enchantment</type>
+				<type>Legendary Creature — Dragon Incarnation // Vertex Enchantment</type>
 				<maintype>Creature</maintype>
 				<manacost>3IR // 1I/RV/GV/U</manacost>
 				<cmc>5</cmc>
@@ -4170,7 +4170,7 @@ Attacking creatures you control get +1/+0.</text>
 			<name>Cosmic Abyss</name>
 			<text>When this enchantment enters, create a tapped powerstone token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast a nonartifact spell.&quot;)
 {4}: Put two +1/+1 counters on target noncreature permanent you control. It becomes a 0/0 creature.</text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/DSW-files/img/223_Cosmic Abyss.jpg" num="223">DSW</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/DSW-files/img/221_Cosmic Abyss.jpg" num="221">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4254,7 +4254,7 @@ Whenever one or more counters are put on this creature, search your library for 
 			<name>Gatu Gembearer</name>
 			<text>Flying
 When this creature enters, look at the top two cards of your library, then put them back in any order, then you may shuffle.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/233_Gatu Gembearer.jpg" num="233">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/232_Gatu Gembearer.jpg" num="232">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4271,7 +4271,7 @@ When this creature enters, look at the top two cards of your library, then put t
 		<card>
 			<name>Offering to the Stars</name>
 			<text>When this creature leaves the battlefield, create a 1/1 black Spirit creature token with decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/239_Offering to the Stars.jpg" num="239">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/241_Offering to the Stars.jpg" num="241">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4288,7 +4288,7 @@ When this creature enters, look at the top two cards of your library, then put t
 		<card>
 			<name>Dedicated Acolyte</name>
 			<text>When this creature dies, search your library for a noncreature card with mana value 1, reveal it, put it into your hand, then shuffle.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/226_Dedicated Acolyte.jpg" num="226">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/224_Dedicated Acolyte.jpg" num="224">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4306,7 +4306,7 @@ When this creature enters, look at the top two cards of your library, then put t
 			<name>Barrier of Storms</name>
 			<text>Defender
 As long as a nonland permanent you control has left the battlefield this turn, this creature can attack as though it didn&apos;t have defender.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/216_Barrier of Storms.jpg" num="216">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/217_Barrier of Storms.jpg" num="217">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4328,7 +4328,7 @@ As long as a nonland permanent you control has left the battlefield this turn, t
 
 (You can cast copies of this while in play)
 Draw two cards, then discard two cards.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/224_Darkstar Invader.jpg" num="224">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/222_Darkstar Invader.jpg" num="222">DSW</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -4343,10 +4343,10 @@ Draw two cards, then discard two cards.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Forerunner of the Collision</name>
+			<name>Forerunner of the Rupture</name>
 			<text>Vigilance
 {T}: Untap another target permanent you control.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/232_Forerunner of the Collision.jpg" num="232">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/231_Forerunner of the Rupture.jpg" num="231">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4363,7 +4363,7 @@ Draw two cards, then discard two cards.</text>
 		<card>
 			<name>Ethereal Envoy</name>
 			<text>When this creature enters or dies, tap up to one target creature and put a stun counter on it.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/231_Ethereal Envoy.jpg" num="231">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/230_Ethereal Envoy.jpg" num="230">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4380,7 +4380,7 @@ Draw two cards, then discard two cards.</text>
 		<card>
 			<name>Disciple of the Celestial Tree</name>
 			<text>When this creature enters, create a 2/2 silver Avatar creature token.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/227_Disciple of the Celestial Tree.jpg" num="227">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/226_Disciple of the Celestial Tree.jpg" num="226">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4397,7 +4397,7 @@ Draw two cards, then discard two cards.</text>
 		<card>
 			<name>Thief of The Boundless</name>
 			<text>Whenever this creature attacks, you may sacrifice a creature. If you do, draw a card from your sanctum.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/247_Thief of The Boundless.jpg" num="247">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/249_Thief of The Boundless.jpg" num="249">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4412,9 +4412,9 @@ Draw two cards, then discard two cards.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CI11 Medium Creature</name>
+			<name>Wisp Sorcerer</name>
 			<text>Ward—{1}, Pay 3 life (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1} and pays 3 life.)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/220_CI11 Medium Creature.jpg" num="220">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/255_Wisp Sorcerer.jpg" num="255">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4429,10 +4429,10 @@ Draw two cards, then discard two cards.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CI10 Medium Creature</name>
+			<name>Conniving Cosmomancer</name>
 			<text>Flash
 When this creature enters, up to one target creature gets +2/-2 until end of turn.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/219_CI10 Medium Creature.jpg" num="219">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/219_Conniving Cosmomancer.jpg" num="219">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4450,7 +4450,7 @@ When this creature enters, up to one target creature gets +2/-2 until end of tur
 			<name>Eternal Warrior</name>
 			<text>Depart 2 (You may cast this from your sanctum by exiling an Avatar permanent you control with power 2 or greater.)
 When this creature enters, create two 1/1 silver Avatar creature tokens.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/230_Eternal Warrior.jpg" num="230">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/229_Eternal Warrior.jpg" num="229">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4467,7 +4467,7 @@ When this creature enters, create two 1/1 silver Avatar creature tokens.</text>
 		<card>
 			<name>Skyshift</name>
 			<text>Target creature gets -X/+X until end of turn, where X is its power.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/244_Skyshift.jpg" num="244">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/246_Skyshift.jpg" num="246">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4484,7 +4484,7 @@ When this creature enters, create two 1/1 silver Avatar creature tokens.</text>
 			<name>Glimpse Lost Totality</name>
 			<text>You draw a card and gain 3 life.
 Realize {5}{I}{I} (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/235_Glimpse Lost Totality.jpg" num="235">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/234_Glimpse Lost Totality.jpg" num="234">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4504,7 +4504,7 @@ Realize {5}{I}{I} (Then if you cast this spell for its realize cost, put it onto
 • Destroy target enchantment.
 • Put target card in a graveyard into its owner&apos;s sanctum.
 • Sift 2. (Look at the top two cards of your library, then put any number of them into your sanctum and the rest on top in any order.)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/238_Moonlight Charm.jpg" num="238">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/239_Moonlight Charm.jpg" num="239">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4520,7 +4520,7 @@ Realize {5}{I}{I} (Then if you cast this spell for its realize cost, put it onto
 		<card>
 			<name>Shadowy Incarnations</name>
 			<text>Create a 1/1 silver Avatar creature token and a 2/2 silver Avatar creature token.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/242_Shadowy Incarnations.jpg" num="242">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/244_Shadowy Incarnations.jpg" num="244">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4538,7 +4538,7 @@ Realize {5}{I}{I} (Then if you cast this spell for its realize cost, put it onto
 			<text>Flash
 Enchant creature
 Enchanted creature is an enchantment and loses all other card types.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/221_Consume Into The Boundless.jpg" num="221">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/220_Consume Into The Boundless.jpg" num="220">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4555,7 +4555,7 @@ Enchanted creature is an enchantment and loses all other card types.</text>
 			<name>Empty Hollow Eternity</name>
 			<text>Each opponent loses 4 life and you gain 4 life. Look at the top four cards of your library and put one into your hand and the rest on the bottom in a random order.
 Realize {4}{I}{I} (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/229_Empty Hollow Eternity.jpg" num="229">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/228_Empty Hollow Eternity.jpg" num="228">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4573,7 +4573,7 @@ Realize {4}{I}{I} (Then if you cast this spell for its realize cost, put it onto
 			<name>Starlight&apos;s Glimmer</name>
 			<text>Look at the top seven cards of your library, then sanctify any number of them. (Put them into their owner&apos;s sanctum.)
 Choose up to two cards from your sanctum and put them into your hand.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/246_Starlight&apos;s Glimmer.jpg" num="246">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/248_Starlight&apos;s Glimmer.jpg" num="248">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4635,9 +4635,9 @@ Choose up to two cards from your sanctum and put them into your hand.</text>
 			<token>1</token>
 		</card>
 		<card>
-			<name>Astral SOMETHING</name>
+			<name>Astral Starcaller</name>
 			<text>This creature can&apos;t attack or block unless you&apos;ve cast a noncreature spell this turn.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/215_Astral SOMETHING.jpg" num="215">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/215_Astral Starcaller.jpg" num="215">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4652,10 +4652,10 @@ Choose up to two cards from your sanctum and put them into your hand.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UI03 DESIGNED</name>
+			<name>Watcher at the Door</name>
 			<text>Flying
 When this creature enters or dies, sift 1. (Look at the top card of your library. You may put it into your sanctum.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/250_UI03 DESIGNED.jpg" num="250">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/253_Watcher at the Door.jpg" num="253">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4670,10 +4670,10 @@ When this creature enters or dies, sift 1. (Look at the top card of your library
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UI04 DESIGNED</name>
+			<name>Aurora Reader</name>
 			<text>Menace
 Whenever this creature deals combat damage to a player, draw a card, then discard a card.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/251_UI04 DESIGNED.jpg" num="251">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/216_Aurora Reader.jpg" num="216">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4683,13 +4683,14 @@ Whenever this creature deals combat damage to a player, draw a card, then discar
 				<cmc>2</cmc>
 				<colors>I</colors>
 				<coloridentity>I</coloridentity>
+				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UI05 DESIGNED</name>
-			<text>Avatars and Anima you control get +1/+1 and have menace.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/252_UI05 DESIGNED.jpg" num="252">DSW</set>
+			<name>Impetus of Blood</name>
+			<text>Other Avatars and Anima you control get +1/+1 and have menace.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/238_Impetus of Blood.jpg" num="238">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4699,13 +4700,14 @@ Whenever this creature deals combat damage to a player, draw a card, then discar
 				<cmc>3</cmc>
 				<colors>I</colors>
 				<coloridentity>I</coloridentity>
+				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UI06 DESIGNED</name>
+			<name>Nightfall Enchanter</name>
 			<text>When this creature enters, it deals 1 damage to any target.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/253_UI06 DESIGNED.jpg" num="253">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/240_Nightfall Enchanter.jpg" num="240">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4722,7 +4724,7 @@ Whenever this creature deals combat damage to a player, draw a card, then discar
 		<card>
 			<name>Slice Through Stars</name>
 			<text>Counter target spell with an even mana value unless its controller pays {3}.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/245_Slice Through Stars.jpg" num="245">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/247_Slice Through Stars.jpg" num="247">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4736,10 +4738,10 @@ Whenever this creature deals combat damage to a player, draw a card, then discar
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Bring the Collision</name>
+			<name>Herald the Rupture</name>
 			<text>As an additional cost to cast this this spell, you may sacrifice one or more creatures. When you do, copy this spell for each creature sacrificed this way.
 Each opponent loses 2 life and you gain 2 life.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/218_Bring the Collision.jpg" num="218">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/236_Herald the Rupture.jpg" num="236">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4756,7 +4758,7 @@ Each opponent loses 2 life and you gain 2 life.</text>
 			<name>Gaze into Eternity</name>
 			<text>Depart 2 (You may cast this from your sanctum by exiling an Avatar permanent you control with power 2 or greater.)
 Sanctify the top three cards of your library, then draft a card from your sanctum. (To sanctify a card, put it into its owner&apos;s sanctum. To draft a card from your sanctum, choose 3 cards from your sanctum at random and put one into your hand.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/234_Gaze into Eternity.jpg" num="234">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/233_Gaze into Eternity.jpg" num="233">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4770,10 +4772,10 @@ Sanctify the top three cards of your library, then draft a card from your sanctu
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Consumption of the Collision</name>
+			<name>Destruction of the Rupture</name>
 			<text>Creature tokens you control get +1/+0 and lose decayed.
 Whenever a nontoken creature you control dies, create two 1/1 black Spirit creature tokens with decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/222_Consumption of the Collision.jpg" num="222">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/225_Destruction of the Rupture.jpg" num="225">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4791,7 +4793,7 @@ Whenever a nontoken creature you control dies, create two 1/1 black Spirit creat
 			<text>Exile target card with mana value 2 or less from your graveyard. You may cast a copy of it without paying its mana cost. 
 Realize {4}{I}{I}. You may cast this spell from your graveyard for its realize cost. (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)
 When this dies or doesn&apos;t resolve, if it was realized, exile it.</text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/DSW-files/img/248_Touch the Void.jpg" num="248">DSW</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/DSW-files/img/250_Touch the Void.jpg" num="250">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4807,9 +4809,9 @@ When this dies or doesn&apos;t resolve, if it was realized, exile it.</text>
 		</card>
 		<card>
 			<name>Wishes of the Terminus</name>
-			<text>When this creature enters, for each land you control, create a token that&apos;s a copy of it. Exile those tokens at the beginning of the next end step.
+			<text>When this creature enters, for each land you control, create a tapped token that&apos;s a copy of it. Exile those tokens at the beginning of the next end step.
 Sacrifice a land: Sift 1, then draw a card. Activate only once each turn. (To sift 1, look at the top card of your library. You may put it into your sanctum.)</text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/DSW-files/img/255_Wishes of the Terminus.jpg" num="255">DSW</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/DSW-files/img/254_Wishes of the Terminus.jpg" num="254">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4826,7 +4828,7 @@ Sacrifice a land: Sift 1, then draw a card. Activate only once each turn. (To si
 		<card>
 			<name>Traitorous Gaze</name>
 			<text>When this creature enters, put a decayed counter on target creature you control. Draw a card. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/249_Traitorous Gaze.jpg" num="249">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/251_Traitorous Gaze.jpg" num="251">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4842,7 +4844,7 @@ Sacrifice a land: Sift 1, then draw a card. Activate only once each turn. (To si
 		</card>
 		<card>
 			<name>Adamant Moonseeker</name>
-			<text>Whenever this creature enters or attacks, sift 1. (Look at the top card of your library. You may put it into your sanctum.)
+			<text>Whenever this creature attacks, sift 1. (Look at the top card of your library. You may put it into your sanctum.)
 As long as there are 10 or more cards in your sanctum, this creature gets +2/+2 and has menace.</text>
 			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/214_Adamant Moonseeker.jpg" num="214">DSW</set>
 			<prop>
@@ -4861,7 +4863,7 @@ As long as there are 10 or more cards in your sanctum, this creature gets +2/+2 
 		<card>
 			<name>Boundless Voidwalker</name>
 			<text>When this creature enters, you get {V} for each noncreature, nonland, permanent you control. (Spend {V} to cast copies of Vertex spells.)</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/217_Boundless Voidwalker.jpg" num="217">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/218_Boundless Voidwalker.jpg" num="218">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4878,7 +4880,7 @@ As long as there are 10 or more cards in your sanctum, this creature gets +2/+2 
 		<card>
 			<name>Deceiving Pathshaper</name>
 			<text>When this creature enters, up to one other target creature gets +2/-2 until end of turn. When that creature dies this turn, return it to the battlefield as an enchantment. It loses all other card types.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/225_Deceiving Pathshaper.jpg" num="225">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/223_Deceiving Pathshaper.jpg" num="223">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4897,7 +4899,7 @@ As long as there are 10 or more cards in your sanctum, this creature gets +2/+2 
 			<text>Depart 2 (You may cast this from your sanctum by exiling an Avatar permanent you control with power 2 or greater.)
 Flying
 When this creature enters, look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/254_Unnerving Foresight.jpg" num="254">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/252_Unnerving Foresight.jpg" num="252">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4915,7 +4917,7 @@ When this creature enters, look at the top four cards of your library. Put one o
 			<name>Shimmering Starbreaker</name>
 			<text>Menace
 When this creature enters, exile target creature or Revelation card from your graveyard with mana value 2 and copy it twice. You may cast the copies without paying their mana costs.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/243_Shimmering Starbreaker.jpg" num="243">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/245_Shimmering Starbreaker.jpg" num="245">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4934,7 +4936,7 @@ When this creature enters, exile target creature or Revelation card from your gr
 			<text>Counter up to one target instant, sorcery, or enchantment spell.
 Realize {3}{I}{I} (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)
 At the beginning of your upkeep, sift 1. (Look at the top card of your library. You may put it into your sanctum.)</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/236_Herald Promised Light.jpg" num="236">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/235_Herald Promised Light.jpg" num="235">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4953,7 +4955,7 @@ At the beginning of your upkeep, sift 1. (Look at the top card of your library. 
 			<text>Sift 2, then draw a card.
 Realize {4}{I}{I} (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)
 This card&apos;s power is equal to the number of cards in your sanctum.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/240_Protect Boundless Will.jpg" num="240">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/242_Protect Boundless Will.jpg" num="242">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4970,7 +4972,7 @@ This card&apos;s power is equal to the number of cards in your sanctum.</text>
 		<card>
 			<name>Embrace of the Void</name>
 			<text>Target creature gets +2/-1 until end of turn. You get {VU}. (Spend {V} to cast copies of Vertex spells.)</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/228_Embrace of the Void.jpg" num="228">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/227_Embrace of the Void.jpg" num="227">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5005,7 +5007,7 @@ Look at the top three cards of your library, then put them back in any order.</t
 			<text>Create a token that&apos;s a copy of target land you control.
 Realize {4}{I}{I} (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)
 Healing 2 (Damage dealt by this creature also causes you to gain 2 life.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/241_Refract Empty Space.jpg" num="241">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/243_Refract Empty Space.jpg" num="243">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5314,7 +5316,7 @@ Whenever you cast a silver spell, sift 1.</text>
 			<text>Whenever one or more Avatars you control attack, choose one —
 • This creature deals 3 damage to target player or planeswalker and you gain 3 life.
 • Draw a card.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/264_Conspicuous Glimpse.jpg" num="264">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/265_Conspicuous Glimpse.jpg" num="265">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5352,7 +5354,7 @@ Other artifacts and enchantments you control have ward {1}.</text>
 			<text>Lifelink
 When this creature enters, create two 1/1 red Spirit creature tokens.
 {1}, Sacrifice a creature: This creature deals 1 damage to each opponent.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/268_Fallen of Drakol.jpg" num="268">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/270_Fallen of Drakol.jpg" num="270">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5370,7 +5372,7 @@ When this creature enters, create two 1/1 red Spirit creature tokens.
 			<name>Moonwater Dancer</name>
 			<text>Landfall — Whenever a land enters under your control, create a Treasure token.
 {6}: Put the top card of your library onto the battlefield face-down as a land with &quot;{T}: Add one mana of any color&quot; and &quot;Turn this face-up as a sorcery for its mana cost if its a permanent.&quot;</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/274_Moonwater Dancer.jpg" num="274">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/275_Moonwater Dancer.jpg" num="275">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5385,10 +5387,10 @@ When this creature enters, create two 1/1 red Spirit creature tokens.
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Storm THing</name>
+			<name>Embodiment of Storms</name>
 			<text>Infuse 1 (Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)
 Whenever a +1/+1 counter is put on a creature you control, put a +1/+1 counter on this creature. Do this only once each turn.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/285_Storm THing.jpg" num="285">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/269_Embodiment of Storms.jpg" num="269">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5421,10 +5423,10 @@ At the beginning of your end step, you may sacrifice a token. If you do, create 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>IUB Noncreatures</name>
+			<name>Augur of the Stars</name>
 			<text>You may spent {V} as though it were {C} to cast this spell.
 When this creature enters, you may create a colorless 0/0 Fractal Horror creature token. Put X +1/+1 counters on it.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/271_IUB Noncreatures.jpg" num="271">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/258_Augur of the Stars.jpg" num="258">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5441,7 +5443,7 @@ When this creature enters, you may create a colorless 0/0 Fractal Horror creatur
 		<card>
 			<name>Bloodbringer</name>
 			<text>At the beginning of combat on your turn, you may put a decayed counter on target creature you control without one. If you do, that creature gains haste and you get {VU}. (A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat. Spend {V} to cast copies of Vertex spells.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/260_Bloodbringer.jpg" num="260">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/261_Bloodbringer.jpg" num="261">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5477,7 +5479,7 @@ Whenever this creature enters or you realize a Revelation, draw a card.</text>
 			<name>Boundless Oath</name>
 			<text>When this creature enters, return up to two target creature cards with total mana value 3 or less from your graveyard to the battlefield.
 Whenever this creature attacks, other creatures you control get +1/+0 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/261_Boundless Oath.jpg" num="261">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/262_Boundless Oath.jpg" num="262">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5496,7 +5498,7 @@ Whenever this creature attacks, other creatures you control get +1/+0 until end 
 			<text>Depart 2 (You may cast this from your sanctum by exiling an Avatar permanent you control with power 2 or greater.)
 Flying
 Other Avatars and Anima you control have flying.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/280_Redeemed Imagination.jpg" num="280">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/282_Redeemed Imagination.jpg" num="282">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5514,7 +5516,7 @@ Other Avatars and Anima you control have flying.</text>
 			<name>Reclaimed Apprehension</name>
 			<text>Depart 2 (You may cast this from your sanctum by exiling an Avatar permanent you control with power 2 or greater.)
 When this creature enters, you get {VB}. (Spend {V} to cast copies of Vertex spells.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/279_Reclaimed Apprehension.jpg" num="279">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/281_Reclaimed Apprehension.jpg" num="281">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5532,7 +5534,7 @@ When this creature enters, you get {VB}. (Spend {V} to cast copies of Vertex spe
 			<name>Reforged Resentment</name>
 			<text>Depart 2 (You may cast this from your sanctum by exiling an Avatar permanent you control with power 2 or greater.)
 {3}, {T}, Sacrifice a creature: This creature deals damage equal to the sacrificed creature&apos;s power to any target.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/281_Reforged Resentment.jpg" num="281">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/283_Reforged Resentment.jpg" num="283">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5551,7 +5553,7 @@ When this creature enters, you get {VB}. (Spend {V} to cast copies of Vertex spe
 			<text>Depart 2 (You may cast this from your sanctum by exiling an Avatar permanent you control with power 2 or greater.)
 Trample
 Other creatures you control have trample.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/278_Reawakaned Savagery.jpg" num="278">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/280_Reawakaned Savagery.jpg" num="280">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5569,7 +5571,7 @@ Other creatures you control have trample.</text>
 			<name>Reinvigorated Song</name>
 			<text>Depart 2 (You may cast this from your sanctum by exiling an Avatar permanent you control with power 2 or greater.)
 When this creature enters, put a +1/+1 counter on each creature you control.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/282_Reinvigorated Song.jpg" num="282">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/284_Reinvigorated Song.jpg" num="284">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5587,7 +5589,7 @@ When this creature enters, put a +1/+1 counter on each creature you control.</te
 			<name>Ignite Relinquished Desires</name>
 			<text>This spell deals X damage to any target. If this was realized, X is one plus the number of Avatars and Anima you control.
 Realize {2}{I}{R} (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/269_Ignite Relinquished Desires.jpg" num="269">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/271_Ignite Relinquished Desires.jpg" num="271">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5624,7 +5626,7 @@ Realize {4}{I}{G} (Then if you cast this spell for its realize cost, put it onto
 			<text>Create three 1/1 black Spirit creature tokens with decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)
 Realize {2}{I}{W} (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)
 Decayed</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/267_Darken the Skies.jpg" num="267">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/268_Darken the Skies.jpg" num="268">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5639,11 +5641,11 @@ Decayed</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Mend Lost Memories</name>
+			<name>Mend Absent Memories</name>
 			<text>Create a token that&apos;s a copy of target land you control.
 Realize {4}{I}{U} (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)
 Flying</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/272_Mend Lost Memories.jpg" num="272">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/273_Mend Absent Memories.jpg" num="273">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5661,7 +5663,7 @@ Flying</text>
 			<name>Cosmic Expansion</name>
 			<text>You draw two cards and create two 1/1 silver Avatar creature tokens.
 Realize—{2}{I}{B}, Sacrifice a creature (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/265_Cosmic Expansion.jpg" num="265">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/266_Cosmic Expansion.jpg" num="266">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

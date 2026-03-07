@@ -1,7 +1,7 @@
 ﻿[
     {
         "card_name": "Boundless Unifier",
-        "number": 6,
+        "number": 5,
         "shape": "adventure",
         "set": "DSW",
         "rotated": false,
@@ -9,7 +9,7 @@
     },
     {
         "card_name": "Reveal New Apprehensions",
-        "number": 73,
+        "number": 74,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -17,7 +17,7 @@
     },
     {
         "card_name": "Dread of the Terminus",
-        "number": 98,
+        "number": 97,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -25,7 +25,7 @@
     },
     {
         "card_name": "The Arbiter's Folly",
-        "number": 129,
+        "number": 130,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -41,7 +41,7 @@
     },
     {
         "card_name": "Cosmic Abyss",
-        "number": 223,
+        "number": 221,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -65,7 +65,7 @@
     },
     {
         "card_name": "Primordial Fright",
-        "number": 114,
+        "number": 119,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -73,7 +73,7 @@
     },
     {
         "card_name": "Heart of the Terminus",
-        "number": 141,
+        "number": 148,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -81,7 +81,7 @@
     },
     {
         "card_name": "Strength of the Terminus",
-        "number": 203,
+        "number": 208,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -89,7 +89,7 @@
     },
     {
         "card_name": "Touch the Void",
-        "number": 248,
+        "number": 250,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -97,7 +97,7 @@
     },
     {
         "card_name": "Voidborn Cosmomancer",
-        "number": 43,
+        "number": 42,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -105,7 +105,7 @@
     },
     {
         "card_name": "Boundless Seeker",
-        "number": 48,
+        "number": 49,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -113,7 +113,7 @@
     },
     {
         "card_name": "Boundless Reawakener",
-        "number": 91,
+        "number": 90,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -137,7 +137,7 @@
     },
     {
         "card_name": "Wishes of the Terminus",
-        "number": 255,
+        "number": 254,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -161,7 +161,7 @@
     },
     {
         "card_name": "Devour Absent Memories",
-        "number": 95,
+        "number": 94,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -169,7 +169,7 @@
     },
     {
         "card_name": "Burn Forgotten Wishes",
-        "number": 132,
+        "number": 133,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -193,7 +193,7 @@
     },
     {
         "card_name": "Celestial Wanderer",
-        "number": 7,
+        "number": 6,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -209,7 +209,7 @@
     },
     {
         "card_name": "Eclipse Warden",
-        "number": 99,
+        "number": 98,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -217,7 +217,7 @@
     },
     {
         "card_name": "Drakoli Resistance",
-        "number": 135,
+        "number": 138,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -233,7 +233,7 @@
     },
     {
         "card_name": "Boundless Voidwalker",
-        "number": 217,
+        "number": 218,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -248,8 +248,8 @@
         "position": ""
     },
     {
-        "card_name": "Cosmos Augur",
-        "number": 55,
+        "card_name": "Cosmic Outsider",
+        "number": 54,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -257,7 +257,7 @@
     },
     {
         "card_name": "Enter the Mind",
-        "number": 101,
+        "number": 100,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -265,7 +265,7 @@
     },
     {
         "card_name": "Dreams of Memories Forgotten",
-        "number": 136,
+        "number": 139,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -281,7 +281,7 @@
     },
     {
         "card_name": "Deceiving Pathshaper",
-        "number": 225,
+        "number": 223,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -305,7 +305,7 @@
     },
     {
         "card_name": "Herald of Blackened Stars",
-        "number": 105,
+        "number": 109,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -313,7 +313,7 @@
     },
     {
         "card_name": "Fallen Star",
-        "number": 139,
+        "number": 144,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -329,7 +329,7 @@
     },
     {
         "card_name": "Embrace of the Void",
-        "number": 228,
+        "number": 227,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -345,54 +345,6 @@
     },
     {
         "card_name": "Portent of Stars",
-        "number": 71,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Mark of Return",
-        "number": 110,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Interstellar Phoenix",
-        "number": 144,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Noxious Leech",
-        "number": 196,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Herald Promised Light",
-        "number": 236,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Rupture Reality",
-        "number": 32,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Reflected Familiar",
         "number": 72,
         "shape": "normal",
         "set": "DSW",
@@ -400,8 +352,56 @@
         "position": ""
     },
     {
+        "card_name": "Mark of Return",
+        "number": 115,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Interstellar Phoenix",
+        "number": 151,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Noxious Leech",
+        "number": 199,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Herald Promised Light",
+        "number": 235,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Rupture Reality",
+        "number": 31,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Reflected Familiar",
+        "number": 73,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Shattered and Unbroken",
-        "number": 117,
+        "number": 122,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -409,7 +409,7 @@
     },
     {
         "card_name": "Malignity from Beyond",
-        "number": 148,
+        "number": 155,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -417,7 +417,7 @@
     },
     {
         "card_name": "Nurturing Woodsoul",
-        "number": 197,
+        "number": 200,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -433,7 +433,7 @@
     },
     {
         "card_name": "Shatter Unfulfilled Promises",
-        "number": 34,
+        "number": 33,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -441,7 +441,7 @@
     },
     {
         "card_name": "Reveal Veiled Truths",
-        "number": 74,
+        "number": 75,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -456,8 +456,8 @@
         "position": ""
     },
     {
-        "card_name": "Observer of Infernos",
-        "number": 150,
+        "card_name": "Nari, Worldsinger",
+        "number": 157,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -465,7 +465,7 @@
     },
     {
         "card_name": "Restore Unseen Tranquility",
-        "number": 199,
+        "number": 203,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -473,7 +473,7 @@
     },
     {
         "card_name": "Protect Boundless Will",
-        "number": 240,
+        "number": 242,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -481,7 +481,7 @@
     },
     {
         "card_name": "Shrouded Subjugator",
-        "number": 35,
+        "number": 34,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -489,7 +489,7 @@
     },
     {
         "card_name": "Seal Futile Dreams",
-        "number": 76,
+        "number": 77,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -504,8 +504,8 @@
         "position": ""
     },
     {
-        "card_name": "Seek the Unknowable",
-        "number": 156,
+        "card_name": "Observer of Infernos",
+        "number": 158,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -521,7 +521,7 @@
     },
     {
         "card_name": "Shimmering Starbreaker",
-        "number": 243,
+        "number": 245,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -529,7 +529,7 @@
     },
     {
         "card_name": "Unbreakable Remembrance",
-        "number": 41,
+        "number": 40,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -537,23 +537,23 @@
     },
     {
         "card_name": "Uncontrollable Faltering",
-        "number": 81,
+        "number": 82,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Allocate Memory",
-        "number": 88,
+        "card_name": "Augur of the Beyond",
+        "number": 89,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Unchained Unrest",
-        "number": 160,
+        "card_name": "Seek the Unknowable",
+        "number": 164,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -569,7 +569,7 @@
     },
     {
         "card_name": "Traitorous Gaze",
-        "number": 249,
+        "number": 251,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -577,7 +577,7 @@
     },
     {
         "card_name": "When the Stars Collide",
-        "number": 45,
+        "number": 44,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -592,16 +592,16 @@
         "position": ""
     },
     {
-        "card_name": "Augur of the Beyond",
-        "number": 90,
+        "card_name": "Convergence of Paths",
+        "number": 91,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Worldsinger",
-        "number": 170,
+        "card_name": "Unchained Unrest",
+        "number": 168,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -617,14 +617,14 @@
     },
     {
         "card_name": "Unnerving Foresight",
-        "number": 254,
+        "number": 252,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "The Arbiter's Wisp",
+        "card_name": "Avatar of the Door",
         "number": 4,
         "shape": "normal",
         "set": "DSW",
@@ -632,24 +632,24 @@
         "position": ""
     },
     {
-        "card_name": "Boundless XXXX",
-        "number": 49,
+        "card_name": "Boundless Diviner",
+        "number": 48,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Convergence of Paths",
-        "number": 92,
+        "card_name": "Doorwatcher",
+        "number": 95,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Breaking Eternity",
-        "number": 131,
+        "card_name": "Approaching Wingbeats",
+        "number": 129,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -664,7 +664,7 @@
         "position": ""
     },
     {
-        "card_name": "Astral SOMETHING",
+        "card_name": "Astral Starcaller",
         "number": 215,
         "shape": "normal",
         "set": "DSW",
@@ -672,8 +672,8 @@
         "position": ""
     },
     {
-        "card_name": "Avatar of the Door",
-        "number": 5,
+        "card_name": "Chromatic Splinters",
+        "number": 7,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -688,16 +688,16 @@
         "position": ""
     },
     {
-        "card_name": "Doorwatcher",
-        "number": 96,
+        "card_name": "Eye of the Sword",
+        "number": 102,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Cosmos Caller",
-        "number": 134,
+        "card_name": "Breaking Eternity",
+        "number": 132,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -712,15 +712,15 @@
         "position": ""
     },
     {
-        "card_name": "Bring the Collision",
-        "number": 218,
+        "card_name": "Aurora Reader",
+        "number": 216,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Chromatic Splinters",
+        "card_name": "Collector of Mysteries",
         "number": 8,
         "shape": "normal",
         "set": "DSW",
@@ -736,7 +736,7 @@
         "position": ""
     },
     {
-        "card_name": "Forewarning Visitor",
+        "card_name": "Face Unfettered Judgement",
         "number": 103,
         "shape": "normal",
         "set": "DSW",
@@ -744,8 +744,8 @@
         "position": ""
     },
     {
-        "card_name": "Extraplanar Existence",
-        "number": 138,
+        "card_name": "Calamity Sentinel",
+        "number": 134,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -761,7 +761,7 @@
     },
     {
         "card_name": "Consume Into The Boundless",
-        "number": 221,
+        "number": 220,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -777,14 +777,14 @@
     },
     {
         "card_name": "Cosmic Touch",
-        "number": 54,
+        "number": 55,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Freed from Eternity",
+        "card_name": "Fallen of Najar",
         "number": 104,
         "shape": "normal",
         "set": "DSW",
@@ -792,8 +792,8 @@
         "position": ""
     },
     {
-        "card_name": "Forge Chromatic Fire",
-        "number": 140,
+        "card_name": "Cosmos Caller",
+        "number": 136,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -808,9 +808,9 @@
         "position": ""
     },
     {
-        "card_name": "Consumption of the Collision",
+        "card_name": "Darkstar Invader",
         "number": 222,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "DSW",
         "rotated": false,
         "position": ""
@@ -832,17 +832,17 @@
         "position": ""
     },
     {
-        "card_name": "Hollow",
-        "number": 106,
+        "card_name": "Fate Robber",
+        "number": 105,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Ikan Explorer",
-        "number": 143,
-        "shape": "adventure",
+        "card_name": "Creation's Entropy",
+        "number": 137,
+        "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
@@ -856,9 +856,9 @@
         "position": ""
     },
     {
-        "card_name": "Darkstar Invader",
+        "card_name": "Dedicated Acolyte",
         "number": 224,
-        "shape": "adventure",
+        "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
@@ -880,23 +880,23 @@
         "position": ""
     },
     {
-        "card_name": "Lightwoven Ghast",
-        "number": 109,
+        "card_name": "Forewarning Visitor",
+        "number": 106,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Kalan Processor",
-        "number": 146,
+        "card_name": "Ego Rupture",
+        "number": 140,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Earthbound Collision",
+        "card_name": "Earthbound Fracturing",
         "number": 187,
         "shape": "normal",
         "set": "DSW",
@@ -904,8 +904,8 @@
         "position": ""
     },
     {
-        "card_name": "Dedicated Acolyte",
-        "number": 226,
+        "card_name": "Destruction of the Rupture",
+        "number": 225,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -928,24 +928,24 @@
         "position": ""
     },
     {
-        "card_name": "Najari Shaper",
-        "number": 111,
-        "shape": "adventure",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Perpetual Ricochet",
-        "number": 152,
+        "card_name": "Forsake the Light",
+        "number": 107,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Ghostly Wanderer",
-        "number": 190,
+        "card_name": "Epoch Lancer",
+        "number": 141,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Essence Assault",
+        "number": 189,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -953,7 +953,7 @@
     },
     {
         "card_name": "Empty Hollow Eternity",
-        "number": 229,
+        "number": 228,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -976,32 +976,32 @@
         "position": ""
     },
     {
-        "card_name": "Ominous Moon",
-        "number": 112,
+        "card_name": "Freed from Eternity",
+        "number": 108,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "SOMETHING of Ruin",
-        "number": 158,
+        "card_name": "Extraplanar Existence",
+        "number": 143,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Hunt for Eternity",
-        "number": 192,
+        "card_name": "Ghostly Wanderer",
+        "number": 191,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Forerunner of the Collision",
-        "number": 232,
+        "card_name": "Forerunner of the Rupture",
+        "number": 231,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1024,24 +1024,24 @@
         "position": ""
     },
     {
-        "card_name": "Trianglify",
-        "number": 119,
+        "card_name": "Hollow Vessel",
+        "number": 110,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Stormborn Flamebringer",
-        "number": 159,
+        "card_name": "Flame of Drakol",
+        "number": 145,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Imposing Stare",
-        "number": 193,
+        "card_name": "Growth from Demise",
+        "number": 192,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1049,55 +1049,7 @@
     },
     {
         "card_name": "Gatu Gembearer",
-        "number": 233,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Mysterious XXX",
-        "number": 24,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Misrendering",
-        "number": 65,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "UB03 DESIGNED",
-        "number": 120,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "UR01 DESIGNED",
-        "number": 161,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Resolute Herald",
-        "number": 198,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Gaze into Eternity",
-        "number": 234,
+        "number": 232,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1105,47 +1057,47 @@
     },
     {
         "card_name": "Mystery from Beyond",
-        "number": 25,
+        "number": 24,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Rise From Eternity",
-        "number": 75,
+        "card_name": "Insight in the Depths",
+        "number": 65,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UB04 DESIGNED",
-        "number": 121,
+        "card_name": "Induced Entropy",
+        "number": 111,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UR02 DESIGNED",
-        "number": 162,
+        "card_name": "Flay to Forever",
+        "number": 146,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Solemn Lightbearer",
-        "number": 201,
+        "card_name": "Hunt for Eternity",
+        "number": 194,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Refract Empty Space",
-        "number": 241,
+        "card_name": "Gaze into Eternity",
+        "number": 233,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1153,47 +1105,47 @@
     },
     {
         "card_name": "Protection of Starlight",
-        "number": 28,
+        "number": 27,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Spirit Channeler",
-        "number": 77,
+        "card_name": "Misrendering",
+        "number": 66,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UB05 DESIGNED",
-        "number": 122,
+        "card_name": "Lightwoven Ghast",
+        "number": 114,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UR04 DESIGNED",
-        "number": 163,
+        "card_name": "Forge Chromatic Fire",
+        "number": 147,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UG01 DESIGNED",
-        "number": 205,
+        "card_name": "Imposing Stare",
+        "number": 195,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Slice Through Stars",
-        "number": 245,
+        "card_name": "Herald the Rupture",
+        "number": 236,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1201,47 +1153,47 @@
     },
     {
         "card_name": "Skyborn Whale",
-        "number": 36,
+        "number": 35,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Spiritual Departure",
-        "number": 78,
+        "card_name": "Rise From Eternity",
+        "number": 76,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UB07 Blackhole",
-        "number": 123,
+        "card_name": "Najari Shaper",
+        "number": 116,
+        "shape": "adventure",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ikan Explorer",
+        "number": 150,
+        "shape": "adventure",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Imprint of Aeons",
+        "number": 196,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UR05 DESIGNED VOID",
-        "number": 164,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "UG04 TONAME",
-        "number": 206,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Thief of The Boundless",
-        "number": 247,
+        "card_name": "Impetus of Blood",
+        "number": 238,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1249,47 +1201,47 @@
     },
     {
         "card_name": "Submit to Eternity",
-        "number": 38,
+        "number": 37,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UU02 DESIGNED",
-        "number": 82,
+        "card_name": "Spirit Channeler",
+        "number": 78,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UB08 DESIGNED",
-        "number": 124,
+        "card_name": "Ominous Moon",
+        "number": 117,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UR06 DESIGNED",
-        "number": 165,
+        "card_name": "Kalan Processor",
+        "number": 153,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UG06 DESIGNED",
-        "number": 207,
+        "card_name": "Prismheld Lux",
+        "number": 201,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UI03 DESIGNED",
-        "number": 250,
+        "card_name": "Nightfall Enchanter",
+        "number": 240,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1297,47 +1249,47 @@
     },
     {
         "card_name": "Touch of the Boundless",
-        "number": 39,
+        "number": 38,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UU04 DESIGNED",
-        "number": 83,
+        "card_name": "Spiritual Departure",
+        "number": 79,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UB11 Reart",
-        "number": 125,
+        "card_name": "Spatial Rift",
+        "number": 123,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UR09 DESIGNED",
-        "number": 166,
+        "card_name": "Perpetual Ricochet",
+        "number": 160,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UG07 DESIGNED",
-        "number": 208,
+        "card_name": "Resolute Herald",
+        "number": 202,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UI04 DESIGNED",
-        "number": 251,
+        "card_name": "Refract Empty Space",
+        "number": 243,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1345,7 +1297,55 @@
     },
     {
         "card_name": "Traveler of Lost Planes",
-        "number": 40,
+        "number": 39,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Void Seeker",
+        "number": 83,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "To Dust",
+        "number": 124,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Spine Scion",
+        "number": 166,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Servant of the Beyond",
+        "number": 204,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Slice Through Stars",
+        "number": 247,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Voiceless Caller",
+        "number": 41,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1361,14 +1361,14 @@
     },
     {
         "card_name": "The Arbiter's Fallen",
-        "number": 89,
+        "number": 88,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UR11 DESIGNED",
+        "card_name": "Stormborn Flamebringer",
         "number": 167,
         "shape": "normal",
         "set": "DSW",
@@ -1376,24 +1376,24 @@
         "position": ""
     },
     {
-        "card_name": "UG09 DESIGNED",
-        "number": 209,
+        "card_name": "Solemn Lightbearer",
+        "number": 206,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UI05 DESIGNED",
-        "number": 252,
+        "card_name": "Thief of The Boundless",
+        "number": 249,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Voiceless Caller",
-        "number": 42,
+        "card_name": "Wisp of The Arbiter",
+        "number": 45,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1409,15 +1409,15 @@
     },
     {
         "card_name": "Corrupted Conviction",
-        "number": 93,
+        "number": 92,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UR12 DESIGNED",
-        "number": 168,
+        "card_name": "Winds of Ruin",
+        "number": 170,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1432,7 +1432,7 @@
         "position": ""
     },
     {
-        "card_name": "UI06 DESIGNED",
+        "card_name": "Watcher at the Door",
         "number": 253,
         "shape": "normal",
         "set": "DSW",
@@ -1457,7 +1457,7 @@
     },
     {
         "card_name": "Depthslighter",
-        "number": 94,
+        "number": 93,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1465,7 +1465,7 @@
     },
     {
         "card_name": "The Arbiter's Pathlighter",
-        "number": 130,
+        "number": 131,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1481,7 +1481,7 @@
     },
     {
         "card_name": "Barrier of Storms",
-        "number": 216,
+        "number": 217,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1505,7 +1505,7 @@
     },
     {
         "card_name": "Drain Spiritual Realms",
-        "number": 97,
+        "number": 96,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1513,7 +1513,7 @@
     },
     {
         "card_name": "Comsumed Memories",
-        "number": 133,
+        "number": 135,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1528,7 +1528,7 @@
         "position": ""
     },
     {
-        "card_name": "CI10 Medium Creature",
+        "card_name": "Conniving Cosmomancer",
         "number": 219,
         "shape": "normal",
         "set": "DSW",
@@ -1553,7 +1553,7 @@
     },
     {
         "card_name": "Embrace Eternity",
-        "number": 100,
+        "number": 99,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1561,7 +1561,7 @@
     },
     {
         "card_name": "Eternal Flamebearer",
-        "number": 137,
+        "number": 142,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1576,15 +1576,15 @@
         "position": ""
     },
     {
-        "card_name": "CI11 Medium Creature",
-        "number": 220,
+        "card_name": "Disciple of the Celestial Tree",
+        "number": 226,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Fractured Avatar",
+        "card_name": "Fractured Soul",
         "number": 17,
         "shape": "normal",
         "set": "DSW",
@@ -1593,7 +1593,7 @@
     },
     {
         "card_name": "Najari Ascendant",
-        "number": 66,
+        "number": 67,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1601,7 +1601,7 @@
     },
     {
         "card_name": "Eternal Wanderer",
-        "number": 102,
+        "number": 101,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1609,7 +1609,7 @@
     },
     {
         "card_name": "Hurled Flamestone",
-        "number": 142,
+        "number": 149,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1617,15 +1617,15 @@
     },
     {
         "card_name": "Eternal Blossoming",
-        "number": 189,
+        "number": 190,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Disciple of the Celestial Tree",
-        "number": 227,
+        "card_name": "Eternal Warrior",
+        "number": 229,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1641,7 +1641,7 @@
     },
     {
         "card_name": "Najari Companion",
-        "number": 67,
+        "number": 68,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1649,7 +1649,7 @@
     },
     {
         "card_name": "Inevitable Withering",
-        "number": 107,
+        "number": 112,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1657,7 +1657,7 @@
     },
     {
         "card_name": "Kalan Crystal Spear",
-        "number": 145,
+        "number": 152,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1665,14 +1665,14 @@
     },
     {
         "card_name": "Hammer of Forsaken Worlds",
-        "number": 191,
+        "number": 193,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Eternal Warrior",
+        "card_name": "Ethereal Envoy",
         "number": 230,
         "shape": "normal",
         "set": "DSW",
@@ -1681,7 +1681,7 @@
     },
     {
         "card_name": "Najari Pathwalker",
-        "number": 26,
+        "number": 25,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1689,54 +1689,6 @@
     },
     {
         "card_name": "Najari Pathshaper",
-        "number": 68,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Infused Warrior",
-        "number": 108,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Kara Mountain Guardian",
-        "number": 147,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Invigorate Forsaken Realms",
-        "number": 194,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Ethereal Envoy",
-        "number": 231,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Naroz Path-Traveler",
-        "number": 27,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Otherwordly Sensation",
         "number": 69,
         "shape": "normal",
         "set": "DSW",
@@ -1744,7 +1696,7 @@
         "position": ""
     },
     {
-        "card_name": "Otherworldy Starbringer",
+        "card_name": "Infused Warrior",
         "number": 113,
         "shape": "normal",
         "set": "DSW",
@@ -1752,151 +1704,7 @@
         "position": ""
     },
     {
-        "card_name": "Najari Bloodseeker",
-        "number": 149,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Nebula Titan",
-        "number": 195,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Glimpse Lost Totality",
-        "number": 235,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Rise Forever Higher",
-        "number": 29,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Overwhelming Existence",
-        "number": 70,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Recycled Ikani",
-        "number": 115,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Path Acceleration",
-        "number": 151,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Snakeskin Veil",
-        "number": 200,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Moonlight Charm",
-        "number": 238,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Rise Through the Clouds",
-        "number": 30,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Splinter New Worlds",
-        "number": 79,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Seer of the Beyond",
-        "number": 116,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Rage from Beyond",
-        "number": 153,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Stand Your Ground",
-        "number": 202,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Offering to the Stars",
-        "number": 239,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Runebound Prison",
-        "number": 31,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Stillwater Sentry",
-        "number": 80,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Transcend Mortality",
-        "number": 118,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Render Worlds",
+        "card_name": "Kara Mountain Guardian",
         "number": 154,
         "shape": "normal",
         "set": "DSW",
@@ -1904,8 +1712,152 @@
         "position": ""
     },
     {
-        "card_name": "Thicket's Incarnation",
-        "number": 204,
+        "card_name": "Invigorate Forsaken Realms",
+        "number": 197,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Glimpse Lost Totality",
+        "number": 234,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Naroz Path-Traveler",
+        "number": 26,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Otherwordly Sensation",
+        "number": 70,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Otherworldy Starbringer",
+        "number": 118,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Najari Bloodseeker",
+        "number": 156,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Nebula Titan",
+        "number": 198,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Moonlight Charm",
+        "number": 239,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Rise Forever Higher",
+        "number": 28,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Overwhelming Existence",
+        "number": 71,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Reborn of the Void",
+        "number": 120,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Path Acceleration",
+        "number": 159,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Snakeskin Veil",
+        "number": 205,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Offering to the Stars",
+        "number": 241,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Rise Through the Clouds",
+        "number": 29,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Splinter New Worlds",
+        "number": 80,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Seer of the Beyond",
+        "number": 121,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Rage from Beyond",
+        "number": 161,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Stand Your Ground",
+        "number": 207,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1913,7 +1865,55 @@
     },
     {
         "card_name": "Shadowy Incarnations",
-        "number": 242,
+        "number": 244,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Runebond Prison",
+        "number": 30,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Stillwater Sentry",
+        "number": 81,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Transcend Mortality",
+        "number": 125,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Render Worlds",
+        "number": 162,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Thicket's Incarnation",
+        "number": 209,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Skyshift",
+        "number": 246,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1921,14 +1921,14 @@
     },
     {
         "card_name": "Ruptured Cetacean",
-        "number": 33,
+        "number": 32,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Walk Within the Skies",
+        "card_name": "Walk Among the Stars",
         "number": 84,
         "shape": "normal",
         "set": "DSW",
@@ -1945,7 +1945,7 @@
     },
     {
         "card_name": "Savan Ascendant",
-        "number": 155,
+        "number": 163,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1960,8 +1960,8 @@
         "position": ""
     },
     {
-        "card_name": "Skyshift",
-        "number": 244,
+        "card_name": "Starlight's Glimmer",
+        "number": 248,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1969,7 +1969,7 @@
     },
     {
         "card_name": "Starbeam",
-        "number": 37,
+        "number": 36,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1988,7 +1988,7 @@
     },
     {
         "card_name": "Shatter Eternity",
-        "number": 157,
+        "number": 165,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2003,8 +2003,8 @@
         "position": ""
     },
     {
-        "card_name": "Starlight's Glimmer",
-        "number": 246,
+        "card_name": "Wisp Sorcerer",
+        "number": 255,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2012,7 +2012,7 @@
     },
     {
         "card_name": "Wandering Virtue",
-        "number": 44,
+        "number": 43,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2058,7 +2058,7 @@
     "a->gold",
     {
         "card_name": "Moonlight Prophet",
-        "number": 273,
+        "number": 274,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2066,7 +2066,7 @@
     },
     {
         "card_name": "Cosmic Voyage",
-        "number": 266,
+        "number": 267,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2074,7 +2074,7 @@
     },
     {
         "card_name": "Bring Forth Calamity",
-        "number": 263,
+        "number": 264,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2106,7 +2106,7 @@
     },
     {
         "card_name": "Primordial Knowledge",
-        "number": 276,
+        "number": 278,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2122,38 +2122,6 @@
     },
     {
         "card_name": "Redeemed Imagination",
-        "number": 280,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Reclaimed Apprehension",
-        "number": 279,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Reforged Resentment",
-        "number": 281,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Reawakaned Savagery",
-        "number": 278,
-        "shape": "normal",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Reinvigorated Song",
         "number": 282,
         "shape": "normal",
         "set": "DSW",
@@ -2161,8 +2129,40 @@
         "position": ""
     },
     {
+        "card_name": "Reclaimed Apprehension",
+        "number": 281,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Reforged Resentment",
+        "number": 283,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Reawakaned Savagery",
+        "number": 280,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Reinvigorated Song",
+        "number": 284,
+        "shape": "normal",
+        "set": "DSW",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Darken the Skies",
-        "number": 267,
+        "number": 268,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2170,7 +2170,7 @@
     },
     {
         "card_name": "Bind Unchained Dreams",
-        "number": 258,
+        "number": 259,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2178,7 +2178,7 @@
     },
     {
         "card_name": "Cosmic Expansion",
-        "number": 265,
+        "number": 266,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2203,8 +2203,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Mend Lost Memories",
-        "number": 272,
+        "card_name": "Mend Absent Memories",
+        "number": 273,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2238,7 +2238,7 @@
     },
     {
         "card_name": "Blind Navigator",
-        "number": 259,
+        "number": 260,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2262,7 +2262,7 @@
     },
     {
         "card_name": "Bounty of the Cosmos",
-        "number": 262,
+        "number": 263,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2270,7 +2270,7 @@
     },
     {
         "card_name": "Primordial Passion",
-        "number": 277,
+        "number": 279,
         "shape": "adventure",
         "set": "DSW",
         "rotated": false,
@@ -2278,7 +2278,7 @@
     },
     {
         "card_name": "Najari Bridge-Binder",
-        "number": 275,
+        "number": 276,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2286,7 +2286,7 @@
     },
     {
         "card_name": "Sacred Defiler",
-        "number": 283,
+        "number": 285,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2305,8 +2305,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Servant of Blood",
-        "number": 284,
+        "card_name": "Nandir, Servant of Blood",
+        "number": 277,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2337,7 +2337,7 @@
     },
     {
         "card_name": "Ignite Relinquished Desires",
-        "number": 269,
+        "number": 271,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2363,7 +2363,7 @@
     },
     {
         "card_name": "Interplanar Collision",
-        "number": 270,
+        "number": 272,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2390,8 +2390,8 @@
         "position": ""
     },
     {
-        "card_name": "IUB Noncreatures",
-        "number": 271,
+        "card_name": "Augur of the Stars",
+        "number": 258,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2410,7 +2410,7 @@
     },
     {
         "card_name": "Boundless Oath",
-        "number": 261,
+        "number": 262,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2433,7 +2433,7 @@
     },
     {
         "card_name": "Fallen of Drakol",
-        "number": 268,
+        "number": 270,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2441,15 +2441,15 @@
     },
     {
         "card_name": "Moonwater Dancer",
-        "number": 274,
+        "number": 275,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Storm THing",
-        "number": 285,
+        "card_name": "Embodiment of Storms",
+        "number": 269,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2457,7 +2457,7 @@
     },
     {
         "card_name": "Conspicuous Glimpse",
-        "number": 264,
+        "number": 265,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2503,7 +2503,7 @@
     },
     {
         "card_name": "Bloodbringer",
-        "number": 260,
+        "number": 261,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2580,7 +2580,7 @@
         "position": ""
     },
     {
-        "card_name": "CA04 Noncreature",
+        "card_name": "Celestial Chart",
         "number": 297,
         "shape": "normal",
         "set": "DSW",
@@ -2588,7 +2588,7 @@
         "position": ""
     },
     {
-        "card_name": "Celestial Chart",
+        "card_name": "Clockwork Effigy",
         "number": 298,
         "shape": "normal",
         "set": "DSW",
@@ -2596,7 +2596,7 @@
         "position": ""
     },
     {
-        "card_name": "Clockwork Effigy",
+        "card_name": "Desolate Radiance",
         "number": 299,
         "shape": "normal",
         "set": "DSW",

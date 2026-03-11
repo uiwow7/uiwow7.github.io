@@ -1,53 +1,53 @@
 ﻿[CustomCards]
 	[
 		{
-			"name": "Unsummon",
+			"name": "Return to Essence",
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "8",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/8_Unsummon.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/7_Return to Essence.jpg"
 			}
 		},
 		{
-			"name": "White Removal",
+			"name": "Weep",
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Sorcery",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/5_White Removal.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/5_Weep.jpg"
 			}
 		},
 		{
-			"name": "Multicolor silver Planeswalker",
+			"name": "Mezzan, Crowned by the Cosmos",
 			"rarity": "special",
-			"mana_cost": "{C}",
-			"type": "Legendary Planeswalker",
-			"collector_number": "21",
+			"mana_cost": "{2}{C}{G}",
+			"type": "Legendary Planeswalker — Mezzan",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/21_Multicolor silver Planeswalker.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/26_Mezzan, Crowned by the Cosmos.jpg"
 			}
 		},
 		{
-			"name": "Silver Value Engine",
+			"name": "Cave of Oracles",
 			"rarity": "special",
-			"mana_cost": "{C}",
-			"type": "",
-			"collector_number": "23",
+			"mana_cost": "{2}{C}",
+			"type": "Enchantment",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/23_Silver Value Engine.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/19_Cave of Oracles.jpg"
 			}
 		},
 		{
-			"name": "Silver Topend Threat",
+			"name": "Mind Trinity",
 			"rarity": "special",
 			"mana_cost": "{3}{C}{C}",
-			"type": "Creature",
+			"type": "Artifact Creature — Statue Horror",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/22_Silver Topend Threat.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/22_Mind Trinity.jpg"
 			}
 		},
 		{
@@ -55,49 +55,49 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Legendary Planeswalker — Tenzel",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/7_Tenzel, Contained by Frost.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/8_Tenzel, Contained by Frost.jpg"
 			}
 		},
 		{
-			"name": "Mill Creature",
+			"name": "Mindsinger",
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Bird Pirate",
+			"type": "Creature — Horror",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/16_Mill Creature.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/16_Mindsinger.jpg"
 			}
 		},
 		{
 			"name": "Silver Vertex",
 			"rarity": "special",
-			"mana_cost": "{C}",
-			"type": "",
-			"collector_number": "24",
+			"mana_cost": "{2}{C}{C}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/24_Silver Vertex.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/23_Silver Vertex.jpg"
 			}
 		},
 		{
-			"name": "ALIEN PRINCE?????",
+			"name": "Kussa, Otherworldly Heir",
 			"rarity": "special",
-			"mana_cost": "{C}",
+			"mana_cost": "{3}{C}",
 			"type": "Legendary Creature — Avatar Noble",
-			"collector_number": "18",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/18_ALIEN PRINCE?????.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/21_Kussa, Otherworldly Heir.jpg"
 			}
 		},
 		{
-			"name": "Selfmill Cantrip",
+			"name": "Sift Through Stars",
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Instant",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/11_Selfmill Cantrip.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/11_Sift Through Stars.jpg"
 			}
 		},
 		{
@@ -111,13 +111,13 @@
 			}
 		},
 		{
-			"name": "Multiple Artifact Destruction",
+			"name": "Melt Worlds",
 			"rarity": "special",
-			"mana_cost": "{2}{R}{R}",
+			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/14_Multiple Artifact Destruction.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/14_Melt Worlds.jpg"
 			}
 		},
 		{
@@ -145,9 +145,9 @@
 			"rarity": "special",
 			"mana_cost": "{C}{C/G}{G}",
 			"type": "Kindred Enchantment — Wonder",
-			"collector_number": "25",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/25_The Earthbound Brushwoods.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/24_The Earthbound Brushwoods.jpg"
 			}
 		},
 		{
@@ -155,9 +155,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{C}{C/R}{R}",
 			"type": "Kindred Enchantment — Wonder",
-			"collector_number": "26",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/26_The Icefire Monuments.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/25_The Icefire Monuments.jpg"
 			}
 		},
 		{
@@ -215,9 +215,9 @@
 			"rarity": "special",
 			"mana_cost": "{C}",
 			"type": "Sorcery",
-			"collector_number": "19",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/19_Call of the Sky.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/18_Call of the Sky.jpg"
 			}
 		},
 		{
@@ -301,30 +301,30 @@
 			}
 		},
 		{
-			"name": "Contorted SOMETHING",
+			"name": "Contorted Expression",
 			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Creature — Horror",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/1_Contorted SOMETHING.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/1_Contorted Expression.jpg"
 			}
 		}
 	]
 
 [cube(15)]
-	1 Unsummon
-	1 White Removal
-	1 Multicolor silver Planeswalker
-	1 Silver Value Engine
-	1 Silver Topend Threat
+	1 Return to Essence
+	1 Weep
+	1 Mezzan, Crowned by the Cosmos
+	1 Cave of Oracles
+	1 Mind Trinity
 	1 Tenzel, Contained by Frost
-	1 Mill Creature
+	1 Mindsinger
 	1 Silver Vertex
-	1 ALIEN PRINCE?????
-	1 Selfmill Cantrip
+	1 Kussa, Otherworldly Heir
+	1 Sift Through Stars
 	1 Emissary of the Beyond
-	1 Multiple Artifact Destruction
+	1 Melt Worlds
 	1 Sellon, Otherworldly Strength
 	1 Insidious Mimic
 	1 The Earthbound Brushwoods
@@ -342,4 +342,4 @@
 	1 Nasahar, Voidbringer
 	1 Ego Robber
 	1 Namel, Blade of Oracles
-	1 Contorted SOMETHING
+	1 Contorted Expression

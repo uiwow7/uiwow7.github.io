@@ -5,7 +5,7 @@
 			<name>DSW</name>
 			<longname>Dazon: Splintered Worlds</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-03-06</releasedate>
+			<releasedate>2026-03-11</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -157,7 +157,7 @@ Whenever this creature or another Avatar enters under your control, you gain 1 l
 		</card>
 		<card>
 			<name>Avatar of the Door</name>
-			<text>Whenever this creature enters or attacks, you get {VW} (Spend {V} to cast copies of Vertex spells.)</text>
+			<text>Whenever this creature enters or attacks, you get {VW}. (Spend {V} to cast copies of Vertex spells.)</text>
 			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/4_Avatar of the Door.jpg" num="4">DSW</set>
 			<prop>
 				<layout>normal</layout>
@@ -386,7 +386,7 @@ Avatars you control have vigilance.</text>
 		</card>
 		<card>
 			<name>Warden of the Celestial Tree</name>
-			<text>Whenever another Avatar enters under your control, you get {V}. (Spend {V} to cast copies of Vertex spells.)</text>
+			<text>Whenever another Avatar you control enters, you get {V}. (Spend {V} to cast copies of Vertex spells.)</text>
 			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/85_Warden of the Celestial Tree.jpg" num="85">DSW</set>
 			<prop>
 				<layout>normal</layout>
@@ -496,8 +496,9 @@ Whenever this creature deals combat damage to a player, if it has a counter on i
 		</card>
 		<card>
 			<name>Cosmic Aven</name>
-			<text>Flying
-Other Avatars you control have flying.</text>
+			<text>Flash
+Flying
+You may cast Avatar spells as though they had flash.</text>
 			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/53_Cosmic Aven.jpg" num="53">DSW</set>
 			<prop>
 				<layout>normal</layout>
@@ -1099,7 +1100,7 @@ Menace</text>
 		<card>
 			<name>Convergence of Paths</name>
 			<text>This spell costs {2} less to cast if there are three or more noncreature cards in your graveyard.
-You draw a card, lose 1 life, and get {VB}.</text>
+You draw a card, lose 1 life, and get {VB}. (Spend {V} to cast copies of Vertex spells.)</text>
 			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/91_Convergence of Paths.jpg" num="91">DSW</set>
 			<prop>
 				<layout>normal</layout>
@@ -1328,10 +1329,10 @@ When this creature enters, exile the top two cards of your library. You may play
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Eternal Flamebearer</name>
+			<name>Eternal Passion</name>
 			<text>Depart 2 (You may cast this from your sanctum by exiling an Avatar permanent you control with power 2 or greater.)
 When this creature enters, discard a card, then draw two cards.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/142_Eternal Flamebearer.jpg" num="142">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/142_Eternal Passion.jpg" num="142">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1364,7 +1365,7 @@ If you&apos;ve cast another noncreature spell this turn, this spell deals 1 dama
 		</card>
 		<card>
 			<name>Render Worlds</name>
-			<text>Draw a card. You get {VW}. (Spend {V} to cast copies of Vertex spells.)</text>
+			<text>You get {V}. Then you may pay X {V}. If you do, exile X cards from the top of your library. You may play one of them until your next end step. (Spend {V} to cast copies of Vertex spells.)</text>
 			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/162_Render Worlds.jpg" num="162">DSW</set>
 			<prop>
 				<layout>normal</layout>
@@ -1374,7 +1375,7 @@ If you&apos;ve cast another noncreature spell this turn, this spell deals 1 dama
 				<manacost>R</manacost>
 				<cmc>1</cmc>
 				<colors>R</colors>
-				<coloridentity>WR</coloridentity>
+				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
 		</card>
@@ -1722,7 +1723,7 @@ When this creature enters, you gain 3 life.</text>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Treefolk Anima</type>
+				<type>Creature — Dryad Anima</type>
 				<maintype>Creature</maintype>
 				<manacost>5G</manacost>
 				<cmc>6</cmc>
@@ -2070,7 +2071,7 @@ Once each turn, when a counter is put on this creature, create a 1/1 white Avata
 		</card>
 		<card>
 			<name>Protection of Starlight</name>
-			<text>Target creature you control gains indestructible until end of turn. You get {VU} (Spend {V} to cast copies of Vertex spells.)</text>
+			<text>Target creature you control gains indestructible until end of turn. You get {VU}. (Spend {V} to cast copies of Vertex spells.)</text>
 			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/27_Protection of Starlight.jpg" num="27">DSW</set>
 			<prop>
 				<layout>normal</layout>
@@ -2239,7 +2240,7 @@ Whenever this creature becomes infused, tap up to one other target creature and 
 		</card>
 		<card>
 			<name>Cosmic Touch</name>
-			<text>Tap up to five target creatures and put stun counters on them.</text>
+			<text>Tap up to five target creatures and put a stun counter on them.</text>
 			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/55_Cosmic Touch.jpg" num="55">DSW</set>
 			<prop>
 				<layout>normal</layout>
@@ -2392,7 +2393,7 @@ Whenever one or more counters are put on this creature, create a 1/1 black Spiri
 		<card>
 			<name>Ominous Moon</name>
 			<text>When this enchantment enters, create two 1/1 black Spirit creature tokens with decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)
-Whenever a creature you control dies, sift 1. (Look at the top card of your library. You may put it into your sanctum.)</text>
+Whenever a creature you control dies, each opponent loses 1 life.</text>
 			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/117_Ominous Moon.jpg" num="117">DSW</set>
 			<prop>
 				<layout>normal</layout>
@@ -2754,7 +2755,7 @@ Whenever a land or Revelation you control enters, you get {V}. (Spend {V} to cas
 			<name>Dream Dweller</name>
 			<text>Flash
 Infuse (When you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)
-When this creature enters, return target permanent you control to its owner&apos;s hand.</text>
+When this creature enters, you get an amount of {V} equal to the number of creatures that have attacked this turn. (Spend {V} to cast copies of Vertex spells.)</text>
 			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/10_Dream Dweller.jpg" num="10">DSW</set>
 			<prop>
 				<layout>normal</layout>
@@ -2771,7 +2772,7 @@ When this creature enters, return target permanent you control to its owner&apos
 		</card>
 		<card>
 			<name>Demonheart Overseer</name>
-			<text>When this creature enters, you get {V} for each creature you control. (Spend {V} to cast copies of Vertex spells.)</text>
+			<text>When this creature enters, you get {V} for each creature you control. They get +1/+1 and gain vigilance until end of turn. (Spend {V} to cast copies of Vertex spells.)</text>
 			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/9_Demonheart Overseer.jpg" num="9">DSW</set>
 			<prop>
 				<layout>normal</layout>
@@ -2790,7 +2791,7 @@ When this creature enters, return target permanent you control to its owner&apos
 			<name>Celestial Wanderer</name>
 			<text>Flying
 Creatures you control get +1/+1 for each noncreature spell you&apos;ve cast this turn.
-Whenever you cast a noncreature spell, create a 1/1 silver Avatar creature token.</text>
+OTHER EFFECT</text>
 			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/6_Celestial Wanderer.jpg" num="6">DSW</set>
 			<prop>
 				<layout>normal</layout>
@@ -2932,7 +2933,7 @@ At the beginning of each end step, if you cast three or more spells this turn, d
 		<card>
 			<name>Reflected Familiar</name>
 			<text>Flash
-When this creature enters, you get {V} equal to the number of spells you&apos;ve cast this turn. (Spend {V} to cast copies of Vertex spells.)</text>
+When this creature enters, if you&apos;ve cast another spell this turn, you get {VU}. (Spend {V} to cast copies of Vertex spells.)</text>
 			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/73_Reflected Familiar.jpg" num="73">DSW</set>
 			<prop>
 				<layout>normal</layout>
@@ -2943,7 +2944,7 @@ When this creature enters, you get {V} equal to the number of spells you&apos;ve
 				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>1/1</pt>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3024,7 +3025,7 @@ At the beginning of your end step, draw a card.</text>
 			<name>Seal Futile Dreams</name>
 			<text>Return up to one target nonland permanent to its owner&apos;s hand. Sift 1.
 Realize {3}{U}{U} (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)
-Each player can&apos;t cast more than one spell each turn.</text>
+Noncreature spells you cast cost {1} less to cast.</text>
 			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/77_Seal Futile Dreams.jpg" num="77">DSW</set>
 			<prop>
 				<layout>normal</layout>
@@ -3035,7 +3036,7 @@ Each player can&apos;t cast more than one spell each turn.</text>
 				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>2/3</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>3</tablerow>
 		</card>
@@ -3049,8 +3050,8 @@ At the beginning of each end step, return target card from your graveyard to you
 				<side>front</side>
 				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>3UU</manacost>
-				<cmc>5</cmc>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
@@ -3059,7 +3060,7 @@ At the beginning of each end step, return target card from your graveyard to you
 		<card>
 			<name>Constellation Erudite</name>
 			<text>Flying
-When this creature enters, you get {VB}. (Spend {V} to cast copies of Vertex spells.)
+When this creature enters, you get {VU}. (Spend {V} to cast copies of Vertex spells.)
 The first vertex spell you cast each turn costs {2} less to cast.</text>
 			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/52_Constellation Erudite.jpg" num="52">DSW</set>
 			<prop>
@@ -3070,8 +3071,8 @@ The first vertex spell you cast each turn costs {2} less to cast.</text>
 				<manacost>2UU</manacost>
 				<cmc>4</cmc>
 				<colors>U</colors>
-				<coloridentity>UB</coloridentity>
-				<pt>2/4</pt>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3130,7 +3131,7 @@ At the beginning of your end step, if you cast a noncreature spell this turn, sa
 		<card>
 			<name>Boundless Reawakener</name>
 			<text>Flying
-At the beginning of your end step, return target creature with mana value less than or equal to the number of noncreature spells you&apos;ve cast this turn from your graveyard to the battlefield.</text>
+At the beginning of your end step, return target creature card with mana value less than or equal to the number of noncreature spells you&apos;ve cast this turn from your graveyard to the battlefield.</text>
 			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/90_Boundless Reawakener.jpg" num="90">DSW</set>
 			<prop>
 				<layout>normal</layout>
@@ -3154,11 +3155,11 @@ At the beginning of your end step, return target creature with mana value less t
 				<side>front</side>
 				<type>Creature — Demon</type>
 				<maintype>Creature</maintype>
-				<manacost>2BB</manacost>
-				<cmc>4</cmc>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>1/1</pt>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3243,8 +3244,8 @@ Draw three cards. You lose life equal to the number of cards in your sanctum.</t
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>6BB</manacost>
-				<cmc>8</cmc>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
@@ -3269,7 +3270,8 @@ Draw three cards. You lose life equal to the number of cards in your sanctum.</t
 		</card>
 		<card>
 			<name>Malignity from Beyond</name>
-			<text>When this creature enters, you get {V} for each permanent you control that left the battlefield this turn. (Spend {V} to cast copies of Vertex spells.)</text>
+			<text>Haste
+Whenever this creature attacks, you get {V} for each permanent you control that left the battlefield this turn. (Spend {V} to cast copies of Vertex spells.)</text>
 			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/155_Malignity from Beyond.jpg" num="155">DSW</set>
 			<prop>
 				<layout>normal</layout>
@@ -3280,7 +3282,7 @@ Draw three cards. You lose life equal to the number of cards in your sanctum.</t
 				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>3/1</pt>
+				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3379,7 +3381,7 @@ Whenever one or more counters are put on this creature, it deals 1 damage to eac
 		<card>
 			<name>Fallen Star</name>
 			<text>{T}: Add {C}{C}. You can&apos;t spend this mana to cast a permanent spell.
-Exhaust — {X}{X}{R}: this creature deals X damage to any target. (Activate each exhaust ability only once.)</text>
+Exhaust — {X}{X}{R}: Put a +1/+1 counter on this creature. It deals X damage to any target. (Activate each exhaust ability only once.)</text>
 			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/144_Fallen Star.jpg" num="144">DSW</set>
 			<prop>
 				<layout>normal</layout>
@@ -3558,7 +3560,7 @@ This card&apos;s power is equal to the number of permanent cards in your graveya
 		<card>
 			<name>Council of the Forsaken</name>
 			<text>If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead.
-Whenever a creature you control with power greater than its base power dies, you get {V} equal to the difference. (Spend {V} to cast copies of Vertex spells.)</text>
+Whenever a creature you control with power greater than its base power dies, you get an amount {V} equal to the difference. (Spend {V} to cast copies of Vertex spells.)</text>
 			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/181_Council of the Forsaken.jpg" num="181">DSW</set>
 			<prop>
 				<layout>normal</layout>
@@ -3662,15 +3664,15 @@ At the beginning of your upkeep, each opponent loses 1 life.</text>
 		</card>
 		<card>
 			<name>Unrestrained Desire</name>
-			<text>Whenever another creature you control with power 2 or less enters, exile the top card of your library. You may play it during your next turn.</text>
+			<text>When this creature enters, look at the top four cards of your library. You may reveal a creature card with mana value 2 or less from among them and put it under the battlefield under your control.</text>
 			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/291_Unrestrained Desire.jpg" num="291">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Horror Demon</type>
 				<maintype>Creature</maintype>
-				<manacost>RG</manacost>
-				<cmc>2</cmc>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
 				<colors>RG</colors>
 				<coloridentity>RG</coloridentity>
 				<pt>2/2</pt>
@@ -3804,7 +3806,7 @@ Other creatures you control with flying get +2/+2 and have decayed. (A creature 
 		</card>
 		<card>
 			<name>Bind Unchained Dreams</name>
-			<text>Tap target creature and put a stun counter on it. 
+			<text>Tap target creature and put a stun counter on it.
 Realize {3}{I}{U} (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)
 Creatures with counters on them lose all abilities and card types.</text>
 			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/259_Bind Unchained Dreams.jpg" num="259">DSW</set>
@@ -3924,20 +3926,17 @@ Whenever you cast a noncreature spell, create a 1/1 white Avatar Wizard creature
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Boundless Unifier // Unity</name>
-			<text>Whenever this creature enters or attacks, you may cast a copy of its vertex sorcery without paying its costs.
-
----
-
-(You can cast copies of this while in play)
-Put a +1/+1 counter on each creature you control.</text>
+			<name>Boundless Unifier</name>
+			<text>Flash
+When this creature enters, untap each creature you control.
+Whenever this creature attacks, put a +1/+1 counter on each creature you control.</text>
 			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/DSW-files/img/5_Boundless Unifier.jpg" num="5">DSW</set>
 			<prop>
-				<layout>adventure</layout>
+				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Avatar // Vetex Sorcery</type>
+				<type>Creature — Avatar</type>
 				<maintype>Creature</maintype>
-				<manacost>2WW // 1WV/GV/U</manacost>
+				<manacost>2WW</manacost>
 				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>WUG</coloridentity>
@@ -4327,7 +4326,7 @@ As long as a nonland permanent you control has left the battlefield this turn, t
 ---
 
 (You can cast copies of this while in play)
-Draw two cards, then discard two cards.</text>
+Draw two cards, then discard a card.</text>
 			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/222_Darkstar Invader.jpg" num="222">DSW</set>
 			<prop>
 				<layout>adventure</layout>
@@ -4723,7 +4722,7 @@ Whenever this creature deals combat damage to a player, draw a card, then discar
 		</card>
 		<card>
 			<name>Slice Through Stars</name>
-			<text>Counter target spell with an even mana value unless its controller pays {3}.</text>
+			<text>Counter target spell with an even mana value.</text>
 			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/247_Slice Through Stars.jpg" num="247">DSW</set>
 			<prop>
 				<layout>normal</layout>
@@ -4755,10 +4754,10 @@ Each opponent loses 2 life and you gain 2 life.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Gaze into Eternity</name>
+			<name>Gaze into Void</name>
 			<text>Depart 2 (You may cast this from your sanctum by exiling an Avatar permanent you control with power 2 or greater.)
 Sanctify the top three cards of your library, then draft a card from your sanctum. (To sanctify a card, put it into its owner&apos;s sanctum. To draft a card from your sanctum, choose 3 cards from your sanctum at random and put one into your hand.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/233_Gaze into Eternity.jpg" num="233">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/233_Gaze into Void.jpg" num="233">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4790,9 +4789,8 @@ Whenever a nontoken creature you control dies, create two 1/1 black Spirit creat
 		</card>
 		<card>
 			<name>Touch the Void</name>
-			<text>Exile target card with mana value 2 or less from your graveyard. You may cast a copy of it without paying its mana cost. 
-Realize {4}{I}{I}. You may cast this spell from your graveyard for its realize cost. (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)
-When this dies or doesn&apos;t resolve, if it was realized, exile it.</text>
+			<text>Exile target card with mana value 2 or less from your graveyard. You may cast a copy of it without paying its mana cost. If this spell was realized, you may cast two additional copies of that card without paying their mana costs.
+Realize {5}{I}{I}. (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)</text>
 			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/DSW-files/img/250_Touch the Void.jpg" num="250">DSW</set>
 			<prop>
 				<layout>normal</layout>
@@ -5296,7 +5294,7 @@ Healing 2 (Damage dealt by this creature also causes you to gain 2 life.)</text>
 		</card>
 		<card>
 			<name>Identity</name>
-			<text>Whenever a creature you control deals combat damage to a player, reveal a card from your sanctum with mana value less than or equal to the damage dealt and put it into your hand.
+			<text>Whenever a creature you control deals combat damage to a player, reveal a card from your sanctum with mana value less than or equal to that creature&apos;s mana value and put it into your hand.
 Whenever you cast a silver spell, sift 1.</text>
 			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/237_Identity.jpg" num="237">DSW</set>
 			<prop>

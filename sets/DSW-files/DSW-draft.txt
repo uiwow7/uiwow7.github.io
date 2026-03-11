@@ -741,13 +741,13 @@
 			}
 		},
 		{
-			"name": "Eternal Flamebearer",
+			"name": "Eternal Passion",
 			"rarity": "special",
 			"mana_cost": "{5}{R}",
 			"type": "Creature — Anima Wizard",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/142_Eternal Flamebearer.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/142_Eternal Passion.jpg"
 			}
 		},
 		{
@@ -964,7 +964,7 @@
 			"name": "Eternal Blossoming",
 			"rarity": "special",
 			"mana_cost": "{5}{G}",
-			"type": "Creature — Treefolk Anima",
+			"type": "Creature — Dryad Anima",
 			"collector_number": "190",
 			"image_uris": {
 				"en": "https://uiwow7.github.io/sets/DSW-files/img/190_Eternal Blossoming.jpg"
@@ -1733,7 +1733,7 @@
 		{
 			"name": "Chorus of the Drowned",
 			"rarity": "special",
-			"mana_cost": "{3}{U}{U}",
+			"mana_cost": "{2}{U}{U}",
 			"type": "Enchantment",
 			"collector_number": "51",
 			"image_uris": {
@@ -1793,7 +1793,7 @@
 		{
 			"name": "Eclipse Warden",
 			"rarity": "special",
-			"mana_cost": "{2}{B}{B}",
+			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Demon",
 			"collector_number": "98",
 			"image_uris": {
@@ -1843,7 +1843,7 @@
 		{
 			"name": "Shattered and Unbroken",
 			"rarity": "special",
-			"mana_cost": "{6}{B}{B}",
+			"mana_cost": "{4}{B}{B}",
 			"type": "Sorcery",
 			"collector_number": "122",
 			"image_uris": {
@@ -2083,7 +2083,7 @@
 		{
 			"name": "Unrestrained Desire",
 			"rarity": "special",
-			"mana_cost": "{R}{G}",
+			"mana_cost": "{1}{R}{G}",
 			"type": "Creature — Horror Demon",
 			"collector_number": "291",
 			"image_uris": {
@@ -2691,13 +2691,13 @@
 			}
 		},
 		{
-			"name": "Gaze into Eternity",
+			"name": "Gaze into Void",
 			"rarity": "special",
 			"mana_cost": "{2}{C}",
 			"type": "Kindred Instant — Anima",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/DSW-files/img/233_Gaze into Eternity.jpg"
+				"en": "https://uiwow7.github.io/sets/DSW-files/img/233_Gaze into Void.jpg"
 			}
 		},
 		{
@@ -3417,7 +3417,7 @@
 	1 Yuku Dune-Prowler
 	1 The Arbiter's Pathlighter
 	1 Kara Mountain Guardian
-	1 Eternal Flamebearer
+	1 Eternal Passion
 	1 Perpetual Ricochet
 	1 Render Worlds
 	1 Shatter Eternity
@@ -3610,7 +3610,7 @@
 	1 Nightfall Enchanter
 	1 Slice Through Stars
 	1 Herald the Rupture
-	1 Gaze into Eternity
+	1 Gaze into Void
 	1 Destruction of the Rupture
 	1 Touch the Void
 	1 Wishes of the Terminus

@@ -2,7 +2,7 @@
     {
         "card_name": "Boundless Unifier",
         "number": 5,
-        "shape": "adventure",
+        "shape": "normal",
         "set": "DSW",
         "rotated": false,
         "position": ""
@@ -1096,7 +1096,7 @@
         "position": ""
     },
     {
-        "card_name": "Gaze into Eternity",
+        "card_name": "Gaze into Void",
         "number": 233,
         "shape": "normal",
         "set": "DSW",
@@ -1560,7 +1560,7 @@
         "position": ""
     },
     {
-        "card_name": "Eternal Flamebearer",
+        "card_name": "Eternal Passion",
         "number": 142,
         "shape": "normal",
         "set": "DSW",

@@ -5,14 +5,14 @@
 			<name>CC01</name>
 			<longname>Voyager Card Contest 1 — Aanginer</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-03-06</releasedate>
+			<releasedate>2026-03-11</releasedate>
 		</set>
 	</sets>
 	<cards>
 		<card>
-			<name>Unsummon</name>
+			<name>Return to Essence</name>
 			<text>Return target creature to its owner&apos;s hand. If its mana value was 2 or less, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/8_Unsummon.jpg" num="8">CC01</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/7_Return to Essence.jpg" num="7">CC01</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -26,9 +26,9 @@
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>White Removal</name>
+			<name>Weep</name>
 			<text>Exile target creature with mana value less than or equal to the number of creatures you control. Its controller gains 3 life.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/5_White Removal.jpg" num="5">CC01</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/5_Weep.jpg" num="5">CC01</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -42,51 +42,57 @@
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Multicolor silver Planeswalker</name>
-			<text>​
-</text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/CC01-files/img/21_Multicolor silver Planeswalker.jpg" num="21">CC01</set>
+			<name>Mezzan, Crowned by the Cosmos</name>
+			<text>Exploring — Mezzan enters with an additional loyalty counter on it for each differently named land you control.
+[+1]: You gain 2 life.
+[-3]: Create a tapped token that&apos;s a copy of target land you control.
+[-5]: Put two +1/+1 counters on each land you control. They become 0/0 creatures until your next turn.</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/CC01-files/img/26_Mezzan, Crowned by the Cosmos.jpg" num="26">CC01</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Planeswalker</type>
+				<type>Legendary Planeswalker — Mezzan</type>
 				<maintype>Planeswalker</maintype>
-				<manacost>I</manacost>
-				<cmc>1</cmc>
-				<colors>I</colors>
-				<coloridentity>I</coloridentity>
+				<manacost>2IG</manacost>
+				<cmc>4</cmc>
+				<colors>GI</colors>
+				<coloridentity>GI</coloridentity>
+				<loyalty>1</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Silver Value Engine</name>
-			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/23_Silver Value Engine.jpg" num="23">CC01</set>
+			<name>Cave of Oracles</name>
+			<text>When Cave of Oracles enters, you get {VU}. (Spend {V} to cast copies of Vertex spells.)
+Whenever your complexity is three or greater, up to one other target permanent you control becomes a creature until end of turn. Put two +1/+1 counters on it. This ability triggers only once each turn. (Your complexity is the number of spells you&apos;ve cast and nonland abilities you&apos;ve activated this turn.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/19_Cave of Oracles.jpg" num="19">CC01</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost>I</manacost>
-				<cmc>1</cmc>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2I</manacost>
+				<cmc>3</cmc>
 				<colors>I</colors>
-				<coloridentity>I</coloridentity>
+				<coloridentity>UI</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Silver Topend Threat</name>
-			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/22_Silver Topend Threat.jpg" num="22">CC01</set>
+			<name>Mind Trinity</name>
+			<text>When Mind Trinity enters or attacks, create a token that&apos;s a copy of target creature, then exile that token.
+Warp {1}{I} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/22_Mind Trinity.jpg" num="22">CC01</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Artifact Creature — Statue Horror</type>
 				<maintype>Creature</maintype>
 				<manacost>3II</manacost>
 				<cmc>5</cmc>
 				<colors>I</colors>
 				<coloridentity>I</coloridentity>
+				<pt>5/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -96,7 +102,7 @@
 [+1]: The next time target creature you control deals combat damage to a player, draw a card.
 [-1]: Create a 1/1 blue Spirit creature token with flying.
 [-2]: Tap target creature and put a stun counter on it. For as long as it remains tapped, it loses all abilities.</text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/CC01-files/img/7_Tenzel, Contained by Frost.jpg" num="7">CC01</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/CC01-files/img/8_Tenzel, Contained by Frost.jpg" num="8">CC01</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -111,14 +117,14 @@
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Mill Creature</name>
-			<text>When Mill Creature enters, you mill two cards and gain 2 life.
-When Mill Creature dies, return target land card from your graveyard to the battlefield tapped.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/16_Mill Creature.jpg" num="16">CC01</set>
+			<name>Mindsinger</name>
+			<text>When Mindsinger enters, you mill two cards and gain 2 life.
+When Mindsinger dies, return target land card from your graveyard to the battlefield tapped.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/16_Mindsinger.jpg" num="16">CC01</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Bird Pirate</type>
+				<type>Creature — Horror</type>
 				<maintype>Creature</maintype>
 				<manacost>1G</manacost>
 				<cmc>2</cmc>
@@ -130,40 +136,46 @@ When Mill Creature dies, return target land card from your graveyard to the batt
 		</card>
 		<card>
 			<name>Silver Vertex</name>
-			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/24_Silver Vertex.jpg" num="24">CC01</set>
+			<text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
+Haste
+Whenever Silver Vertex attacks, you get an amount of {V} equal to your complexity. (Spend {V} to cast copies of Vertex spells. Your complexity is the number of spells you&apos;ve cast and nonland abilities you&apos;ve activated this turn.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/23_Silver Vertex.jpg" num="23">CC01</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost>I</manacost>
-				<cmc>1</cmc>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>2II</manacost>
+				<cmc>4</cmc>
 				<colors>I</colors>
 				<coloridentity>I</coloridentity>
+				<pt>3/3</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>ALIEN PRINCE?????</name>
-			<text>Heir—Condition (If this card is your chosen heir in your sanctum, you may replace a draw with this card if you&apos;ve met its condition.)</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/18_ALIEN PRINCE?????.jpg" num="18">CC01</set>
+			<name>Kussa, Otherworldly Heir</name>
+			<text>Heir—You have thirteen or more cards in your sanctum. (If this card is your chosen heir in your sanctum, you may replace a draw with this card if you&apos;ve met its condition.)
+Menace
+Whenever one or more cards enter or leave your sanctum, each opponent loses 1 life.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/21_Kussa, Otherworldly Heir.jpg" num="21">CC01</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Creature — Avatar Noble</type>
 				<maintype>Creature</maintype>
-				<manacost>I</manacost>
-				<cmc>1</cmc>
+				<manacost>3I</manacost>
+				<cmc>4</cmc>
 				<colors>I</colors>
 				<coloridentity>I</coloridentity>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Selfmill Cantrip</name>
+			<name>Sift Through Stars</name>
 			<text>Surveil 2, then draw a card and discard a card. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/11_Selfmill Cantrip.jpg" num="11">CC01</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/11_Sift Through Stars.jpg" num="11">CC01</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -196,16 +208,16 @@ When Mill Creature dies, return target land card from your graveyard to the batt
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Multiple Artifact Destruction</name>
-			<text>Destroy all artifacts. EFFECT</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/14_Multiple Artifact Destruction.jpg" num="14">CC01</set>
+			<name>Melt Worlds</name>
+			<text>Exploring — Destroy all artifacts with mana value less than or equal to the number of differently named lands you control. Melt Worlds deals that much damage to each opponent.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/14_Melt Worlds.jpg" num="14">CC01</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>2RR</manacost>
-				<cmc>4</cmc>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 			</prop>
@@ -235,7 +247,7 @@ When Mill Creature dies, return target land card from your graveyard to the batt
 			<name>Insidious Mimic</name>
 			<text>Changeling (This card is every creature type.)
 As Insidious Mimic enters, choose a creature type.
-Attacking creatures you control of the chosen type get +1/+0.</text>
+Creatures you control of the chosen type get +1/+1.</text>
 			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/2_Insidious Mimic.jpg" num="2">CC01</set>
 			<prop>
 				<layout>normal</layout>
@@ -252,7 +264,7 @@ Attacking creatures you control of the chosen type get +1/+0.</text>
 			<name>The Earthbound Brushwoods</name>
 			<text>When The Earthbound Brushwoods enters, search your library for a land card with a nonbasic land type, put it onto the battlefield tapped, then shuffle.
 {6}: Target land you control becomes a 0/0 creature with haste that&apos;s still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/25_The Earthbound Brushwoods.jpg" num="25">CC01</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/24_The Earthbound Brushwoods.jpg" num="24">CC01</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -268,7 +280,7 @@ Attacking creatures you control of the chosen type get +1/+0.</text>
 		<card>
 			<name>The Icefire Monuments</name>
 			<text>If an opponent would lose life, they loose that much life plus one instead. (Damage causes loss of life.)</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/26_The Icefire Monuments.jpg" num="26">CC01</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/25_The Icefire Monuments.jpg" num="25">CC01</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -367,7 +379,7 @@ You may put a land card from your hand onto the battlefield tapped.</text>
 			<name>Call of the Sky</name>
 			<text>Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
 Pursue Wonder. (Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/19_Call of the Sky.jpg" num="19">CC01</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/18_Call of the Sky.jpg" num="18">CC01</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -522,10 +534,10 @@ Whenever you spend five or more mana to cast a spell, create a 2/2 colorless Ava
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Contorted SOMETHING</name>
-			<text>Whenever this creature enters or attacks, exile target player&apos;s reserves.
+			<name>Contorted Expression</name>
+			<text>Whenever this creature enters or attacks, exile each player&apos;s reserves.
 Warp {2} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/1_Contorted SOMETHING.jpg" num="1">CC01</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/1_Contorted Expression.jpg" num="1">CC01</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

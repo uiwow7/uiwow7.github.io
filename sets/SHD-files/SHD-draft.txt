@@ -283,8 +283,8 @@
 		{
 			"name": "CU14 Noncreature",
 			"rarity": "special",
-			"mana_cost": "{1}{U}",
-			"type": "",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
 			"collector_number": "59",
 			"image_uris": {
 				"en": "https://uiwow7.github.io/sets/SHD-files/img/59_CU14 Noncreature.jpg"

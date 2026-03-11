@@ -5,7 +5,7 @@
 			<name>SHD</name>
 			<longname>Shattering Divinity</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-03-06</releasedate>
+			<releasedate>2026-03-11</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -348,7 +348,7 @@ Augury — As long as you&apos;ve exiled a card this turn, this creature can att
 		</card>
 		<card>
 			<name>CU05 Medium Creature</name>
-			<text></text>
+			<text>When this creature enters, mill four cards, then return up to one noncreature card milled this way to your hand.</text>
 			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/50_CU05 Medium Creature.jpg" num="50">SHD</set>
 			<prop>
 				<layout>normal</layout>
@@ -359,6 +359,7 @@ Augury — As long as you&apos;ve exiled a card this turn, this creature can att
 				<cmc>3</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -499,19 +500,20 @@ Revere (Put a Celestial card you own from outside the game into your hand or gra
 		</card>
 		<card>
 			<name>CU14 Noncreature</name>
-			<text></text>
+			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Target creature you control gains hexproof until end of turn. Draw a card.</text>
 			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/59_CU14 Noncreature.jpg" num="59">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost>1U</manacost>
-				<cmc>2</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
 			<name>CU15 Noncreature</name>

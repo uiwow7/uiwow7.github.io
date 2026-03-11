@@ -9,7 +9,7 @@
     },
     {
         "card_name": "Tenzel, Contained by Frost",
-        "number": 7,
+        "number": 8,
         "shape": "planeswalker",
         "set": "CC01",
         "rotated": false,
@@ -80,7 +80,7 @@
         "position": ""
     },
     {
-        "card_name": "White Removal",
+        "card_name": "Weep",
         "number": 5,
         "shape": "normal",
         "set": "CC01",
@@ -88,15 +88,15 @@
         "position": ""
     },
     {
-        "card_name": "Unsummon",
-        "number": 8,
+        "card_name": "Return to Essence",
+        "number": 7,
         "shape": "normal",
         "set": "CC01",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Selfmill Cantrip",
+        "card_name": "Sift Through Stars",
         "number": 11,
         "shape": "normal",
         "set": "CC01",
@@ -104,7 +104,7 @@
         "position": ""
     },
     {
-        "card_name": "Multiple Artifact Destruction",
+        "card_name": "Melt Worlds",
         "number": 14,
         "shape": "normal",
         "set": "CC01",
@@ -112,7 +112,7 @@
         "position": ""
     },
     {
-        "card_name": "Mill Creature",
+        "card_name": "Mindsinger",
         "number": 16,
         "shape": "normal",
         "set": "CC01",
@@ -133,7 +133,7 @@
     },
     "a->colorless",
     {
-        "card_name": "Contorted SOMETHING",
+        "card_name": "Contorted Expression",
         "number": 1,
         "shape": "normal",
         "set": "CC01",

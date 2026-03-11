@@ -3,11 +3,15 @@
 		"DCO",
 		"DSW"
 	],
+	"Drakol": [
+		"SHD"
+	],
 	"Misc": [
 		"SHS"
 	],
 	"Card Contests": [
 		"CC01",
+		"CC01-OLD",
 		"MC25",
 		"MSY"
 	]

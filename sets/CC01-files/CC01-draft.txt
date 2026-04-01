@@ -14,7 +14,7 @@
 			"name": "Weep",
 			"rarity": "special",
 			"mana_cost": "{W}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "5",
 			"image_uris": {
 				"en": "https://uiwow7.github.io/sets/CC01-files/img/5_Weep.jpg"
@@ -71,33 +71,33 @@
 			}
 		},
 		{
-			"name": "Silver Vertex",
+			"name": "Urwrapir Watchers",
 			"rarity": "special",
 			"mana_cost": "{2}{C}{C}",
 			"type": "Creature — Dinosaur",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/23_Silver Vertex.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/23_Urwrapir Watchers.jpg"
 			}
 		},
 		{
-			"name": "Kussa, Otherworldly Heir",
+			"name": "Kussa Voz, Otherworldly Heir",
 			"rarity": "special",
 			"mana_cost": "{3}{C}",
 			"type": "Legendary Creature — Avatar Noble",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/21_Kussa, Otherworldly Heir.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/21_Kussa Voz, Otherworldly Heir.jpg"
 			}
 		},
 		{
 			"name": "Sift Through Stars",
 			"rarity": "special",
 			"mana_cost": "{B}",
-			"type": "Instant",
-			"collector_number": "11",
+			"type": "Sorcery",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/11_Sift Through Stars.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/10_Sift Through Stars.jpg"
 			}
 		},
 		{
@@ -191,23 +191,13 @@
 			}
 		},
 		{
-			"name": "Call of the Celestial Tree",
+			"name": "Sun's Ardor",
 			"rarity": "special",
-			"mana_cost": "{2}{W}",
-			"type": "Instant",
-			"collector_number": "3",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Dragon Avatar",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/3_Call of the Celestial Tree.jpg"
-			}
-		},
-		{
-			"name": "Call of the Lifebringer",
-			"rarity": "special",
-			"mana_cost": "{1}{G}",
-			"type": "Sorcery",
-			"collector_number": "15",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/15_Call of the Lifebringer.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/4_Sun's Ardor.jpg"
 			}
 		},
 		{
@@ -221,13 +211,13 @@
 			}
 		},
 		{
-			"name": "Call of the Soul",
+			"name": "Skypiercer",
 			"rarity": "special",
-			"mana_cost": "{2}{B}{B}",
-			"type": "Instant",
-			"collector_number": "9",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/9_Call of the Soul.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/11_Skypiercer.jpg"
 			}
 		},
 		{
@@ -241,13 +231,13 @@
 			}
 		},
 		{
-			"name": "Call of the Sunset",
+			"name": "Abyssal Pursuer",
 			"rarity": "special",
-			"mana_cost": "{3}{R}",
-			"type": "Instant",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Horror Warrior",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/12_Call of the Sunset.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/12_Abyssal Pursuer.jpg"
 			}
 		},
 		{
@@ -275,9 +265,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Legendary Planeswalker — Nasahar",
-			"collector_number": "10",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/10_Nasahar, Voidbringer.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/9_Nasahar, Voidbringer.jpg"
 			}
 		},
 		{
@@ -295,19 +285,59 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Legendary Planeswalker — Namel",
-			"collector_number": "4",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CC01-files/img/4_Namel, Blade of Oracles.jpg"
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/3_Namel, Blade of Oracles.jpg"
 			}
 		},
 		{
 			"name": "Contorted Expression",
 			"rarity": "special",
-			"mana_cost": "{4}",
+			"mana_cost": "{5}",
 			"type": "Creature — Horror",
 			"collector_number": "1",
 			"image_uris": {
 				"en": "https://uiwow7.github.io/sets/CC01-files/img/1_Contorted Expression.jpg"
+			}
+		},
+		{
+			"name": "Horror",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Horror",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/4t_Horror.jpg"
+			}
+		},
+		{
+			"name": "Dream Prophet",
+			"rarity": "special",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Creature — Horror Shaman",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/15_Dream Prophet.jpg"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/3t_Spirit.jpg"
+			}
+		},
+		{
+			"name": "Avatar",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Avatar",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CC01-files/img/2t_Avatar.jpg"
 			}
 		}
 	]
@@ -320,8 +350,8 @@
 	1 Mind Trinity
 	1 Tenzel, Contained by Frost
 	1 Mindsinger
-	1 Silver Vertex
-	1 Kussa, Otherworldly Heir
+	1 Urwrapir Watchers
+	1 Kussa Voz, Otherworldly Heir
 	1 Sift Through Stars
 	1 Emissary of the Beyond
 	1 Melt Worlds
@@ -332,14 +362,14 @@
 	1 The Moonlight Shadows
 	1 The Sunlit Pools
 	1 The Sunset Undergrowth
-	1 Call of the Celestial Tree
-	1 Call of the Lifebringer
+	1 Sun's Ardor
 	1 Call of the Sky
-	1 Call of the Soul
+	1 Skypiercer
 	1 Call of the Sea
-	1 Call of the Sunset
+	1 Abyssal Pursuer
 	1 Monument to Lapsed Worlds
 	1 Nasahar, Voidbringer
 	1 Ego Robber
 	1 Namel, Blade of Oracles
 	1 Contorted Expression
+	1 Dream Prophet

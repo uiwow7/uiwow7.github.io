@@ -1,7 +1,7 @@
 ﻿[
     {
         "card_name": "Namel, Blade of Oracles",
-        "number": 4,
+        "number": 3,
         "shape": "planeswalker",
         "set": "CC01",
         "rotated": false,
@@ -17,7 +17,7 @@
     },
     {
         "card_name": "Nasahar, Voidbringer",
-        "number": 10,
+        "number": 9,
         "shape": "planeswalker",
         "set": "CC01",
         "rotated": false,
@@ -40,8 +40,8 @@
         "position": ""
     },
     {
-        "card_name": "Call of the Celestial Tree",
-        "number": 3,
+        "card_name": "Sun's Ardor",
+        "number": 4,
         "shape": "normal",
         "set": "CC01",
         "rotated": false,
@@ -56,15 +56,15 @@
         "position": ""
     },
     {
-        "card_name": "Call of the Soul",
-        "number": 9,
+        "card_name": "Sift Through Stars",
+        "number": 10,
         "shape": "normal",
         "set": "CC01",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Call of the Sunset",
+        "card_name": "Abyssal Pursuer",
         "number": 12,
         "shape": "normal",
         "set": "CC01",
@@ -72,7 +72,7 @@
         "position": ""
     },
     {
-        "card_name": "Call of the Lifebringer",
+        "card_name": "Dream Prophet",
         "number": 15,
         "shape": "normal",
         "set": "CC01",
@@ -96,7 +96,7 @@
         "position": ""
     },
     {
-        "card_name": "Sift Through Stars",
+        "card_name": "Skypiercer",
         "number": 11,
         "shape": "normal",
         "set": "CC01",
@@ -184,13 +184,28 @@
         "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "Avatar",
+        "number": 2,
+        "shape": "token",
+        "set": "CC01",
+        "rotated": false,
+        "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "Spirit",
+        "number": 3,
+        "shape": "token",
+        "set": "CC01",
+        "rotated": false,
+        "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "Horror",
+        "number": 4,
+        "shape": "token",
+        "set": "CC01",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"

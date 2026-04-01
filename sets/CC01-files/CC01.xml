@@ -5,13 +5,15 @@
 			<name>CC01</name>
 			<longname>Voyager Card Contest 1 — Aanginer</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-03-11</releasedate>
+			<releasedate>2026-03-31</releasedate>
 		</set>
 	</sets>
 	<cards>
 		<card>
 			<name>Return to Essence</name>
-			<text>Return target creature to its owner&apos;s hand. If its mana value was 2 or less, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<text>Choose one —
+• Return target creature to its owner&apos;s hand.
+• Counter target triggered ability. If an ability of a creature was countered this way, return it to its owner&apos;s hand.</text>
 			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/7_Return to Essence.jpg" num="7">CC01</set>
 			<prop>
 				<layout>normal</layout>
@@ -27,13 +29,13 @@
 		</card>
 		<card>
 			<name>Weep</name>
-			<text>Exile target creature with mana value less than or equal to the number of creatures you control. Its controller gains 3 life.</text>
+			<text>Exile target creature with mana value less than or equal to the number of creatures you control.</text>
 			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/5_Weep.jpg" num="5">CC01</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
 				<manacost>W</manacost>
 				<cmc>1</cmc>
 				<colors>W</colors>
@@ -64,7 +66,7 @@
 		<card>
 			<name>Cave of Oracles</name>
 			<text>When Cave of Oracles enters, you get {VU}. (Spend {V} to cast copies of Vertex spells.)
-Whenever your complexity is three or greater, up to one other target permanent you control becomes a creature until end of turn. Put two +1/+1 counters on it. This ability triggers only once each turn. (Your complexity is the number of spells you&apos;ve cast and nonland abilities you&apos;ve activated this turn.)</text>
+Whenever your complexity is three or greater, up to one other target permanent you control becomes a 0/0 creature until end of turn. Put two +1/+1 counters on it. This ability triggers only once each turn. (Your complexity is the number of spells you&apos;ve cast and nonland abilities you&apos;ve activated this turn.)</text>
 			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/19_Cave of Oracles.jpg" num="19">CC01</set>
 			<prop>
 				<layout>normal</layout>
@@ -80,7 +82,7 @@ Whenever your complexity is three or greater, up to one other target permanent y
 		</card>
 		<card>
 			<name>Mind Trinity</name>
-			<text>When Mind Trinity enters or attacks, create a token that&apos;s a copy of target creature, then exile that token.
+			<text>When Mind Trinity enters or attacks, if it&apos;s not a token, create a token that&apos;s a copy of target creature, then exile that token.
 Warp {1}{I} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
 			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/22_Mind Trinity.jpg" num="22">CC01</set>
 			<prop>
@@ -100,7 +102,7 @@ Warp {1}{I} (You may cast this card from your hand for its warp cost. Exile this
 			<name>Tenzel, Contained by Frost</name>
 			<text>Warp {1}{U} (You may cast this card from your hand for its warp cost. Exile this planeswalker at the beginning of the next end step, then you may cast it from exile on a later turn.)
 [+1]: The next time target creature you control deals combat damage to a player, draw a card.
-[-1]: Create a 1/1 blue Spirit creature token with flying.
+[-1]: Create a 2/1 blue Spirit creature token with flying.
 [-2]: Tap target creature and put a stun counter on it. For as long as it remains tapped, it loses all abilities.</text>
 			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/CC01-files/img/8_Tenzel, Contained by Frost.jpg" num="8">CC01</set>
 			<prop>
@@ -130,16 +132,16 @@ When Mindsinger dies, return target land card from your graveyard to the battlef
 				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>3/1</pt>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Silver Vertex</name>
+			<name>Urwrapir Watchers</name>
 			<text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
 Haste
-Whenever Silver Vertex attacks, you get an amount of {V} equal to your complexity. (Spend {V} to cast copies of Vertex spells. Your complexity is the number of spells you&apos;ve cast and nonland abilities you&apos;ve activated this turn.)</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/23_Silver Vertex.jpg" num="23">CC01</set>
+Whenever Urwrapir Watchers attacks, you get an amount of {V} equal to your complexity. (Spend {V} to cast copies of Vertex spells. Your complexity is the number of spells you&apos;ve cast and nonland abilities you&apos;ve activated this turn.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/23_Urwrapir Watchers.jpg" num="23">CC01</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -154,11 +156,11 @@ Whenever Silver Vertex attacks, you get an amount of {V} equal to your complexit
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Kussa, Otherworldly Heir</name>
+			<name>Kussa Voz, Otherworldly Heir</name>
 			<text>Heir—You have thirteen or more cards in your sanctum. (If this card is your chosen heir in your sanctum, you may replace a draw with this card if you&apos;ve met its condition.)
 Menace
 Whenever one or more cards enter or leave your sanctum, each opponent loses 1 life.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/21_Kussa, Otherworldly Heir.jpg" num="21">CC01</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/21_Kussa Voz, Otherworldly Heir.jpg" num="21">CC01</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -174,13 +176,14 @@ Whenever one or more cards enter or leave your sanctum, each opponent loses 1 li
 		</card>
 		<card>
 			<name>Sift Through Stars</name>
-			<text>Surveil 2, then draw a card and discard a card. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/11_Sift Through Stars.jpg" num="11">CC01</set>
+			<text>Mill two cards, then draw a card.
+Flashback—{1}{B}, Discard a card (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/10_Sift Through Stars.jpg" num="10">CC01</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
 				<manacost>B</manacost>
 				<cmc>1</cmc>
 				<colors>B</colors>
@@ -191,8 +194,8 @@ Whenever one or more cards enter or leave your sanctum, each opponent loses 1 li
 		<card>
 			<name>Emissary of the Beyond</name>
 			<text>Whenever a creature you control enters, Emissary of the Beyond deals 1 damage to each opponent.
-[+1]: Exile the top card of your library. You may cast it until end of turn..
-[-2]: Create a 1/1 red XX creature token. Creatures you control get +1/+0 and gain haste until end of turn.</text>
+[+1]: Exile the top card of your library. You may cast it until end of turn.
+[-2]: Create a 1/1 red Horror creature token. Creatures you control get +1/+0 and gain haste until end of turn.</text>
 			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/CC01-files/img/13_Emissary of the Beyond.jpg" num="13">CC01</set>
 			<prop>
 				<layout>normal</layout>
@@ -209,7 +212,10 @@ Whenever one or more cards enter or leave your sanctum, each opponent loses 1 li
 		</card>
 		<card>
 			<name>Melt Worlds</name>
-			<text>Exploring — Destroy all artifacts with mana value less than or equal to the number of differently named lands you control. Melt Worlds deals that much damage to each opponent.</text>
+			<text>Exploring — Choose one for each differently named land you control. You may choose the same mode more than once.
+• Target player exiles the top card of your library. They may play it this turn.
+• Destroy target artifact.
+• Melt Worlds deals 1 damage to target opponent.</text>
 			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/14_Melt Worlds.jpg" num="14">CC01</set>
 			<prop>
 				<layout>normal</layout>
@@ -226,9 +232,9 @@ Whenever one or more cards enter or leave your sanctum, each opponent loses 1 li
 		<card>
 			<name>Sellon, Otherworldly Strength</name>
 			<text>If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead.
-[+1]: Put a +1/+1 counter on target creature. It gains trample until end of turn.
-[-2]: Draw a card for each creature you control with power greater than its base power.
-[-4]: Put two +1/+1 counters on each creature you control.</text>
+[+1]: Put a +1/+1 counter on up to one target creature. It gains trample until end of turn.
+[-3]: Draw a card for each creature you control with power greater than its base power.
+[-5]: Put two +1/+1 counters on each creature you control.</text>
 			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/CC01-files/img/17_Sellon, Otherworldly Strength.jpg" num="17">CC01</set>
 			<prop>
 				<layout>normal</layout>
@@ -239,7 +245,7 @@ Whenever one or more cards enter or leave your sanctum, each opponent loses 1 li
 				<cmc>4</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<loyalty>4</loyalty>
+				<loyalty>5</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
@@ -247,7 +253,7 @@ Whenever one or more cards enter or leave your sanctum, each opponent loses 1 li
 			<name>Insidious Mimic</name>
 			<text>Changeling (This card is every creature type.)
 As Insidious Mimic enters, choose a creature type.
-Creatures you control of the chosen type get +1/+1.</text>
+Whenever another creature you control of the chosen type enters, you may have this creature&apos;s base size become that creature&apos;s base size until end of turn.</text>
 			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/2_Insidious Mimic.jpg" num="2">CC01</set>
 			<prop>
 				<layout>normal</layout>
@@ -256,7 +262,6 @@ Creatures you control of the chosen type get +1/+1.</text>
 				<maintype>Creature</maintype>
 				<manacost>3</manacost>
 				<cmc>3</cmc>
-				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -279,7 +284,7 @@ Creatures you control of the chosen type get +1/+1.</text>
 		</card>
 		<card>
 			<name>The Icefire Monuments</name>
-			<text>If an opponent would lose life, they loose that much life plus one instead. (Damage causes loss of life.)</text>
+			<text>If an opponent would lose life, they lose that much life plus one instead. (Damage causes loss of life. Dealing combat damage is one instance of life loss.)</text>
 			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/25_The Icefire Monuments.jpg" num="25">CC01</set>
 			<prop>
 				<layout>normal</layout>
@@ -343,37 +348,23 @@ At the beginning of your end step, each opponent loses 1 life.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Call of the Celestial Tree</name>
-			<text>Create two 1/1 white Avatar creature tokens, then pursue Wonder. (Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/3_Call of the Celestial Tree.jpg" num="3">CC01</set>
+			<name>Sun&apos;s Ardor</name>
+			<text>Flying
+When Sun&apos;s Ardor enters, pursue Wonder. (Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)
+Exhaust — Exile a creature you control: Put two +1/+1 counters on Sun&apos;s Ardor. Activate only as a sorcery. (Activate each exhaust ability only once.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/4_Sun&apos;s Ardor.jpg" num="4">CC01</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
-				<manacost>2W</manacost>
+				<type>Creature — Dragon Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
 				<cmc>3</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
 			</prop>
-			<tablerow>3</tablerow>
-		</card>
-		<card>
-			<name>Call of the Lifebringer</name>
-			<text>Pursue Wonder (Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)
-You may put a land card from your hand onto the battlefield tapped.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/15_Call of the Lifebringer.jpg" num="15">CC01</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>1G</manacost>
-				<cmc>2</cmc>
-				<colors>G</colors>
-				<coloridentity>G</coloridentity>
-			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Call of the Sky</name>
@@ -393,21 +384,22 @@ Pursue Wonder. (Reveal a basic land or Wonder card you own from your sanctum and
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Call of the Soul</name>
-			<text>Destroy target creature.
-Pursue Wonder (Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/9_Call of the Soul.jpg" num="9">CC01</set>
+			<name>Skypiercer</name>
+			<text>Lifelink
+Once during each of your turns, if you would gain life, you may pursue Wonder instead. (To pursue Wonder, reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/11_Skypiercer.jpg" num="11">CC01</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
-				<manacost>2BB</manacost>
-				<cmc>4</cmc>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Call of the Sea</name>
@@ -427,21 +419,21 @@ Discard a card.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Call of the Sunset</name>
-			<text>Pursue Wonder (Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)
-Exile each card in your hand, then draw that many cards. You may play cards exiled this way until the end of your next turn.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/12_Call of the Sunset.jpg" num="12">CC01</set>
+			<name>Abyssal Pursuer</name>
+			<text>Whenever Abyssal Pursuer attacks, you may discard a card and pursue Wonder. When you do, if a creature card with mana value less than or equal to the number of attacking creatures was revealed this way, you may put it onto the battlefield tapped and attacking. (To pursue Wonder, reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/12_Abyssal Pursuer.jpg" num="12">CC01</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
-				<manacost>3R</manacost>
+				<type>Creature — Horror Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Avatar CC01</name>
@@ -478,9 +470,9 @@ Whenever you spend five or more mana to cast a spell, create a 2/2 colorless Ava
 			<name>Nasahar, Voidbringer</name>
 			<text>At the beginning of each opponent&apos;s upkeep, if that player has one or fewer cards in hand, they lose 3 life.
 [+1]: Each player discards a card.
-[0]: Each opponent loses 2 life and you gain 2 life.
-[-2]: Return target creature card from your graveyard to your hand.</text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/CC01-files/img/10_Nasahar, Voidbringer.jpg" num="10">CC01</set>
+[-1]: You draw a card and gain 2 life.
+[-X]: Exile target creature card with mana value X or less from your graveyard. Create a token that&apos;s a copy of it.</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/CC01-files/img/9_Nasahar, Voidbringer.jpg" num="9">CC01</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -519,7 +511,7 @@ Whenever you spend five or more mana to cast a spell, create a 2/2 colorless Ava
 [+1]: Create a 1/1 white Avatar creature token.
 [-2]: Exile target creature. Its controller gains life equal to its power.
 [-7]: You get an emblem with &quot;If one or more tokens would be created under your control, twice that many of those tokens are created instead.&quot;</text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/CC01-files/img/4_Namel, Blade of Oracles.jpg" num="4">CC01</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/CC01-files/img/3_Namel, Blade of Oracles.jpg" num="3">CC01</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -535,19 +527,87 @@ Whenever you spend five or more mana to cast a spell, create a 2/2 colorless Ava
 		</card>
 		<card>
 			<name>Contorted Expression</name>
-			<text>Whenever this creature enters or attacks, exile each player&apos;s reserves.
-Warp {2} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<text>Whenever this creature enters or attacks, exile each player&apos;s graveyard and reserves.
+Warp {1}{C} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
 			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/1_Contorted Expression.jpg" num="1">CC01</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Horror</type>
 				<maintype>Creature</maintype>
-				<manacost>4</manacost>
-				<cmc>4</cmc>
-				<pt>3/3</pt>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Horror CC01</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CC01-files/img/4t_Horror.jpg" num="4">CC01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Dream Prophet</name>
+			<text>Whenever Dream Prophet deals excess damage to a permanent, pursue Wonder. (Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/15_Dream Prophet.jpg" num="15">CC01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>GGG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spirit CC01</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CC01-files/img/3t_Spirit.jpg" num="3">CC01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Avatar CC01</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CC01-files/img/2t_Avatar.jpg" num="2">CC01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

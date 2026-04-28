@@ -1,0 +1,382 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Phoenix of Suns",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/SLUSH-files/img/13_Phoenix of Suns.jpg"
+			}
+		},
+		{
+			"name": "Blood Phoenix",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/SLUSH-files/img/5_Blood Phoenix.jpg"
+			}
+		},
+		{
+			"name": "Transcendent Phoenix",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/SLUSH-files/img/32_Transcendent Phoenix.jpg"
+			}
+		},
+		{
+			"name": "Augmented Phoenix",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Artifact Creature — Phoenix",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/SLUSH-files/img/4_Augmented Phoenix.jpg"
+			}
+		},
+		{
+			"name": "Augmented Phoenix",
+			"rarity": "special",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Phoenix",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/SLUSH-files/img/1_Augmented Phoenix.jpg"
+			}
+		},
+		{
+			"name": "Rising Phoenix",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Phoenix",
+			"collector_number": "29",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://uiwow7.github.io/sets/SLUSH-files/img/29_Rising Phoenix_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/SLUSH-files/img/29_Rising Phoenix_front.jpg"
+			}
+		},
+		{
+			"name": "Brilliant Phoenix",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/SLUSH-files/img/7_Brilliant Phoenix.jpg"
+			}
+		},
+		{
+			"name": "Magma Phoenix",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Kindred Enchantment — Phoenix Entity",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/SLUSH-files/img/9_Magma Phoenix.jpg"
+			}
+		},
+		{
+			"name": "Popular Phoenix",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Phoenix Citizen",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/SLUSH-files/img/14_Popular Phoenix.jpg"
+			}
+		},
+		{
+			"name": "Unchained Phoenix",
+			"rarity": "special",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "21",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://uiwow7.github.io/sets/SLUSH-files/img/21_Unchained Phoenix_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/SLUSH-files/img/21_Unchained Phoenix_front.jpg"
+			}
+		},
+		{
+			"name": "Military Phoenix",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Phoenix Knight",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/SLUSH-files/img/11_Military Phoenix.jpg"
+			}
+		},
+		{
+			"name": "Regal Phoenix",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Phoenix Noble",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/SLUSH-files/img/17_Regal Phoenix.jpg"
+			}
+		},
+		{
+			"name": "Adventuruous Phoenix",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/SLUSH-files/img/3_Adventuruous Phoenix.jpg"
+			}
+		},
+		{
+			"name": "Divine Phoenix",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Phoenix Angel",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/SLUSH-files/img/23_Divine Phoenix.jpg"
+			}
+		},
+		{
+			"name": "Prophetic Phoenix",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/SLUSH-files/img/15_Prophetic Phoenix.jpg"
+			}
+		},
+		{
+			"name": "Marred Phoenix",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/SLUSH-files/img/10_Marred Phoenix.jpg"
+			}
+		},
+		{
+			"name": "Pathborn Phoenix",
+			"rarity": "special",
+			"mana_cost": "{2}{C}{R}",
+			"type": "Creature — Phoenix Dragon",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/SLUSH-files/img/28_Pathborn Phoenix.jpg"
+			}
+		},
+		{
+			"name": "Interstellar Phoenix",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/SLUSH-files/img/8_Interstellar Phoenix.jpg"
+			}
+		},
+		{
+			"name": "Adept Phoenix",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Phoenix Drake",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/SLUSH-files/img/2_Adept Phoenix.jpg"
+			}
+		},
+		{
+			"name": "Rise From Ashes",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Skill Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/SLUSH-files/img/18_Rise From Ashes.jpg"
+			}
+		},
+		{
+			"name": "Wish For Flame",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Phoenix Spirit",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/SLUSH-files/img/22_Wish For Flame.jpg"
+			}
+		},
+		{
+			"name": "Firebird Caller",
+			"rarity": "special",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Skeleton Warlock",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/SLUSH-files/img/25_Firebird Caller.jpg"
+			}
+		},
+		{
+			"name": "Twice-Called Phoenix",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/SLUSH-files/img/19_Twice-Called Phoenix.jpg"
+			}
+		},
+		{
+			"name": "Moondancer Phoenix",
+			"rarity": "special",
+			"mana_cost": "{4}{C}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/SLUSH-files/img/26_Moondancer Phoenix.jpg"
+			}
+		},
+		{
+			"name": "Phoenix of Folly",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Phoenix Dragon",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/SLUSH-files/img/12_Phoenix of Folly.jpg"
+			}
+		},
+		{
+			"name": "Unbroken Phoenix",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/SLUSH-files/img/20_Unbroken Phoenix.jpg"
+			}
+		},
+		{
+			"name": "Reflected Phoenix",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/SLUSH-files/img/16_Reflected Phoenix.jpg"
+			}
+		},
+		{
+			"name": "Emsen, Dream Phoenix",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Phoenix",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/SLUSH-files/img/24_Emsen, Dream Phoenix.jpg"
+			}
+		},
+		{
+			"name": "Nebula Phoenix",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Enchantment Creature — Phoenix God",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/SLUSH-files/img/27_Nebula Phoenix.jpg"
+			}
+		},
+		{
+			"name": "Shattered Phoenix",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/SLUSH-files/img/31_Shattered Phoenix.jpg"
+			}
+		},
+		{
+			"name": "Blossoming Phoenix",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/SLUSH-files/img/6_Blossoming Phoenix.jpg"
+			}
+		},
+		{
+			"name": "Architect of Blood Suns",
+			"rarity": "special",
+			"mana_cost": "{1}{C}{C}{C}",
+			"type": "Enchantment Creature — Avatar",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/SLUSH-files/img/1_Architect of Blood Suns.jpg"
+			}
+		},
+		{
+			"name": "Roaming Enchanter",
+			"rarity": "special",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Spirit Wizard",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/SLUSH-files/img/30_Roaming Enchanter.jpg"
+			}
+		}
+	]
+
+[cube(15)]
+	1 Phoenix of Suns
+	1 Blood Phoenix
+	1 Transcendent Phoenix
+	1 Augmented Phoenix
+	1 Augmented Phoenix
+	1 Rising Phoenix
+	1 Brilliant Phoenix
+	1 Magma Phoenix
+	1 Popular Phoenix
+	1 Unchained Phoenix
+	1 Military Phoenix
+	1 Regal Phoenix
+	1 Adventuruous Phoenix
+	1 Divine Phoenix
+	1 Prophetic Phoenix
+	1 Marred Phoenix
+	1 Pathborn Phoenix
+	1 Interstellar Phoenix
+	1 Adept Phoenix
+	1 Rise From Ashes
+	1 Wish For Flame
+	1 Firebird Caller
+	1 Twice-Called Phoenix
+	1 Moondancer Phoenix
+	1 Phoenix of Folly
+	1 Unbroken Phoenix
+	1 Reflected Phoenix
+	1 Emsen, Dream Phoenix
+	1 Nebula Phoenix
+	1 Shattered Phoenix
+	1 Blossoming Phoenix
+	1 Architect of Blood Suns
+	1 Roaming Enchanter

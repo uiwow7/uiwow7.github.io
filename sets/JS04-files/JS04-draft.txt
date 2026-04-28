@@ -1,0 +1,218 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Dreaming",
+			"rarity": "special",
+			"mana_cost": "{C}",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS04-files/img/1_Dreaming.jpg"
+			}
+		},
+		{
+			"name": "Gilded Hunter",
+			"rarity": "special",
+			"mana_cost": "{C}",
+			"type": "Enchantment Creature — Icon Ranger",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS04-files/img/3_Gilded Hunter.jpg"
+			}
+		},
+		{
+			"name": "Release from Forever",
+			"rarity": "special",
+			"mana_cost": "{C}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS04-files/img/7_Release from Forever.jpg"
+			}
+		},
+		{
+			"name": "Pensive Meditator",
+			"rarity": "special",
+			"mana_cost": "{1}{C}",
+			"type": "Creature — Human Monk",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS04-files/img/6_Pensive Meditator.jpg"
+			}
+		},
+		{
+			"name": "Messenger of Fate",
+			"rarity": "special",
+			"mana_cost": "{1}{C}",
+			"type": "Enchantment Creature — Whale",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS04-files/img/5_Messenger of Fate.jpg"
+			}
+		},
+		{
+			"name": "Watching the Winds",
+			"rarity": "special",
+			"mana_cost": "{1}{C}",
+			"type": "Enchantment",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS04-files/img/12_Watching the Winds.jpg"
+			}
+		},
+		{
+			"name": "Warped Walker",
+			"rarity": "special",
+			"mana_cost": "{1}{C}",
+			"type": "Kindred Enchantment — Horror Elk Entity",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS04-files/img/11_Warped Walker.jpg"
+			}
+		},
+		{
+			"name": "Imprison in Dreams",
+			"rarity": "special",
+			"mana_cost": "{2}{C}",
+			"type": "Enchantment",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS04-files/img/4_Imprison in Dreams.jpg"
+			}
+		},
+		{
+			"name": "Repear of Wishes",
+			"rarity": "special",
+			"mana_cost": "{2}{C}",
+			"type": "Creature — Horror",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS04-files/img/8_Repear of Wishes.jpg"
+			}
+		},
+		{
+			"name": "Warden of Desolation",
+			"rarity": "special",
+			"mana_cost": "{6}{C}",
+			"type": "Creature — Horror",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS04-files/img/10_Warden of Desolation.jpg"
+			}
+		},
+		{
+			"name": "Spectral Wolf",
+			"rarity": "special",
+			"mana_cost": "{3}{C}",
+			"type": "Kindred Enchantment — Wolf Entity",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS04-files/img/9_Spectral Wolf.jpg"
+			}
+		},
+		{
+			"name": "Dreams of Tranquility",
+			"rarity": "special",
+			"mana_cost": "{2}{C}",
+			"type": "Enchantment",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS04-files/img/2_Dreams of Tranquility.jpg"
+			}
+		},
+		{
+			"name": "Drifting Crevasse",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS04-files/img/13_Drifting Crevasse.jpg"
+			}
+		},
+		{
+			"name": "Fault",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Fault",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS04-files/img/14_Fault.jpg"
+			}
+		},
+		{
+			"name": "Fault",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Fault",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS04-files/img/15_Fault.jpg"
+			}
+		},
+		{
+			"name": "Fault",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Fault",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS04-files/img/16_Fault.jpg"
+			}
+		},
+		{
+			"name": "Fault",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Fault",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS04-files/img/17_Fault.jpg"
+			}
+		},
+		{
+			"name": "Fault",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Fault",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS04-files/img/18_Fault.jpg"
+			}
+		},
+		{
+			"name": "Fault",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Fault",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS04-files/img/19_Fault.jpg"
+			}
+		},
+		{
+			"name": "Fault",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Fault",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS04-files/img/20_Fault.jpg"
+			}
+		}
+	]
+
+[cube(15)]
+	1 Dreaming
+	1 Gilded Hunter
+	1 Release from Forever
+	1 Pensive Meditator
+	1 Messenger of Fate
+	1 Watching the Winds
+	1 Warped Walker
+	1 Imprison in Dreams
+	1 Repear of Wishes
+	1 Warden of Desolation
+	1 Spectral Wolf
+	1 Dreams of Tranquility
+	1 Drifting Crevasse

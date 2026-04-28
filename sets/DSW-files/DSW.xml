@@ -5,7 +5,7 @@
 			<name>DSW</name>
 			<longname>Dazon: Splintered Worlds</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-03-31</releasedate>
+			<releasedate>2026-04-27</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -2840,7 +2840,7 @@ Once each turn, when one or more counters are put on this creature, you may put 
 				<cmc>3</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>3/2</pt>
+				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2858,7 +2858,7 @@ Once each turn, when one or more counters are put on this creature, you may put 
 				<cmc>5</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>4/4</pt>
+				<pt>5/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2964,7 +2964,7 @@ When this creature enters, exile up to one target instant or sorcery card in you
 				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>WU</coloridentity>
-				<pt>2/1</pt>
+				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3144,7 +3144,7 @@ At the beginning of your end step, return target creature card with mana value l
 				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>2/1</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3161,7 +3161,7 @@ At the beginning of your end step, return target creature card with mana value l
 				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>2/1</pt>
+				<pt>3/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3266,7 +3266,7 @@ Draw three cards. You lose life equal to the number of cards in your sanctum.</t
 				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>2/1</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3321,7 +3321,7 @@ This creature gets +1/+1 for each permanent you control that left the battlefiel
 				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>BR</coloridentity>
-				<pt>2/2</pt>
+				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3394,7 +3394,7 @@ Exhaust — {X}{X}{R}: Put a +1/+1 counter on this creature. It deals X damage t
 				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>3/2</pt>
+				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3924,7 +3924,7 @@ Whenever you cast a noncreature spell, create a 1/1 white Avatar Wizard creature
 				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>4/3</pt>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4067,7 +4067,7 @@ Whenever one or more creatures you control with power 4 or greater attack, put a
 				<cmc>5</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>4/4</pt>
+				<pt>6/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4248,7 +4248,7 @@ Whenever one or more counters are put on this creature, search your library for 
 				<maintype>Creature</maintype>
 				<manacost>5</manacost>
 				<cmc>5</cmc>
-				<pt>2/2</pt>
+				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4822,7 +4822,7 @@ Sacrifice a land: Sift 1, then draw a card. Activate only once each turn. (To si
 				<cmc>5</cmc>
 				<colors>I</colors>
 				<coloridentity>I</coloridentity>
-				<pt>3/3</pt>
+				<pt>4/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4875,7 +4875,7 @@ When this creature enters, you get {V} for each noncreature, nonland, permanent 
 				<cmc>2</cmc>
 				<colors>I</colors>
 				<coloridentity>I</coloridentity>
-				<pt>2/1</pt>
+				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4929,7 +4929,7 @@ When this creature enters, exile target creature or Revelation card from your gr
 				<cmc>6</cmc>
 				<colors>I</colors>
 				<coloridentity>I</coloridentity>
-				<pt>4/3</pt>
+				<pt>5/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>

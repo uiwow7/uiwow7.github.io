@@ -1,0 +1,395 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>JS01</name>
+			<longname>Jumpstart — Fated</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-04-27</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Fated</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS01-files/img/4_Fated.jpg" num="4">JS01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Subina of Twisting Fate</name>
+			<text>Subina of Twisting Fate isn&apos;t a creature unless you&apos;ve cast a noncreature spell this turn.
+Whenever you cast a noncreature spell, create a 1/1 silver Spirit creature token.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/JS01-files/img/10_Subina of Twisting Fate.jpg" num="10">JS01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost>2I</manacost>
+				<cmc>3</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Moonlit Guidance</name>
+			<text>Look at the top two cards of your library. Put one into your hand and the other into your graveyard.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS01-files/img/7_Moonlit Guidance.jpg" num="7">JS01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Priest of the Subina</name>
+			<text>Infuse 2 (Whenever you cast a noncreature spell, put a +1/+1 counter on this if it has fewer than two.)
+Whenever one or more counters are put on Priest of the Subina, each opponent loses 1 life.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS01-files/img/9_Priest of the Subina.jpg" num="9">JS01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Drifting Crevasse</name>
+			<text>{T}: Add {I}. You lose 1 life unless you control a silver permanent.
+Exhaust — {T}: Choose a color. (Activate each exhaust ability only once.)
+{T}: Add one mana of the chosen color.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS01-files/img/14_Drifting Crevasse.jpg" num="14">JS01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Spirit JS01</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS01-files/img/2t_Spirit.jpg" num="2">JS01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>I</colors>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>Subina of Twisting Fate</reverse-related>
+		</card>
+		<card>
+			<name>Make Into Infinity</name>
+			<text>Exile target monocolored spell.
+Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS01-files/img/6_Make Into Infinity.jpg" num="6">JS01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2I</manacost>
+				<cmc>3</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dragon of Ancients // Consultation</name>
+			<text>Flying
+Whenever you cast a noncreature spell, creatures you control get +1/+1 until end of turn.
+
+---
+
+Create two 1/1 silver Spirit creature tokens. (Then shuffle this card into its owner&apos;s library.)</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/JS01-files/img/3_Dragon of Ancients.jpg" num="3">JS01</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Spirit Dragon // Sorcery — Omen</type>
+				<maintype>Creature</maintype>
+				<manacost>3II // 1I</manacost>
+				<cmc>5</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Touch of the Absolute</name>
+			<text>Enchant nonland permanent
+Enchanted permanent is a colorless enchantment and loses all other card types.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS01-files/img/13_Touch of the Absolute.jpg" num="13">JS01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Discern the Divine</name>
+			<text>Look at the top three cards of your library. Put one into your hand and the rest into your graveyard.
+Flashback {3}{I} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/JS01-files/img/2_Discern the Divine.jpg" num="2">JS01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fault</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS01-files/img/15_Fault.jpg" num="15">JS01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Fault</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Tidewatcher // Seek Waves</name>
+			<text>{4}, {T}: You may cast a copy of Tidewatcher&apos;s omen. (You still pay its costs.)
+
+---
+
+Draw three cards, then discard two cards. (Then shuffle this card into its owner&apos;s library.)</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/JS01-files/img/12_Tidewatcher.jpg" num="12">JS01</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Mystic // Instant — Omen</type>
+				<maintype>Creature</maintype>
+				<manacost>I // 2I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Power from Beyond</name>
+			<text>Target creature gets +2/-2 until end of turn.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS01-files/img/8_Power from Beyond.jpg" num="8">JS01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Herald of Moonlight</name>
+			<text>Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)
+When Herald of Moonlight enters, draw a card. Then discard a card unless a player has lost life this turn.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS01-files/img/5_Herald of Moonlight.jpg" num="5">JS01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ardent Starcaller</name>
+			<text>Infuse 2 (Whenever you cast a noncreature spell, put a +1/+1 counter on this if it has fewer than two.)
+Whenever one or more counters are put on Ardent Starcaller, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS01-files/img/1_Ardent Starcaller.jpg" num="1">JS01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Mystic</type>
+				<maintype>Creature</maintype>
+				<manacost>3I</manacost>
+				<cmc>4</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tears of the Cosmos</name>
+			<text>Whenever you cast a noncreature spell, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+At the beginning of your end step, if there are six or more cards in your graveyard, create a 2/2 silver Bird Spirit creature token with flying that can&apos;t block.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/JS01-files/img/11_Tears of the Cosmos.jpg" num="11">JS01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2I</manacost>
+				<cmc>3</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bird Spirit JS01</name>
+			<text>Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)
+Bird Spirit can&apos;t block.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS01-files/img/1t_Bird Spirit.jpg" num="1">JS01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Bird Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>I</colors>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Fault</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS01-files/img/16_Fault.jpg" num="16">JS01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Fault</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Fault</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS01-files/img/17_Fault.jpg" num="17">JS01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Fault</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Fault</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS01-files/img/18_Fault.jpg" num="18">JS01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Fault</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Fault</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS01-files/img/19_Fault.jpg" num="19">JS01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Fault</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Fault</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS01-files/img/20_Fault.jpg" num="20">JS01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Fault</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Fault</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS01-files/img/21_Fault.jpg" num="21">JS01</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Fault</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

@@ -5,7 +5,7 @@
 			<name>SHD</name>
 			<longname>Shattering Divinity</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-03-31</releasedate>
+			<releasedate>2026-04-27</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -13,7 +13,7 @@
 			<name>CW01 Small Creature</name>
 			<text>Sacralize (When this creature deals combat damage to a player, you may sacrifice it.)
 Whenever this creature or another creature you control leaves the battlefield, you gain 1 life. If this creature was sacralized, you gain 3 life instead.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/6_CW01 Small Creature.jpg" num="6">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/7_CW01 Small Creature.jpg" num="7">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -31,7 +31,7 @@ Whenever this creature or another creature you control leaves the battlefield, y
 			<name>CW02 Small Creature</name>
 			<text>Once each turn, when you gain life, you may untap up to one target creature you control.
 At the beginning of your upkeep, you may exile a creature card from your graveyard. If you do, you gain 1 life.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/7_CW02 Small Creature.jpg" num="7">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/8_CW02 Small Creature.jpg" num="8">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -49,7 +49,7 @@ At the beginning of your upkeep, you may exile a creature card from your graveya
 			<name>CW03 Small Creature</name>
 			<text>Lifelink
 When this creature dies, revere. (Put a Celestial card you own from outside the game into your hand or graveyard. If a card wasn&apos;t put into your hand, create a Clue token.)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/8_CW03 Small Creature.jpg" num="8">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/9_CW03 Small Creature.jpg" num="9">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -67,7 +67,7 @@ When this creature dies, revere. (Put a Celestial card you own from outside the 
 			<name>Honor&apos;s Fallen</name>
 			<text>Flying
 When this creature enters, revere. (Put a Celestial card you own from outside the game into your hand or graveyard. If a card wasn&apos;t put into your hand, create a Clue token.)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/19_Honor&apos;s Fallen.jpg" num="19">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/20_Honor&apos;s Fallen.jpg" num="20">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -86,7 +86,7 @@ When this creature enters, revere. (Put a Celestial card you own from outside th
 			<text>Sacralize (When this creature deals combat damage to a player, you may sacrifice it.)
 Whenever another creature you control leaves the battlefield, put a +1/+1 counter on this creature.
 When this creature dies, put its counters on target creature you control.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/9_CW05 Small Creature.jpg" num="9">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/10_CW05 Small Creature.jpg" num="10">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -104,7 +104,7 @@ When this creature dies, put its counters on target creature you control.</text>
 			<name>CW06 Small Creature</name>
 			<text>When this creature enters, create a 1/1 white XXX creature token. 
 Warp {W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/10_CW06 Small Creature.jpg" num="10">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/11_CW06 Small Creature.jpg" num="11">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -123,7 +123,7 @@ Warp {W} (You may cast this card from your hand for its warp cost. Exile this cr
 			<text>Flying
 Creatures you control with power 2 or less have vigilance.
 Creatures you don&apos;t control with power 4 or greater can&apos;t block.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/11_CW07 Small Creature.jpg" num="11">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/12_CW07 Small Creature.jpg" num="12">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -141,7 +141,7 @@ Creatures you don&apos;t control with power 4 or greater can&apos;t block.</text
 			<name>CW08 Medium Creature</name>
 			<text>Vigilance
 Whenever this creature attacks, it gets +1/+1 for each other creature you control with power 2 or less until end of turn.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/12_CW08 Medium Creature.jpg" num="12">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/13_CW08 Medium Creature.jpg" num="13">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -159,7 +159,7 @@ Whenever this creature attacks, it gets +1/+1 for each other creature you contro
 			<name>CW09 Medium Creature</name>
 			<text>Sacralize (When this creature deals combat damage to a player, you may sacrifice it.)
 When this creature is sacralized, put a +1/+1 counter on each creature you control.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/13_CW09 Medium Creature.jpg" num="13">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/14_CW09 Medium Creature.jpg" num="14">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -177,7 +177,7 @@ When this creature is sacralized, put a +1/+1 counter on each creature you contr
 			<name>CW10 Medium Creature</name>
 			<text>When this creature enters or dies, create two 1/1 XXX white creature tokens with lifelink.
 Augury — Whenever this creature attacks, if you exiled a card this turn, it gets +1/+1 for each creature you control.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/14_CW10 Medium Creature.jpg" num="14">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/15_CW10 Medium Creature.jpg" num="15">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -194,7 +194,7 @@ Augury — Whenever this creature attacks, if you exiled a card this turn, it ge
 		<card>
 			<name>Fate Smother</name>
 			<text>Augury — This spell deals 3 damage to target attacking or blocking creature. If you exiled a card this turn, it deals 5 damage instead.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/18_Fate Smother.jpg" num="18">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/19_Fate Smother.jpg" num="19">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -211,7 +211,7 @@ Augury — Whenever this creature attacks, if you exiled a card this turn, it ge
 			<name>Reach for Divinity</name>
 			<text>Target creature you control gets +2/+1 until end of turn.
 Revere. (Put a Celestial card you own from outside the game into your hand or graveyard. If a card wasn&apos;t put into your hand, create a Clue token.)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/22_Reach for Divinity.jpg" num="22">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/24_Reach for Divinity.jpg" num="24">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -228,7 +228,7 @@ Revere. (Put a Celestial card you own from outside the game into your hand or gr
 			<name>CW13 Banishing Light</name>
 			<text>When this enchantment enters, exile target creature you don&apos;t control until this enchantment leave the battlefield.
 Augury — At the beginning of each end step, if you exiled a card this turn, you gain 1 life.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/15_CW13 Banishing Light.jpg" num="15">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/16_CW13 Banishing Light.jpg" num="16">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -246,7 +246,7 @@ Augury — At the beginning of each end step, if you exiled a card this turn, yo
 			<text>Enchant creature
 Enchanted creature gets +1/+1 and has vigilance.
 Whenever enchanted creature attacks, you gain 1 life.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/16_CW14 Aura.jpg" num="16">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/17_CW14 Aura.jpg" num="17">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -263,7 +263,7 @@ Whenever enchanted creature attacks, you gain 1 life.</text>
 			<name>CW15 Removal</name>
 			<text>Exile target tapped creature.
 Revere (Put a Celestial card you own from outside the game into your hand or graveyard. If a card wasn&apos;t put into your hand, create a Clue token.)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/17_CW15 Removal.jpg" num="17">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/18_CW15 Removal.jpg" num="18">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -280,7 +280,7 @@ Revere (Put a Celestial card you own from outside the game into your hand or gra
 			<name>CU01 Small Creature</name>
 			<text>Defender
 Augury — As long as you&apos;ve exiled a card this turn, this creature can attack as though it didn&apos;t have defender.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/49_CU01 Small Creature.jpg" num="49">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/51_CU01 Small Creature.jpg" num="51">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -298,7 +298,7 @@ Augury — As long as you&apos;ve exiled a card this turn, this creature can att
 			<name>CU02 Small Creature</name>
 			<text>Whenever this creature attacks, mill two cards.
 {3}{U}, Exile three other cards from your graveyard: Return this creature from your graveyard to the battlefield with a finality counter on it. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/50_CU02 Small Creature.jpg" num="50">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/52_CU02 Small Creature.jpg" num="52">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -316,7 +316,7 @@ Augury — As long as you&apos;ve exiled a card this turn, this creature can att
 			<name>CU03 Medium Creature</name>
 			<text>Once during each of your turns, when a card leaves your graveyard, target creature you control gets +1/+1 and gains flying until end of turn.
 {3}{U}: Surveil 1, then draw a card and discard a card.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/51_CU03 Medium Creature.jpg" num="51">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/53_CU03 Medium Creature.jpg" num="53">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -333,7 +333,7 @@ Augury — As long as you&apos;ve exiled a card this turn, this creature can att
 		<card>
 			<name>CU04 Medium Creature</name>
 			<text>Whenever a creature you control enters, if it wasn&apos;t cast from your hand, put a +1/+1 counter on it.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/52_CU04 Medium Creature.jpg" num="52">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/54_CU04 Medium Creature.jpg" num="54">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -350,7 +350,7 @@ Augury — As long as you&apos;ve exiled a card this turn, this creature can att
 		<card>
 			<name>CU05 Medium Creature</name>
 			<text>When this creature enters, mill four cards, then return up to one noncreature card milled this way to your hand.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/53_CU05 Medium Creature.jpg" num="53">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/55_CU05 Medium Creature.jpg" num="55">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -368,7 +368,7 @@ Augury — As long as you&apos;ve exiled a card this turn, this creature can att
 			<name>CU06 Medium Creature</name>
 			<text>When this creature enters, draw two cards, then discard two cards.
 Warp {1}{U} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/54_CU06 Medium Creature.jpg" num="54">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/56_CU06 Medium Creature.jpg" num="56">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -386,7 +386,7 @@ Warp {1}{U} (You may cast this card from your hand for its warp cost. Exile this
 			<name>CU07 Medium Creature</name>
 			<text>Augury — When this creature enters, if you exiled a card this turn, return target nonland permanent to its owner&apos;s hand.
 Warp {1}{U} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/55_CU07 Medium Creature.jpg" num="55">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/57_CU07 Medium Creature.jpg" num="57">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -405,7 +405,7 @@ Warp {1}{U} (You may cast this card from your hand for its warp cost. Exile this
 			<text>Flying, vigilance
 Whenever this creature attacks, draw a card, then discard a card.
 {2}{U}, Exile this card from your graveyard: Draw a card.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/56_CU08 MediumWall Creature.jpg" num="56">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/58_CU08 MediumWall Creature.jpg" num="58">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -423,7 +423,7 @@ Whenever this creature attacks, draw a card, then discard a card.
 			<name>CU09 Large Creature</name>
 			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
 When this creature enters, revere. (Put a Celestial card you own from outside the game into your hand or graveyard. If a card wasn&apos;t put into your hand, create a Clue token.)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/57_CU09 Large Creature.jpg" num="57">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/59_CU09 Large Creature.jpg" num="59">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -442,7 +442,7 @@ When this creature enters, revere. (Put a Celestial card you own from outside th
 			<text>Enchant creature
 Augury — When this enchantment enters, if you exiled a card this turn, tap enchanted creature.
 Enchanted creature doesn&apos;t untap during its controllers untap step.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/58_CU10 Noncreature.jpg" num="58">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/60_CU10 Noncreature.jpg" num="60">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -459,7 +459,7 @@ Enchanted creature doesn&apos;t untap during its controllers untap step.</text>
 			<name>CU11 Noncreature</name>
 			<text>When this artifact enters, look at the top card of your library. You may exile it. Draw a card.
 {1}{U}, Sacrifice this artifact: Return target creature to its owner&apos;s hand.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/59_CU11 Noncreature.jpg" num="59">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/61_CU11 Noncreature.jpg" num="61">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -475,7 +475,7 @@ Enchanted creature doesn&apos;t untap during its controllers untap step.</text>
 		<card>
 			<name>CU12 Noncreature</name>
 			<text>Counter target spell unless its controller pays {2}. If they do, revere. (Put a Celestial card you own from outside the game into your hand or graveyard. If a card wasn&apos;t put into your hand, create a Clue token.)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/60_CU12 Noncreature.jpg" num="60">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/62_CU12 Noncreature.jpg" num="62">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -492,7 +492,7 @@ Enchanted creature doesn&apos;t untap during its controllers untap step.</text>
 			<name>CU13 Noncreature</name>
 			<text>Tap up to one target creature and put a stun counter on it.
 Revere (Put a Celestial card you own from outside the game into your hand or graveyard. If a card wasn&apos;t put into your hand, create a Clue token.)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/61_CU13 Noncreature.jpg" num="61">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/63_CU13 Noncreature.jpg" num="63">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -509,7 +509,7 @@ Revere (Put a Celestial card you own from outside the game into your hand or gra
 			<name>CU14 Noncreature</name>
 			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
 Target creature you control gains hexproof until end of turn. Draw a card.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/62_CU14 Noncreature.jpg" num="62">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/64_CU14 Noncreature.jpg" num="64">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -526,7 +526,7 @@ Target creature you control gains hexproof until end of turn. Draw a card.</text
 			<name>CU15 Noncreature</name>
 			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
 Target creature&apos;s owner puts it on their choice of the top or bottom of their library.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/63_CU15 Noncreature.jpg" num="63">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/65_CU15 Noncreature.jpg" num="65">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -543,7 +543,7 @@ Target creature&apos;s owner puts it on their choice of the top or bottom of the
 			<name>CB01 Selfmill</name>
 			<text>Sacralize (When this creature deals combat damage to a player, you may sacrifice it.)
 When this creature dies, mill four cards. You may return up to one creature card milled this way to your hand.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/90_CB01 Selfmill.jpg" num="90">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/93_CB01 Selfmill.jpg" num="93">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -560,7 +560,7 @@ When this creature dies, mill four cards. You may return up to one creature card
 		<card>
 			<name>CB02 Aristocrats</name>
 			<text>Once during each of your turns, when a creature you control dies, you may put a +1/+1 counter on this creature.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/91_CB02 Aristocrats.jpg" num="91">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/94_CB02 Aristocrats.jpg" num="94">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -578,7 +578,7 @@ When this creature dies, mill four cards. You may return up to one creature card
 			<name>CB03 Selfmill</name>
 			<text>Sacrifice a creature: Surveil 1.
 You may cast this creature from your graveyard by exiling a card from your hand and graveyard in addition to its other costs. If you do, it enters with a finality counter on it.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/92_CB03 Selfmill.jpg" num="92">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/95_CB03 Selfmill.jpg" num="95">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -594,8 +594,9 @@ You may cast this creature from your graveyard by exiling a card from your hand 
 		</card>
 		<card>
 			<name>CB04 see @ end</name>
-			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/93_CB04 see @ end.jpg" num="93">SHD</set>
+			<text>Deathtouch
+Whenever this creature leaves your graveyard during your turn, you may pay {2}{B}. If you do, return it to the battlefield tapped.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/96_CB04 see @ end.jpg" num="96">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -605,6 +606,7 @@ You may cast this creature from your graveyard by exiling a card from your hand 
 				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -613,7 +615,7 @@ You may cast this creature from your graveyard by exiling a card from your hand 
 			<text>Sacralize (When this creature deals combat damage to a player, you may sacrifice it.)
 When this creature enters, create a 1/1 black Horror creature token.
 When this creature dies, if it was sacralized, each opponent loses 2 life and you gain 2 life.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/94_CB05 Horros // Aristos.jpg" num="94">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/97_CB05 Horros // Aristos.jpg" num="97">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -629,8 +631,8 @@ When this creature dies, if it was sacralized, each opponent loses 2 life and yo
 		</card>
 		<card>
 			<name>CB06 Horrors</name>
-			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/95_CB06 Horrors.jpg" num="95">SHD</set>
+			<text>When this creature enters, create a 2/2 black Horror creature token.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/98_CB06 Horrors.jpg" num="98">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -640,13 +642,15 @@ When this creature dies, if it was sacralized, each opponent loses 2 life and yo
 				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>CB07 Unearth</name>
-			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/96_CB07 Unearth.jpg" num="96">SHD</set>
+			<text>Menace
+When this creature enters, you may cast target creature card from your graveyard this turn.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/99_CB07 Unearth.jpg" num="99">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -656,13 +660,16 @@ When this creature dies, if it was sacralized, each opponent loses 2 life and yo
 				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>CB08 Selfmill</name>
-			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/97_CB08 Selfmill.jpg" num="97">SHD</set>
+			<text>Flying
+Whenever one or more creatures you control deal combat damage to a player, surveil 2.
+Warp {1}{B} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/100_CB08 Selfmill.jpg" num="100">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -672,6 +679,7 @@ When this creature dies, if it was sacralized, each opponent loses 2 life and yo
 				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -679,7 +687,7 @@ When this creature dies, if it was sacralized, each opponent loses 2 life and yo
 			<name>CB09 Delveguy // Aristocrats</name>
 			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
 Creatures you control have menace as long as a creature you control died this turn.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/98_CB09 Delveguy // Aristocrats.jpg" num="98">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/101_CB09 Delveguy // Aristocrats.jpg" num="101">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -695,104 +703,107 @@ Creatures you control have menace as long as a creature you control died this tu
 		</card>
 		<card>
 			<name>CB10 Noncreature</name>
-			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/99_CB10 Noncreature.jpg" num="99">SHD</set>
+			<text>As an additional cost to cast this spell, sacrifice a creature.
+Destroy target creature. Each opponent loses 1 life.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/102_CB10 Noncreature.jpg" num="102">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
 				<manacost>B</manacost>
 				<cmc>1</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
 			<name>CB11 Noncreature</name>
-			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/100_CB11 Noncreature.jpg" num="100">SHD</set>
+			<text>Augury — Return target creature with mana value 3 or less from your graveyard to the battlefield. If you exiled a card this turn, return target creature with mana value 4 or less from your graveyard to the battlefield instead.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/103_CB11 Noncreature.jpg" num="103">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
 				<manacost>1B</manacost>
 				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
 			<name>CB12 Noncreature</name>
-			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/101_CB12 Noncreature.jpg" num="101">SHD</set>
+			<text>Destroy target creature with mana value 3 or less. If it had mana value 1 or less, revere. (Put a Celestial card you own from outside the game into your hand or graveyard. If a card wasn&apos;t put into your hand, create a Clue token.)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/104_CB12 Noncreature.jpg" num="104">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
 				<manacost>1B</manacost>
 				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
 			<name>CB13 Noncreature</name>
-			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/102_CB13 Noncreature.jpg" num="102">SHD</set>
+			<text>You draw two cards, lose 2 life, and revere. Discard a card. (To revere, put a Celestial card you own from outside the game into your hand or graveyard. If a card wasn&apos;t put into your hand, create a Clue token.)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/105_CB13 Noncreature.jpg" num="105">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
 				<manacost>2B</manacost>
 				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
 			<name>CB14 Delve</name>
-			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/103_CB14 Delve.jpg" num="103">SHD</set>
+			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Target opponent reveals their hand and you choose a nonland card from it. They discard a card. If they didn&apos;t discard the chosen card, revere. (Put a Celestial card you own from outside the game into your hand or graveyard. If a card wasn&apos;t put into your hand, create a Clue token.)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/106_CB14 Delve.jpg" num="106">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost>2B</manacost>
-				<cmc>3</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>CB15 Delve</name>
-			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/104_CB15 Delve.jpg" num="104">SHD</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
 				<manacost>3B</manacost>
 				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CR01 Small Creature</name>
+			<name>CB15 Delve</name>
+			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Destroy target creature. Revere. (Put a Celestial card you own from outside the game into your hand or graveyard. If a card wasn&apos;t put into your hand, create a Clue token.)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/107_CB15 Delve.jpg" num="107">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR01 Exiler</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/132_CR01 Small Creature.jpg" num="132">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/136_CR01 Exiler.jpg" num="136">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -806,9 +817,9 @@ Creatures you control have menace as long as a creature you control died this tu
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CR02 Small Creature</name>
+			<name>CR02 Horrors</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/133_CR02 Small Creature.jpg" num="133">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/137_CR02 Horrors.jpg" num="137">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -822,9 +833,26 @@ Creatures you control have menace as long as a creature you control died this tu
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CR03 Small Creature</name>
+			<name>CR03 Augury</name>
+			<text>Augury — When this creature enters, if you cast it and you exiled a card this turn, add {R}{R}{R}.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/138_CR03 Augury.jpg" num="138">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR04 Horrors</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/134_CR03 Small Creature.jpg" num="134">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/139_CR04 Horrors.jpg" num="139">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -838,25 +866,9 @@ Creatures you control have menace as long as a creature you control died this tu
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CR04 Small Creature</name>
+			<name>CR05 Warpayoff</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/135_CR04 Small Creature.jpg" num="135">SHD</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature</type>
-				<maintype>Creature</maintype>
-				<manacost>1R</manacost>
-				<cmc>2</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>CR05 Medium Creature</name>
-			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/136_CR05 Medium Creature.jpg" num="136">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/140_CR05 Warpayoff.jpg" num="140">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -870,9 +882,9 @@ Creatures you control have menace as long as a creature you control died this tu
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CR06 Medium Creature</name>
+			<name>CR06 Small</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/137_CR06 Medium Creature.jpg" num="137">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/141_CR06 Small.jpg" num="141">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -886,9 +898,9 @@ Creatures you control have menace as long as a creature you control died this tu
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CR07 Medium Creature</name>
+			<name>CR07 Warper // Horrors</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/138_CR07 Medium Creature.jpg" num="138">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/142_CR07 Warper // Horrors.jpg" num="142">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -902,9 +914,9 @@ Creatures you control have menace as long as a creature you control died this tu
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CR08 Medium Creature</name>
+			<name>CR08 Small // Horrors</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/139_CR08 Medium Creature.jpg" num="139">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/143_CR08 Small // Horrors.jpg" num="143">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -918,25 +930,28 @@ Creatures you control have menace as long as a creature you control died this tu
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CR09 Medium Creature</name>
-			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/140_CR09 Medium Creature.jpg" num="140">SHD</set>
+			<name>CR09 Delve // Augury // Small?</name>
+			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Flying
+Augury — Whenever this creature attacks, if you exiled a card this turn, creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/144_CR09 Delve // Augury // Small?.jpg" num="144">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature</type>
 				<maintype>Creature</maintype>
-				<manacost>6R</manacost>
-				<cmc>7</cmc>
+				<manacost>6RR</manacost>
+				<cmc>8</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CR10 Large Creature</name>
+			<name>CR10 Warper // Small</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/141_CR10 Large Creature.jpg" num="141">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/145_CR10 Warper // Small.jpg" num="145">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -952,7 +967,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>CR11 Noncreature</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/142_CR11 Noncreature.jpg" num="142">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/146_CR11 Noncreature.jpg" num="146">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -968,7 +983,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>CR12 Noncreature</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/143_CR12 Noncreature.jpg" num="143">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/147_CR12 Noncreature.jpg" num="147">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -984,7 +999,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>CR13 Noncreature</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/144_CR13 Noncreature.jpg" num="144">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/148_CR13 Noncreature.jpg" num="148">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1000,7 +1015,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>CR14 Noncreature</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/145_CR14 Noncreature.jpg" num="145">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/149_CR14 Noncreature.jpg" num="149">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1016,7 +1031,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>CR15 Noncreature</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/146_CR15 Noncreature.jpg" num="146">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/150_CR15 Noncreature.jpg" num="150">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1032,7 +1047,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>CG01 Small Creature</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/174_CG01 Small Creature.jpg" num="174">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/180_CG01 Small Creature.jpg" num="180">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1048,7 +1063,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>CG02 Small Creature</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/175_CG02 Small Creature.jpg" num="175">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/181_CG02 Small Creature.jpg" num="181">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1064,7 +1079,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>CG03 Small Creature</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/176_CG03 Small Creature.jpg" num="176">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/182_CG03 Small Creature.jpg" num="182">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1080,7 +1095,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>CG04 Medium Creature</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/177_CG04 Medium Creature.jpg" num="177">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/183_CG04 Medium Creature.jpg" num="183">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1096,7 +1111,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>CG05 Medium Creature</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/178_CG05 Medium Creature.jpg" num="178">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/184_CG05 Medium Creature.jpg" num="184">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1112,7 +1127,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>CG06 Medium Creature</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/179_CG06 Medium Creature.jpg" num="179">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/185_CG06 Medium Creature.jpg" num="185">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1128,7 +1143,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>CG07 Medium Creature</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/180_CG07 Medium Creature.jpg" num="180">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/186_CG07 Medium Creature.jpg" num="186">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1144,7 +1159,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>CG08 Medium Creature</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/181_CG08 Medium Creature.jpg" num="181">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/187_CG08 Medium Creature.jpg" num="187">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1160,7 +1175,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>CG09 Large Creature</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/182_CG09 Large Creature.jpg" num="182">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/188_CG09 Large Creature.jpg" num="188">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1176,7 +1191,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>CG10 Large Creature</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/183_CG10 Large Creature.jpg" num="183">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/189_CG10 Large Creature.jpg" num="189">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1192,7 +1207,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>CG11 Noncreature</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/184_CG11 Noncreature.jpg" num="184">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/190_CG11 Noncreature.jpg" num="190">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1208,7 +1223,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>CG12 Noncreature</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/185_CG12 Noncreature.jpg" num="185">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/191_CG12 Noncreature.jpg" num="191">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1224,7 +1239,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>CG13 Noncreature</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/186_CG13 Noncreature.jpg" num="186">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/192_CG13 Noncreature.jpg" num="192">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1240,7 +1255,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>CG14 Noncreature</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/187_CG14 Noncreature.jpg" num="187">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/193_CG14 Noncreature.jpg" num="193">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1256,7 +1271,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>CG15 Noncreature</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/188_CG15 Noncreature.jpg" num="188">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/194_CG15 Noncreature.jpg" num="194">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1272,7 +1287,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>CA01 Small Creature</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/247_CA01 Small Creature.jpg" num="247">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/253_CA01 Small Creature.jpg" num="253">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1286,7 +1301,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>CA02 Noncreature</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/248_CA02 Noncreature.jpg" num="248">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/254_CA02 Noncreature.jpg" num="254">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1300,7 +1315,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>CA03 Noncreature</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/249_CA03 Noncreature.jpg" num="249">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/255_CA03 Noncreature.jpg" num="255">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1314,7 +1329,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>CA04 Noncreature</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/250_CA04 Noncreature.jpg" num="250">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/256_CA04 Noncreature.jpg" num="256">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1328,7 +1343,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>CA05 Noncreature</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/251_CA05 Noncreature.jpg" num="251">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/257_CA05 Noncreature.jpg" num="257">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1342,7 +1357,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>CL01 Noncreature</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/263_CL01 Noncreature.jpg" num="263">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/269_CL01 Noncreature.jpg" num="269">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1356,7 +1371,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>CL02 Noncreature</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/264_CL02 Noncreature.jpg" num="264">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/270_CL02 Noncreature.jpg" num="270">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1370,7 +1385,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>CL03 Noncreature</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/265_CL03 Noncreature.jpg" num="265">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/271_CL03 Noncreature.jpg" num="271">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1384,7 +1399,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>CL04 Noncreature</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/266_CL04 Noncreature.jpg" num="266">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/272_CL04 Noncreature.jpg" num="272">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1398,7 +1413,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>CL05 Noncreature</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/267_CL05 Noncreature.jpg" num="267">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/273_CL05 Noncreature.jpg" num="273">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1412,7 +1427,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>CL06 Noncreature</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/268_CL06 Noncreature.jpg" num="268">SHD</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/274_CL06 Noncreature.jpg" num="274">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1426,7 +1441,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UW01 Small Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/32_UW01 Small Creature.jpg" num="32">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/34_UW01 Small Creature.jpg" num="34">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1442,7 +1457,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UW02 Small Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/33_UW02 Small Creature.jpg" num="33">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/35_UW02 Small Creature.jpg" num="35">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1458,7 +1473,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UW03 Small Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/34_UW03 Small Creature.jpg" num="34">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/36_UW03 Small Creature.jpg" num="36">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1474,7 +1489,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UW04 Small Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/35_UW04 Small Creature.jpg" num="35">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/37_UW04 Small Creature.jpg" num="37">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1490,7 +1505,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UW05 Small Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/36_UW05 Small Creature.jpg" num="36">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/38_UW05 Small Creature.jpg" num="38">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1506,7 +1521,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UW06 Medium Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/37_UW06 Medium Creature.jpg" num="37">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/39_UW06 Medium Creature.jpg" num="39">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1522,7 +1537,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UW07 Medium Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/38_UW07 Medium Creature.jpg" num="38">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/40_UW07 Medium Creature.jpg" num="40">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1538,7 +1553,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UW08 Medium Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/39_UW08 Medium Creature.jpg" num="39">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/41_UW08 Medium Creature.jpg" num="41">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1554,7 +1569,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UW09 Medium Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/40_UW09 Medium Creature.jpg" num="40">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/42_UW09 Medium Creature.jpg" num="42">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1570,7 +1585,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UW10 Large Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/41_UW10 Large Creature.jpg" num="41">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/43_UW10 Large Creature.jpg" num="43">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1586,7 +1601,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UW11 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/42_UW11 Noncreature.jpg" num="42">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/44_UW11 Noncreature.jpg" num="44">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1602,7 +1617,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UW12 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/43_UW12 Noncreature.jpg" num="43">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/45_UW12 Noncreature.jpg" num="45">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1618,7 +1633,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UW13 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/44_UW13 Noncreature.jpg" num="44">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/46_UW13 Noncreature.jpg" num="46">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1634,7 +1649,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UW14 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/45_UW14 Noncreature.jpg" num="45">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/47_UW14 Noncreature.jpg" num="47">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1650,7 +1665,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UW15 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/46_UW15 Noncreature.jpg" num="46">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/48_UW15 Noncreature.jpg" num="48">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1666,7 +1681,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UW16 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/47_UW16 Noncreature.jpg" num="47">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/49_UW16 Noncreature.jpg" num="49">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1682,7 +1697,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UW17 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/48_UW17 Noncreature.jpg" num="48">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/50_UW17 Noncreature.jpg" num="50">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1698,7 +1713,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UU01 Small Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/73_UU01 Small Creature.jpg" num="73">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/76_UU01 Small Creature.jpg" num="76">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1714,7 +1729,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UU02 Small Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/74_UU02 Small Creature.jpg" num="74">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/77_UU02 Small Creature.jpg" num="77">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1730,7 +1745,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UU03 Small Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/75_UU03 Small Creature.jpg" num="75">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/78_UU03 Small Creature.jpg" num="78">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1746,7 +1761,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UU04 Small Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/76_UU04 Small Creature.jpg" num="76">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/79_UU04 Small Creature.jpg" num="79">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1762,7 +1777,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UU05 Small Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/77_UU05 Small Creature.jpg" num="77">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/80_UU05 Small Creature.jpg" num="80">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1778,7 +1793,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UU06 Small Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/78_UU06 Small Creature.jpg" num="78">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/81_UU06 Small Creature.jpg" num="81">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1794,7 +1809,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UU07 Medium Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/79_UU07 Medium Creature.jpg" num="79">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/82_UU07 Medium Creature.jpg" num="82">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1810,7 +1825,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UU08 Medium Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/80_UU08 Medium Creature.jpg" num="80">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/83_UU08 Medium Creature.jpg" num="83">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1826,7 +1841,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UU09 Large Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/81_UU09 Large Creature.jpg" num="81">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/84_UU09 Large Creature.jpg" num="84">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1842,7 +1857,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UU10 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/82_UU10 Noncreature.jpg" num="82">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/85_UU10 Noncreature.jpg" num="85">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1858,7 +1873,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UU11 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/83_UU11 Noncreature.jpg" num="83">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/86_UU11 Noncreature.jpg" num="86">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1874,7 +1889,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UU12 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/84_UU12 Noncreature.jpg" num="84">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/87_UU12 Noncreature.jpg" num="87">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1890,7 +1905,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UU13 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/85_UU13 Noncreature.jpg" num="85">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/88_UU13 Noncreature.jpg" num="88">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1906,7 +1921,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UU14 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/86_UU14 Noncreature.jpg" num="86">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/89_UU14 Noncreature.jpg" num="89">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1922,7 +1937,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UU15 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/87_UU15 Noncreature.jpg" num="87">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/90_UU15 Noncreature.jpg" num="90">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1938,7 +1953,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UU16 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/88_UU16 Noncreature.jpg" num="88">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/91_UU16 Noncreature.jpg" num="91">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1954,7 +1969,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UU17 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/89_UU17 Noncreature.jpg" num="89">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/92_UU17 Noncreature.jpg" num="92">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1970,7 +1985,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UB01 Small Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/115_UB01 Small Creature.jpg" num="115">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/119_UB01 Small Creature.jpg" num="119">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1986,7 +2001,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UB02 Small Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/116_UB02 Small Creature.jpg" num="116">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/120_UB02 Small Creature.jpg" num="120">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2002,7 +2017,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UB03 Small Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/117_UB03 Small Creature.jpg" num="117">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/121_UB03 Small Creature.jpg" num="121">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2018,7 +2033,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UB04 Small Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/118_UB04 Small Creature.jpg" num="118">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/122_UB04 Small Creature.jpg" num="122">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2034,7 +2049,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UB05 Small Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/119_UB05 Small Creature.jpg" num="119">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/123_UB05 Small Creature.jpg" num="123">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2050,7 +2065,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UB06 Medium Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/120_UB06 Medium Creature.jpg" num="120">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/124_UB06 Medium Creature.jpg" num="124">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2066,7 +2081,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UB07 Medium Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/121_UB07 Medium Creature.jpg" num="121">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/125_UB07 Medium Creature.jpg" num="125">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2082,7 +2097,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UB08 Medium Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/122_UB08 Medium Creature.jpg" num="122">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/126_UB08 Medium Creature.jpg" num="126">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2098,7 +2113,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UB09 Large Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/123_UB09 Large Creature.jpg" num="123">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/127_UB09 Large Creature.jpg" num="127">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2114,7 +2129,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UB10 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/124_UB10 Noncreature.jpg" num="124">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/128_UB10 Noncreature.jpg" num="128">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2130,7 +2145,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UB11 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/125_UB11 Noncreature.jpg" num="125">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/129_UB11 Noncreature.jpg" num="129">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2146,7 +2161,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UB12 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/126_UB12 Noncreature.jpg" num="126">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/130_UB12 Noncreature.jpg" num="130">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2162,7 +2177,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UB13 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/127_UB13 Noncreature.jpg" num="127">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/131_UB13 Noncreature.jpg" num="131">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2178,7 +2193,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UB14 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/128_UB14 Noncreature.jpg" num="128">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/132_UB14 Noncreature.jpg" num="132">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2194,7 +2209,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UB15 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/129_UB15 Noncreature.jpg" num="129">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/133_UB15 Noncreature.jpg" num="133">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2210,7 +2225,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UB16 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/130_UB16 Noncreature.jpg" num="130">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/134_UB16 Noncreature.jpg" num="134">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2226,7 +2241,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UB17 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/131_UB17 Noncreature.jpg" num="131">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/135_UB17 Noncreature.jpg" num="135">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2242,7 +2257,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UR01 Small Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/157_UR01 Small Creature.jpg" num="157">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/162_UR01 Small Creature.jpg" num="162">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2258,7 +2273,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UR02 Small Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/158_UR02 Small Creature.jpg" num="158">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/163_UR02 Small Creature.jpg" num="163">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2274,7 +2289,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UR03 Small Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/159_UR03 Small Creature.jpg" num="159">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/164_UR03 Small Creature.jpg" num="164">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2290,7 +2305,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UR04 SmallWall Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/160_UR04 SmallWall Creature.jpg" num="160">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/165_UR04 SmallWall Creature.jpg" num="165">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2306,7 +2321,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UR05 Medium Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/161_UR05 Medium Creature.jpg" num="161">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/166_UR05 Medium Creature.jpg" num="166">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2322,7 +2337,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UR06 Medium Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/162_UR06 Medium Creature.jpg" num="162">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/167_UR06 Medium Creature.jpg" num="167">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2338,7 +2353,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UR07 Medium Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/163_UR07 Medium Creature.jpg" num="163">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/168_UR07 Medium Creature.jpg" num="168">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2354,7 +2369,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UR08 Large Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/164_UR08 Large Creature.jpg" num="164">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/169_UR08 Large Creature.jpg" num="169">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2370,7 +2385,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UR09 Large Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/165_UR09 Large Creature.jpg" num="165">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/170_UR09 Large Creature.jpg" num="170">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2386,7 +2401,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UR10 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/166_UR10 Noncreature.jpg" num="166">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/171_UR10 Noncreature.jpg" num="171">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2402,7 +2417,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UR11 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/167_UR11 Noncreature.jpg" num="167">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/172_UR11 Noncreature.jpg" num="172">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2418,7 +2433,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UR12 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/168_UR12 Noncreature.jpg" num="168">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/173_UR12 Noncreature.jpg" num="173">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2434,7 +2449,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UR13 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/169_UR13 Noncreature.jpg" num="169">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/174_UR13 Noncreature.jpg" num="174">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2450,7 +2465,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UR14 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/170_UR14 Noncreature.jpg" num="170">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/175_UR14 Noncreature.jpg" num="175">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2466,7 +2481,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UR15 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/171_UR15 Noncreature.jpg" num="171">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/176_UR15 Noncreature.jpg" num="176">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2482,7 +2497,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UR16 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/172_UR16 Noncreature.jpg" num="172">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/177_UR16 Noncreature.jpg" num="177">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2498,7 +2513,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UR17 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/173_UR17 Noncreature.jpg" num="173">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/178_UR17 Noncreature.jpg" num="178">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2514,7 +2529,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UG01 Small Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/198_UG01 Small Creature.jpg" num="198">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/204_UG01 Small Creature.jpg" num="204">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2530,7 +2545,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UG02 Small Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/199_UG02 Small Creature.jpg" num="199">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/205_UG02 Small Creature.jpg" num="205">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2546,7 +2561,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UG03 Small Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/200_UG03 Small Creature.jpg" num="200">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/206_UG03 Small Creature.jpg" num="206">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2562,7 +2577,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UG04 Small Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/201_UG04 Small Creature.jpg" num="201">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/207_UG04 Small Creature.jpg" num="207">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2578,7 +2593,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UG05 Medium Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/202_UG05 Medium Creature.jpg" num="202">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/208_UG05 Medium Creature.jpg" num="208">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2594,7 +2609,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UG06 Medium Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/203_UG06 Medium Creature.jpg" num="203">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/209_UG06 Medium Creature.jpg" num="209">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2610,7 +2625,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UG07 Medium Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/204_UG07 Medium Creature.jpg" num="204">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/210_UG07 Medium Creature.jpg" num="210">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2626,7 +2641,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UG08 Medium Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/205_UG08 Medium Creature.jpg" num="205">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/211_UG08 Medium Creature.jpg" num="211">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2642,7 +2657,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UG09 Medium Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/206_UG09 Medium Creature.jpg" num="206">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/212_UG09 Medium Creature.jpg" num="212">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2658,7 +2673,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UG10 Large Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/207_UG10 Large Creature.jpg" num="207">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/213_UG10 Large Creature.jpg" num="213">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2674,7 +2689,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UG11 Large Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/208_UG11 Large Creature.jpg" num="208">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/214_UG11 Large Creature.jpg" num="214">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2690,7 +2705,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UG12 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/209_UG12 Noncreature.jpg" num="209">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/215_UG12 Noncreature.jpg" num="215">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2706,7 +2721,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UG13 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/210_UG13 Noncreature.jpg" num="210">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/216_UG13 Noncreature.jpg" num="216">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2722,7 +2737,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UG14 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/211_UG14 Noncreature.jpg" num="211">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/217_UG14 Noncreature.jpg" num="217">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2738,7 +2753,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UG15 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/212_UG15 Noncreature.jpg" num="212">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/218_UG15 Noncreature.jpg" num="218">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2754,7 +2769,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UG16 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/213_UG16 Noncreature.jpg" num="213">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/219_UG16 Noncreature.jpg" num="219">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2770,7 +2785,7 @@ Creatures you control have menace as long as a creature you control died this tu
 		<card>
 			<name>UG17 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/214_UG17 Noncreature.jpg" num="214">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/220_UG17 Noncreature.jpg" num="220">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2787,7 +2802,7 @@ Creatures you control have menace as long as a creature you control died this tu
 			<name>UM01 Small Creature</name>
 			<text>Whenever one or more cards leave your graveyard, put a +1/+1 counter on this creature and it gains flying until end of turn.
 {2}{G}{U}, Exile this creature from your graveyard: Surveil 1, then return up to one creature or land card from your graveyard to your hand.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/228_UM01 Small Creature.jpg" num="228">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/234_UM01 Small Creature.jpg" num="234">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2805,7 +2820,7 @@ Creatures you control have menace as long as a creature you control died this tu
 			<name>UM02 Small Creature</name>
 			<text>Flying
 When this creature enters, tap up to one target creature and put a stun counter on it. You gain life equal to its power.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/230_UM02 Small Creature.jpg" num="230">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/237_UM02 Small Creature.jpg" num="237">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2823,7 +2838,7 @@ When this creature enters, tap up to one target creature and put a stun counter 
 			<name>UM03 Small Creature</name>
 			<text>Flying
 At the beginning of combat on your turn, you may exile a card from your graveyard. If you do, tap up to one target creature.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/232_UM03 Small Creature.jpg" num="232">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/239_UM03 Small Creature.jpg" num="239">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2841,7 +2856,7 @@ At the beginning of combat on your turn, you may exile a card from your graveyar
 			<name>UM04 Small Creature</name>
 			<text>Whenever a creature you control with power 2 or less attacks, this creature deals 1 damage to each opponent.
 Whenever a creature you control with power 2 or less dies, exile the top card of your library. You may play it until end of turn.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/235_UM04 Small Creature.jpg" num="235">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/241_UM04 Small Creature.jpg" num="241">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2860,7 +2875,7 @@ Whenever a creature you control with power 2 or less dies, exile the top card of
 			<text>Other Horrors you control get +1/+0 and have haste.
 Sacralize (When this creature deals combat damage to a player, you may sacrifice it.)
 When this creature dies, create a 2/2 black Horror creature token. If this creature was sacralized, create two of those tokens instead.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/236_UM05 Small Creature.jpg" num="236">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/242_UM05 Small Creature.jpg" num="242">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2878,7 +2893,7 @@ When this creature dies, create a 2/2 black Horror creature token. If this creat
 			<name>UM06 Medium Creature</name>
 			<text>Once each turn, when a card is put into your graveyard from anywhere, each opponent loses 1 life and you gain 1 life.
 {4}{B}{G}: Return this creature from your graveyard to the battlefield tapped.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/238_UM06 Medium Creature.jpg" num="238">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/244_UM06 Medium Creature.jpg" num="244">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2896,7 +2911,7 @@ When this creature dies, create a 2/2 black Horror creature token. If this creat
 			<name>UM07 Medium Creature</name>
 			<text>When this creature enters, another target creature you control gets +2/+0 and gains trample and haste until end of turn.
 Warp {R}{G} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/239_UM07 Medium Creature.jpg" num="239">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/245_UM07 Medium Creature.jpg" num="245">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2913,7 +2928,7 @@ Warp {R}{G} (You may cast this card from your hand for its warp cost. Exile this
 		<card>
 			<name>UM09 Medium Creature</name>
 			<text>At the beginning of combat on your turn, if you&apos;ve gained life this turn, put a +1/+1 counter on each creature you control.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/243_UM09 Medium Creature.jpg" num="243">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/249_UM09 Medium Creature.jpg" num="249">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2931,7 +2946,7 @@ Warp {R}{G} (You may cast this card from your hand for its warp cost. Exile this
 			<name>UM10 Medium Creature</name>
 			<text>Flying
 Whenever this creature or another creature dies, each opponent loses 1 life and you gain 1 life.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/245_UM10 Medium Creature.jpg" num="245">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/251_UM10 Medium Creature.jpg" num="251">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2948,7 +2963,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>UA01 Small Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/258_UA01 Small Creature.jpg" num="258">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/264_UA01 Small Creature.jpg" num="264">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2962,7 +2977,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>UA02 Small Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/259_UA02 Small Creature.jpg" num="259">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/265_UA02 Small Creature.jpg" num="265">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2976,7 +2991,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>UA03 Medium Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/260_UA03 Medium Creature.jpg" num="260">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/266_UA03 Medium Creature.jpg" num="266">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2990,7 +3005,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>UA04 Large Creature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/261_UA04 Large Creature.jpg" num="261">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/267_UA04 Large Creature.jpg" num="267">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3004,7 +3019,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>UA05 Noncreature</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/262_UA05 Noncreature.jpg" num="262">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/268_UA05 Noncreature.jpg" num="268">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3018,7 +3033,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RW01 Small Creature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/23_RW01 Small Creature.jpg" num="23">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/26_RW01 Small Creature.jpg" num="26">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3034,7 +3049,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RW02 Small Creature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/24_RW02 Small Creature.jpg" num="24">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/27_RW02 Small Creature.jpg" num="27">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3050,7 +3065,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RW03 Medium Creature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/25_RW03 Medium Creature.jpg" num="25">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/28_RW03 Medium Creature.jpg" num="28">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3064,17 +3079,17 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RW04 Medium Creature</name>
-			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/26_RW04 Medium Creature.jpg" num="26">SHD</set>
+			<name>Retribution</name>
+			<text>Devoid (This card has no color.)
+If a creature token were to be created, you gain 1 life instead.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/25_Retribution.jpg" num="25">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature</type>
 				<maintype>Creature</maintype>
-				<manacost>2W</manacost>
-				<cmc>3</cmc>
-				<colors>W</colors>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>2</tablerow>
@@ -3082,7 +3097,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RW05 Large Creature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/27_RW05 Large Creature.jpg" num="27">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/29_RW05 Large Creature.jpg" num="29">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3098,7 +3113,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RW06 Noncreature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/28_RW06 Noncreature.jpg" num="28">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/30_RW06 Noncreature.jpg" num="30">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3114,7 +3129,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RW07 Noncreature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/29_RW07 Noncreature.jpg" num="29">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/31_RW07 Noncreature.jpg" num="31">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3130,7 +3145,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RW08 Noncreature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/30_RW08 Noncreature.jpg" num="30">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/32_RW08 Noncreature.jpg" num="32">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3146,7 +3161,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RW09 Noncreature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/31_RW09 Noncreature.jpg" num="31">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/33_RW09 Noncreature.jpg" num="33">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3162,7 +3177,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RU01 SmallWall Creature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/66_RU01 SmallWall Creature.jpg" num="66">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/70_RU01 SmallWall Creature.jpg" num="70">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3176,9 +3191,11 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RU02 Medium Creature</name>
-			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/67_RU02 Medium Creature.jpg" num="67">SHD</set>
+			<name>Heartlessness</name>
+			<text>Devoid (This card has no color.)
+If this creature would be returned from the battlefield to your hand or deck, create a token that&apos;s a copy of it instead.
+If a player would draw one or more cards outside of their draw step, put a +1/+1 counter on this creature instead.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/66_Heartlessness.jpg" num="66">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3186,15 +3203,15 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 				<maintype>Creature</maintype>
 				<manacost>3U</manacost>
 				<cmc>4</cmc>
-				<colors>U</colors>
 				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>RU03 Medium Creature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/68_RU03 Medium Creature.jpg" num="68">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/71_RU03 Medium Creature.jpg" num="71">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3210,7 +3227,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RU04 Large Creature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/69_RU04 Large Creature.jpg" num="69">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/72_RU04 Large Creature.jpg" num="72">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3226,7 +3243,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RU05 Noncreature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/70_RU05 Noncreature.jpg" num="70">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/73_RU05 Noncreature.jpg" num="73">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3242,7 +3259,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RU06 Noncreature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/71_RU06 Noncreature.jpg" num="71">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/74_RU06 Noncreature.jpg" num="74">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3258,7 +3275,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RU07 Noncreature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/72_RU07 Noncreature.jpg" num="72">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/75_RU07 Noncreature.jpg" num="75">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3274,7 +3291,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RB01 Small Creature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/107_RB01 Small Creature.jpg" num="107">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/112_RB01 Small Creature.jpg" num="112">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3290,7 +3307,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RB02 Medium Creature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/108_RB02 Medium Creature.jpg" num="108">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/113_RB02 Medium Creature.jpg" num="113">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3304,25 +3321,9 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RB03 Medium Creature</name>
-			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/109_RB03 Medium Creature.jpg" num="109">SHD</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature</type>
-				<maintype>Creature</maintype>
-				<manacost>2B</manacost>
-				<cmc>3</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>RB04 Noncreature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/110_RB04 Noncreature.jpg" num="110">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/114_RB04 Noncreature.jpg" num="114">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3338,7 +3339,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RB05 Noncreature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/111_RB05 Noncreature.jpg" num="111">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/115_RB05 Noncreature.jpg" num="115">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3354,7 +3355,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RB06 Noncreature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/112_RB06 Noncreature.jpg" num="112">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/116_RB06 Noncreature.jpg" num="116">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3370,7 +3371,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RB07 Noncreature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/113_RB07 Noncreature.jpg" num="113">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/117_RB07 Noncreature.jpg" num="117">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3386,7 +3387,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RB08 Noncreature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/114_RB08 Noncreature.jpg" num="114">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/118_RB08 Noncreature.jpg" num="118">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3402,7 +3403,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RR01 Small Creature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/149_RR01 Small Creature.jpg" num="149">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/155_RR01 Small Creature.jpg" num="155">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3418,7 +3419,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RR02 Medium Creature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/150_RR02 Medium Creature.jpg" num="150">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/156_RR02 Medium Creature.jpg" num="156">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3432,25 +3433,9 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RR03 Large Creature</name>
-			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/151_RR03 Large Creature.jpg" num="151">SHD</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature</type>
-				<maintype>Creature</maintype>
-				<manacost>4R</manacost>
-				<cmc>5</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>RR04 Noncreature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/152_RR04 Noncreature.jpg" num="152">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/157_RR04 Noncreature.jpg" num="157">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3466,7 +3451,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RR05 Noncreature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/153_RR05 Noncreature.jpg" num="153">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/158_RR05 Noncreature.jpg" num="158">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3482,7 +3467,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RR06 Noncreature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/154_RR06 Noncreature.jpg" num="154">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/159_RR06 Noncreature.jpg" num="159">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3498,7 +3483,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RR07 Noncreature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/155_RR07 Noncreature.jpg" num="155">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/160_RR07 Noncreature.jpg" num="160">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3514,7 +3499,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RR08 Noncreature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/156_RR08 Noncreature.jpg" num="156">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/161_RR08 Noncreature.jpg" num="161">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3530,7 +3515,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RG01 Medium Creature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/191_RG01 Medium Creature.jpg" num="191">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/198_RG01 Medium Creature.jpg" num="198">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3546,23 +3531,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RG02 Medium Creature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/192_RG02 Medium Creature.jpg" num="192">SHD</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature</type>
-				<maintype>Creature</maintype>
-				<manacost>3G</manacost>
-				<cmc>4</cmc>
-				<colors>G</colors>
-				<coloridentity>G</coloridentity>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>RG03 Medium Creature</name>
-			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/193_RG03 Medium Creature.jpg" num="193">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/199_RG02 Medium Creature.jpg" num="199">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3578,7 +3547,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RG04 Noncreature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/194_RG04 Noncreature.jpg" num="194">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/200_RG04 Noncreature.jpg" num="200">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3594,7 +3563,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RG05 Noncreature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/195_RG05 Noncreature.jpg" num="195">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/201_RG05 Noncreature.jpg" num="201">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3610,7 +3579,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RG06 Noncreature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/196_RG06 Noncreature.jpg" num="196">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/202_RG06 Noncreature.jpg" num="202">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3626,7 +3595,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RG07 Noncreature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/197_RG07 Noncreature.jpg" num="197">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/203_RG07 Noncreature.jpg" num="203">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3642,7 +3611,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RM01 Small Creature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/217_RM01 Small Creature.jpg" num="217">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/223_RM01 Small Creature.jpg" num="223">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3658,7 +3627,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RM02 Small Creature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/218_RM02 Small Creature.jpg" num="218">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/224_RM02 Small Creature.jpg" num="224">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3674,7 +3643,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RM03 Small Creature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/219_RM03 Small Creature.jpg" num="219">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/225_RM03 Small Creature.jpg" num="225">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3690,7 +3659,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RM04 Small Creature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/220_RM04 Small Creature.jpg" num="220">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/226_RM04 Small Creature.jpg" num="226">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3706,7 +3675,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RM05 Small Creature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/221_RM05 Small Creature.jpg" num="221">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/227_RM05 Small Creature.jpg" num="227">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3722,7 +3691,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RM06 Small Creature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/222_RM06 Small Creature.jpg" num="222">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/228_RM06 Small Creature.jpg" num="228">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3738,7 +3707,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RM07 Small Creature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/223_RM07 Small Creature.jpg" num="223">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/229_RM07 Small Creature.jpg" num="229">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3754,7 +3723,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RM08 Medium Creature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/224_RM08 Medium Creature.jpg" num="224">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/230_RM08 Medium Creature.jpg" num="230">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3770,7 +3739,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RM09 Noncreature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/225_RM09 Noncreature.jpg" num="225">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/231_RM09 Noncreature.jpg" num="231">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3786,7 +3755,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RM10 Noncreature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/226_RM10 Noncreature.jpg" num="226">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/232_RM10 Noncreature.jpg" num="232">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3802,7 +3771,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RM11 Noncreature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/227_RM11 Noncreature.jpg" num="227">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/233_RM11 Noncreature.jpg" num="233">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3818,7 +3787,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RA01 Small Creature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/255_RA01 Small Creature.jpg" num="255">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/261_RA01 Small Creature.jpg" num="261">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3832,7 +3801,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RA02 Noncreature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/256_RA02 Noncreature.jpg" num="256">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/262_RA02 Noncreature.jpg" num="262">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3846,7 +3815,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RA03 Noncreature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/257_RA03 Noncreature.jpg" num="257">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/263_RA03 Noncreature.jpg" num="263">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3860,7 +3829,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RL01 Small Creature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/274_RL01 Small Creature.jpg" num="274">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/280_RL01 Small Creature.jpg" num="280">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3874,7 +3843,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RL02 Noncreature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/275_RL02 Noncreature.jpg" num="275">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/281_RL02 Noncreature.jpg" num="281">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3888,7 +3857,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RL03 Noncreature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/276_RL03 Noncreature.jpg" num="276">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/282_RL03 Noncreature.jpg" num="282">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3902,7 +3871,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RL04 Noncreature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/277_RL04 Noncreature.jpg" num="277">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/283_RL04 Noncreature.jpg" num="283">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3916,7 +3885,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RL05 Noncreature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/278_RL05 Noncreature.jpg" num="278">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/284_RL05 Noncreature.jpg" num="284">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3930,7 +3899,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>RL06 Noncreature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/279_RL06 Noncreature.jpg" num="279">SHD</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/285_RL06 Noncreature.jpg" num="285">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3958,7 +3927,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>MW01 Small Creature</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/20_MW01 Small Creature.jpg" num="20">SHD</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/21_MW01 Small Creature.jpg" num="21">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3974,7 +3943,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>MW02 Large Creature</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/21_MW02 Large Creature.jpg" num="21">SHD</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/22_MW02 Large Creature.jpg" num="22">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3990,7 +3959,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>MU01 Large Creature</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/64_MU01 Large Creature.jpg" num="64">SHD</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/67_MU01 Large Creature.jpg" num="67">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4006,7 +3975,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>MU02 Noncreature</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/65_MU02 Noncreature.jpg" num="65">SHD</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/68_MU02 Noncreature.jpg" num="68">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4022,7 +3991,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>MB01 Medium Creature</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/105_MB01 Medium Creature.jpg" num="105">SHD</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/109_MB01 Medium Creature.jpg" num="109">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4038,7 +4007,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>MB02 Noncreature</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/106_MB02 Noncreature.jpg" num="106">SHD</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/110_MB02 Noncreature.jpg" num="110">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4054,7 +4023,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>MR01 Medium Creature</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/147_MR01 Medium Creature.jpg" num="147">SHD</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/152_MR01 Medium Creature.jpg" num="152">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4070,7 +4039,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>MR02 Noncreature</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/148_MR02 Noncreature.jpg" num="148">SHD</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/153_MR02 Noncreature.jpg" num="153">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4086,7 +4055,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>MG01 Small Creature</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/189_MG01 Small Creature.jpg" num="189">SHD</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/195_MG01 Small Creature.jpg" num="195">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4102,7 +4071,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>MG02 Small Creature</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/190_MG02 Small Creature.jpg" num="190">SHD</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/196_MG02 Small Creature.jpg" num="196">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4118,7 +4087,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>MM01 Medium Creature</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/216_MM01 Medium Creature.jpg" num="216">SHD</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/222_MM01 Medium Creature.jpg" num="222">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4134,7 +4103,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>MA01 Noncreature</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/252_MA01 Noncreature.jpg" num="252">SHD</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/258_MA01 Noncreature.jpg" num="258">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4148,7 +4117,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>MA02 Noncreature</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/253_MA02 Noncreature.jpg" num="253">SHD</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/259_MA02 Noncreature.jpg" num="259">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4162,7 +4131,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>MA03 Noncreature</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/254_MA03 Noncreature.jpg" num="254">SHD</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/260_MA03 Noncreature.jpg" num="260">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4176,7 +4145,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>ML01 Small Creature</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/269_ML01 Small Creature.jpg" num="269">SHD</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/275_ML01 Small Creature.jpg" num="275">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4190,7 +4159,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>ML02 Noncreature</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/270_ML02 Noncreature.jpg" num="270">SHD</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/276_ML02 Noncreature.jpg" num="276">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4204,7 +4173,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>ML03 Noncreature</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/271_ML03 Noncreature.jpg" num="271">SHD</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/277_ML03 Noncreature.jpg" num="277">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4218,7 +4187,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>ML04 Noncreature</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/272_ML04 Noncreature.jpg" num="272">SHD</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/278_ML04 Noncreature.jpg" num="278">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4232,7 +4201,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 		<card>
 			<name>ML05 Noncreature</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/273_ML05 Noncreature.jpg" num="273">SHD</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/279_ML05 Noncreature.jpg" num="279">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4286,7 +4255,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 			<name>UM01 Small Creature</name>
 			<text>Once during each of your turns, when a land card leaves your graveyard, you may put it onto the battlefield under your control.
 {1}{G}{U}, Exile three cards from your graveyard: Draw a card.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/229_UM01 Small Creature.jpg" num="229">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/235_UM01 Small Creature.jpg" num="235">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4304,7 +4273,7 @@ Whenever this creature or another creature dies, each opponent loses 1 life and 
 			<name>UM02 Small Creature</name>
 			<text>Flash
 When this creature enters, you gain 3 life and revere. (Put a Celestial card you own from outside the game into your hand or graveyard. If a card wasn&apos;t put into your hand, create a Clue token.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/231_UM02 Small Creature.jpg" num="231">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/236_UM02 Small Creature.jpg" num="236">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4322,7 +4291,7 @@ When this creature enters, you gain 3 life and revere. (Put a Celestial card you
 			<name>UM03 Small Creature</name>
 			<text>Menace
 Augury — Whenever this creature attacks, if you&apos;ve exiled a card this turn, draw a card.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/233_UM03 Small Creature.jpg" num="233">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/238_UM03 Small Creature.jpg" num="238">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4340,7 +4309,7 @@ Augury — Whenever this creature attacks, if you&apos;ve exiled a card this tur
 			<name>UM04 Grovekeeper 2</name>
 			<text>Haste
 Whenever this creature attacks, reveal the top three cards of your library. You may put a creature card with power 2 or less from among them into your hand and the rest on the bottom in a random order.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/234_UM04 Grovekeeper 2.jpg" num="234">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/240_UM04 Grovekeeper 2.jpg" num="240">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4357,7 +4326,7 @@ Whenever this creature attacks, reveal the top three cards of your library. You 
 		<card>
 			<name>UM05 Small Creature</name>
 			<text>Whenever this creature or another Horror you control enters, this creature deals 1 damage to each opponent.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/237_UM05 Small Creature.jpg" num="237">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/243_UM05 Small Creature.jpg" num="243">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4375,7 +4344,7 @@ Whenever this creature attacks, reveal the top three cards of your library. You 
 			<name>UM07 Medium Creature</name>
 			<text>When this creature enters, exile the top two cards of your library. You may play them during your next turn.
 Warp {1}{R}{G} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/240_UM07 Medium Creature.jpg" num="240">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/246_UM07 Medium Creature.jpg" num="246">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4393,7 +4362,7 @@ Warp {1}{R}{G} (You may cast this card from your hand for its warp cost. Exile t
 			<name>UM08 Medium Creature</name>
 			<text>When this creature enters, mill four cards.
 When this card leaves your graveyard during your turn, you may pay {2}. If you do, create a 2/2 blue XXX creature token.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/242_UM08 Medium Creature.jpg" num="242">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/247_UM08 Medium Creature.jpg" num="247">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4411,7 +4380,7 @@ When this card leaves your graveyard during your turn, you may pay {2}. If you d
 			<name>UM09 Medium Creature</name>
 			<text>Whenever a creature you control enters, you gain 1 life.
 This creature gets +X/+X, where X is the amount of life you&apos;ve gained this turn.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/244_UM09 Medium Creature.jpg" num="244">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/250_UM09 Medium Creature.jpg" num="250">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4429,7 +4398,7 @@ This creature gets +X/+X, where X is the amount of life you&apos;ve gained this 
 			<name>UM10 Medium Creature</name>
 			<text>Sacralize (When this creature deals combat damage to a player, you may sacrifice it.)
 When this creature dies, create a 1/1 white XXX token. If it was sacralized, each opponent loses 3 life.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/246_UM10 Medium Creature.jpg" num="246">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/252_UM10 Medium Creature.jpg" num="252">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4447,7 +4416,7 @@ When this creature dies, create a 1/1 white XXX token. If it was sacralized, eac
 			<name>Depths Soulthief</name>
 			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
 When this creature enters, destroy target creature with mana value less than or equal to the number of card types among cards exiled with this creature.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/215_Depths Soulthief.jpg" num="215">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/221_Depths Soulthief.jpg" num="221">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4464,7 +4433,7 @@ When this creature enters, destroy target creature with mana value less than or 
 		<card>
 			<name>UM08 Medium Creature</name>
 			<text>When this creature enters, surveil 2. If this creature entered from a graveyard or was cast from a graveyard, draw two cards. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/241_UM08 Medium Creature.jpg" num="241">SHD</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SHD-files/img/248_UM08 Medium Creature.jpg" num="248">SHD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4519,6 +4488,156 @@ When this creature enters, destroy target creature with mana value less than or 
 				<cmc>0</cmc>
 			</prop>
 			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Indecision</name>
+			<text>Devoid (This card has no color.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/108_Indecision.jpg" num="108">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Disregard</name>
+			<text>Devoid (This card has no color.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/151_Disregard.jpg" num="151">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Burden</name>
+			<text>Devoid (This card has no color.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SHD-files/img/179_Burden.jpg" num="179">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>TRENA ARTHOLD</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SHD-files/img/6_TRENA ARTHOLD.jpg" num="6">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Progenitor of Fate</name>
+			<text>Flying, menace
+{1}{B}, Exile a creature card from your graveyard: Create a token that&apos;s a copy of it and put a decayed counter on it. You lose life equal to its mana value. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/111_Progenitor of Fate.jpg" num="111">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Celestial Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>1BBB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Progenitor of Honor</name>
+			<text>Flying, lifelink
+Whenever this creature attacks, put a +1/+1 counter on each attacking creature and untap them.</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/23_Progenitor of Honor.jpg" num="23">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Celestial Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>1WWW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Progenitor of Knowledge</name>
+			<text>Flash
+Flying
+Spells you cast during turns other than yours cost {2} less to cast.</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/69_Progenitor of Knowledge.jpg" num="69">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Celestial Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>1UUU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Progenitor of Chaos</name>
+			<text>Flying, haste
+If a source you control would deal damage to an opponent, it deals that much damage plus one instead.</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/154_Progenitor of Chaos.jpg" num="154">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Celestial Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>1RRR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Progenitor of Potential</name>
+			<text>Flying, trample
+Whenever you cast a creature spell, put a +1/+1 counter on this creature and draw a card.</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SHD-files/img/197_Progenitor of Potential.jpg" num="197">SHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Celestial Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>1GGG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

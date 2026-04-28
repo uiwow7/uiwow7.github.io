@@ -1,0 +1,1170 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Aang Standard Notes: Sets",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/4t_Aang Standard Notes: Sets.jpg"
+			}
+		},
+		{
+			"name": "Aang Standard Notes: Sets (pt2)",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/5t_Aang Standard Notes: Sets (pt2).jpg"
+			}
+		},
+		{
+			"name": "Aang Standard Notes: Sets (pt3)",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/6t_Aang Standard Notes: Sets (pt3).jpg"
+			}
+		},
+		{
+			"name": "IR Phoenix",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/9t_IR Phoenix.jpg"
+			}
+		},
+		{
+			"name": "Find Order in Chaos",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/43_Find Order in Chaos.jpg"
+			}
+		},
+		{
+			"name": "Read the Stars",
+			"rarity": "special",
+			"mana_cost": "{C}",
+			"type": "Instant",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/61_Read the Stars.jpg"
+			}
+		},
+		{
+			"name": "Piercing Lightning",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/51_Piercing Lightning.jpg"
+			}
+		},
+		{
+			"name": "Reach for Enlightenment",
+			"rarity": "special",
+			"mana_cost": "{C}",
+			"type": "Sorcery",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/60_Reach for Enlightenment.jpg"
+			}
+		},
+		{
+			"name": "Sunset Seeker",
+			"rarity": "special",
+			"mana_cost": "{C}{R}",
+			"type": "Creature — Insect Mystic",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/68_Sunset Seeker.jpg"
+			}
+		},
+		{
+			"name": "Starfall Phoenix",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/53_Starfall Phoenix.jpg"
+			}
+		},
+		{
+			"name": "Naer, King of Talan",
+			"rarity": "special",
+			"mana_cost": "{2}{C}{R}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/66_Naer, King of Talan.jpg"
+			}
+		},
+		{
+			"name": "In the World of Dreams",
+			"rarity": "special",
+			"mana_cost": "{C/U}",
+			"type": "Sorcery",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/64_In the World of Dreams.jpg"
+			}
+		},
+		{
+			"name": "Twisting Turmoil",
+			"rarity": "special",
+			"mana_cost": "{1}{C}",
+			"type": "Enchantment",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/63_Twisting Turmoil.jpg"
+			}
+		},
+		{
+			"name": "Herald of Flame",
+			"rarity": "special",
+			"mana_cost": "{6}{R}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/46_Herald of Flame.jpg"
+			}
+		},
+		{
+			"name": "Center Mass",
+			"rarity": "special",
+			"mana_cost": "{C}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/56_Center Mass.jpg"
+			}
+		},
+		{
+			"name": "Path to Infinity",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/50_Path to Infinity.jpg"
+			}
+		},
+		{
+			"name": "Sunlit Cliffs",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/82_Sunlit Cliffs.jpg"
+			}
+		},
+		{
+			"name": "Towering Spires",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/84_Towering Spires.jpg"
+			}
+		},
+		{
+			"name": "Mystical Valley",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/78_Mystical Valley.jpg"
+			}
+		},
+		{
+			"name": "Divine Gateway",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/75_Divine Gateway.jpg"
+			}
+		},
+		{
+			"name": "Mystic's Quest",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Enchantment — Saga",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/58t_Mystic's Quest.jpg"
+			}
+		},
+		{
+			"name": "Rain of Flowers",
+			"rarity": "special",
+			"mana_cost": "{1}{C}",
+			"type": "Sorcery",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/59_Rain of Flowers.jpg"
+			}
+		},
+		{
+			"name": "Untouched Pinnacles",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/87_Untouched Pinnacles.jpg"
+			}
+		},
+		{
+			"name": "Unbroken Effigies",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Kindred Land — Orc",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/86_Unbroken Effigies.jpg"
+			}
+		},
+		{
+			"name": "Behold True Suns",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/40_Behold True Suns.jpg"
+			}
+		},
+		{
+			"name": "Village on the Peaks",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Kindred Land — Dragon",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/88_Village on the Peaks.jpg"
+			}
+		},
+		{
+			"name": "Starseeker Whale",
+			"rarity": "special",
+			"mana_cost": "{2}{C}{C}",
+			"type": "Creature — Whale Spirit",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/62_Starseeker Whale.jpg"
+			}
+		},
+		{
+			"name": "Hunger Arisen",
+			"rarity": "special",
+			"mana_cost": "{4}{C}{C}",
+			"type": "Legendary Creature — God",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/57_Hunger Arisen.jpg"
+			}
+		},
+		{
+			"name": "Tannin Explorer",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/54_Tannin Explorer.jpg"
+			}
+		},
+		{
+			"name": "Mystic",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Mystic",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/15t_Mystic.jpg"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/89_Mountain.jpg"
+			}
+		},
+		{
+			"name": "Fault",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Fault",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/90_Fault.jpg"
+			}
+		},
+		{
+			"name": "Big Blue",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/1t_Big Blue.jpg"
+			}
+		},
+		{
+			"name": "Alom, Dreamlord",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}{U}{U}",
+			"type": "Creature — Spirit Noble",
+			"collector_number": "9",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://uiwow7.github.io/sets/AANG-files/img/9_Alom, Dreamlord_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/9_Alom, Dreamlord_front.jpg"
+			}
+		},
+		{
+			"name": "Galaxy Rings",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "17",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://uiwow7.github.io/sets/AANG-files/img/17_Galaxy Rings_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/17_Galaxy Rings_front.jpg"
+			}
+		},
+		{
+			"name": "Phantom Channeler",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Spirit Wizard",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/21_Phantom Channeler.jpg"
+			}
+		},
+		{
+			"name": "Cosmic Manipulation",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/15_Cosmic Manipulation.jpg"
+			}
+		},
+		{
+			"name": "Embrace the Void",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/10t_Embrace the Void.jpg"
+			}
+		},
+		{
+			"name": "Return to Essence",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/22_Return to Essence.jpg"
+			}
+		},
+		{
+			"name": "Unrestrained Tides",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/26_Unrestrained Tides.jpg"
+			}
+		},
+		{
+			"name": "Tempting Proposition",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/25_Tempting Proposition.jpg"
+			}
+		},
+		{
+			"name": "Celestial Command Center",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/13_Celestial Command Center.jpg"
+			}
+		},
+		{
+			"name": "Azali, Spectral Hunter",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Spirit Ranger",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/11_Azali, Spectral Hunter.jpg"
+			}
+		},
+		{
+			"name": "Ruminate",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/23_Ruminate.jpg"
+			}
+		},
+		{
+			"name": "Stoneborn Crab",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Crab Horror",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/24_Stoneborn Crab.jpg"
+			}
+		},
+		{
+			"name": "Gone in an Instant",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/18_Gone in an Instant.jpg"
+			}
+		},
+		{
+			"name": "Frozen Seascape",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Island",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/76_Frozen Seascape.jpg"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/77_Island.jpg"
+			}
+		},
+		{
+			"name": "Abandoned Tradepost",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Frontier",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/72_Abandoned Tradepost.jpg"
+			}
+		},
+		{
+			"name": "Cloudwater Visions",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/14_Cloudwater Visions.jpg"
+			}
+		},
+		{
+			"name": "Lotusfall",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/20_Lotusfall.jpg"
+			}
+		},
+		{
+			"name": "Properous Skyscape",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Kindred Land — Whale",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/81_Properous Skyscape.jpg"
+			}
+		},
+		{
+			"name": "Cosmic Nexus",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/16_Cosmic Nexus.jpg"
+			}
+		},
+		{
+			"name": "Ardent Starkeeper",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Dragon",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/10_Ardent Starkeeper.jpg"
+			}
+		},
+		{
+			"name": "Hunting for Memories",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Saga Dream",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/19_Hunting for Memories.jpg"
+			}
+		},
+		{
+			"name": "Horror",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Horror",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/11t_Horror.jpg"
+			}
+		},
+		{
+			"name": "Wizard's Quest",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Enchantment — Saga",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/27_Wizard's Quest.jpg"
+			}
+		},
+		{
+			"name": "Scout",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Scout",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/12t_Scout.jpg"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/13t_Spirit.jpg"
+			}
+		},
+		{
+			"name": "Wizard",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Wizard",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/14t_Wizard.jpg"
+			}
+		},
+		{
+			"name": "Druid Quest Arthold",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/1_Druid Quest Arthold.jpg"
+			}
+		},
+		{
+			"name": "WB Unearth",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/3t_WB Unearth.jpg"
+			}
+		},
+		{
+			"name": "Comfort of Return",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/2_Comfort of Return.jpg"
+			}
+		},
+		{
+			"name": "Steel Enforcer",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "35",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://uiwow7.github.io/sets/AANG-files/img/35_Steel Enforcer_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/35_Steel Enforcer_front.jpg"
+			}
+		},
+		{
+			"name": "Knight of Finality",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Human Knight",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/65_Knight of Finality.jpg"
+			}
+		},
+		{
+			"name": "Trial of Midnight",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Saga Dream",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/36_Trial of Midnight.jpg"
+			}
+		},
+		{
+			"name": "Forgotten Cliffwatcher",
+			"rarity": "special",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/31_Forgotten Cliffwatcher.jpg"
+			}
+		},
+		{
+			"name": "Ranor, Spectral Lightbearer",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Spirit Warrior",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/5_Ranor, Spectral Lightbearer.jpg"
+			}
+		},
+		{
+			"name": "Splinter into Nightmares",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/34_Splinter into Nightmares.jpg"
+			}
+		},
+		{
+			"name": "Fracture",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/32_Fracture.jpg"
+			}
+		},
+		{
+			"name": "Golden Slayer",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Robot Soldier",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/33_Golden Slayer.jpg"
+			}
+		},
+		{
+			"name": "Trap in Eternity",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/7_Trap in Eternity.jpg"
+			}
+		},
+		{
+			"name": "Delve into Storms",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/30_Delve into Storms.jpg"
+			}
+		},
+		{
+			"name": "Sky Seer",
+			"rarity": "special",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/6_Sky Seer.jpg"
+			}
+		},
+		{
+			"name": "Desolate Cliffside",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/74_Desolate Cliffside.jpg"
+			}
+		},
+		{
+			"name": "Transcendent Towers",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/85_Transcendent Towers.jpg"
+			}
+		},
+		{
+			"name": "Barren Heath",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/73_Barren Heath.jpg"
+			}
+		},
+		{
+			"name": "Prismatic Vista",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/80_Prismatic Vista.jpg"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/79_Plains.jpg"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/83_Swamp.jpg"
+			}
+		},
+		{
+			"name": "Whispers of Autumn",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Saga Dream",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/8_Whispers of Autumn.jpg"
+			}
+		},
+		{
+			"name": "Watch by Candlelight",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Enchantment — Saga Dream",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/71_Watch by Candlelight.jpg"
+			}
+		},
+		{
+			"name": "Mourn Lost Virtue",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment — Saga Dream",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/4_Mourn Lost Virtue.jpg"
+			}
+		},
+		{
+			"name": "Let Them Blossom",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/3_Let Them Blossom.jpg"
+			}
+		},
+		{
+			"name": "Darkstar Prowler",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Cat",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/29_Darkstar Prowler.jpg"
+			}
+		},
+		{
+			"name": "Burn Eternally Bright",
+			"rarity": "special",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Enchantment — Saga Dream",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/28_Burn Eternally Bright.jpg"
+			}
+		},
+		{
+			"name": "Cleric",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Cleric",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/8t_Cleric.jpg"
+			}
+		},
+		{
+			"name": "Bird",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Bird",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/7t_Bird.jpg"
+			}
+		},
+		{
+			"name": "Demon",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Demon",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/16t_Demon.jpg"
+			}
+		},
+		{
+			"name": "Mono-red Aggro",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/2t_Mono-red Aggro.jpg"
+			}
+		},
+		{
+			"name": "Flamepeak Guardian",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature — Cat Warrior",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/45_Flamepeak Guardian.jpg"
+			}
+		},
+		{
+			"name": "Aurora Reader",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature — Elk",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/39_Aurora Reader.jpg"
+			}
+		},
+		{
+			"name": "Seek the Stars",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/52_Seek the Stars.jpg"
+			}
+		},
+		{
+			"name": "Blood Howler",
+			"rarity": "special",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Wolf Nightmare",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/42_Blood Howler.jpg"
+			}
+		},
+		{
+			"name": "Lone Explorer",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/48_Lone Explorer.jpg"
+			}
+		},
+		{
+			"name": "Bleeding Moon Dragon",
+			"rarity": "special",
+			"mana_cost": "{R}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/41_Bleeding Moon Dragon.jpg"
+			}
+		},
+		{
+			"name": "Ashfall Herald",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Wolf Shaman",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/38_Ashfall Herald.jpg"
+			}
+		},
+		{
+			"name": "Firemist Explorer",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Artifact Creature — Robot Soldier",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/44_Firemist Explorer.jpg"
+			}
+		},
+		{
+			"name": "Phoenix",
+			"rarity": "special",
+			"mana_cost": "{C}{R}",
+			"type": "",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/67_Phoenix.jpg"
+			}
+		},
+		{
+			"name": "Big Blue",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/12_Big Blue.jpg"
+			}
+		},
+		{
+			"name": "Unearth",
+			"rarity": "special",
+			"mana_cost": "{W}{B}",
+			"type": "",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/70_Unearth.jpg"
+			}
+		},
+		{
+			"name": "Aggro",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/37_Aggro.jpg"
+			}
+		},
+		{
+			"name": "Unchained Monstrosity",
+			"rarity": "special",
+			"mana_cost": "{B/R}{B/R}{B/R}",
+			"type": "Creature — Horror",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/69_Unchained Monstrosity.jpg"
+			}
+		},
+		{
+			"name": "Through Hellish Skies",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment — Saga Dream",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/55_Through Hellish Skies.jpg"
+			}
+		},
+		{
+			"name": "Lightning Strike",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/47_Lightning Strike.jpg"
+			}
+		},
+		{
+			"name": "Mammoth Riders",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Knight",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/49_Mammoth Riders.jpg"
+			}
+		}
+	]
+
+[cube(15)]
+	1 Find Order in Chaos
+	1 Read the Stars
+	1 Piercing Lightning
+	1 Reach for Enlightenment
+	1 Sunset Seeker
+	1 Starfall Phoenix
+	1 Naer, King of Talan
+	1 In the World of Dreams
+	1 Twisting Turmoil
+	1 Herald of Flame
+	1 Center Mass
+	1 Path to Infinity
+	1 Sunlit Cliffs
+	1 Towering Spires
+	1 Mystical Valley
+	1 Divine Gateway
+	1 Rain of Flowers
+	1 Untouched Pinnacles
+	1 Unbroken Effigies
+	1 Behold True Suns
+	1 Village on the Peaks
+	1 Starseeker Whale
+	1 Hunger Arisen
+	1 Tannin Explorer
+	1 Alom, Dreamlord
+	1 Galaxy Rings
+	1 Phantom Channeler
+	1 Cosmic Manipulation
+	1 Return to Essence
+	1 Unrestrained Tides
+	1 Tempting Proposition
+	1 Celestial Command Center
+	1 Azali, Spectral Hunter
+	1 Ruminate
+	1 Stoneborn Crab
+	1 Gone in an Instant
+	1 Frozen Seascape
+	1 Abandoned Tradepost
+	1 Cloudwater Visions
+	1 Lotusfall
+	1 Properous Skyscape
+	1 Cosmic Nexus
+	1 Ardent Starkeeper
+	1 Hunting for Memories
+	1 Wizard's Quest
+	1 Druid Quest Arthold
+	1 Comfort of Return
+	1 Steel Enforcer
+	1 Knight of Finality
+	1 Trial of Midnight
+	1 Forgotten Cliffwatcher
+	1 Ranor, Spectral Lightbearer
+	1 Splinter into Nightmares
+	1 Fracture
+	1 Golden Slayer
+	1 Trap in Eternity
+	1 Delve into Storms
+	1 Sky Seer
+	1 Desolate Cliffside
+	1 Transcendent Towers
+	1 Barren Heath
+	1 Prismatic Vista
+	1 Whispers of Autumn
+	1 Watch by Candlelight
+	1 Mourn Lost Virtue
+	1 Let Them Blossom
+	1 Darkstar Prowler
+	1 Burn Eternally Bright
+	1 Flamepeak Guardian
+	1 Aurora Reader
+	1 Seek the Stars
+	1 Blood Howler
+	1 Lone Explorer
+	1 Bleeding Moon Dragon
+	1 Ashfall Herald
+	1 Firemist Explorer
+	1 Phoenix
+	1 Big Blue
+	1 Unearth
+	1 Aggro
+	1 Unchained Monstrosity
+	1 Through Hellish Skies
+	1 Lightning Strike
+	1 Mammoth Riders

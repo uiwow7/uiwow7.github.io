@@ -1,0 +1,395 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>JS02</name>
+			<longname>Jumpstart — Majesty</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-04-27</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Majesty</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS02-files/img/6_Majesty.jpg" num="6">JS02</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS02-files/img/15_Plains.jpg" num="15">JS02</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mirena of Fallen Stars</name>
+			<text>Mirena of Fallen Stars isn&apos;t a creature unless you control three or more other creatures.
+{3}{W}: Put a +1/+1 counter on each creature you control. Activate only as sorcery and only once each turn.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/JS02-files/img/8_Mirena of Fallen Stars.jpg" num="8">JS02</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Priest of the Mirena</name>
+			<text>Infuse 2 (Whenever you cast a noncreature spell, put a +1/+1 counter on this if it has fewer than two.)
+Whenever one or more counters are put on Priest of the Mirena, you gain 1 life.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS02-files/img/10_Priest of the Mirena.jpg" num="10">JS02</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Acolyte of Sunlight</name>
+			<text>{4}{W}: Creatures you control get +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS02-files/img/1_Acolyte of Sunlight.jpg" num="1">JS02</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Call of the Sun</name>
+			<text>Call of the Sun deals 3 damage to target attacking or blocking creature. When that creature dies this turn, you gain 2 life.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS02-files/img/2_Call of the Sun.jpg" num="2">JS02</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Everlasting Journey</name>
+			<text>When Everlasting Journey enters, create a 1/1 white Cleric creature token.
+{1}{W}: Sacrifice Everlasting Journey. Activate only as a sorcery.
+When you sacrifice Everlasting Journey, creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS02-files/img/3_Everlasting Journey.jpg" num="3">JS02</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Majesty of Suns</name>
+			<text>Create a 1/1 white Cleric creature token.
+Target creature you control gets +1/+1 for each creature you control until end of turn.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/JS02-files/img/7_Majesty of Suns.jpg" num="7">JS02</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sunwolf</name>
+			<text>Healing 2 (Damage dealt by this creature also causes you to gain 2 life.)
+When Sunwolf enters, put a +1/+1 counter on up to one other target creature you control.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS02-files/img/13_Sunwolf.jpg" num="13">JS02</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prayer of Devotion</name>
+			<text>Create two 1/1 white Cleric creature tokens.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS02-files/img/9_Prayer of Devotion.jpg" num="9">JS02</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gaze of Seclusion</name>
+			<text>When Gaze of Seclusion enters, exile target creature an opponent controls until Gaze of Seclusion leaves the battlefield. Create a 1/1 white Spirit creature token.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/JS02-files/img/4_Gaze of Seclusion.jpg" num="4">JS02</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Serene Watchfulness</name>
+			<text>Vigilance (Attacking doesn&apos;t cause this creature to tap.)
+Whenever you attack, put a +1/+1 counter on target attacking creature.
+Warp {W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/JS02-files/img/11_Serene Watchfulness.jpg" num="11">JS02</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Eye</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Herald of Suns</name>
+			<text>Attacking creatures you control get +1/+0.
+When Herald of Suns enters, create a 1/1 white Spirit creature tokens.
+Warp {1}{W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/JS02-files/img/5_Herald of Suns.jpg" num="5">JS02</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spirit JS02</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS02-files/img/2t_Spirit.jpg" num="2">JS02</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Cleric JS02</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS02-files/img/1t_Cleric.jpg" num="1">JS02</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS02-files/img/16_Plains.jpg" num="16">JS02</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS02-files/img/17_Plains.jpg" num="17">JS02</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS02-files/img/18_Plains.jpg" num="18">JS02</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS02-files/img/19_Plains.jpg" num="19">JS02</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS02-files/img/20_Plains.jpg" num="20">JS02</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS02-files/img/21_Plains.jpg" num="21">JS02</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Drifting Field</name>
+			<text>{T}: Add {W}. You lose 1 life unless you control a white permanent.
+Exhaust — {T}: Choose a color. (Activate each exhaust ability only once.)
+{T}: Add one mana of the chosen color.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS02-files/img/14_Drifting Field.jpg" num="14">JS02</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Servant of Virtue</name>
+			<text>This spell costs {1} less to cast for each creature you control.
+Flying, vigilance (This creature can&apos;t be blocked except by creatures with flying or reach. Attacking doesn&apos;t cause this creature to tap.)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS02-files/img/12_Servant of Virtue.jpg" num="12">JS02</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>6W</manacost>
+				<cmc>7</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

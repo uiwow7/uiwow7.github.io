@@ -1,0 +1,428 @@
+﻿[
+    {
+        "card_name": "Mirena of Fallen Stars",
+        "number": 8,
+        "shape": "normal",
+        "set": "JS02",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Gaze of Seclusion",
+        "number": 4,
+        "shape": "normal",
+        "set": "JS02",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Herald of Suns",
+        "number": 5,
+        "shape": "normal",
+        "set": "JS02",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Majesty of Suns",
+        "number": 7,
+        "shape": "normal",
+        "set": "JS02",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Serene Watchfulness",
+        "number": 11,
+        "shape": "normal",
+        "set": "JS02",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Acolyte of Sunlight",
+        "number": 1,
+        "shape": "normal",
+        "set": "JS02",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Call of the Sun",
+        "number": 2,
+        "shape": "normal",
+        "set": "JS02",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Everlasting Journey",
+        "number": 3,
+        "shape": "normal",
+        "set": "JS02",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Majesty",
+        "number": 6,
+        "shape": "normal",
+        "set": "JS02",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Prayer of Devotion",
+        "number": 9,
+        "shape": "normal",
+        "set": "JS02",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Priest of the Mirena",
+        "number": 10,
+        "shape": "normal",
+        "set": "JS02",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Servant of Virtue",
+        "number": 12,
+        "shape": "normal",
+        "set": "JS02",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Sunwolf",
+        "number": 13,
+        "shape": "normal",
+        "set": "JS02",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "Drifting Field",
+        "number": 14,
+        "shape": "normal",
+        "set": "JS02",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Plains",
+        "number": 15,
+        "shape": "normal",
+        "set": "JS02",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Plains",
+        "number": 16,
+        "shape": "normal",
+        "set": "JS02",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Plains",
+        "number": 17,
+        "shape": "normal",
+        "set": "JS02",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Plains",
+        "number": 18,
+        "shape": "normal",
+        "set": "JS02",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Plains",
+        "number": 19,
+        "shape": "normal",
+        "set": "JS02",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Plains",
+        "number": 20,
+        "shape": "normal",
+        "set": "JS02",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Plains",
+        "number": 21,
+        "shape": "normal",
+        "set": "JS02",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Cleric",
+        "number": 1,
+        "shape": "token",
+        "set": "JS02",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Spirit",
+        "number": 2,
+        "shape": "token",
+        "set": "JS02",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

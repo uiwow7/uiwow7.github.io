@@ -1,0 +1,667 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>SLUSH</name>
+			<longname>Slush File</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-04-27</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Phoenix of Suns</name>
+			<text>Flying, haste
+{5}{R}: Return this creature from your graveyard to the battlefield. This ability costs {1} less to activate for each spell you&apos;ve cast this turn.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SLUSH-files/img/13_Phoenix of Suns.jpg" num="13">SLUSH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blood Phoenix</name>
+			<text>You may cast this creature from your sanctum (It can&apos;t start there.)
+Flying, haste
+This creature can&apos;t block.
+When this creature dies, sanctify it. (Put it into its owner&apos;s sanctum.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SLUSH-files/img/5_Blood Phoenix.jpg" num="5">SLUSH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Transcendent Phoenix</name>
+			<text>Flying, haste
+{U}{R}: Liberate this card from your graveyard. (Exile it if it isn&apos;t a Dragon. If it&apos;s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SLUSH-files/img/32_Transcendent Phoenix.jpg" num="32">SLUSH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Augmented Phoenix</name>
+			<text>Flying, haste
+When this creature enters, return target Phoenix permanent card with mana value less than or equal to this creature&apos;s power from your graveyard to the battlefield.
+Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SLUSH-files/img/4_Augmented Phoenix.jpg" num="4">SLUSH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Augmented Phoenix</name>
+			<text>Flying, haste
+When this creature enters, return target Phoenix permanent card with mana value less than or equal to this creature&apos;s power from your graveyard to the battlefield.</text>
+			<set rarity="masterpiece" picurl="https://uiwow7.github.io/sets/SLUSH-files/img/1_Augmented Phoenix.jpg" num="1">SLUSH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rising Phoenix</name>
+			<text>Flying, trample, haste
+When this creature dies, return it to the battlefield tapped and transformed under its owner&apos;s control.
+---
+(Back): Verdant Cliffside</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SLUSH-files/img/29_Rising Phoenix_front.jpg" num="29a">SLUSH</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Verdant Cliffside</related>
+		</card>
+		<card>
+			<name>Verdant Cliffside</name>
+			<text>{T}: Add {C}.
+Exploring — {7}{R}{G}, {T}: Untap this land and transform it. This ability costs {1} less to activate for each differently named land you control.
+---
+(Front): Rising Phoenix</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SLUSH-files/img/29_Rising Phoenix_back.jpg" num="29b">SLUSH</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Rising Phoenix</related>
+		</card>
+		<card>
+			<name>Brilliant Phoenix</name>
+			<text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+Flying, haste
+When this creature dies, if you&apos;ve illuminated red, return it to the battlefield tapped with a finality counter on it.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SLUSH-files/img/7_Brilliant Phoenix.jpg" num="7">SLUSH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Magma Phoenix</name>
+			<text>Flying, haste
+You may cast this enchantment from your graveyard by sacrificing an untapped enchantment in addition to its other costs. It enters with a finality counter.
+Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until your next turn.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SLUSH-files/img/9_Magma Phoenix.jpg" num="9">SLUSH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Enchantment — Phoenix Entity</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Popular Phoenix</name>
+			<text>Flying
+{2}{R}, Embrace this card from your graveyard: Target creature you control gets +1/+0 and gains flying and haste until end of turn. (Exile it. You may play it on a later turn that a Phoenix or Citizen you control dealt damage to an opponent.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SLUSH-files/img/14_Popular Phoenix.jpg" num="14">SLUSH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unchained Phoenix</name>
+			<text>Bisapience {3}{R} (Cast either half of this card. Pay bisapience once each turn as a sorcery to transform for that turn.)
+Flying, haste
+Whenever this creature deals combat damage to a player, it deals 1 damage to you.
+---
+(Back): Warden of the Peaks</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SLUSH-files/img/21_Unchained Phoenix_front.jpg" num="21a">SLUSH</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Warden of the Peaks</related>
+		</card>
+		<card>
+			<name>Warden of the Peaks</name>
+			<text>Flying
+When this creature enters, attacks, or transforms into Warden of the Peaks, exile the top X cards of your library, where X is the amount of life you&apos;ve lost this turn. You may play them until the end of your next turn.
+---
+(Front): Unchained Phoenix</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SLUSH-files/img/21_Unchained Phoenix_back.jpg" num="21b">SLUSH</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Unchained Phoenix</related>
+		</card>
+		<card>
+			<name>Military Phoenix</name>
+			<text>Flying, haste
+This creature can&apos;t block.
+When this creature dies, create a token that&apos;s a copy of it in your reserves. ({3}: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SLUSH-files/img/11_Military Phoenix.jpg" num="11">SLUSH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Regal Phoenix</name>
+			<text>Flying, haste
+Forsake: Return this card from your graveyard to the battlefield with a finality counter on it. (To forsake, sacrifice creatures with total toughness 3 or more.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SLUSH-files/img/17_Regal Phoenix.jpg" num="17">SLUSH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Adventuruous Phoenix</name>
+			<text>Flying, haste
+This creature attacks each combat if able.
+When this creature dies, if it has toughness less than the number of lands in your realm, return it to the battlefield with a +1/+1 counter on it. (Your realm consists of up to one land of each of the basic land types.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SLUSH-files/img/3_Adventuruous Phoenix.jpg" num="3">SLUSH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Divine Phoenix</name>
+			<text>Flying, haste
+Whenever this creature attacks, induct. (Create a 0/1 Cleric creature token with &quot;As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can&apos;t block.&quot;)
+You may cast this card from your graveyard by sacrificing a God in addition to its other costs.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SLUSH-files/img/23_Divine Phoenix.jpg" num="23">SLUSH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prophetic Phoenix</name>
+			<text>Flying, haste
+Foretell {2}{R}. You may foretell this card from your graveyard. (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SLUSH-files/img/15_Prophetic Phoenix.jpg" num="15">SLUSH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Marred Phoenix</name>
+			<text>Flying, haste
+Whenever this creature attacks, you get a Scar. (They&apos;re boons with &quot;When a creature you control dies, you may pay {1}. If you do, draw a card.&quot;)
+Whenever a boon you own triggers, you may pay {1}{R}. If you do, return this card from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SLUSH-files/img/10_Marred Phoenix.jpg" num="10">SLUSH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pathborn Phoenix</name>
+			<text>Pathbound {1}{R}. Activate only if a creature you control with flying dealt combat damage to an opponent this turn. ({1}{R}, Reveal this card from your sanctum as a sorcery: Put this card on top of your library.)
+Flying, haste
+When this creature enters, create a token that&apos;s a copy of target Phoenix card in your graveyard with mana value 3 or less.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SLUSH-files/img/28_Pathborn Phoenix.jpg" num="28">SLUSH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>2IR</manacost>
+				<cmc>4</cmc>
+				<colors>RI</colors>
+				<coloridentity>RI</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Interstellar Phoenix</name>
+			<text>Flying, haste
+{1}, Pay {VB}: Return this card from your graveyard to the battlefield. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SLUSH-files/img/8_Interstellar Phoenix.jpg" num="8">SLUSH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Adept Phoenix</name>
+			<text>Flying, haste
+When this creature enters, if it was cast, trace its skill into your hand. (Create that card. Traces are cards that become copies when they enter public zones.)
+[b]Rise From Ashes[/b] {1}{R}{R} | Skill Sorcery
+Return target card named Adept Phoenix from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SLUSH-files/img/2_Adept Phoenix.jpg" num="2">SLUSH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix Drake</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rise From Ashes</name>
+			<text>Return target card named Adept Phoenix from your graveyard to the battlefield.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/SLUSH-files/img/18_Rise From Ashes.jpg" num="18">SLUSH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Skill Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wish For Flame</name>
+			<text>Emerge {4}{R} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature&apos;s mana value.)
+Flying, haste
+When this creature dies, if it emerged from a creature, return it to the battlefield.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SLUSH-files/img/22_Wish For Flame.jpg" num="22">SLUSH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Firebird Caller</name>
+			<text>Haste
+When this creature enters, pursue Phoenix. This creature deals 2 damage to you. (To pursue Phoenix, reveal a basic land or Phoenix card from your sanctum and put it into your hand.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SLUSH-files/img/25_Firebird Caller.jpg" num="25">SLUSH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Twice-Called Phoenix</name>
+			<text>Flying, haste
+This creature gets +1/+0 for each creature you control.
+Reflect {2}{R}. You may activate this creature&apos;s Reflect ability from your graveyard. ({2}{R}: Create a token copy of this creature, except it&apos;s a 1/1 Wonder Phoenix without reflect. Reflect only as a sorcery, and only once.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SLUSH-files/img/19_Twice-Called Phoenix.jpg" num="19">SLUSH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Moondancer Phoenix</name>
+			<text>Flying, haste
+When this creature enters, if you cast it, [b][create a token that&apos;s a copy of this creature.]
+[/b]Impetus {1}{I}{R} (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SLUSH-files/img/26_Moondancer Phoenix.jpg" num="26">SLUSH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>4IR</manacost>
+				<cmc>6</cmc>
+				<colors>RI</colors>
+				<coloridentity>RI</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Phoenix of Folly</name>
+			<text>Flying, haste
+When this creature enters, conjure a card named Phoenix of Folly into your graveyard.
+Retopology {1}{R}{R}. This costs {R} more for each card you own named Phoenix of Folly in exile. (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SLUSH-files/img/12_Phoenix of Folly.jpg" num="12">SLUSH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unbroken Phoenix</name>
+			<text>Flying, haste
+Unrelenting (When this creature dies, if it wasn&apos;t a token, you may discard a card to create a token that&apos;s a copy of it with haste.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SLUSH-files/img/20_Unbroken Phoenix.jpg" num="20">SLUSH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reflected Phoenix</name>
+			<text>Flying, haste
+{5}{R}, Exile this card from your graveyard: Create a token that&apos;s a copy of this card, then you may mirror. (Create a token that&apos;s a copy of a token you control.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SLUSH-files/img/16_Reflected Phoenix.jpg" num="16">SLUSH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Emsen, Dream Phoenix</name>
+			<text>(Creatures don&apos;t lose loyalty from damage.)
+Flying
+[+1]: Draw a card, then discard a card.
+[-1]: Create a token that&apos;s a copy of target Phoenix card in your graveyard with mana value 3 or less, except it isn&apos;t legendary.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SLUSH-files/img/24_Emsen, Dream Phoenix.jpg" num="24">SLUSH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nebula Phoenix</name>
+			<text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
+Flying, haste
+When this creature dies, if it isn&apos;t a token, create a token that&apos;s a copy of it.</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SLUSH-files/img/27_Nebula Phoenix.jpg" num="27">SLUSH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Phoenix God</type>
+				<maintype>Creature</maintype>
+				<manacost>1UBR</manacost>
+				<cmc>4</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shattered Phoenix</name>
+			<text>Flying, deathtouch, haste
+Fracture — {BR}: Regenerate this creature. Activate only if you&apos;ve cast a noncreature spell this turn. (The next time this creature would be destroyed this turn, it isn&apos;t. Instead tap it.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SLUSH-files/img/31_Shattered Phoenix.jpg" num="31">SLUSH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blossoming Phoenix</name>
+			<text>Bloom (Whenever you cast a spell that targets this permanent, you may pay that spell&apos;s mana cost. If you do, copy that spell. You may choose new targets for the copy.)
+Flying, haste
+Whenever you cast a spell that targets, return this card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/SLUSH-files/img/6_Blossoming Phoenix.jpg" num="6">SLUSH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Architect of Blood Suns</name>
+			<text>Colorless spells you cast cost {1} less to cast.
+Whenever you cast a colorless spell, surveil 1. Then if you have six or more nonland colorless cards in your graveyard, exile this creature and each colored creature your opponents control.</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/SLUSH-files/img/1_Architect of Blood Suns.jpg" num="1">SLUSH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>1CCC</manacost>
+				<cmc>4</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Roaming Enchanter</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Once each turn, when you cast a noncreature spell, you may surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/SLUSH-files/img/30_Roaming Enchanter.jpg" num="30">SLUSH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

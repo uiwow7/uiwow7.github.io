@@ -1,0 +1,249 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Fated",
+			"rarity": "special",
+			"mana_cost": "{C}",
+			"type": "",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS01-files/img/4_Fated.jpg"
+			}
+		},
+		{
+			"name": "Subina of Twisting Fate",
+			"rarity": "special",
+			"mana_cost": "{2}{C}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS01-files/img/10_Subina of Twisting Fate.jpg"
+			}
+		},
+		{
+			"name": "Moonlit Guidance",
+			"rarity": "special",
+			"mana_cost": "{C}",
+			"type": "Sorcery",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS01-files/img/7_Moonlit Guidance.jpg"
+			}
+		},
+		{
+			"name": "Priest of the Subina",
+			"rarity": "special",
+			"mana_cost": "{1}{C}",
+			"type": "Creature — Lizard Cleric",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS01-files/img/9_Priest of the Subina.jpg"
+			}
+		},
+		{
+			"name": "Drifting Crevasse",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS01-files/img/14_Drifting Crevasse.jpg"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS01-files/img/2t_Spirit.jpg"
+			}
+		},
+		{
+			"name": "Make Into Infinity",
+			"rarity": "special",
+			"mana_cost": "{2}{C}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS01-files/img/6_Make Into Infinity.jpg"
+			}
+		},
+		{
+			"name": "Dragon of Ancients",
+			"rarity": "special",
+			"mana_cost": "{3}{C}{C}",
+			"type": "Creature — Spirit Dragon",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS01-files/img/3_Dragon of Ancients.jpg"
+			}
+		},
+		{
+			"name": "Touch of the Absolute",
+			"rarity": "special",
+			"mana_cost": "{1}{C}",
+			"type": "Enchantment — Aura",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS01-files/img/13_Touch of the Absolute.jpg"
+			}
+		},
+		{
+			"name": "Discern the Divine",
+			"rarity": "special",
+			"mana_cost": "{1}{C}",
+			"type": "Sorcery",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS01-files/img/2_Discern the Divine.jpg"
+			}
+		},
+		{
+			"name": "Fault",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Fault",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS01-files/img/15_Fault.jpg"
+			}
+		},
+		{
+			"name": "Tidewatcher",
+			"rarity": "special",
+			"mana_cost": "{C}",
+			"type": "Creature — Nightmare Mystic",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS01-files/img/12_Tidewatcher.jpg"
+			}
+		},
+		{
+			"name": "Power from Beyond",
+			"rarity": "special",
+			"mana_cost": "{C}",
+			"type": "Instant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS01-files/img/8_Power from Beyond.jpg"
+			}
+		},
+		{
+			"name": "Herald of Moonlight",
+			"rarity": "special",
+			"mana_cost": "{1}{C}",
+			"type": "Creature — Bird Spirit",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS01-files/img/5_Herald of Moonlight.jpg"
+			}
+		},
+		{
+			"name": "Ardent Starcaller",
+			"rarity": "special",
+			"mana_cost": "{3}{C}",
+			"type": "Creature — Human Mystic",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS01-files/img/1_Ardent Starcaller.jpg"
+			}
+		},
+		{
+			"name": "Tears of the Cosmos",
+			"rarity": "special",
+			"mana_cost": "{2}{C}",
+			"type": "Enchantment",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS01-files/img/11_Tears of the Cosmos.jpg"
+			}
+		},
+		{
+			"name": "Bird Spirit",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Bird Spirit",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS01-files/img/1t_Bird Spirit.jpg"
+			}
+		},
+		{
+			"name": "Fault",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Fault",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS01-files/img/16_Fault.jpg"
+			}
+		},
+		{
+			"name": "Fault",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Fault",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS01-files/img/17_Fault.jpg"
+			}
+		},
+		{
+			"name": "Fault",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Fault",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS01-files/img/18_Fault.jpg"
+			}
+		},
+		{
+			"name": "Fault",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Fault",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS01-files/img/19_Fault.jpg"
+			}
+		},
+		{
+			"name": "Fault",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Fault",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS01-files/img/20_Fault.jpg"
+			}
+		},
+		{
+			"name": "Fault",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Fault",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS01-files/img/21_Fault.jpg"
+			}
+		}
+	]
+
+[cube(15)]
+	1 Fated
+	1 Subina of Twisting Fate
+	1 Moonlit Guidance
+	1 Priest of the Subina
+	1 Drifting Crevasse
+	1 Make Into Infinity
+	1 Dragon of Ancients
+	1 Touch of the Absolute
+	1 Discern the Divine
+	1 Tidewatcher
+	1 Power from Beyond
+	1 Herald of Moonlight
+	1 Ardent Starcaller
+	1 Tears of the Cosmos

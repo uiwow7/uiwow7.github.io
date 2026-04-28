@@ -7,12 +7,20 @@
 		"SHD"
 	],
 	"Misc": [
-		"SHS"
+		"SHS",
+		"SLUSH",
+		"AANG"
 	],
 	"Card Contests": [
 		"CC01",
 		"CC01-OLD",
 		"MC25",
 		"MSY"
+	],
+	"Jumpstart": [
+		"JS01",
+		"JS02",
+		"JS03",
+		"JS04"
 	]
 }

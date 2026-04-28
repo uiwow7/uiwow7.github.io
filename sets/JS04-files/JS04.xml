@@ -1,0 +1,339 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>JS04</name>
+			<longname>Jumpstart — Dreaming</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-04-27</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Dreaming</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS04-files/img/1_Dreaming.jpg" num="1">JS04</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gilded Hunter</name>
+			<text>Enchantments you control have ward {1}. (Whenever one of them becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+{3}{I}: Surveil 1, then draw a card and discard a card. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/JS04-files/img/3_Gilded Hunter.jpg" num="3">JS04</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Icon Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Release from Forever</name>
+			<text>Choose one —
+• Target creature gets +2/-2 until end of turn.
+• Target creature gets -2/+2 until end of turn.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS04-files/img/7_Release from Forever.jpg" num="7">JS04</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pensive Meditator</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Pensive Meditator has healing 2 as long as you&apos;ve cast a noncreature spell this turn. (Damage dealt by a creature with healing 2 also causes its controller to gain 2 life.)</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/JS04-files/img/6_Pensive Meditator.jpg" num="6">JS04</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Messenger of Fate</name>
+			<text>Flying
+Whenever Messenger of Fate becomes tapped, you surveil 1 and gain 1 life. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS04-files/img/5_Messenger of Fate.jpg" num="5">JS04</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Whale</type>
+				<maintype>Creature</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Watching the Winds</name>
+			<text>When Watching the Winds enters, draw a card.
+{1}{I}: You gain 1 life and each opponent loses 1 life.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS04-files/img/12_Watching the Winds.jpg" num="12">JS04</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Warped Walker</name>
+			<text>Whenever Warped Walker or another enchantment enters under your control, each opponent loses 1 life and you gain 1 life.
+Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until your next turn.)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS04-files/img/11_Warped Walker.jpg" num="11">JS04</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Enchantment — Horror Elk Entity</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Imprison in Dreams</name>
+			<text>When Imprison in Dreams enters, tap target creature and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Tapped creatures your opponents control lose all abilities.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/JS04-files/img/4_Imprison in Dreams.jpg" num="4">JS04</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2I</manacost>
+				<cmc>3</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Repear of Wishes</name>
+			<text>Ward—Pay 2 life (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)
+When this creature enters, it deals damage to any noncreature target equal to the number of enchantments you control. (Players aren&apos;t creatures.)</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/JS04-files/img/8_Repear of Wishes.jpg" num="8">JS04</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2I</manacost>
+				<cmc>3</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Warden of Desolation</name>
+			<text>This spell costs {1} less to cast for each enchantment you control.
+Menace (This creature can&apos;t be blocked except by two or more creatures.)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS04-files/img/10_Warden of Desolation.jpg" num="10">JS04</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>6I</manacost>
+				<cmc>7</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spectral Wolf</name>
+			<text>Spectral Wolf gets +1/+1 for each enchantment you control.
+Materialize 3 (Tap one or more other enchantments you control with total mana value 3 or more: This also becomes an Icon creature until your next turn.)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS04-files/img/9_Spectral Wolf.jpg" num="9">JS04</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Enchantment — Wolf Entity</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3I</manacost>
+				<cmc>4</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dreams of Tranquility</name>
+			<text>Other enchantment creatures you control get +1/+1.
+Fracture — At the beginning of combat on your turn, if you cast a noncreature spell this turn, Dreams of Tranquility becomes a 3/3 creature with flying in addition to its other types until end of turn.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/JS04-files/img/2_Dreams of Tranquility.jpg" num="2">JS04</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2I</manacost>
+				<cmc>3</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Drifting Crevasse</name>
+			<text>{T}: Add {I}. You lose 1 life unless you control a silver permanent.
+Exhaust — {T}: Choose a color. (Activate each exhaust ability only once.)
+{T}: Add one mana of the chosen color.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS04-files/img/13_Drifting Crevasse.jpg" num="13">JS04</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Fault</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS04-files/img/14_Fault.jpg" num="14">JS04</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Fault</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Fault</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS04-files/img/15_Fault.jpg" num="15">JS04</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Fault</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Fault</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS04-files/img/16_Fault.jpg" num="16">JS04</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Fault</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Fault</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS04-files/img/17_Fault.jpg" num="17">JS04</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Fault</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Fault</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS04-files/img/18_Fault.jpg" num="18">JS04</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Fault</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Fault</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS04-files/img/19_Fault.jpg" num="19">JS04</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Fault</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Fault</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/JS04-files/img/20_Fault.jpg" num="20">JS04</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Fault</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

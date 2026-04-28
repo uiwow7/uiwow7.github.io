@@ -1,0 +1,249 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Majesty",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS02-files/img/6_Majesty.jpg"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS02-files/img/15_Plains.jpg"
+			}
+		},
+		{
+			"name": "Mirena of Fallen Stars",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS02-files/img/8_Mirena of Fallen Stars.jpg"
+			}
+		},
+		{
+			"name": "Priest of the Mirena",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS02-files/img/10_Priest of the Mirena.jpg"
+			}
+		},
+		{
+			"name": "Acolyte of Sunlight",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS02-files/img/1_Acolyte of Sunlight.jpg"
+			}
+		},
+		{
+			"name": "Call of the Sun",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS02-files/img/2_Call of the Sun.jpg"
+			}
+		},
+		{
+			"name": "Everlasting Journey",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS02-files/img/3_Everlasting Journey.jpg"
+			}
+		},
+		{
+			"name": "Majesty of Suns",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS02-files/img/7_Majesty of Suns.jpg"
+			}
+		},
+		{
+			"name": "Sunwolf",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Wolf Spirit",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS02-files/img/13_Sunwolf.jpg"
+			}
+		},
+		{
+			"name": "Prayer of Devotion",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS02-files/img/9_Prayer of Devotion.jpg"
+			}
+		},
+		{
+			"name": "Gaze of Seclusion",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS02-files/img/4_Gaze of Seclusion.jpg"
+			}
+		},
+		{
+			"name": "Serene Watchfulness",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Eye",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS02-files/img/11_Serene Watchfulness.jpg"
+			}
+		},
+		{
+			"name": "Herald of Suns",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS02-files/img/5_Herald of Suns.jpg"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS02-files/img/2t_Spirit.jpg"
+			}
+		},
+		{
+			"name": "Cleric",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Cleric",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS02-files/img/1t_Cleric.jpg"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS02-files/img/16_Plains.jpg"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS02-files/img/17_Plains.jpg"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS02-files/img/18_Plains.jpg"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS02-files/img/19_Plains.jpg"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS02-files/img/20_Plains.jpg"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS02-files/img/21_Plains.jpg"
+			}
+		},
+		{
+			"name": "Drifting Field",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS02-files/img/14_Drifting Field.jpg"
+			}
+		},
+		{
+			"name": "Servant of Virtue",
+			"rarity": "special",
+			"mana_cost": "{6}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS02-files/img/12_Servant of Virtue.jpg"
+			}
+		}
+	]
+
+[cube(15)]
+	1 Majesty
+	1 Mirena of Fallen Stars
+	1 Priest of the Mirena
+	1 Acolyte of Sunlight
+	1 Call of the Sun
+	1 Everlasting Journey
+	1 Majesty of Suns
+	1 Sunwolf
+	1 Prayer of Devotion
+	1 Gaze of Seclusion
+	1 Serene Watchfulness
+	1 Herald of Suns
+	1 Drifting Field
+	1 Servant of Virtue

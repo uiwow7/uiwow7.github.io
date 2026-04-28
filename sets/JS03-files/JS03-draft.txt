@@ -1,0 +1,239 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Cosmic Terror",
+			"rarity": "special",
+			"mana_cost": "{C}",
+			"type": "",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS03-files/img/5_Cosmic Terror.jpg"
+			}
+		},
+		{
+			"name": "Herald of Moonlight",
+			"rarity": "special",
+			"mana_cost": "{1}{C}",
+			"type": "Creature — Bird Spirit",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS03-files/img/6_Herald of Moonlight.jpg"
+			}
+		},
+		{
+			"name": "Wings of Terror",
+			"rarity": "special",
+			"mana_cost": "{3}{C}{C}",
+			"type": "Creature — Dragon",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS03-files/img/13_Wings of Terror.jpg"
+			}
+		},
+		{
+			"name": "Void Wayfarer",
+			"rarity": "special",
+			"mana_cost": "{C}",
+			"type": "Creature — Spirit",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS03-files/img/11_Void Wayfarer.jpg"
+			}
+		},
+		{
+			"name": "Center Mass",
+			"rarity": "special",
+			"mana_cost": "{C}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS03-files/img/4_Center Mass.jpg"
+			}
+		},
+		{
+			"name": "Blood of Ancients",
+			"rarity": "special",
+			"mana_cost": "{C}",
+			"type": "Enchantment",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS03-files/img/2_Blood of Ancients.jpg"
+			}
+		},
+		{
+			"name": "Starcatcher",
+			"rarity": "special",
+			"mana_cost": "{1}{C}",
+			"type": "Creature — Dog Spirit",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS03-files/img/10_Starcatcher.jpg"
+			}
+		},
+		{
+			"name": "Search for Starlight",
+			"rarity": "special",
+			"mana_cost": "{1}{C}",
+			"type": "Instant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS03-files/img/8_Search for Starlight.jpg"
+			}
+		},
+		{
+			"name": "Become Eternity",
+			"rarity": "special",
+			"mana_cost": "{1}{C}",
+			"type": "Sorcery",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS03-files/img/1_Become Eternity.jpg"
+			}
+		},
+		{
+			"name": "Spirit of Starlight",
+			"rarity": "special",
+			"mana_cost": "{2}{C}",
+			"type": "Creature — Avatar Spirit",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS03-files/img/9_Spirit of Starlight.jpg"
+			}
+		},
+		{
+			"name": "Watcher of the Ancients",
+			"rarity": "special",
+			"mana_cost": "{3}{C}",
+			"type": "Creature — Elk Spirit",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS03-files/img/12_Watcher of the Ancients.jpg"
+			}
+		},
+		{
+			"name": "Celestial Caller",
+			"rarity": "special",
+			"mana_cost": "{2}{C}",
+			"type": "Creature — Spirit",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS03-files/img/3_Celestial Caller.jpg"
+			}
+		},
+		{
+			"name": "Oracle of Stars",
+			"rarity": "special",
+			"mana_cost": "{3}{C}",
+			"type": "Creature — Spirit Mystic",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS03-files/img/7_Oracle of Stars.jpg"
+			}
+		},
+		{
+			"name": "Drifting Crevasse",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS03-files/img/14_Drifting Crevasse.jpg"
+			}
+		},
+		{
+			"name": "Fault",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Fault",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS03-files/img/15_Fault.jpg"
+			}
+		},
+		{
+			"name": "Fault",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Fault",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS03-files/img/16_Fault.jpg"
+			}
+		},
+		{
+			"name": "Fault",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Fault",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS03-files/img/17_Fault.jpg"
+			}
+		},
+		{
+			"name": "Fault",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Fault",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS03-files/img/18_Fault.jpg"
+			}
+		},
+		{
+			"name": "Fault",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Fault",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS03-files/img/19_Fault.jpg"
+			}
+		},
+		{
+			"name": "Fault",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Fault",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS03-files/img/20_Fault.jpg"
+			}
+		},
+		{
+			"name": "Fault",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Fault",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS03-files/img/21_Fault.jpg"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/JS03-files/img/1t_Spirit.jpg"
+			}
+		}
+	]
+
+[cube(15)]
+	1 Cosmic Terror
+	1 Herald of Moonlight
+	1 Wings of Terror
+	1 Void Wayfarer
+	1 Center Mass
+	1 Blood of Ancients
+	1 Starcatcher
+	1 Search for Starlight
+	1 Become Eternity
+	1 Spirit of Starlight
+	1 Watcher of the Ancients
+	1 Celestial Caller
+	1 Oracle of Stars
+	1 Drifting Crevasse

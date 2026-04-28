@@ -5,7 +5,7 @@
 			<name>CC01</name>
 			<longname>Voyager Card Contest 1 — Aanginer</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-03-31</releasedate>
+			<releasedate>2026-04-27</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -350,7 +350,7 @@ At the beginning of your end step, each opponent loses 1 life.</text>
 		<card>
 			<name>Sun&apos;s Ardor</name>
 			<text>Flying
-When Sun&apos;s Ardor enters, pursue Wonder. (Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)
+When Sun&apos;s Ardor enters, pursue Wonder. (Reveal a basic land or Wonder card from your sanctum and put it into your hand.)
 Exhaust — Exile a creature you control: Put two +1/+1 counters on Sun&apos;s Ardor. Activate only as a sorcery. (Activate each exhaust ability only once.)</text>
 			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/4_Sun&apos;s Ardor.jpg" num="4">CC01</set>
 			<prop>
@@ -369,7 +369,7 @@ Exhaust — Exile a creature you control: Put two +1/+1 counters on Sun&apos;s A
 		<card>
 			<name>Call of the Sky</name>
 			<text>Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
-Pursue Wonder. (Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</text>
+Pursue Wonder. (Reveal a basic land or Wonder card from your sanctum and put it into your hand.)</text>
 			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/18_Call of the Sky.jpg" num="18">CC01</set>
 			<prop>
 				<layout>normal</layout>
@@ -403,7 +403,7 @@ Once during each of your turns, if you would gain life, you may pursue Wonder in
 		</card>
 		<card>
 			<name>Call of the Sea</name>
-			<text>Draw a card, then pursue Wonder. (Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)
+			<text>Draw a card, then pursue Wonder. (Reveal a basic land or Wonder card from your sanctum and put it into your hand.)
 Discard a card.</text>
 			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/6_Call of the Sea.jpg" num="6">CC01</set>
 			<prop>
@@ -560,7 +560,7 @@ Warp {1}{C} (You may cast this card from your hand for its warp cost. Exile this
 		</card>
 		<card>
 			<name>Dream Prophet</name>
-			<text>Whenever Dream Prophet deals excess damage to a permanent, pursue Wonder. (Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</text>
+			<text>Whenever Dream Prophet deals excess damage to a permanent, pursue Wonder. (Reveal a basic land or Wonder card from your sanctum and put it into your hand.)</text>
 			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/15_Dream Prophet.jpg" num="15">CC01</set>
 			<prop>
 				<layout>normal</layout>

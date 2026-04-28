@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "AANG",
+            "set_name": "Aang Format??",
+            "formats": ""
+        },
+        {
             "set_code": "CC01",
             "set_name": "Voyager Card Contest 1 \u2014 Aanginer",
             "formats": ""
@@ -21,6 +26,26 @@
             "formats": ""
         },
         {
+            "set_code": "JS01",
+            "set_name": "Jumpstart \u2014 Fated",
+            "formats": ""
+        },
+        {
+            "set_code": "JS02",
+            "set_name": "Jumpstart \u2014 Majesty",
+            "formats": ""
+        },
+        {
+            "set_code": "JS03",
+            "set_name": "Jumpstart \u2014 Cosmic Terror",
+            "formats": ""
+        },
+        {
+            "set_code": "JS04",
+            "set_name": "Jumpstart \u2014 Dreaming",
+            "formats": ""
+        },
+        {
             "set_code": "MC25",
             "set_name": "Aaanginer MC25 Submission",
             "formats": ""
@@ -38,6 +63,11 @@
         {
             "set_code": "SHS",
             "set_name": "A Shattered Sword",
+            "formats": ""
+        },
+        {
+            "set_code": "SLUSH",
+            "set_name": "Slush File",
             "formats": ""
         }
     ]

@@ -5,12 +5,12 @@
 			<name>AANG</name>
 			<longname>Aang Format??</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-04-27</releasedate>
+			<releasedate>2026-04-28</releasedate>
 		</set>
 	</sets>
 	<cards>
 		<card>
-			<name>Aang Standard Notes: Sets AANG</name>
+			<name>Aang Standard Notes — Sets AANG</name>
 			<text>Sets:
 • FST (Falling Stars — Space set)
 • DON (Dreams of Nasen — Surreal dream set) (Reveal a Dream card from your sanctum and put it into your hand or draw a card.)
@@ -24,7 +24,7 @@ FST mechanics:
 • Skyward (You may cast this spell from your sanctum as though it had flash by exiling an instant or sorcery spell you control that isn&apos;t being targeted.)
 • Conjure
 • Warp (horrors)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/4t_Aang Standard Notes: Sets.jpg" num="4">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/5t_Aang Standard Notes — Sets.jpg" num="5">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -39,7 +39,7 @@ FST mechanics:
 			<token>1</token>
 		</card>
 		<card>
-			<name>Aang Standard Notes: Sets (pt2) AANG</name>
+			<name>Aang Standard Notes — Sets (pt2) AANG</name>
 			<text>DON mechanics:
 • Sagas
 • Disturb
@@ -57,7 +57,7 @@ FWO mechanics:
 • offspring
 • Landfall
 • Verdant (This card can&apos;t start in your deck. {1}, Exile an untapped land you control as a sorcery: Put this card from your sanctum onto the battlefield.)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/5t_Aang Standard Notes: Sets (pt2).jpg" num="5">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/6t_Aang Standard Notes — Sets (pt2).jpg" num="6">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -72,7 +72,7 @@ FWO mechanics:
 			<token>1</token>
 		</card>
 		<card>
-			<name>Aang Standard Notes: Sets (pt3) AANG</name>
+			<name>Aang Standard Notes — Sets (pt3) AANG</name>
 			<text>DDR mechanics:
 • Omens
 • Ascension (ability word: When a card leaves grave)
@@ -84,7 +84,7 @@ QES mechanics:
 • evoke
 • mobilize
 • FORGIVE ([cost], reveal this from your sanctum: Put it into your graveyard)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/6t_Aang Standard Notes: Sets (pt3).jpg" num="6">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/7t_Aang Standard Notes — Sets (pt3).jpg" num="7">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -127,7 +127,7 @@ sanctum
 1 Behold True Suns
 1 Starseeker Whale
 1 Hunger Arisen</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/9t_IR Phoenix.jpg" num="9">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/10t_IR Phoenix.jpg" num="10">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -579,7 +579,7 @@ Whenever Tannin Explorer attacks, discard your hand, then draw two cards. [4/4]<
 		<card>
 			<name>Mystic AANG</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/15t_Mystic.jpg" num="15">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/16t_Mystic.jpg" num="16">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -782,7 +782,7 @@ Conjure two cards named Embrace the Void into your hand. (They&apos;re {U} insta
 		<card>
 			<name>Embrace the Void AANG</name>
 			<text>Draw a card, then discard a card.</text>
-			<set rarity="masterpiece" picurl="https://uiwow7.github.io/sets/AANG-files/img/10t_Embrace the Void.jpg" num="10">AANG</set>
+			<set rarity="masterpiece" picurl="https://uiwow7.github.io/sets/AANG-files/img/11t_Embrace the Void.jpg" num="11">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1093,7 +1093,7 @@ III — Noncreature spells you cast this turn cost {1} less to cast.</text>
 		<card>
 			<name>Horror AANG</name>
 			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/11t_Horror.jpg" num="11">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/12t_Horror.jpg" num="12">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1128,7 +1128,7 @@ III — Draw a card</text>
 		<card>
 			<name>Scout AANG</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/12t_Scout.jpg" num="12">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/13t_Scout.jpg" num="13">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1145,7 +1145,7 @@ III — Draw a card</text>
 		<card>
 			<name>Spirit AANG</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/13t_Spirit.jpg" num="13">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/14t_Spirit.jpg" num="14">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1162,7 +1162,7 @@ III — Draw a card</text>
 		<card>
 			<name>Wizard AANG</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/14t_Wizard.jpg" num="14">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/15t_Wizard.jpg" num="15">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1215,7 +1215,7 @@ III — ​</text>
 3 Plains
 sanctum
 1 Trial of Midnight</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/3t_WB Unearth.jpg" num="3">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/4t_WB Unearth.jpg" num="4">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1674,7 +1674,7 @@ III — Search your library for a card, put it into your hand, then shuffle.</te
 		<card>
 			<name>Cleric AANG</name>
 			<text>Vigilance</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/8t_Cleric.jpg" num="8">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/9t_Cleric.jpg" num="9">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1691,7 +1691,7 @@ III — Search your library for a card, put it into your hand, then shuffle.</te
 		<card>
 			<name>Bird AANG</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/7t_Bird.jpg" num="7">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/8t_Bird.jpg" num="8">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1707,7 +1707,7 @@ III — Search your library for a card, put it into your hand, then shuffle.</te
 		<card>
 			<name>Demon AANG</name>
 			<text>Lifelink</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/16t_Demon.jpg" num="16">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/17t_Demon.jpg" num="17">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1735,7 +1735,7 @@ III — Search your library for a card, put it into your hand, then shuffle.</te
 3 Firemist Explorer
 3 Through Hellish Skies
 20 Mountain</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/2t_Mono-red Aggro.jpg" num="2">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/3t_Mono-red Aggro.jpg" num="3">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2027,6 +2027,21 @@ Whenever Mammoth Riders deals combat damage to a player, exile a card at random 
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>G Landfall AANG</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/2t_G Landfall.jpg" num="2">AANG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

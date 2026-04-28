@@ -1,33 +1,33 @@
 ﻿[CustomCards]
 	[
 		{
-			"name": "Aang Standard Notes: Sets",
-			"rarity": "special",
-			"mana_cost": "{W}",
-			"type": "",
-			"collector_number": "4",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/AANG-files/img/4t_Aang Standard Notes: Sets.jpg"
-			}
-		},
-		{
-			"name": "Aang Standard Notes: Sets (pt2)",
+			"name": "Aang Standard Notes — Sets",
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/AANG-files/img/5t_Aang Standard Notes: Sets (pt2).jpg"
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/5t_Aang Standard Notes — Sets.jpg"
 			}
 		},
 		{
-			"name": "Aang Standard Notes: Sets (pt3)",
+			"name": "Aang Standard Notes — Sets (pt2)",
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/AANG-files/img/6t_Aang Standard Notes: Sets (pt3).jpg"
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/6t_Aang Standard Notes — Sets (pt2).jpg"
+			}
+		},
+		{
+			"name": "Aang Standard Notes — Sets (pt3)",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/7t_Aang Standard Notes — Sets (pt3).jpg"
 			}
 		},
 		{
@@ -35,9 +35,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/AANG-files/img/9t_IR Phoenix.jpg"
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/10t_IR Phoenix.jpg"
 			}
 		},
 		{
@@ -295,9 +295,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Mystic",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/AANG-files/img/15t_Mystic.jpg"
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/16t_Mystic.jpg"
 			}
 		},
 		{
@@ -389,9 +389,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/AANG-files/img/10t_Embrace the Void.jpg"
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/11t_Embrace the Void.jpg"
 			}
 		},
 		{
@@ -569,9 +569,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Horror",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/AANG-files/img/11t_Horror.jpg"
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/12t_Horror.jpg"
 			}
 		},
 		{
@@ -589,9 +589,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Scout",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/AANG-files/img/12t_Scout.jpg"
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/13t_Scout.jpg"
 			}
 		},
 		{
@@ -599,9 +599,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Spirit",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/AANG-files/img/13t_Spirit.jpg"
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/14t_Spirit.jpg"
 			}
 		},
 		{
@@ -609,9 +609,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Wizard",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/AANG-files/img/14t_Wizard.jpg"
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/15t_Wizard.jpg"
 			}
 		},
 		{
@@ -629,9 +629,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "3",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/AANG-files/img/3t_WB Unearth.jpg"
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/4t_WB Unearth.jpg"
 			}
 		},
 		{
@@ -886,9 +886,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Cleric",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/AANG-files/img/8t_Cleric.jpg"
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/9t_Cleric.jpg"
 			}
 		},
 		{
@@ -896,9 +896,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Bird",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/AANG-files/img/7t_Bird.jpg"
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/8t_Bird.jpg"
 			}
 		},
 		{
@@ -906,9 +906,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Demon",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/AANG-files/img/16t_Demon.jpg"
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/17t_Demon.jpg"
 			}
 		},
 		{
@@ -916,9 +916,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "2",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/AANG-files/img/2t_Mono-red Aggro.jpg"
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/3t_Mono-red Aggro.jpg"
 			}
 		},
 		{
@@ -1079,6 +1079,16 @@
 			"collector_number": "49",
 			"image_uris": {
 				"en": "https://uiwow7.github.io/sets/AANG-files/img/49_Mammoth Riders.jpg"
+			}
+		},
+		{
+			"name": "G Landfall",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/AANG-files/img/2t_G Landfall.jpg"
 			}
 		}
 	]

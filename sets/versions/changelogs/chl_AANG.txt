@@ -1,4 +1,356 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+IR Phoenix
+
+Find Order in Chaos
+
+Read the Stars
+
+Piercing Lightning
+
+Reach for Enlightenment
+
+Sunset Seeker
+
+Starfall Phoenix
+
+Naer, King of Talan
+
+In the World of Dreams
+
+Twisting Turmoil
+
+Herald of Flame
+
+Center Mass
+
+Path to Infinity
+
+Sunlit Cliffs
+
+Towering Spires
+
+Mystical Valley
+
+Divine Gateway
+
+Mystic's Quest
+
+Rain of Flowers
+
+Untouched Pinnacles
+
+Unbroken Effigies
+
+Behold True Suns
+
+Village on the Peaks
+
+Starseeker Whale
+
+Hunger Arisen
+
+Tannin Explorer
+
+Mystic
+
+Alom, Dreamlord
+
+Galaxy Rings
+
+Phantom Channeler
+
+Cosmic Manipulation
+
+Embrace the Void
+
+Return to Essence
+
+Unrestrained Tides
+
+Tempting Proposition
+
+Celestial Command Center
+
+Azali, Spectral Hunter
+
+Ruminate
+
+Stoneborn Crab
+
+Gone in an Instant
+
+Frozen Seascape
+
+Abandoned Tradepost
+
+Cloudwater Visions
+
+Lotusfall
+
+Properous Skyscape
+
+Cosmic Nexus
+
+Ardent Starkeeper
+
+Hunting for Memories
+
+Horror
+
+Wizard's Quest
+
+Scout
+
+Spirit
+
+Wizard
+
+WB Unearth
+
+Comfort of Return
+
+Steel Enforcer
+
+Knight of Finality
+
+Trial of Midnight
+
+Forgotten Cliffwatcher
+
+Ranor, Spectral Lightbearer
+
+Splinter into Nightmares
+
+Fracture
+
+Golden Slayer
+
+Trap in Eternity
+
+Delve into Storms
+
+Sky Seer
+
+Desolate Cliffside
+
+Transcendent Towers
+
+Barren Heath
+
+Prismatic Vista
+
+Whispers of Autumn
+
+Watch by Candlelight
+
+Mourn Lost Virtue
+
+Let Them Blossom
+
+Darkstar Prowler
+
+Burn Eternally Bright
+
+Cleric
+
+Bird
+
+Demon
+
+Mono-red Aggro
+
+Flamepeak Guardian
+
+Aurora Reader
+
+Seek the Stars
+
+Blood Howler
+
+Lone Explorer
+
+Bleeding Moon Dragon
+
+Ashfall Herald
+
+Firemist Seeker
+
+Phoenix
+
+Big Blue
+
+Unearth
+
+Aggro
+
+Unchained Monstrosity
+
+Through Hellish Skies
+
+Lightning Strike
+
+Mammoth Riders
+
+Bant Sagas
+
+Tared, First of the Divine
+
+Druidic Visionary
+
+Celestial Wielder
+
+Dreamwatcher
+
+Lakedancer Elk
+
+Seedborn Combatant
+
+Warden of Saplings
+
+Heavenly Containment
+
+Path of Ascension
+
+Sagas
+
+Glistening Hope
+
+Search for Essence
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Search your library for two land cards and reveal them. Put one onto the battlefield tapped and the other into your hand, then shuffle.
+Put four +1/+1 counters on target noncreature permanent you control. It becomes a 0/0 creature.
+Creatures you control get +1/+1 and gain trample until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for two land cards and reveal them. Put one onto the battlefield tapped and the other into your hand, then shuffle.
+II — Put four +1/+1 counters on target noncreature permanent you control. It becomes a 0/0 creature.
+III — Creatures you control get +1/+1 and gain trample until end of turn.
+
+Haunted by Moonlight
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Each player draws two cards.
+You gain life equal to the number of cards in your hand.
+Return up to one other target permanent you control to its owner's land. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each player draws two cards.
+II — You gain life equal to the number of cards in your hand.
+III — Return up to one other target permanent you control to its owner's land.
+
+Blessed by Sunlight
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create two 2/2 green and white Spirit creature tokens with vigilance.
+Put a +1/+1 counter on each creature you control.
+Shuffle any number of cards from your graveyard into your library. You gain that much life. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two 2/2 green and white Spirit creature tokens with vigilance.
+II — Put a +1/+1 counter on each creature you control.
+III — Shuffle any number of cards from your graveyard into your library. You gain that much life.
+
+Visions of Flowering
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+You may play an additional land this turn.
+Surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+Draw a card. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You may play an additional land this turn.
+II, III — Surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+Draw a card.
+
+GI Ramp
+
+Forgotten Wayfarer
+
+In Full Bloom
+
+Frosted Landscape
+
+Dawn Prarie
+
+Tranquil Meadow
+
+Frozen Cavern
+
+Peacful Jungle
+
+Submerged Woodland
+
+Druid of High Earth
+
+Forsaken Worlds
+
+
+VERSION 2 CHANGELOG
+====================
+
+
+
+Stoneborn Crab
+
+Trap in Eternity
+
+Mourn Lost Virtue
+
+Mono-red Aggro
+
+Flamepeak Guardian
+
+Aurora Reader
+
+Seek the Stars
+
+Blood Howler
+
+Lone Explorer
+
+Bleeding Moon Dragon
+
+Ashfall Herald
+
+Firemist Seeker
+
+Aggro
+
+Unchained Monstrosity
+
+Through Hellish Skies
+
+Lightning Strike
+
+Mammoth Riders
+
+Bant Sagas
+
+Tared, First of the Divine
+
+Druidic Visionary
+
+Celestial Wielder
+
+Dreamwatcher
+
+Lakedancer Elk
+
+Seedborn Combatant
+
+Warden of Saplings
+
+Heavenly Containment
+
+Path of Ascension
+
+Sagas
+
+Glistening Hope
+
+Search for Essence
+
+Haunted by Moonlight
+
+Blessed by Sunlight
+
+Visions of Flowering
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

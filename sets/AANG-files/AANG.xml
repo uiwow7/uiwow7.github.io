@@ -3,9 +3,9 @@
 	<sets>
 		<set>
 			<name>AANG</name>
-			<longname>Aang Format??</longname>
+			<longname>Voyager II</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-04-28</releasedate>
+			<releasedate>2026-05-15</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -13,7 +13,7 @@
 			<name>Aang Standard Notes — Sets AANG</name>
 			<text>Sets:
 • FST (Falling Stars — Space set)
-• DON (Dreams of Nasen — Surreal dream set) (Reveal a Dream card from your sanctum and put it into your hand or draw a card.)
+• DON (Dreams of Nalen — Surreal dream set) (Reveal a Dream card from your sanctum and put it into your hand or draw a card.)
 • RGA (Rallea: Golden Age — Scifi set)
 • FWO (Forsaken Worlds — Zendikar alike)
 • DDR (Drakol: Divinity Rising — Generic fantasy set)
@@ -24,7 +24,7 @@ FST mechanics:
 • Skyward (You may cast this spell from your sanctum as though it had flash by exiling an instant or sorcery spell you control that isn&apos;t being targeted.)
 • Conjure
 • Warp (horrors)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/5t_Aang Standard Notes — Sets.jpg" num="5">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/6t_Aang Standard Notes — Sets.jpg" num="6">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -44,7 +44,7 @@ FST mechanics:
 • Sagas
 • Disturb
 • Omen
-• WISHBOARD MECHANIC that grabs an enchantment or draws
+• Dream (Reveal a Dream card from your sanctum and put it into your hand or draw a card.)
 
 RGA mechanics:
 • Spacecraft
@@ -57,7 +57,7 @@ FWO mechanics:
 • offspring
 • Landfall
 • Verdant (This card can&apos;t start in your deck. {1}, Exile an untapped land you control as a sorcery: Put this card from your sanctum onto the battlefield.)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/6t_Aang Standard Notes — Sets (pt2).jpg" num="6">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/7t_Aang Standard Notes — Sets (pt2).jpg" num="7">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -84,7 +84,7 @@ QES mechanics:
 • evoke
 • mobilize
 • FORGIVE ([cost], reveal this from your sanctum: Put it into your graveyard)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/7t_Aang Standard Notes — Sets (pt3).jpg" num="7">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/8t_Aang Standard Notes — Sets (pt3).jpg" num="8">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -127,7 +127,7 @@ sanctum
 1 Behold True Suns
 1 Starseeker Whale
 1 Hunger Arisen</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/10t_IR Phoenix.jpg" num="10">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/11t_IR Phoenix.jpg" num="11">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -145,7 +145,7 @@ sanctum
 			<name>Find Order in Chaos</name>
 			<text>Draw two cards, then discard two cards.
 Realize {2}{R}{R} (Then if you cast this spell for its realize cost, put it onto the battlefield as a creature after it resolves.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/43_Find Order in Chaos.jpg" num="43">AANG</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/47_Find Order in Chaos.jpg" num="47">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -163,7 +163,7 @@ Realize {2}{R}{R} (Then if you cast this spell for its realize cost, put it onto
 			<name>Read the Stars</name>
 			<text>Sift 1. (Look at the top card of your library. You may put it into your sanctum.)
 Draw a card.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/61_Read the Stars.jpg" num="61">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/72_Read the Stars.jpg" num="72">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -180,7 +180,7 @@ Draw a card.</text>
 			<name>Piercing Lightning</name>
 			<text>As an additional cost to cast this spell, you may discard a card.
 This spell deals 1 damage to target creature. If Piercing Lightning&apos;s additional cost was paid, it deals 5 damage instead.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/51_Piercing Lightning.jpg" num="51">AANG</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/55_Piercing Lightning.jpg" num="55">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -196,7 +196,7 @@ This spell deals 1 damage to target creature. If Piercing Lightning&apos;s addit
 		<card>
 			<name>Reach for Enlightenment</name>
 			<text>Look at the top two cards of your library. Put one into your hand and the other into your graveyard.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/60_Reach for Enlightenment.jpg" num="60">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/71_Reach for Enlightenment.jpg" num="71">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -212,7 +212,7 @@ This spell deals 1 damage to target creature. If Piercing Lightning&apos;s addit
 		<card>
 			<name>Sunset Seeker</name>
 			<text>Whenever you cast a noncreature spell, Sunset Seeker deals 1 damage to each opponent. If it&apos;s the second time this ability has triggered this turn, instead create a Mystic&apos;s Quest token. (It&apos;s a Saga enchantment with r{1}—Create a 1/1 silver Mystic creature token, r{2}—Each opponent loses 1 life and you gain 1 life, and r{3}—Draw a card from your sanctum at random.)</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/68_Sunset Seeker.jpg" num="68">AANG</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/86_Sunset Seeker.jpg" num="86">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -230,7 +230,7 @@ This spell deals 1 damage to target creature. If Piercing Lightning&apos;s addit
 			<name>Starfall Phoenix</name>
 			<text>Flying, haste
 {5}{R}: Return Starfall Phoenix from your graveyard to the battlefield. This ability costs {1} less to activate for each instant or sorcery card in your graveyard.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/53_Starfall Phoenix.jpg" num="53">AANG</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/57_Starfall Phoenix.jpg" num="57">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -252,7 +252,7 @@ When Naer, King of Talan enters, draw two cards, then discard a card.
 ---
 
 Surveil 1, then draw a card. (Then shuffle this card into its owner&apos;s library.)</text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/AANG-files/img/66_Naer, King of Talan.jpg" num="66">AANG</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/AANG-files/img/82_Naer, King of Talan.jpg" num="82">AANG</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -270,7 +270,7 @@ Surveil 1, then draw a card. (Then shuffle this card into its owner&apos;s libra
 			<name>In the World of Dreams</name>
 			<text>Each player mills two cards.
 Draw a card.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/64_In the World of Dreams.jpg" num="64">AANG</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/80_In the World of Dreams.jpg" num="80">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -287,7 +287,7 @@ Draw a card.</text>
 			<name>Twisting Turmoil</name>
 			<text>Whenever you cast a noncreature spell, sift 1. (Look at the top card of your library. You may put it into your sanctum.)
 {X}{I}{I}, Exile X cards from your graveyard: You may cast a noncreature spell with mana value X from your sanctum without paying its mana cost.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/63_Twisting Turmoil.jpg" num="63">AANG</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/74_Twisting Turmoil.jpg" num="74">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -305,7 +305,7 @@ Draw a card.</text>
 			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
 Haste
 When Herald of Flame enters, discard your hand, then draw three cards.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/46_Herald of Flame.jpg" num="46">AANG</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/50_Herald of Flame.jpg" num="50">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -322,7 +322,7 @@ When Herald of Flame enters, discard your hand, then draw three cards.</text>
 		<card>
 			<name>Center Mass</name>
 			<text>Center Mass deals 1 damage to any target. Surveil 3. (Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/56_Center Mass.jpg" num="56">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/67_Center Mass.jpg" num="67">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -338,7 +338,7 @@ When Herald of Flame enters, discard your hand, then draw three cards.</text>
 		<card>
 			<name>Path to Infinity</name>
 			<text>Ascension — Path to Infinity deals 2 damage to any target. If a card left your graveyard this turn, it deals 3 damage to that target instead.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/50_Path to Infinity.jpg" num="50">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/54_Path to Infinity.jpg" num="54">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -355,7 +355,7 @@ When Herald of Flame enters, discard your hand, then draw three cards.</text>
 			<name>Sunlit Cliffs</name>
 			<text>As Sunlit Cliffs enters, you may pay 2 life. If you don&apos;t, it enters tapped.
 {T}: Add {I} or {R}.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/82_Sunlit Cliffs.jpg" num="82">AANG</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/107_Sunlit Cliffs.jpg" num="107">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -371,7 +371,7 @@ When Herald of Flame enters, discard your hand, then draw three cards.</text>
 			<name>Towering Spires</name>
 			<text>This land enters tapped. When it does, sift 1. (Look at the top card of your library. You may put it into your sanctum.)
 {T}: Add {I} or {R}.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/84_Towering Spires.jpg" num="84">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/109_Towering Spires.jpg" num="109">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -387,7 +387,7 @@ When Herald of Flame enters, discard your hand, then draw three cards.</text>
 			<name>Mystical Valley</name>
 			<text>{T}, Pay 1 life: Add {I} or {R}.
 {1}, {T}, Sacrifice Mystical Valley: Draw a card.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/78_Mystical Valley.jpg" num="78">AANG</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/101_Mystical Valley.jpg" num="101">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -403,7 +403,7 @@ When Herald of Flame enters, discard your hand, then draw three cards.</text>
 			<name>Divine Gateway</name>
 			<text>Divine Gateway enters tapped unless you control another land that could produce {I}.
 {T}: Add {I} or {R}.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/75_Divine Gateway.jpg" num="75">AANG</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/95_Divine Gateway.jpg" num="95">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -421,7 +421,7 @@ When Herald of Flame enters, discard your hand, then draw three cards.</text>
 I — Create a 1/1 silver Mystic creature token
 II — Each opponent loses 2 life and you gain 2 life.
 III — Draw a card from your sanctum at random.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/58t_Mystic&apos;s Quest.jpg" num="58">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/69t_Mystic&apos;s Quest.jpg" num="69">AANG</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -438,7 +438,7 @@ III — Draw a card from your sanctum at random.</text>
 			<name>Rain of Flowers</name>
 			<text>Forgive {2}. Activate only if there are eight or more cards in your sanctum. ({2}, Reveal this card from your sanctum as a sorcery: Exile it. You may play it during your next turn.)
 Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/59_Rain of Flowers.jpg" num="59">AANG</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/70_Rain of Flowers.jpg" num="70">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -455,7 +455,7 @@ Look at the top three cards of your library. Put one of them into your hand and 
 			<name>Untouched Pinnacles</name>
 			<text>Verdant (This card can&apos;t start in your deck. {1}, Exile an untapped land you control as a sorcery: Put this card from your sanctum onto the battlefield.)
 {T}: Add {I} or {R}.</text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/AANG-files/img/87_Untouched Pinnacles.jpg" num="87">AANG</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/AANG-files/img/113_Untouched Pinnacles.jpg" num="113">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -472,7 +472,7 @@ Look at the top three cards of your library. Put one of them into your hand and 
 			<text>Verdant (This card can&apos;t start in your deck. {1}, Exile an untapped land you control as a sorcery: Put this card from your sanctum onto the battlefield.)
 {T}: Add {R}.
 {3}{R}{R}: Until end of turn, Unbroken Effigies becomes a 3/3 creature with menace.</text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/AANG-files/img/86_Unbroken Effigies.jpg" num="86">AANG</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/AANG-files/img/112_Unbroken Effigies.jpg" num="112">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -489,7 +489,7 @@ Look at the top three cards of your library. Put one of them into your hand and 
 			<text>Skyward (You may cast this spell from your sanctum as though it had flash by exiling an instant or sorcery spell you control that isn&apos;t being targeted.)
 As an additional cost to cast Behold True Suns, discard a card.
 Draw two cards.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/40_Behold True Suns.jpg" num="40">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/44_Behold True Suns.jpg" num="44">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -507,7 +507,7 @@ Draw two cards.</text>
 			<text>Verdant (This card can&apos;t start in your deck. {1}, Exile an untapped land you control as a sorcery: Put this card from your sanctum onto the battlefield.)
 {T}: Add {I}.
 {4}{I}{I}: Until end of turn, Village on the Peaks becomes a 4/4 creature with flying.</text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/AANG-files/img/88_Village on the Peaks.jpg" num="88">AANG</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/AANG-files/img/114_Village on the Peaks.jpg" num="114">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -524,7 +524,7 @@ Draw two cards.</text>
 			<text>Skyward (You may cast this spell from your sanctum as though it had flash by exiling an instant or sorcery spell you control that isn&apos;t being targeted.)
 Flying
 Whenever Starseeker Whale attacks, sift 1. (Look at the top card of your library. You may put it into your sanctum.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/62_Starseeker Whale.jpg" num="62">AANG</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/73_Starseeker Whale.jpg" num="73">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -543,7 +543,7 @@ Whenever Starseeker Whale attacks, sift 1. (Look at the top card of your library
 			<text>Absolute (You may cast your chosen divinity from your sanctum by exiling two permanents you control that share a color with it in addition to its other costs.)
 Flying
 When Hunger Arisen enters, create X 1/1 silver Mystic creature tokens, where X is half the number of cards in your graveyard, rounded down.</text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/AANG-files/img/57_Hunger Arisen.jpg" num="57">AANG</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/AANG-files/img/68_Hunger Arisen.jpg" num="68">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -563,7 +563,7 @@ When Hunger Arisen enters, create X 1/1 silver Mystic creature tokens, where X i
 Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It&apos;s an artifact creature at 3+.)
 [level 3+] Flying
 Whenever Tannin Explorer attacks, discard your hand, then draw two cards. [4/4]</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/54_Tannin Explorer.jpg" num="54">AANG</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/58_Tannin Explorer.jpg" num="58">AANG</set>
 			<prop>
 				<layout>leveler</layout>
 				<side>front</side>
@@ -579,7 +579,7 @@ Whenever Tannin Explorer attacks, discard your hand, then draw two cards. [4/4]<
 		<card>
 			<name>Mystic AANG</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/16t_Mystic.jpg" num="16">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/17t_Mystic.jpg" num="17">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -596,7 +596,7 @@ Whenever Tannin Explorer attacks, discard your hand, then draw two cards. [4/4]<
 		<card>
 			<name>Mountain</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/89_Mountain.jpg" num="89">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/115_Mountain.jpg" num="115">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -611,7 +611,7 @@ Whenever Tannin Explorer attacks, discard your hand, then draw two cards. [4/4]<
 		<card>
 			<name>Fault</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/90_Fault.jpg" num="90">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/116_Fault.jpg" num="116">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -646,7 +646,7 @@ sanctum
 1 Cosmic Nexus
 1 Ardent Starkeeper
 1 Hunting for Memories</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/1t_Big Blue.jpg" num="1">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/2t_Big Blue.jpg" num="2">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -665,11 +665,11 @@ When Alom, Dreamlord enters, tap each creature you don&apos;t control and put a 
 Disturb {5}{U}{U} (You may cast this card from your graveyard transformed for its disturb cost.)
 ---
 (Back): Mirror Worlds</text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/AANG-files/img/9_Alom, Dreamlord_front.jpg" num="9a">AANG</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/AANG-files/img/11_Alom, Dreamlord_front.jpg" num="11a">AANG</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
-				<type>Creature — Spirit Noble</type>
+				<type>Legendary Enchantment Creature — Spirit Noble</type>
 				<maintype>Creature</maintype>
 				<manacost>1UUUU</manacost>
 				<cmc>5</cmc>
@@ -686,7 +686,7 @@ Disturb {5}{U}{U} (You may cast this card from your graveyard transformed for it
 Exile Mirror Worlds.
 ---
 (Front): Alom, Dreamlord</text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/AANG-files/img/9_Alom, Dreamlord_back.jpg" num="9b">AANG</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/AANG-files/img/11_Alom, Dreamlord_back.jpg" num="11b">AANG</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -707,7 +707,7 @@ When Galaxy Rings enters, counter target spell unless its controller pays {1}.
 Craft with instant or sorcery {4}{U} ({4}{U}, Exile this artifact, Exile an instant or sorcery card from your graveyard: Return this card transformed under its owner&apos;s control. Craft only as a sorcery.)
 ---
 (Back): Cosmic Gateway</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/17_Galaxy Rings_front.jpg" num="17a">AANG</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/20_Galaxy Rings_front.jpg" num="20a">AANG</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -727,7 +727,7 @@ Craft with instant or sorcery {4}{U} ({4}{U}, Exile this artifact, Exile an inst
 At the beginning of your end step, if there are seven or more cards in your graveyard, draw a card.
 ---
 (Front): Galaxy Rings</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/17_Galaxy Rings_back.jpg" num="17b">AANG</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/20_Galaxy Rings_back.jpg" num="20b">AANG</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -748,7 +748,7 @@ At the beginning of your end step, if there are seven or more cards in your grav
 ---
 
 Counter target spell unless its controller pays {2}. (Then shuffle this card into its owner&apos;s library.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/21_Phantom Channeler.jpg" num="21">AANG</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/25_Phantom Channeler.jpg" num="25">AANG</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -766,7 +766,7 @@ Counter target spell unless its controller pays {2}. (Then shuffle this card int
 			<name>Cosmic Manipulation</name>
 			<text>Counter target spell.
 Conjure two cards named Embrace the Void into your hand. (They&apos;re {U} instants with &quot;Draw a card, then discard a card.&quot;)</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/15_Cosmic Manipulation.jpg" num="15">AANG</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/17_Cosmic Manipulation.jpg" num="17">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -782,7 +782,7 @@ Conjure two cards named Embrace the Void into your hand. (They&apos;re {U} insta
 		<card>
 			<name>Embrace the Void AANG</name>
 			<text>Draw a card, then discard a card.</text>
-			<set rarity="masterpiece" picurl="https://uiwow7.github.io/sets/AANG-files/img/11t_Embrace the Void.jpg" num="11">AANG</set>
+			<set rarity="masterpiece" picurl="https://uiwow7.github.io/sets/AANG-files/img/12t_Embrace the Void.jpg" num="12">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -801,7 +801,7 @@ Conjure two cards named Embrace the Void into your hand. (They&apos;re {U} insta
 			<text>Choose one —
 • Return target creature to its owner&apos;s hand.
 • Counter target triggered ability. If an ability of a creature was countered this way, return it to its owner&apos;s hand.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/22_Return to Essence.jpg" num="22">AANG</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/26_Return to Essence.jpg" num="26">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -818,7 +818,7 @@ Conjure two cards named Embrace the Void into your hand. (They&apos;re {U} insta
 			<name>Unrestrained Tides</name>
 			<text>Ascend (If you control ten or more permanents, you get the city&apos;s blessing for the rest of the game.)
 Return each nonland permanent to its owner&apos;s hand. If you have the city&apos;s blessing, you may cast a spell from your hand without paying its mana cost.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/26_Unrestrained Tides.jpg" num="26">AANG</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/30_Unrestrained Tides.jpg" num="30">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -834,7 +834,7 @@ Return each nonland permanent to its owner&apos;s hand. If you have the city&apo
 		<card>
 			<name>Tempting Proposition</name>
 			<text>Draw three cards from your sanctum at random, then discard two cards.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/25_Tempting Proposition.jpg" num="25">AANG</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/29_Tempting Proposition.jpg" num="29">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -853,7 +853,7 @@ Return each nonland permanent to its owner&apos;s hand. If you have the city&apo
 Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It&apos;s an artifact creature at 4+.)
 [level 4+] Flying
 Tapped creatures your opponents control loses all abilities. [3/3]</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/13_Celestial Command Center.jpg" num="13">AANG</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/15_Celestial Command Center.jpg" num="15">AANG</set>
 			<prop>
 				<layout>leveler</layout>
 				<side>front</side>
@@ -871,7 +871,7 @@ Tapped creatures your opponents control loses all abilities. [3/3]</text>
 			<text>Menace
 When Azali, Spectral Hunter enters, if you cast it, return target instant or sorcery card from your graveyard to your hand.
 {3}{U}: Draw a card.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/11_Azali, Spectral Hunter.jpg" num="11">AANG</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/13_Azali, Spectral Hunter.jpg" num="13">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -889,7 +889,7 @@ When Azali, Spectral Hunter enters, if you cast it, return target instant or sor
 			<name>Ruminate</name>
 			<text>Scry 1.
 Draw a card from your sanctum at random.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/23_Ruminate.jpg" num="23">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/27_Ruminate.jpg" num="27">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -906,7 +906,7 @@ Draw a card from your sanctum at random.</text>
 			<name>Stoneborn Crab</name>
 			<text>When Stoneborn Crab enters, blank target creature. (It loses all abilities.)
 Warp {1}{U} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/24_Stoneborn Crab.jpg" num="24">AANG</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/28_Stoneborn Crab.jpg" num="28">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -923,7 +923,7 @@ Warp {1}{U} (You may cast this card from your hand for its warp cost. Exile this
 		<card>
 			<name>Gone in an Instant</name>
 			<text>Exile up to two target nonland permanents you control. Return one to the battlefield under its owner&apos;s control. Search your library for an instant or sorcery card with mana value equal to the other card not named Gone in an Instant, reveal it, put it into your hand, then shuffle.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/18_Gone in an Instant.jpg" num="18">AANG</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/21_Gone in an Instant.jpg" num="21">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -941,7 +941,7 @@ Warp {1}{U} (You may cast this card from your hand for its warp cost. Exile this
 			<text>({T}: Add {U}.)
 Frozen Seascape enters tapped unless you control two or more other lands.
 {2}{U}{U}, {T}: Scry 2.</text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/AANG-files/img/76_Frozen Seascape.jpg" num="76">AANG</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/AANG-files/img/99_Frozen Seascape.jpg" num="99">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -956,7 +956,7 @@ Frozen Seascape enters tapped unless you control two or more other lands.
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/77_Island.jpg" num="77">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/100_Island.jpg" num="100">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -972,7 +972,7 @@ Frozen Seascape enters tapped unless you control two or more other lands.
 			<name>Abandoned Tradepost</name>
 			<text>{T}, Pay 1 life: Add {U}.
 {4}{U}, {T}, Sacrifice a Frontier: You may cast an instant or sorcery spell with mana value 3 or less from your sanctum without paying its mana cost.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/72_Abandoned Tradepost.jpg" num="72">AANG</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/91_Abandoned Tradepost.jpg" num="91">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -988,7 +988,7 @@ Frozen Seascape enters tapped unless you control two or more other lands.
 			<name>Cloudwater Visions</name>
 			<text>Forgive {2}. Activate only if there are eight or more cards in your sanctum. ({2}, Reveal this card from your sanctum as a sorcery: Exile it. You may play it during your next turn.)
 Draw two cards.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/14_Cloudwater Visions.jpg" num="14">AANG</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/16_Cloudwater Visions.jpg" num="16">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1005,7 +1005,7 @@ Draw two cards.</text>
 			<name>Lotusfall</name>
 			<text>Forgive—{U}, Exile two cards from your graveyard ({U}, Exile two cards from your graveyard, Reveal this card from your sanctum as a sorcery: Exile it. You may play it during your next turn.)
 Surveil 3. (Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/20_Lotusfall.jpg" num="20">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/23_Lotusfall.jpg" num="23">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1023,7 +1023,7 @@ Surveil 3. (Look at the top three cards of your library, then put any number of 
 			<text>Verdant (This card can&apos;t start in your deck. {1}, Exile an untapped land you control as a sorcery: Put this card from your sanctum onto the battlefield.)
 {T}: Add {U}.
 {4}{U}{U}: Until end of turn, Properous Skyscape becomes a 3/2 creature with flying and &quot;Whenever Properous Skyscape deals combat damage to a player, draw a card.&quot;</text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/AANG-files/img/81_Properous Skyscape.jpg" num="81">AANG</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/AANG-files/img/105_Properous Skyscape.jpg" num="105">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1039,7 +1039,7 @@ Surveil 3. (Look at the top three cards of your library, then put any number of 
 			<name>Cosmic Nexus</name>
 			<text>Skyward (You may cast this spell from your sanctum as though it had flash by exiling an instant or sorcery spell you control that isn&apos;t being targeted.)
 Whenever you cast a noncreature spell, create an X/X blue Spirit creature token, where X is that spell&apos;s mana value.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/16_Cosmic Nexus.jpg" num="16">AANG</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/18_Cosmic Nexus.jpg" num="18">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1057,7 +1057,7 @@ Whenever you cast a noncreature spell, create an X/X blue Spirit creature token,
 			<text>Skyward (You may cast this spell from your sanctum as though it had flash by exiling an instant or sorcery spell you control that isn&apos;t being targeted.)
 Flying
 Whenever Ardent Starkeeper deals combat damage to a player, draw a card.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/10_Ardent Starkeeper.jpg" num="10">AANG</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/12_Ardent Starkeeper.jpg" num="12">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1077,7 +1077,7 @@ Whenever Ardent Starkeeper deals combat damage to a player, draw a card.</text>
 I — Draw two cards, then discard a card.
 II — Create a 1/1 blue Horror creature token with prowess.
 III — Noncreature spells you cast this turn cost {1} less to cast.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/19_Hunting for Memories.jpg" num="19">AANG</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/22_Hunting for Memories.jpg" num="22">AANG</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -1093,7 +1093,7 @@ III — Noncreature spells you cast this turn cost {1} less to cast.</text>
 		<card>
 			<name>Horror AANG</name>
 			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/12t_Horror.jpg" num="12">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/13t_Horror.jpg" num="13">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1113,7 +1113,7 @@ III — Noncreature spells you cast this turn cost {1} less to cast.</text>
 I — Create a 1/1 blue Wizard creature token
 II — Surveil 2 (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
 III — Draw a card</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/27_Wizard&apos;s Quest.jpg" num="27">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/31_Wizard&apos;s Quest.jpg" num="31">AANG</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -1128,7 +1128,7 @@ III — Draw a card</text>
 		<card>
 			<name>Scout AANG</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/13t_Scout.jpg" num="13">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/14t_Scout.jpg" num="14">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1145,7 +1145,7 @@ III — Draw a card</text>
 		<card>
 			<name>Spirit AANG</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/14t_Spirit.jpg" num="14">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/15t_Spirit.jpg" num="15">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1162,7 +1162,7 @@ III — Draw a card</text>
 		<card>
 			<name>Wizard AANG</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/15t_Wizard.jpg" num="15">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/16t_Wizard.jpg" num="16">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1215,7 +1215,7 @@ III — ​</text>
 3 Plains
 sanctum
 1 Trial of Midnight</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/4t_WB Unearth.jpg" num="4">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/5t_WB Unearth.jpg" num="5">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1230,7 +1230,7 @@ sanctum
 		<card>
 			<name>Comfort of Return</name>
 			<text>Return target creature card with mana value 3 or less from your graveyard to the battlefield.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/2_Comfort of Return.jpg" num="2">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/3_Comfort of Return.jpg" num="3">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1250,7 +1250,7 @@ When Steel Enforcer enters, search your library for a card, put it into your gra
 {4}{B}, Pay X life: Put a card with mana value X or less from your sanctum or graveyard into your hand.
 ---
 (Back): Enforcer&apos;s Decree</text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/AANG-files/img/35_Steel Enforcer_front.jpg" num="35a">AANG</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/AANG-files/img/39_Steel Enforcer_front.jpg" num="39a">AANG</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -1271,7 +1271,7 @@ When Steel Enforcer enters, search your library for a card, put it into your gra
 (This is Steel Enforcer&apos;s protocol and is not legal for deckbuilding.)
 ---
 (Front): Steel Enforcer</text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/AANG-files/img/35_Steel Enforcer_back.jpg" num="35b">AANG</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/AANG-files/img/39_Steel Enforcer_back.jpg" num="39b">AANG</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -1293,7 +1293,7 @@ When Knight of Finality enters, you draw a card and lose 3 life.
 ---
 
 Return target creature card with mana value 3 or less from your graveyard to the battlefield. (Then shuffle this card into its owner&apos;s library.)</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/65_Knight of Finality.jpg" num="65">AANG</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/81_Knight of Finality.jpg" num="81">AANG</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -1313,7 +1313,7 @@ Return target creature card with mana value 3 or less from your graveyard to the
 I — Return target creature card with mana value 3 or less from your graveyard to the battlefield.
 II — Draw two cards.
 III — You lose 3 life, sacrifice a nonland permanent, and discard a card.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/36_Trial of Midnight.jpg" num="36">AANG</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/40_Trial of Midnight.jpg" num="40">AANG</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -1330,7 +1330,7 @@ III — You lose 3 life, sacrifice a nonland permanent, and discard a card.</tex
 			<name>Forgotten Cliffwatcher</name>
 			<text>Landfall — Whenever a land enters under your control, mill a card.
 As long as there are seven or more cards in your graveyard, Forgotten Cliffwatcher gets +2/+2 and has lifelink.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/31_Forgotten Cliffwatcher.jpg" num="31">AANG</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/35_Forgotten Cliffwatcher.jpg" num="35">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1349,7 +1349,7 @@ As long as there are seven or more cards in your graveyard, Forgotten Cliffwatch
 			<text>As an additional cost to cast Ranor, Spectral Lightbearer, exile a creature you control.
 Lifelink
 When Ranor, Spectral Lightbearer enters, put a +1/+1 counter on each other creature you control.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/5_Ranor, Spectral Lightbearer.jpg" num="5">AANG</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/7_Ranor, Spectral Lightbearer.jpg" num="7">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1366,7 +1366,7 @@ When Ranor, Spectral Lightbearer enters, put a +1/+1 counter on each other creat
 		<card>
 			<name>Splinter into Nightmares</name>
 			<text>Destroy target creature. You lose 3 life unless you sacrifice a nonland permanent or discard a card.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/34_Splinter into Nightmares.jpg" num="34">AANG</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/38_Splinter into Nightmares.jpg" num="38">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1383,7 +1383,7 @@ When Ranor, Spectral Lightbearer enters, put a +1/+1 counter on each other creat
 			<name>Fracture</name>
 			<text>Ascend (If you control ten or more permanents, you get the city&apos;s blessing for the rest of the game.)
 Destroy target creature if it has mana value 2 or less or you have the city&apos;s blessing.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/32_Fracture.jpg" num="32">AANG</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/36_Fracture.jpg" num="36">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1399,7 +1399,7 @@ Destroy target creature if it has mana value 2 or less or you have the city&apos
 		<card>
 			<name>Golden Slayer</name>
 			<text>When Golden Slayer enters and at the beginning of your upkeep, mill two cards. 1B —</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/33_Golden Slayer.jpg" num="33">AANG</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/37_Golden Slayer.jpg" num="37">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1418,7 +1418,7 @@ Destroy target creature if it has mana value 2 or less or you have the city&apos
 			<text>Choose one —
 • Exile target attacking creature with mana value 3 or less.
 • Exile target creature with mana value less than or equal to the number of creatures you control.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/7_Trap in Eternity.jpg" num="7">AANG</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/9_Trap in Eternity.jpg" num="9">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1435,7 +1435,7 @@ Destroy target creature if it has mana value 2 or less or you have the city&apos
 			<name>Delve into Storms</name>
 			<text>Mill four cards.
 Dream. (Reveal a Dream card from your sanctum and put it into your hand or draw a card.)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/30_Delve into Storms.jpg" num="30">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/34_Delve into Storms.jpg" num="34">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1453,7 +1453,7 @@ Dream. (Reveal a Dream card from your sanctum and put it into your hand or draw 
 			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
 Vigilance
 When Sky Seer enters, create a 1/1 white Bird creature token with flying, then you gain 1 life for each creature you control.</text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/AANG-files/img/6_Sky Seer.jpg" num="6">AANG</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/AANG-files/img/8_Sky Seer.jpg" num="8">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1471,7 +1471,7 @@ When Sky Seer enters, create a 1/1 white Bird creature token with flying, then y
 			<name>Desolate Cliffside</name>
 			<text>As Desolate Cliffside enters, you may pay 2 life. If you don&apos;t, it enters tapped.
 {T}: Add {W} or {B}.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/74_Desolate Cliffside.jpg" num="74">AANG</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/94_Desolate Cliffside.jpg" num="94">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1487,7 +1487,7 @@ When Sky Seer enters, create a 1/1 white Bird creature token with flying, then y
 			<name>Transcendent Towers</name>
 			<text>{T}, Pay 1 life: Add {W} or {B}.
 {1}, {T}, Sacrifice Transcendent Towers: Draw a card.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/85_Transcendent Towers.jpg" num="85">AANG</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/111_Transcendent Towers.jpg" num="111">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1503,7 +1503,7 @@ When Sky Seer enters, create a 1/1 white Bird creature token with flying, then y
 			<name>Barren Heath</name>
 			<text>This land enters tapped. When it does, sift 1. (Look at the top card of your library. You may put it into your sanctum.)
 {T}: Add {W} or {B}.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/73_Barren Heath.jpg" num="73">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/92_Barren Heath.jpg" num="92">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1518,7 +1518,7 @@ When Sky Seer enters, create a 1/1 white Bird creature token with flying, then y
 		<card>
 			<name>Prismatic Vista</name>
 			<text>{T}, Pay 1 life, Sacrifice Prismatic Vista: Search your library for a basic land card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/80_Prismatic Vista.jpg" num="80">AANG</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/104_Prismatic Vista.jpg" num="104">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1532,7 +1532,7 @@ When Sky Seer enters, create a 1/1 white Bird creature token with flying, then y
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/79_Plains.jpg" num="79">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/103_Plains.jpg" num="103">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1547,7 +1547,7 @@ When Sky Seer enters, create a 1/1 white Bird creature token with flying, then y
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/83_Swamp.jpg" num="83">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/108_Swamp.jpg" num="108">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1565,7 +1565,7 @@ When Sky Seer enters, create a 1/1 white Bird creature token with flying, then y
 I — You gain 3 life.
 II — Create a 1/1 white Cleric creature token with vigilance.
 III — Creatures you control get +1/+1 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/8_Whispers of Autumn.jpg" num="8">AANG</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/10_Whispers of Autumn.jpg" num="10">AANG</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -1584,7 +1584,7 @@ III — Creatures you control get +1/+1 until end of turn.</text>
 I — Destroy target creature with mana value 3 or less.
 II — Create a 2/2 white and black Demon creature token with lifelink.
 III — Return target creature card from your graveyard to your hand.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/71_Watch by Candlelight.jpg" num="71">AANG</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/90_Watch by Candlelight.jpg" num="90">AANG</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -1603,7 +1603,7 @@ III — Return target creature card from your graveyard to your hand.</text>
 I — Exile all creatures until Mourn Lost Virtue leaves the battlefield.
 II — Look at the top five cards of your library. Reveal any number of creature cards with total mana value 5 or less from among them and put them into your hand. Put the rest on the bottom in a random order.
 III — Put a creature card with mana value 5 or less from your sanctum onto the battlefield.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/4_Mourn Lost Virtue.jpg" num="4">AANG</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/6_Mourn Lost Virtue.jpg" num="6">AANG</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -1620,7 +1620,7 @@ III — Put a creature card with mana value 5 or less from your sanctum onto the
 			<name>Let Them Blossom</name>
 			<text>Forgive—{W}, Sacrifice a creature ({W}, Sacrifice a creature, Reveal this card from your sanctum as a sorcery: Exile it. You may play it during your next turn.)
 Put a +1/+1 counter on each creature you control.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/3_Let Them Blossom.jpg" num="3">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/5_Let Them Blossom.jpg" num="5">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1638,7 +1638,7 @@ Put a +1/+1 counter on each creature you control.</text>
 			<text>Skyward (You may cast this spell from your sanctum as though it had flash by exiling an instant or sorcery spell you control that isn&apos;t being targeted.)
 Menace
 When Darkstar Prowler enters, you draw a card and lose 1 life.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/29_Darkstar Prowler.jpg" num="29">AANG</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/33_Darkstar Prowler.jpg" num="33">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1658,7 +1658,7 @@ When Darkstar Prowler enters, you draw a card and lose 1 life.</text>
 I — You draw three cards and lose 3 life.
 II — Return target creature card from your graveyard to the battlefield.
 III — Search your library for a card, put it into your hand, then shuffle.</text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/AANG-files/img/28_Burn Eternally Bright.jpg" num="28">AANG</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/AANG-files/img/32_Burn Eternally Bright.jpg" num="32">AANG</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -1674,7 +1674,7 @@ III — Search your library for a card, put it into your hand, then shuffle.</te
 		<card>
 			<name>Cleric AANG</name>
 			<text>Vigilance</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/9t_Cleric.jpg" num="9">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/10t_Cleric.jpg" num="10">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1691,7 +1691,7 @@ III — Search your library for a card, put it into your hand, then shuffle.</te
 		<card>
 			<name>Bird AANG</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/8t_Bird.jpg" num="8">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/9t_Bird.jpg" num="9">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1707,7 +1707,7 @@ III — Search your library for a card, put it into your hand, then shuffle.</te
 		<card>
 			<name>Demon AANG</name>
 			<text>Lifelink</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/17t_Demon.jpg" num="17">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/18t_Demon.jpg" num="18">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1732,10 +1732,10 @@ III — Search your library for a card, put it into your hand, then shuffle.</te
 4 Bleeding Moon Dragon
 2 Unchained Monstrosity
 2 Lone Explorer
-3 Firemist Explorer
+3 Path to Infinity
 3 Through Hellish Skies
 20 Mountain</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/3t_Mono-red Aggro.jpg" num="3">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/4t_Mono-red Aggro.jpg" num="4">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1751,7 +1751,7 @@ III — Search your library for a card, put it into your hand, then shuffle.</te
 			<name>Flamepeak Guardian</name>
 			<text>Menace, haste
 Landfall — Whenever a land you control enters, Flamepeak Guardian deals 1 damage to each opponent.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/45_Flamepeak Guardian.jpg" num="45">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/49_Flamepeak Guardian.jpg" num="49">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1768,7 +1768,7 @@ Landfall — Whenever a land you control enters, Flamepeak Guardian deals 1 dama
 		<card>
 			<name>Aurora Reader</name>
 			<text>Whenever Aurora Reader attacks, conjure a card named Seek the Stars into your hand. (It&apos;s a {R} sorcery with &quot;Seek the Stars deals 1 damage to each opponent.&quot;)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/39_Aurora Reader.jpg" num="39">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/43_Aurora Reader.jpg" num="43">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1785,7 +1785,7 @@ Landfall — Whenever a land you control enters, Flamepeak Guardian deals 1 dama
 		<card>
 			<name>Seek the Stars</name>
 			<text>Seek the Stars deals 1 damage to each opponent.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/52_Seek the Stars.jpg" num="52">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/56_Seek the Stars.jpg" num="56">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1802,7 +1802,7 @@ Landfall — Whenever a land you control enters, Flamepeak Guardian deals 1 dama
 			<name>Blood Howler</name>
 			<text>Haste
 Mobilize 2 (Whenever this creature attacks, create two tapped and attacking 1/1 red Warrior creature tokens. Sacrifice them at the beginning of the next end step.)</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/42_Blood Howler.jpg" num="42">AANG</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/46_Blood Howler.jpg" num="46">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1821,7 +1821,7 @@ Mobilize 2 (Whenever this creature attacks, create two tapped and attacking 1/1 
 			<text>When Lone Explorer enters, it deals 3 damage to each opponent.
 Station (Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery. It&apos;s an artifact creature at 4+.)
 [level 4+] Flying, menace, trample [3/3]</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/48_Lone Explorer.jpg" num="48">AANG</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/52_Lone Explorer.jpg" num="52">AANG</set>
 			<prop>
 				<layout>leveler</layout>
 				<side>front</side>
@@ -1839,7 +1839,7 @@ Station (Tap another creature you control: Put charge counters equal to its powe
 			<text>Flying
 Mobilize 1 (Whenever this creature attacks, create a tapped and attacking 1/1 red Warrior creature token. Sacrifice it at the beginning of the next end step.)
 Other attacking creatures you control get +1/+0.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/41_Bleeding Moon Dragon.jpg" num="41">AANG</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/45_Bleeding Moon Dragon.jpg" num="45">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1860,7 +1860,7 @@ Other attacking creatures you control get +1/+0.</text>
 ---
 
 Dictate of Ash deals 2 damage to each opponent. (Then shuffle this card into its owner&apos;s library.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/38_Ashfall Herald.jpg" num="38">AANG</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/42_Ashfall Herald.jpg" num="42">AANG</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -1870,18 +1870,18 @@ Dictate of Ash deals 2 damage to each opponent. (Then shuffle this card into its
 				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>2/2</pt>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Firemist Explorer</name>
-			<text>Refined (When this creature enters, conjure its protocol into your sanctum.)
-When Firemist Explorer attacks, exile a card from your sanctum at random face down.
-{R}, Sacrifice Firemist Explorer: Discard your hand, then put each card exiled with Firemist Explorer into your hand.</text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/AANG-files/img/44_Firemist Explorer.jpg" num="44">AANG</set>
+			<name>Firemist Seeker</name>
+			<text>Craft with Creature {2}{R} ({2}{R}, Exile this artifact, Exile another Creature you control or a Creature card from your graveyard: Return this card transformed under its owner&apos;s control. Craft only as a sorcery.)
+---
+(Back): Spatial Node</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/AANG-files/img/48_Firemist Seeker_front.jpg" num="48a">AANG</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Artifact Creature — Robot Soldier</type>
 				<maintype>Creature</maintype>
@@ -1889,14 +1889,35 @@ When Firemist Explorer attacks, exile a card from your sanctum at random face do
 				<cmc>1</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>1/1</pt>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Spatial Node</related>
+		</card>
+		<card>
+			<name>Spatial Node</name>
+			<text>Creatures you control with power 2 or less have haste.
+Whenever a creature you control dies, Spatial Node deals 1 damage to each opponent.
+---
+(Front): Firemist Seeker</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/AANG-files/img/48_Firemist Seeker_back.jpg" num="48b">AANG</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Firemist Seeker</related>
 		</card>
 		<card>
 			<name>Phoenix</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/67_Phoenix.jpg" num="67">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/83_Phoenix.jpg" num="83">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1912,7 +1933,7 @@ When Firemist Explorer attacks, exile a card from your sanctum at random face do
 		<card>
 			<name>Big Blue</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/12_Big Blue.jpg" num="12">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/14_Big Blue.jpg" num="14">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1928,7 +1949,7 @@ When Firemist Explorer attacks, exile a card from your sanctum at random face do
 		<card>
 			<name>Unearth</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/70_Unearth.jpg" num="70">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/88_Unearth.jpg" num="88">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1944,7 +1965,7 @@ When Firemist Explorer attacks, exile a card from your sanctum at random face do
 		<card>
 			<name>Aggro</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/37_Aggro.jpg" num="37">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/41_Aggro.jpg" num="41">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1961,7 +1982,7 @@ When Firemist Explorer attacks, exile a card from your sanctum at random face do
 			<name>Unchained Monstrosity</name>
 			<text>Whenever Unchained Monstrosity enters or attacks or an opponent casts a spell with mana value 1, target opponent loses 1 life.
 Warp {BR} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/69_Unchained Monstrosity.jpg" num="69">AANG</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/87_Unchained Monstrosity.jpg" num="87">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1981,7 +2002,7 @@ Warp {BR} (You may cast this card from your hand for its warp cost. Exile this c
 I — Through Hellish Skies deals 3 damage to each opponent.
 II — Creatures you control get +1/+0 and gain haste until end of turn.
 III — You may discard up to two cards, then draw that many cards.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/55_Through Hellish Skies.jpg" num="55">AANG</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/59_Through Hellish Skies.jpg" num="59">AANG</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -1997,7 +2018,7 @@ III — You may discard up to two cards, then draw that many cards.</text>
 		<card>
 			<name>Lightning Strike</name>
 			<text>Lightning Strike deals 3 damage to any target.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/47_Lightning Strike.jpg" num="47">AANG</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/51_Lightning Strike.jpg" num="51">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2014,7 +2035,7 @@ III — You may discard up to two cards, then draw that many cards.</text>
 			<name>Mammoth Riders</name>
 			<text>As long as there are no cards in your sanctum, Mammoth Riders has haste.
 Whenever Mammoth Riders deals combat damage to a player, exile a card at random from that player&apos;s sanctum. You may play it during your next turn.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/49_Mammoth Riders.jpg" num="49">AANG</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/53_Mammoth Riders.jpg" num="53">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2029,9 +2050,38 @@ Whenever Mammoth Riders deals combat damage to a player, exile a card at random 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>G Landfall AANG</name>
-			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/2t_G Landfall.jpg" num="2">AANG</set>
+			<name>Bant Sagas AANG</name>
+			<text>3 Tared, First of the Divine
+3 Druidic Visionary
+4 Celestial Wielder
+4 Dreamwatcher
+3 Lakedancer Elk
+3 Seedborn Combatant
+2 Warden of Saplings
+4 Glistening Hope
+2 Stoneborn Crab
+2 Heavenly Containment
+3 Trap in Eternity
+3 Path of Ascension
+4 Prismatic Vista
+3 Forest
+2 Plains
+2 Island
+3 Frosted Landscape
+4 Dawn Prarie
+4 Tranquil Meadow
+1 Frozen Cavern
+2 Peaceful Jungle
+1 Submerged Woodland
+sanctum
+1 Mourn Lost Virtue
+1 Whispers of Autumn
+1 Hunting for Memories
+1 Search for Essence
+1 Visions of Bloom
+1 Blessed by Sunlight
+1 Haunted by Moonlight</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/1t_Bant Sagas.jpg" num="1">AANG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2042,6 +2092,483 @@ Whenever Mammoth Riders deals combat damage to a player, exile a card at random 
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
+		</card>
+		<card>
+			<name>Tared, First of the Divine</name>
+			<text>This spell costs {1} less to cast for each Saga you control and each Saga card in your graveyard.
+If a chapter ability of a Saga you control would trigger, that ability triggers an additional time.</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/AANG-files/img/2_Tared, First of the Divine.jpg" num="2">AANG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost>8</manacost>
+				<cmc>8</cmc>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Druidic Visionary // Seek Wishes</name>
+			<text>When Druidic Visionary enters, create a Druid&apos;s Quest token. (It&apos;s a Saga enchantment with r{1}—Create a 1/1 green Druid creature token, r{2}—You may play an additional land this turn, and r{3}—Target creature gets +2/+2 until end of turn.)
+
+---
+
+Search your library for a basic land card, reveal it, put it into your hand, then shuffle. (Also shuffle this card.)</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/60_Druidic Visionary.jpg" num="60">AANG</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Human Druid // Sorcery — Omen</type>
+				<maintype>Creature</maintype>
+				<manacost>2G // G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Celestial Wielder</name>
+			<text>Whenever a Saga you control leaves the battlefield, put a +1/+1 counter on Celestial Wielder.
+Whenever Celestial Wielder attacks, put a lore counter on up to one target Saga.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/76_Celestial Wielder.jpg" num="76">AANG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dreamwatcher</name>
+			<text>When Dreamwatcher enters, dream. (Reveal a Dream card from your sanctum and put it into your hand or draw a card.)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/19_Dreamwatcher.jpg" num="19">AANG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lakedancer Elk</name>
+			<text>Once each turn, when another creature you control enters, dream. (Reveal a Dream card from your sanctum and put it into your hand or draw a card.)
+Whenever Lakedancer Elk attacks, remove a counter from up to one target permanent.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/64_Lakedancer Elk.jpg" num="64">AANG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Seedborn Combatant</name>
+			<text>Whenever a creature you control attacks, choose one —
+• Create a Druid&apos;s Quest token. (It&apos;s a Saga enchantment with r{1}—Create a 1/1 green Druid creature token, r{2}—You may play an additional land this turn, and r{3}—Target creature gets +2/+2 until end of turn.)
+• Put a lore counter on each Saga you control.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/85_Seedborn Combatant.jpg" num="85">AANG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3GW</manacost>
+				<cmc>5</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Warden of Saplings</name>
+			<text>Ascend (If you control ten or more permanents, you get the city&apos;s blessing for the rest of the game.)
+Once each turn, when an enchantment you control enters, create a 1/1 green Treefolk token. If you have the city&apos;s blessing, put a +1/+1 counter on each creature you control.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/66_Warden of Saplings.jpg" num="66">AANG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Heavenly Containment</name>
+			<text>Exile target creature an opponent controls until target enchantment you control leaves the battlefield.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/4_Heavenly Containment.jpg" num="4">AANG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Path of Ascension</name>
+			<text>At the beginning of your end step, if an enchantment you control left the battlefield this turn, create a Wizard&apos;s Quest token. (It&apos;s a Saga enchantment with r{1}—Create a 1/1 blue Wizard creature token, r{2}—Surveil 2, and r{3}—Draw a card.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/24_Path of Ascension.jpg" num="24">AANG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sagas</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/84_Sagas.jpg" num="84">AANG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>GWU</manacost>
+				<cmc>3</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Glistening Hope</name>
+			<text>Cleric tokens you control can&apos;t block.
+At the beginning of your first main phase, create a Cleric&apos;s Quest token. (It&apos;s a Saga enchantment with r{1}—Create a 1/1 white Cleric creature token, r{2}—You gain 2 life, and r{3}—Put a +1/+1 counter on up to one target creature.)</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/AANG-files/img/78_Glistening Hope.jpg" num="78">AANG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Search for Essence</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Search your library for two land cards and reveal them. Put one onto the battlefield tapped and the other into your hand, then shuffle.
+II — Put four +1/+1 counters on target noncreature permanent you control. It becomes a 0/0 creature.
+III — Creatures you control get +1/+1 and gain trample until end of turn.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/65_Search for Essence.jpg" num="65">AANG</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga Dream</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Haunted by Moonlight</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Each player draws two cards.
+II — You gain life equal to the number of cards in your hand.
+III — Return up to one other target permanent you control to its owner&apos;s land.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/79_Haunted by Moonlight.jpg" num="79">AANG</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga Dream</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Blessed by Sunlight</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Create two 2/2 green and white Spirit creature tokens with vigilance.
+II — Put a +1/+1 counter on each creature you control.
+III — Shuffle any number of cards from your graveyard into your library. You gain that much life.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/75_Blessed by Sunlight.jpg" num="75">AANG</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga Dream</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3GW</manacost>
+				<cmc>5</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Visions of Flowering</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — You may play an additional land this turn.
+II, III — Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Draw a card.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/89_Visions of Flowering.jpg" num="89">AANG</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga Dream</type>
+				<maintype>Enchantment</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>GI Ramp AANG</name>
+			<text>4 Forgotten Wayfarer
+3 In Full Bloom
+3 other-ramp
+2 other-ramp
+4 Druid of High Earth
+4 Forsaken Worlds
+4 ramp target
+2 ramp target
+3 modal ramp target
+3 removal
+3 removal</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/3t_GI Ramp.jpg" num="3">AANG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Forgotten Wayfarer</name>
+			<text>{T}: Add {G}.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/61_Forgotten Wayfarer.jpg" num="61">AANG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>In Full Bloom</name>
+			<text>Ascend (If you control ten or more permanents, you get the city&apos;s blessing for the rest of the game.)
+Search your library for a basic land card, reveal it, put it onto the battlefield tapped, then shuffle.
+If you have the city&apos;s blessing, untap each land you control.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/AANG-files/img/63_In Full Bloom.jpg" num="63">AANG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/96_Forest.jpg" num="96">AANG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Frosted Landscape</name>
+			<text>As Frosted Landscape enters, you may pay 2 life. If you don&apos;t, it enters tapped.
+{T}: Add {W} or {U}.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/97_Frosted Landscape.jpg" num="97">AANG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Dawn Prarie</name>
+			<text>As Dawn Prarie enters, you may pay 2 life. If you don&apos;t, it enters tapped.
+{T}: Add {G} or {W}.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/93_Dawn Prarie.jpg" num="93">AANG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Tranquil Meadow</name>
+			<text>As Tranquil Meadow enters, you may pay 2 life. If you don&apos;t, it enters tapped.
+{T}: Add {G} or {U}.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/AANG-files/img/110_Tranquil Meadow.jpg" num="110">AANG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Frozen Cavern</name>
+			<text>This land enters tapped. When it does, sift 1. (Look at the top card of your library. You may put it into your sanctum.)
+{T}: Add {W} or {U}.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/98_Frozen Cavern.jpg" num="98">AANG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Peacful Jungle</name>
+			<text>This land enters tapped. When it does, sift 1. (Look at the top card of your library. You may put it into your sanctum.)
+{T}: Add {G} or {W}.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/102_Peacful Jungle.jpg" num="102">AANG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Submerged Woodland</name>
+			<text>This land enters tapped. When it does, sift 1. (Look at the top card of your library. You may put it into your sanctum.)
+{T}: Add {G} or {U}.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/AANG-files/img/106_Submerged Woodland.jpg" num="106">AANG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Druid of High Earth // Commune</name>
+			<text>Whenever Druid of High Earth enters or attacks, you may cast a copy of its omen without paying its mana cost. If you don&apos;t, put a +1/+1 counter on Druid of High Earth.
+
+---
+
+Create a 1/1 green Druid creature token. Surveil 1. (Then shuffle this card into its owner&apos;s library.)</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/AANG-files/img/77_Druid of High Earth.jpg" num="77">AANG</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Human Druid // Sorcery — Omen</type>
+				<maintype>Creature</maintype>
+				<manacost>1IGG // IG</manacost>
+				<cmc>4</cmc>
+				<colors>GI</colors>
+				<coloridentity>GI</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Forsaken Worlds</name>
+			<text>You may play an additional land each turn.
+Landfall — Whenever a land you control enters, you gain 1 life. If it&apos;s the second time the ability has resolved this turn, draw a card. If it&apos;s the third, create two 1/1 green Dryad creature tokens. If it&apos;s the fourth, put a +1/+1 counter on each creature you control.</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/AANG-files/img/62_Forsaken Worlds.jpg" num="62">AANG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

@@ -5,7 +5,7 @@
 			<name>CC01</name>
 			<longname>Voyager Card Contest 1 — Aanginer</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-04-28</releasedate>
+			<releasedate>2026-05-15</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -65,7 +65,7 @@
 		</card>
 		<card>
 			<name>Cave of Oracles</name>
-			<text>When Cave of Oracles enters, you get {VU}. (Spend {V} to cast copies of Vertex spells.)
+			<text>When Cave of Oracles enters, you get {VcU}. (Spend {Vc} to cast copies of Vertex spells.)
 Whenever your complexity is three or greater, up to one other target permanent you control becomes a 0/0 creature until end of turn. Put two +1/+1 counters on it. This ability triggers only once each turn. (Your complexity is the number of spells you&apos;ve cast and nonland abilities you&apos;ve activated this turn.)</text>
 			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/19_Cave of Oracles.jpg" num="19">CC01</set>
 			<prop>
@@ -140,7 +140,7 @@ When Mindsinger dies, return target land card from your graveyard to the battlef
 			<name>Urwrapir Watchers</name>
 			<text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
 Haste
-Whenever Urwrapir Watchers attacks, you get an amount of {V} equal to your complexity. (Spend {V} to cast copies of Vertex spells. Your complexity is the number of spells you&apos;ve cast and nonland abilities you&apos;ve activated this turn.)</text>
+Whenever Urwrapir Watchers attacks, you get an amount of {Vc} equal to your complexity. (Spend {Vc} to cast copies of Vertex spells. Your complexity is the number of spells you&apos;ve cast and nonland abilities you&apos;ve activated this turn.)</text>
 			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-files/img/23_Urwrapir Watchers.jpg" num="23">CC01</set>
 			<prop>
 				<layout>normal</layout>

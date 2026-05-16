@@ -1,0 +1,3703 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>DCO</name>
+			<longname>Dazon: Cosmic Outcasts</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-05-15</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>In Search of Eternity</name>
+			<text>Whenever a permanent you control leaves the battlefield, you may cast a permanent spell with mana value 1 greater than that permanent&apos;s mana value from your hand without paying its mana cost. Do this only once each turn.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/157_In Search of Eternity.jpg" num="157">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Arbiter&apos;s Watcher</name>
+			<text>Infuse 1 (Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)
+The Arbiter&apos;s Watcher has first strike as long as it has a counter on it.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/12_The Arbiter&apos;s Watcher.jpg" num="12">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Icedroid</name>
+			<text>Icedroid costs {1} less to cast for each card you&apos;ve drawn this turn.
+Whenever Icedroid enters or you cast another spell with mana value 5 or greater, tap target nonland permanent and put a stun counter on it.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/57_Icedroid.jpg" num="57">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lost Ghast</name>
+			<text>Whenever Lost Ghast enters or attacks, each opponent loses 1 life.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/94_Lost Ghast.jpg" num="94">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Savan Warden</name>
+			<text>Ward {2}
+Whenever you cast a spell that targets Savan Warden, you may discard a card. If you do, draw a card.
+Savan Warden gets +1/+1 for each Aura attached to it.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/130_Savan Warden.jpg" num="130">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Twisting Nebulas</name>
+			<text>Whenever Twisting Nebulas or another enchantment you control enters, draw a card.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/169_Twisting Nebulas.jpg" num="169">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Last Light of Naroz</name>
+			<text>As an additional cost to cast this spell, sacrifice an enchantment.
+Return target enchantment card with mana value less than or equal to the sacrificed enchantment&apos;s mana value from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/25_Last Light of Naroz.jpg" num="25">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stack Popper // Pop</name>
+			<text>When Stack Popper enters, draw two cards, then discard a card.
+
+---
+
+Counter target spell. (Then shuffle this card into its owner&apos;s library)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/69_Stack Popper.jpg" num="69">DCO</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Wizard // Instant — Omen</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU // 1UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ghost of Fallen Angels</name>
+			<text>{T}: Mill a card. 1B —</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/89_Ghost of Fallen Angels.jpg" num="89">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Demon Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Recursive Pyromage</name>
+			<text>Infuse 2 (Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has two.)
+Whenever one or more counters are put on Recursive Pyromage, it deals 2 damage to each opponent.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/128_Recursive Pyromage.jpg" num="128">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="X">Reset Function</related>
+		</card>
+		<card>
+			<name>Chosen of the Grand Oracles // Oracles&apos; Call</name>
+			<text>Flying
+This creature gets +1/+1 for each card you&apos;ve drawn this turn.
+
+---
+
+Surveil 1, then draw a card. (Then shuffle this card into its owner&apos;s library.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/43_Chosen of the Grand Oracles.jpg" num="43">DCO</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Avatar // Sorcery — Omen</type>
+				<maintype>Creature</maintype>
+				<manacost>3U // U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Package Manager</name>
+			<text>When Package Manager enters, you may search your library for a card that shares a nonland permanent type with a nonland permanent you control that doesn&apos;t share a name with a permanent you control, put it into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/192_Package Manager.jpg" num="192">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Watching Eternity</name>
+			<text>Enchant creature
+At the beginning of your end step, Watching Eternity deals 1 you. Put a +1/+1 counter on enchanted creature.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/138_Watching Eternity.jpg" num="138">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Circular Import</name>
+			<text>Destroy target creature.
+Put up to one card in exile into their owner&apos;s graveyards.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/79_Circular Import.jpg" num="79">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unexpected Token</name>
+			<text>When Unexpected Token enters, search your library for a basic land card, put it into your hand, then shuffle.
+Spells you cast with mana value 5 or greater costs {1} less to cast.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/170_Unexpected Token.jpg" num="170">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related count="X">Intellect Function</related>
+		</card>
+		<card>
+			<name>Drorix, Cosmic Outcast</name>
+			<text>Enchantments you control have ward {1}.
+[+1]: Surveil 1. Create a 1/1 white Human enchantment creature token if you control three or more enchantments.
+[-1]: Another target nonland permanent becomes an enchantment and loses all other card types.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/176_Drorix, Cosmic Outcast.jpg" num="176">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Drorix</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>WBG</manacost>
+				<cmc>3</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+			<related count="X">Human</related>
+		</card>
+		<card>
+			<name>Luminescent Golem</name>
+			<text>When Luminescent Golem enters, you draw a card and create two 1/1 white Human enchantment creature tokens.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/27_Luminescent Golem.jpg" num="27">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="X">Human</related>
+		</card>
+		<card>
+			<name>Human DCO</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DCO-files/img/1t_Human.jpg" num="1">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Enchantment Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>The Final Frontier</name>
+			<text>{T}: Add {C}.
+{1}, {T}: Add one mana of any color.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/195_The Final Frontier.jpg" num="195">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Cavesplitter</name>
+			<text>Flying
+Whenever Cavesplitter or another enchantment enters under your control, target creature loses all abilities until the end of your next turn. 6 —</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/3_Cavesplitter.jpg" num="3">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sava&apos;s Last Eclipse</name>
+			<text>As an additional cost to cast Sava&apos;s Last Eclipse, sacrifice X noncreature permanents.
+Destroy up to X target creatures.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/186_Sava&apos;s Last Eclipse.jpg" num="186">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cosmically Centered</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+1 and has &quot;Whenever this creature attacks, surveil 1.&quot; (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/145_Cosmically Centered.jpg" num="145">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Otherworldly Wayfarer</name>
+			<text>When Otherworldly Wayfarer enters, draw a card if you control three or more enchantments.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/29_Otherworldly Wayfarer.jpg" num="29">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Arbiter&apos;s Raider</name>
+			<text>Prowess
+Infuse 1 (Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/107_The Arbiter&apos;s Raider.jpg" num="107">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="X">Amplify Function</related>
+		</card>
+		<card>
+			<name>Past Left Behind</name>
+			<text>Surveil 4, then draw a card. (To surveil 4, look at the top four cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/99_Past Left Behind.jpg" num="99">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stack Pusher // Push</name>
+			<text>Whenever Stack Pusher attacks, exile the top card of your library. You may play it this turn.
+
+---
+
+The next time you cast a noncreature spell this turn, copy that spell. You may choose new targets for the copy. (Then shuffle this card into its owner&apos;s library.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/134_Stack Pusher.jpg" num="134">DCO</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Wizard // Sorcery — Omen</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR // 1R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shrouded Subjugator</name>
+			<text>Infuse 2 (Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has two.)
+Whenever one or more counters are put on Shrouded Subjugator, put a +1/+1 counter on each creature you control not named Shrouded Subjugator.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/32_Shrouded Subjugator.jpg" num="32">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ocean Watcher</name>
+			<text>Whenever you draw your second card each turn, put a +1/+1 counter on Ocean Watcher.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/65_Ocean Watcher.jpg" num="65">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shock</name>
+			<text>Shock deals 2 damage to any target.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/132_Shock.jpg" num="132">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fungal Raze</name>
+			<text>Destroy target enchantment. Draw a card.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/152_Fungal Raze.jpg" num="152">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Traversing the Paths</name>
+			<text>When Traversing the Paths enters, if it was cast, exile all creatures.
+Once during each of your turns, you may cast a face-up enchantment spell you own from exile.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/37_Traversing the Paths.jpg" num="37">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ethereal Spellbinder // Lightbinding</name>
+			<text>Flash
+When Ethereal Spellbinder enters, return up to one target creature to its owner&apos;s hand.
+
+---
+
+Up to one taret creature gets -4/-0 until end of turn. (Then shuffle this card into its owner&apos;s library.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/52_Ethereal Spellbinder.jpg" num="52">DCO</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Avatar // Instant — Omen</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU // U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Enduring Guardian // Hallowed Eternity</name>
+			<text>When Enduring Guardian enters, return target creature or enchantment card from your graveyard to your hand.
+
+---
+
+Target player mills ten cards. (Then shuffle this card into its owner&apos;s library)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/85_Enduring Guardian.jpg" num="85">DCO</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock // Sorcery — Omen</type>
+				<maintype>Creature</maintype>
+				<manacost>2B // 2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Boatman of Kala</name>
+			<text>Boatman of Kala gets +1/+1 for each token you control.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/109_Boatman of Kala.jpg" num="109">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Depths Giant</name>
+			<text>Trample
+When Depths Giant enters, mill three cards, then put a card milled this way into your hand.
+{2}{G}, Discard Depths Giant: Mill three cards, then put a permanent card milled this way into your hand.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/149_Depths Giant.jpg" num="149">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eldo, Abyssal City</name>
+			<text>As Eldo, Abyssal City enters, you may pay 3 life. If you don&apos;t, it enters tapped.
+{T}: Add {U}.
+{2}{U}, {T}: Return target nonland permanent you control to its owner&apos;s hand.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/194_Eldo, Abyssal City.jpg" num="194">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Night Rummager</name>
+			<text>Whenever you draw your second card each turn, each opponent loses 2 life.
+{5}, {T}, Pay 1 life: Draw a card.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/98_Night Rummager.jpg" num="98">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Karan Assassin</name>
+			<text>Menace, deathtouch
+If a noncreature permanent would cause your opponent to lose life, they lose that much life plus one instead.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/92_Karan Assassin.jpg" num="92">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Interplanar Informer</name>
+			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+When Interplanar Informer dies, if it had an Aura attached to it, you may return an Aura that was attached to it from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/159_Interplanar Informer.jpg" num="159">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Laban Guardian</name>
+			<text>Whenever a nontoken enchantment you control enters, create a 1/1 white Human enchantment creature token.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/24_Laban Guardian.jpg" num="24">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Planar Guard</name>
+			<text>Whenever you draw a card except the first one you draw in each of your draw steps, you may tap target creature.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/66_Planar Guard.jpg" num="66">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Summoner of True Light</name>
+			<text>Vigilance
+Once each turn, when a creature you control with power 2 or less enters, you may draw a card and gain 1 life. 4W —</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/33_Summoner of True Light.jpg" num="33">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avatar Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cosmic Watcher</name>
+			<text>Flash
+Once each turn, whenever you cast Cosmic Watcher or another spell during an opponent&apos;s turn, draw a card. 4U —</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/48_Cosmic Watcher.jpg" num="48">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Eye</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Corruption From Beyond</name>
+			<text>Menace
+{2}, Sacrifice an enchantment: Draw a card. Activate only once during each of your turns. 4B —</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/80_Corruption From Beyond.jpg" num="80">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hellfire Wyrm</name>
+			<text>Haste
+Whenever a creature you control attacks, Hellfire Wyrm deals 1 damage to each opponent. 4R —</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/116_Hellfire Wyrm.jpg" num="116">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Preserver of Voro</name>
+			<text>Trample
+At the beginning of your end step, mill two cards, then return a card milled this way to your hand. 4G —</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/165_Preserver of Voro.jpg" num="165">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tree of Celestial Light</name>
+			<text>When Tree of Celestial Light enters, exile target creature an opponent controls with mana value less than or equal to the number of enchantments you control until Tree of Celestial Light leaves the battlefield.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/38_Tree of Celestial Light.jpg" num="38">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Memory Leak</name>
+			<text>Return target creature to its owner&apos;s hand. If you control a permanent with mana value 5 or greater, its owner puts it on the top or bottom of their library instead.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/62_Memory Leak.jpg" num="62">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Seeker of Eternity</name>
+			<text>Flying
+When Seeker of Eternity enters, draw a card.
+Whenever you draw a card, each opponent loses 1 life.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/102_Seeker of Eternity.jpg" num="102">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Marauder of Sava</name>
+			<text>Menace
+When Marauder of Sava dies, it deals damage to each opponent equal to its power.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/123_Marauder of Sava.jpg" num="123">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Harmony of Voro</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+1 for each enchantment you control.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/154_Harmony of Voro.jpg" num="154">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Clockwork Disciple // Glare of Infinity</name>
+			<text>When Clockwork Disciple enters, return target creature or enchantment card with mana value 3 or less from your graveyard to the battlefield.
+
+---
+
+Destroy target attacking creature. (Then shuffle this card into its owner&apos;s library.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/13_Clockwork Disciple.jpg" num="13">DCO</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Avatar // Instant — Omen</type>
+				<maintype>Creature</maintype>
+				<manacost>2W // 1W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="X">Human</related>
+			<related></related>
+		</card>
+		<card>
+			<name>Sky of Beya</name>
+			<text>Surveil 2, then draw a card.
+Whenever you cast a spell with mana value 5 or greater, you may return Sky of Beya from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/68_Sky of Beya.jpg" num="68">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Look Across the Lake</name>
+			<text>Mill two cards.
+{2}{B}{B}, Exile Look Across the Lake from your graveyard: Return target enchantment card from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/93_Look Across the Lake.jpg" num="93">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Careless Whims</name>
+			<text>Exile the top three cards of your library. You may play one of them this turn.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/111_Careless Whims.jpg" num="111">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Titan of Sunrise</name>
+			<text>This spell costs {1} less to cast for each land card in your graveyard.
+When Titan of Sunrise enters, return a land card from your graveyard to the battlefield, then return a nonland card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/168_Titan of Sunrise.jpg" num="168">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>6G</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Destiny Diviner</name>
+			<text>Destiny Diviner gets +1/+1 for each enchantment you control.
+Destiny Diviner has trample as long as you control an Aura.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/150_Destiny Diviner.jpg" num="150">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Moonlight Spellbinder</name>
+			<text>When Moonlight Spellbinder enters, you draw your second card each turn, or you cast your second spell each turn, surveil 1. BB —</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/96_Moonlight Spellbinder.jpg" num="96">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Whisperer of The Arbiter</name>
+			<text>If you would draw a card, instead look at the top two cards of your library, exile one of them, then put the other into your hand.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/72_Whisperer of The Arbiter.jpg" num="72">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scorcher</name>
+			<text>When Scorcher enters, it deals 3 damage to any target.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/131_Scorcher.jpg" num="131">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dutiful Companion</name>
+			<text>Infuse 3 (Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has three.)
+Whenever one or more counters are put on Dutiful Companion, create a 1/1 white Human enchantment creature token. Do this only once each turn.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/19_Dutiful Companion.jpg" num="19">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="X">Duty Function</related>
+		</card>
+		<card>
+			<name>Griffin of Serenity</name>
+			<text>Flying
+Infuse 1 (Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)
+At the beginning of your end step, if Griffin of Serenity has a counter on it, surveil 1.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/55_Griffin of Serenity.jpg" num="55">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Griffin</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="X">Flash Function</related>
+		</card>
+		<card>
+			<name>Unchained Karan</name>
+			<text>Infuse 3 (Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has three.)
+At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to that card&apos;s mana value minus the number of counters on Unchained Karan.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/105_Unchained Karan.jpg" num="105">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="X">Relinquish Function</related>
+		</card>
+		<card>
+			<name>Kala Eradicator</name>
+			<text>Infuse 1 (Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)
+Whenever Kala Eradicator attacks, exile the top card of your library. If it isn&apos;t a creature or Kala Eradicator has a counter on it, you may play it this turn.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/119_Kala Eradicator.jpg" num="119">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="X">Reset Function</related>
+		</card>
+		<card>
+			<name>Yuku Mystic</name>
+			<text>Infuse 2 (Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has two.)
+Landfall — Whenever a land enters under your control, you gain 1 life. If a counter was put on Yuku Mystic this turn, you gain 2 life instead.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/171_Yuku Mystic.jpg" num="171">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Warp Gateway</name>
+			<text>When Warp Gateway enters, create a 1/1 white Human enchantment creature token.
+Whenever a creature you control dies, if it had counters on it, you may put those counters on target creature you control.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/41_Warp Gateway.jpg" num="41">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related count="X">Intellect Function</related>
+		</card>
+		<card>
+			<name>Deny Access</name>
+			<text>If you&apos;ve cast another noncreature spell this turn, draw a card. Return target nonland permanent to its owner&apos;s hand.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/50_Deny Access.jpg" num="50">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rite of the Grand Oracles</name>
+			<text>When Rite of the Grand Oracles enters, creatures you control gain menace until end of turn.
+Whenever you attack an opponent, if that player has lost life this turn, that player loses 2 life and you gain 2 life.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/101_Rite of the Grand Oracles.jpg" num="101">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Marring Flames</name>
+			<text>Put a +1/+1 counter on target creature you control.
+When you do, you may sacrifice a creature. If you do, Marring Flames deals damage equal to the sacrificed creature&apos;s power to any target.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/124_Marring Flames.jpg" num="124">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Byte Down</name>
+			<text>Target creature you control fights target creature you don&apos;t control. Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/143_Byte Down.jpg" num="143">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sunrise Lookout</name>
+			<text>Flying
+When Sunrise Lookout enters, you gain 3 life if you control an enchantment.
+{T}, Sacrifice an enchantment: You draw a card and gain 1 life.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/34_Sunrise Lookout.jpg" num="34">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Intellect From Beyond</name>
+			<text>When Intellect From Beyond enters, draw a card if you&apos;ve cast a noncreature spell this turn.
+Whenever you cast a noncreature spell, surveil 1.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/58_Intellect From Beyond.jpg" num="58">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Behemoth Beckoner</name>
+			<text>Deathtouch
+When Behemoth Beckoner enters, each opponent loses 3 life if a permanent card was put into your graveyard from anywhere this turn.
+{5}{B}{B}, Exile Behemoth Beckoner from your graveyard: Create a 6/6 black Demon creature token.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/76_Behemoth Beckoner.jpg" num="76">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="X">Demon</related>
+		</card>
+		<card>
+			<name>Savan Veteran</name>
+			<text>Haste
+When Savan Veteran enters, if another nonland permanent you control has entered this turn, target creature you control gets +1/+1 and gains trample and haste until end of turn.
+{T}, Discard a noncreature card: Draw a card.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/129_Savan Veteran.jpg" num="129">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sentinel of Sanctuaries</name>
+			<text>Trample
+When Sentinel of Sanctuaries enters, if you control a creature with power 4 or greater, search your library for a land card, put it onto the battlefield tapped, then shuffle.
+{4}{G}: Sentinel of Sanctuaries gets +1/+1 until end of turn for each land you control.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/166_Sentinel of Sanctuaries.jpg" num="166">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shindu, Gleaming City</name>
+			<text>As Shindu, Gleaming City enters, you may pay 3 life. If you don&apos;t, it enters tapped.
+{T}: Add {W}.
+{2}{W}, {T}: Copy target triggered ability you control that was caused by a permanent you control entering. Activate only once each turn.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/201_Shindu, Gleaming City.jpg" num="201">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Zidan, Shadowy City</name>
+			<text>As Zidan, Shadowy City enters, you may pay 3 life. If you don&apos;t, it enters tapped.
+{T}: Add {B}.
+{2}{B}, {T}: Mill two cards.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/204_Zidan, Shadowy City.jpg" num="204">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Kama, Shattered City</name>
+			<text>As Kama, Shattered City enters, you may pay 3 life. If you don&apos;t, it enters tapped.
+{T}: Add {R}.
+{2}{R}, {T}: Exile the top card of your library. You may play it until end of turn.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/198_Kama, Shattered City.jpg" num="198">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Toshin, Verdant City</name>
+			<text>As Toshin, Verdant City enters, you may pay 3 life. If you don&apos;t, it enters tapped.
+{T}: Add {G}.
+{2}{G}, {T}: Target creature you control gets +2/+2 until end of turn. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/203_Toshin, Verdant City.jpg" num="203">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Collected Entrancing</name>
+			<text>Look at the top six cards of your library. Put up to two enchantment cards with total mana value 4 or less onto the battlefield under your control. Put the rest on the bottom of your library in a random order.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/14_Collected Entrancing.jpg" num="14">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Power Off</name>
+			<text>Whenever you cast a noncreature spell, put a +1/+1 counter on each creature you control.
+{1}{U}: Creatures you control gain flying until end of turn.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/67_Power Off.jpg" num="67">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Crystalized Dread</name>
+			<text>Whenever a player draws a card, each opponent loses 1 life.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/81_Crystalized Dread.jpg" num="81">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pillar of Fury</name>
+			<text>This spell costs {1} less to cast for each attacking creature.
+Creatures you control get +2/+2 until end of turn.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/125_Pillar of Fury.jpg" num="125">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Firmness of Toshin</name>
+			<text>Enchant creature
+Enchanted creature gets +4/+4, has trample, and has &quot;This creature must be blocked if able.&quot;</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/151_Firmness of Toshin.jpg" num="151">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tranquil Wanderer // Seek Tranquility</name>
+			<text>Flying
+Infuse 1 (Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)
+
+---
+
+You draw a card and gain 3 life. (Then shuffle this card into its owner&apos;s library.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/36_Tranquil Wanderer.jpg" num="36">DCO</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Elk Bird // Instant — Omen</type>
+				<maintype>Creature</maintype>
+				<manacost>1W // 1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Final Arrival</name>
+			<text>Reveal the top five cards of your library, then an opponent separates them into two piles. Then you may exile a card with mana value 5 or greater from your graveyard. If you do, put both piles into your hand. Otherwise, put one into your hand and the other into your graveyard.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/53_Final Arrival.jpg" num="53">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Door to Eternity</name>
+			<text>{T}, Sacrifice a nonland permanent: Choose one—
+• Draw a card.
+• Each opponent loses 3 life. 2B —</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/83_Door to Eternity.jpg" num="83">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rage of Sava</name>
+			<text>Haste
+Infuse 1 (Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)
+Whenever one or more counters are put on Rage of Sava, you may discard your hand. If you do, draw two cards.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/127_Rage of Sava.jpg" num="127">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Dragon Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Moonrise</name>
+			<text>Mill twenty cards. For each card type, you may return a card of that type from your graveyard to your hand. (Artifact, battle, creature, enchantment, instant, land, planeswalker, and sorcery are card types.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/162_Moonrise.jpg" num="162">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shadowmare</name>
+			<text>When Shadowmare enters, you may discard a card. If you do, surveil 1, then draw a card. B —</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/103_Shadowmare.jpg" num="103">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Horse</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Heartless Executor</name>
+			<text>Infuse 2 (Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has two.)
+Whenever one or more counters are put on Heartless Executor, exile target nonland permanent, then return it to the battlefield under its owner&apos;s control at the beginning of the next end step.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/21_Heartless Executor.jpg" num="21">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="X">Execution Function</related>
+		</card>
+		<card>
+			<name>Cosmic Roamer // Starseeking</name>
+			<text>This spell costs {1} less to cast for each noncreature, nonland card in your graveyard.
+
+---
+
+Mill four cards. (Then shuffle this card into its owner&apos;s library.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/47_Cosmic Roamer.jpg" num="47">DCO</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Avatar // Sorcery — Omen</type>
+				<maintype>Creature</maintype>
+				<manacost>5U // U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fragments of Times Past</name>
+			<text>Return up to three target creature cards from any graveyard to the battlefield under your control.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/88_Fragments of Times Past.jpg" num="88">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Warmth of a Thousand Souls</name>
+			<text>This spell costs {1} less to cast for each noncreature, nonland permanent you control.
+Enchanted creature gets +1/+1 and has haste.
+Whenever enchanted creature attacks, exile the top two cards of your library. You may play them this turn.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/137_Warmth of a Thousand Souls.jpg" num="137">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Herald of New Worlds // Explore Worlds</name>
+			<text>Noncreature enchantments you control are 2/2 creatures in addition to their other types.
+
+---
+
+Search your library for a land card, put it onto the battlefield tapped, then shuffle. (Also shuffle this card.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/155_Herald of New Worlds.jpg" num="155">DCO</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Avatar // Sorcery — Omen</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG // 2G</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Arbiter&apos;s Sight</name>
+			<text>Flying, vigilance
+When The Arbiter&apos;s Sight attacks, exile target enchantment card from your graveyard. You may cast a copy of the exiled card.
+At the beginning of your end step, if an enchantment you control entered this turn, create a 1/1 white Human enchantment creature token.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/11_The Arbiter&apos;s Sight.jpg" num="11">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Eye Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="X">Human</related>
+		</card>
+		<card>
+			<name>Naroz Sentinel</name>
+			<text>Infuse 3 (Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has three.)
+Whenever one or more counters are put on Naroz Sentinel, mill three cards.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/64_Naroz Sentinel.jpg" num="64">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vicious Fiend</name>
+			<text>Trample, haste
+Whenever Vicious Fiend attacks, it deals 3 damage to the player or planeswalker its attacking.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/135_Vicious Fiend.jpg" num="135">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Artificial Ferocity</name>
+			<text>Enchant creature you control
+Enchanted creature has trample.
+When Artificial Ferocity enters, enchanted creature deals damage equal to its power to up to one target creature you don&apos;t control.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/141_Artificial Ferocity.jpg" num="141">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dreary Voyager</name>
+			<text>When Dreary Voyager enters, put a +1/+1 counter on target creature you control.
+Creatures you control with counters on them have vigilance.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/18_Dreary Voyager.jpg" num="18">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Leviathan Caller</name>
+			<text>When Leviathan Caller enters, surveil 2.
+{3}{U}{U}, Exile Leviathan Caller from your graveyard: Search your library for a card with mana value 5 or greater, put it into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/59_Leviathan Caller.jpg" num="59">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Malignant Hexer</name>
+			<text>As an additional cost to cast Malignant Hexer, sacrifice a noncreature, nonland permanent.
+Deathtouch
+When Malignant Hexer enters, mill two cards. You draw two cards and gain 2 life.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/95_Malignant Hexer.jpg" num="95">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Herald of Sparks</name>
+			<text>This spell costs {2} less to cast if you&apos;ve cast a noncreature spell this turn.
+Prowess
+When Herald of Sparks enters, you may discard a card. If you do, draw two cards.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/117_Herald of Sparks.jpg" num="117">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Phantom Stag</name>
+			<text>Whenever Phantom Stag enters or attacks, mill two cards.
+Whenever a noncreature card is put into your graveyard from anywhere, you may put a +1/+1 counter on Phantom Stag. Do this only once each turn.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/164_Phantom Stag.jpg" num="164">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Undefined Reference</name>
+			<text>Exile target nonland permanent. It&apos;s controller draws a card.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/40_Undefined Reference.jpg" num="40">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>List Indexer</name>
+			<text>When List Indexer enters, draw a card.
+Whenever you draw your second card each turn, exile another target nonland permanent, then return it to the battlefield under its owner&apos;s control.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/61_List Indexer.jpg" num="61">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Abyssal Callback</name>
+			<text>This spell costs {1} less to cast for each 1 life an opponent has lost this turn. (Damage causes loss of life.)
+Destroy target creature. You gain life equal to its mana value.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/74_Abyssal Callback.jpg" num="74">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Race Against Omnipotence</name>
+			<text>Enchant creature you control
+Enchanted creature gets +2/+0 and has haste.
+Whenever enchanted creature attacks, it deals 1 damage to any target.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/126_Race Against Omnipotence.jpg" num="126">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Arbiter&apos;s Strength</name>
+			<text>Whenever a triggered ability of a noncreature enchantment you control triggers, you may pay {1}. If you do, copy that ability. You may choose new targets for the copy.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/140_The Arbiter&apos;s Strength.jpg" num="140">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Adrift Surveyor</name>
+			<text>At the beginning of your end step, you may sacrifice another nontoken enchantment. If you do, create a token that&apos;s a copy of that enchantment. 3W —</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/9_Adrift Surveyor.jpg" num="9">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wistful Observer</name>
+			<text>When this creature enters, look at the top three cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest into your graveyard.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/73_Wistful Observer.jpg" num="73">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cache Recovery</name>
+			<text>Surveil 2, then draw a card. Each opponent loses 3 life and you gain 3 life.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/77_Cache Recovery.jpg" num="77">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vulpine Sage // Energization</name>
+			<text>Whenever Vulpine Sage attacks, put a +1/+1 counter on it.
+
+---
+
+Target creature you control gets +1/+1 and gains haste until end of turn. (Then shuffle this card into its owner&apos;s library.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/136_Vulpine Sage.jpg" num="136">DCO</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Fox // Instant — Omen</type>
+				<maintype>Creature</maintype>
+				<manacost>4R // R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="X">Sunset Function</related>
+		</card>
+		<card>
+			<name>Deepgrowth Drake</name>
+			<text>Trample
+Whenever Deepgrowth Drake enters or attacks, choose a basic land type. Create a tapped enchantment land token with that type.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/146_Deepgrowth Drake.jpg" num="146">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk Drake</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="X">Plains</related>
+			<related count="X">Swamp</related>
+			<related count="X">Forest</related>
+		</card>
+		<card>
+			<name>The Arbiter&apos;s Elite</name>
+			<text>When The Arbiter&apos;s Elite enters, you gain 2 life.
+Once each turn, when you gain life, you may put a +1/+1 counter on each creature you control.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/10_The Arbiter&apos;s Elite.jpg" num="10">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ghastly Wanderer</name>
+			<text>Flying
+Infuse 2 (Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has two.)
+Whenever one or more counters are put on Ghastly Wanderer, exile up to one target instant or sorcery card from your graveyard. If you do, you may cast a copy of it.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/54_Ghastly Wanderer.jpg" num="54">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fallen of Kara</name>
+			<text>When Fallen of Kara leaves the battlefield, look at the top three cards of your library. Put one into your hand and the rest into your graveyard. 2B —</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/87_Fallen of Kara.jpg" num="87">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Splintering Fire</name>
+			<text>If an opponent has lost life this turn, this spell costs {2} less to cast.
+Splintering Fire deals 4 damage to target creature or planeswalker.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/133_Splintering Fire.jpg" num="133">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lost to the Storm</name>
+			<text>Enchant creature
+Enchanted creature gets +2/+0 and has trample.
+When enchanted creature dies, put a +1/+1 counter on target creature you control.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/160_Lost to the Storm.jpg" num="160">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Paths of Stolen Life</name>
+			<text>Whenever you attack, put a +1/+1 counter on up to one target attacking creature, then you may untap each creature you control with a counter on it.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/30_Paths of Stolen Life.jpg" num="30">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related count="X">Replenish Function</related>
+		</card>
+		<card>
+			<name>Herald of Naroz</name>
+			<text>Whenever you cast a spell with mana value 5 or greater, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+When Herald of Naroz dies, draw a card.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/56_Herald of Naroz.jpg" num="56">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nausea From Beyond</name>
+			<text>When Nausea From Beyond enters, put up to one target card from your graveyard on top of your library.
+Whenever a card leaves your graveyard, each opponent loses 2 life and you gain 2 life. Do this only once each turn.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/97_Nausea From Beyond.jpg" num="97">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gazing Rage // Angerseeking</name>
+			<text>Whenever you cast a noncreature spell, put a +1/+1 counter on Gazing Rage.
+
+---
+
+Exile the top two cards of your library. You may play them this turn. (Then shuffle this card into its owner&apos;s library)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/115_Gazing Rage.jpg" num="115">DCO</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Eye // Instant — Omen</type>
+				<maintype>Creature</maintype>
+				<manacost>3R // 1R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Champion of Drakol</name>
+			<text>Whenever one or more counters are put on another creature you control, you may put a +1/+1 counter on Champion of Drakol. Do this only once each turn.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/144_Champion of Drakol.jpg" num="144">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Arbiter</name>
+			<text>This spell costs {1} less to cast for each enchantment you control.
+When The Arbiter enters, if it was cast, you control target player during their next turn. After that turn, that player takes an extra turn.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/1_The Arbiter.jpg" num="1">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost>15</manacost>
+				<cmc>15</cmc>
+				<pt>10/10</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Peaceful Charmer</name>
+			<text>Infuse 2 (Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has two.)
+Whenever one or more counters are put on Peaceful Charmer, untap up to one target creature. Do this only once each turn.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/31_Peaceful Charmer.jpg" num="31">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="X">Charm Function</related>
+		</card>
+		<card>
+			<name>Twilight Revelation</name>
+			<text>Look at the top three cards of your library. Put one into your hand and the rest into your graveyard.
+At the beginning of each opponent&apos;s end step, if you cast two or more spells during that player&apos;s turn, return Twilight Revelation from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/70_Twilight Revelation.jpg" num="70">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Drakoli Piracy</name>
+			<text>When Drakoli Piracy enters, you may sacrifice a permanent.
+Once each turn, when a card you own is put into a graveyard from the battlefield or your hand, you may draw a card and lose 1 life.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/84_Drakoli Piracy.jpg" num="84">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wisps of Flaming Brilliance</name>
+			<text>Enchant creature
+When Wisps of Flaming Brilliance enters, enchanted creature deals damage equal to its power to target creature you don&apos;t control.
+Enchanted creature gets +1/+1 and has menace.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/139_Wisps of Flaming Brilliance.jpg" num="139">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related count="X">Flame Function</related>
+		</card>
+		<card>
+			<name>Goliath Assailant</name>
+			<text>Trample
+As long as Goliath Assailant is an enchantment, it&apos;s an Aura with &quot;Enchant creature&quot; and &quot;Enchanted creature gets +2/+2 and has trample.&quot; 2G —</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/153_Goliath Assailant.jpg" num="153">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Doomteller Adept</name>
+			<text>When Doomteller Adept enters, exile up to three target cards from graveyards.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/16_Doomteller Adept.jpg" num="16">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cultist of Cold Fate</name>
+			<text>Sorcery spells you cast have flash.
+Whenever you cast a noncreature spell with mana value 3 or greater, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/49_Cultist of Cold Fate.jpg" num="49">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Harbinger of Demise</name>
+			<text>Whenever one or more creatures you control deal combat damage to a player, you draw a card and lose 1 life.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/90_Harbinger of Demise.jpg" num="90">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Demon of Ruinous Fire</name>
+			<text>Ward—{1}, Pay 3 life (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1} and pays 3 life.)
+Whenever you cast a spell that targets, Demon of Ruinous Fire gets +2/+0 until end of turn.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/112_Demon of Ruinous Fire.jpg" num="112">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Illuminating Augur</name>
+			<text>Whenever one or more noncreature cards is put into a graveyard from anywhere, put a +1/+1 counter on Illuminating Augur. 4G —</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/156_Illuminating Augur.jpg" num="156">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dread From Beyond // Looming Destruction</name>
+			<text>When Dread From Beyond enters, search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.
+
+---
+
+Destroy target enchantment. (Then shuffle this card into its owner&apos;s library.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/17_Dread From Beyond.jpg" num="17">DCO</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Horror // Sorcery — Omen</type>
+				<maintype>Creature</maintype>
+				<manacost>3W // W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="X">Dread Function</related>
+		</card>
+		<card>
+			<name>Celestial Encroachment</name>
+			<text>Whenever you cast your third spell each turn, each player mills two cards, then for each player, you may exile a card they own milled this way. You may play it for as long as it remains exiled, and spend mana as though it were mana of any color to cast it.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/42_Celestial Encroachment.jpg" num="42">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>All The Darkest Hopes</name>
+			<text>Whenever a creature you control dies, surveil 1.
+As long as there are five or more creature cards in your graveyard, creatures you control get +1/+1.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/75_All The Darkest Hopes.jpg" num="75">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Free Rider</name>
+			<text>When Free Rider enters, it deals 2 damage to each opponent.
+Whenever Free Rider attacks, it deals 1 damage to any target.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/114_Free Rider.jpg" num="114">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Inquiry From Beyond</name>
+			<text>This spell can&apos;t be countered.
+Trample, ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+Whenever you cast a spell that targets, put a +1/+1 counter on Inquiry From Beyond.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/158_Inquiry From Beyond.jpg" num="158">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Uncover</name>
+			<text>Return target enchantment card with mana value 3 or less from your graveyard to the battlefield.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/39_Uncover.jpg" num="39">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cosmic Immenseness</name>
+			<text>When Cosmic Immenseness enters, search your library for a card with mana value 5 or greater, reveal it, put it into your hand, then shuffle.
+Whenever you cast a spell with mana value 5 or greater, draw a card. If it had mana value 7 or greater, tap each nonland permanent target player controls.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/46_Cosmic Immenseness.jpg" num="46">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Celestial Darkness</name>
+			<text>When Celestial Darkness enters or is put into a graveyard from the battlefield, you draw a card and lose 1 life.
+{2}{B}: Sacrifice Celestial Darkness.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/78_Celestial Darkness.jpg" num="78">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lively Pup</name>
+			<text>Infuse 2 (Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has two.)
+Lively Pup has haste as long as you&apos;ve cast a noncreature spell this turn.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/122_Lively Pup.jpg" num="122">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spidroid</name>
+			<text>Whenever Spidroid enters or you uncover a card, surveil 2. (You may cast this as an enchantment from your graveyard for its uncover cost.) 3G — (You may cast this as an enchantment from your graveyard for its uncover cost.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/167_Spidroid.jpg" num="167">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sunset Dreamer</name>
+			<text>Sunset Dreamer gets +2/+2 as long as there are three or more counters among permanents you control.
+{1}{W}, {T}: Put a +1/+1 counter on target creature.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/35_Sunset Dreamer.jpg" num="35">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ghastly Hunter</name>
+			<text>Infuse 3 (Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has three.)
+At the beginning of each end step, if a counter was put on Ghastly Hunter this turn, look at the top three cards of your library. You may reveal a permanent card with mana value 3 or less from among them and put it into your hand.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/20_Ghastly Hunter.jpg" num="20">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Leviathan Tides</name>
+			<text>Whenever you cast an Omen spell, exile it instead of shuffling it into its owner&apos;s library. For as long as it remains exiled, you may cast creature spells exiled this way.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/60_Leviathan Tides.jpg" num="60">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related count="X">Wave Function</related>
+		</card>
+		<card>
+			<name>Writhing Mound</name>
+			<text>When Writhing Mound enters, target player sacrifices a creature.
+At the beginning of each end step, if a nonland permanent you control left the battlefield this turn, each opponent loses 2 life.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/106_Writhing Mound.jpg" num="106">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Blood of Moonlight</name>
+			<text>Blood of Moonlight deals 3 damage to any target.
+Exile the top card of your library. You may play it until the end of your next turn.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/108_Blood of Moonlight.jpg" num="108">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Deepgrowth Explorer</name>
+			<text>At the beginning of your end step, you may mill two cards.
+As long as there are ten or more cards in your graveyard, Deepgrowth Explorer gets +3/+3 and has trample.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/148_Deepgrowth Explorer.jpg" num="148">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lost Curiosity</name>
+			<text>When Lost Curiosity enters, you may sacrifice another enchantment. When you do, exile target creature.
+Whenever you cast an enchantment spell, you put a +1/+1 counter on up to one target creature.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/26_Lost Curiosity.jpg" num="26">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Energy Displacer</name>
+			<text>At the beginning of your upkeep, surveil 1. 3U —</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/51_Energy Displacer.jpg" num="51">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Reaper of Kara</name>
+			<text>Flying
+As long as you&apos;ve drawn two or more cards this turn, Reaper of Kara gets +2/+0.
+Whenever Reaper of Kara attacks, surveil 1.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/100_Reaper of Kara.jpg" num="100">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Burning Quasar</name>
+			<text>Burning Quasar costs {2} less to cast if an opponent has lost life outside of combat this turn.
+Burning Quasar deals 5 damage to target creature.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/110_Burning Quasar.jpg" num="110">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Monk of Deafening Peace</name>
+			<text>Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+Whenever you cast a spell that targets, you gain 1 life.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/161_Monk of Deafening Peace.jpg" num="161">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Idyllic Tutor</name>
+			<text>Search your library for an enchantment card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/22_Idyllic Tutor.jpg" num="22">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wavebringer // Invoke the Tides</name>
+			<text>Flash
+Flying
+Infuse 1 (Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)
+
+---
+
+Draw three cards, then discard two cards. (Then shuffle this card into its owner&apos;s library.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/71_Wavebringer.jpg" num="71">DCO</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Dragon Avatar // Instant — Omen</type>
+				<maintype>Creature</maintype>
+				<manacost>4U // 2U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eternity From Beyond</name>
+			<text>As long as there are five or more cards in exile, Eternity From Beyond is a 4/4 Jellyfish Horror enchantment creature with lifelink.
+{2}{B}{B}, {T}, Exile an enchantment card from your graveyard: You draw a card and lose 1 life.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/86_Eternity From Beyond.jpg" num="86">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kalan Explorer</name>
+			<text>Infuse 2 (Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has two.)
+Whenever one or more counters are put on Kalan Explorer, you may discard a card. If you do, draw a card.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/120_Kalan Explorer.jpg" num="120">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deepgrowth Expansion</name>
+			<text>Search your library for a basic Forest card and put it onto the battlefield tapped, then shuffle. You gain 3 life if you control five or more lands.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/147_Deepgrowth Expansion.jpg" num="147">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Magitel, Flaming Brilliance</name>
+			<text>Flying
+Magitel gets +1/+1 for each enchantment you control.
+Whenever Magitel attacks, exile target enchantment, then return it to the battlefield under your control.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/28_Magitel, Flaming Brilliance.jpg" num="28">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="X">Healing Function</related>
+		</card>
+		<card>
+			<name>Cira, Lost in the Stars</name>
+			<text>Infuse 1 (Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)
+Whenever Cira deals combat damage to a player, surveil 1. If she has a counter on her, draw a card.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/44_Cira, Lost in the Stars.jpg" num="44">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Fox</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Talza, the Defeated</name>
+			<text>At the beginning of your end step, sacrifice a permanent.
+Whenever a permanent card is put into your graveyard from your hand or the battlefield, put a +1/+1 counter on Talza, the Defeated.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/104_Talza, the Defeated.jpg" num="104">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jhakan, Failed Lich</name>
+			<text>Whenever you attack, target attacking creature gets +1/+0 until end of turn. R —</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/118_Jhakan, Failed Lich.jpg" num="118">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Skeleton Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nashar, Starry Turtle</name>
+			<text>Whenever an enchantment you control becomes the target of a spell or ability you don&apos;t control, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/163_Nashar, Starry Turtle.jpg" num="163">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Turtle</type>
+				<maintype>Creature</maintype>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Designed Emptiness</name>
+			<text>Other enchantment you control enters with an additional +1/+1 counter on it.
+{2}{W}: Target enchantment you control becomes a 0/0 creature in addition to its other types.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/15_Designed Emptiness.jpg" num="15">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Naroz Icebreaker</name>
+			<text>Whenever you surveil, scry, or shuffle, surveil 1. Do this only once each turn.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/63_Naroz Icebreaker.jpg" num="63">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Into Eternity</name>
+			<text>All creatures get -2/-2 until end of turn.
+Create a tapped Treasure token.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/91_Into Eternity.jpg" num="91">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related>Treasure</related>
+		</card>
+		<card>
+			<name>Firespace Seeker</name>
+			<text>Firespace Seeker enters with two +1/+1 counters on it.
+When Firespace Seeker dies, you may put its counters on target creature.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/113_Firespace Seeker.jpg" num="113">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bringer of New Times // Aurora Splinters</name>
+			<text>Bringer of New Times gets +1/+1 for each noncreature permanent you control.
+
+---
+
+Destroy target artifact or enchantment. (Then shuffle this card into its owner&apos;s library.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/142_Bringer of New Times.jpg" num="142">DCO</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Avatar // Sorcery — Omen</type>
+				<maintype>Creature</maintype>
+				<manacost>4G // 1G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Illuminating Vortex</name>
+			<text>When Illuminating Vortex enters, put a +1/+1 counter on target creature you control.
+Creatures you control with counters on them get +1/+1.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/23_Illuminating Vortex.jpg" num="23">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cold Truths</name>
+			<text>Draw two cards. Then discard a card unless you&apos;ve cast another noncreature spell this turn.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/45_Cold Truths.jpg" num="45">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dark Dragonfire</name>
+			<text>Up to one target creature gets -3/-3 until end of turn.
+{2}{B}, Exile Dark Dragonfire from your graveyard: You draw a card and lose 1 life.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/82_Dark Dragonfire.jpg" num="82">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lightning Radiator</name>
+			<text>At the beginning of your end step, choose any target. Lightning Radiator deals 2 damage to that target if you&apos;ve cast a nonartifact, noncreature spell this turn. Lightning Radiator deals 2 damage to that target if you&apos;ve cast at least three spells this turn.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/121_Lightning Radiator.jpg" num="121">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Chromatic Starlight</name>
+			<text>When Chromatic Starlight enters, if mana was spent to cast it, add one mana of any color.
+{2}, Sacrifice Chromatic Starlight: Draw a card. Add one mana of any color.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/4_Chromatic Starlight.jpg" num="4">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Emptylands Rover</name>
+			<text>{1}, {T}: Surveil 1.
+{5}: Until end of turn, Emptylands Rover gets +1/+1 for each noncreature permanent you control.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/191_Emptylands Rover.jpg" num="191">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Darkwave Container</name>
+			<text>When Darkwave Container enters, you draw a card.
+{1}: Add one mana of any color. Activate only once during each of your turns.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/5_Darkwave Container.jpg" num="5">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Arbiter&apos;s Retriever</name>
+			<text>When The Arbiter&apos;s Retriever dies, return another target enchantment card from your graveyard to your hand. Exile The Arbiter&apos;s Retriever.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/2_The Arbiter&apos;s Retriever.jpg" num="2">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spacelight</name>
+			<text>Enchantment spells you cast cost {1} less to cast.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/8_Spacelight.jpg" num="8">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Energizer</name>
+			<text>Infuse 2 (Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has two.)
+Whenever one or more counters are put on Energizer, surveil 1.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/6_Energizer.jpg" num="6">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Swarm Engine</name>
+			<text>When Swarm Engine enters, put a +1/+1 counter on each noncreature, nonland permanent you control.
+{T}: Target noncreature, nonland permanent you control becomes a creature. (This lasts indefinitely.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/193_Swarm Engine.jpg" num="193">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shorian, Herald of the Beyond</name>
+			<text>If you would draw a card, instead mill four cards, then return one of the milled cards from your graveyard to your hand.
+While you have less than 30 cards in your main library, creatures you control can&apos;t be blocked.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/7_Shorian, Herald of the Beyond.jpg" num="7">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Horror Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Peace in Twilight // Enter Night</name>
+			<text>Whenever you cast your second noncreature spell each turn, copy that spell. You may choose new targets for the copy.
+
+---
+
+Return target nonland permanent to its owner&apos;s hand. You gain 2 life. (Then shuffle this card into its owner&apos;s library.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/184_Peace in Twilight.jpg" num="184">DCO</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Enchantment // Sorcery — Omen</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3WU // WU</manacost>
+				<cmc>5</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Warlock of Venomous Fire</name>
+			<text>Menace
+Whenever you draw your second card each turn, create a 2/2 black Warlock creature token.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/189_Warlock of Venomous Fire.jpg" num="189">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unbound Soul</name>
+			<text>Enchant permanent
+When Unbound Soul enters, you may discard a card. If you do, draw a card.
+Spells that target enchanted permanent cost {1} less to cast.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/188_Unbound Soul.jpg" num="188">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Arbiter&apos;s Harmonizer</name>
+			<text>Once each turn, when you cast an enchantment spell, you may draw a card.
+Whenever you cast an enchantment spell, put a +1/+1 counter on The Arbiter&apos;s Harmonizer.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/173_The Arbiter&apos;s Harmonizer.jpg" num="173">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Beyan Tormentor</name>
+			<text>Whenever one or more cards leave your graveyard, each opponent loses 1 life and you gain 1 life. 2WB —</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/174_Beyan Tormentor.jpg" num="174">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Necromancer of the Depths</name>
+			<text>Nonland permanent cards in your graveyard have uncover. Their uncover costs are equal to their mana costs. (You may cast them from your graveyard as enchantments for their uncover cost.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/182_Necromancer of the Depths.jpg" num="182">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lantern Bearer</name>
+			<text>Haste
+When Lantern Bearer enters, put a +1/+1 counter on each other creature you control. They gain haste until end of turn.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/180_Lantern Bearer.jpg" num="180">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Risen Thicket // Treegrowth</name>
+			<text>When Risen Thicket enters, draw two cards.
+
+---
+
+Put a land card from your hand onto the battlefield. Surveil 1. (Then shuffle this card into its owner&apos;s library.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/185_Risen Thicket.jpg" num="185">DCO</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Treefolk Giant // Instant — Omen</type>
+				<maintype>Creature</maintype>
+				<manacost>4GU // GU</manacost>
+				<cmc>6</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Night of Stopped Water</name>
+			<text>Whenever you draw a card, target player may discard a card. If they don&apos;t, they lose 1 life and you gain 1 life.
+{5}: Draw a card.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/183_Night of Stopped Water.jpg" num="183">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1WUB</manacost>
+				<cmc>4</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sunset Dancer</name>
+			<text>Infuse 3 (Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has three.)
+Whenever you cast a noncreature spell, Sunset Dancer deals 1 damage to each opponent and you gain 1 life.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/187_Sunset Dancer.jpg" num="187">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>UBR</manacost>
+				<cmc>3</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Endless Wreckage</name>
+			<text>Endless Wreckage deals 4 damage to any target. Surveil 4.
+{2}{B}{R}{G}, Exile Endless Wreckage from your graveyard: Draw two cards. Endless Wreckage deals 2 damage to each player.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/178_Endless Wreckage.jpg" num="178">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>BRG</manacost>
+				<cmc>3</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Knight of Beya // Reinforcements</name>
+			<text>Other creatures you control get +1/+1.
+
+---
+
+Create two 1/1 white Human enchantment creature tokens. (Then shuffle this card into its owner&apos;s library.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/179_Knight of Beya.jpg" num="179">DCO</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Human Knight // Sorcery — Omen</type>
+				<maintype>Creature</maintype>
+				<manacost>1RGW // R/GW</manacost>
+				<cmc>4</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Watchful Gaze</name>
+			<text>Whenever Watchful Gaze or another enchantment you control enters, if you cast it, exile target nonland permanent. Return it to the battlefield under its owner&apos;s control at the beginning of the next end step.
+At the beginning of your end step, untap up to four lands.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/190_Watchful Gaze.jpg" num="190">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2GWU</manacost>
+				<cmc>5</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Endless Sunrise</name>
+			<text>As an additional cost to cast Endless Sunrise, sacrifice a creature.
+Put X +1/+1 counters on each creature you control, where X is the sacrificed creature&apos;s power.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/177_Endless Sunrise.jpg" num="177">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>RWB</manacost>
+				<cmc>3</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related count="X">Human</related>
+			<related></related>
+		</card>
+		<card>
+			<name>Ancients From Beyond</name>
+			<text>Flash
+Noncreature spells you cast cost {1} less to cast and have flash.
+Once each turn, when you cast a noncreature spell, you may draw cards equal to that spells mana value, then discard two cards.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/172_Ancients From Beyond.jpg" num="172">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3GUR</manacost>
+				<cmc>6</cmc>
+				<colors>URG</colors>
+				<coloridentity>URG</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cosmic Incarnation</name>
+			<text>Flying
+Infuse 2 (Whenever you cast a noncreature spell, put a +1/+1 counter on this creature if it has two.)
+Whenever one or more counters are put on Cosmic Incarnation, it deals 1 damage to any target. Surveil 1.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/175_Cosmic Incarnation.jpg" num="175">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>URW</manacost>
+				<cmc>3</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Marshland Birth</name>
+			<text>Return up to two target nonland cards from your graveyard to your hand. Exile Marshland Birth.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DCO-files/img/181_Marshland Birth.jpg" num="181">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>BGU</manacost>
+				<cmc>3</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Demon DCO</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DCO-files/img/2t_Demon.jpg" num="2">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Construct DCO</name>
+			<text>Flying, Haste</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DCO-files/img/4t_Construct.jpg" num="4">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Warlock DCO</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DCO-files/img/3t_Warlock.jpg" num="3">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DCO-files/img/200_Plains.jpg" num="200">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DCO-files/img/197_Island.jpg" num="197">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DCO-files/img/202_Swamp.jpg" num="202">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DCO-files/img/199_Mountain.jpg" num="199">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DCO-files/img/196_Forest.jpg" num="196">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Treasure DCO</name>
+			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DCO-files/img/5t_Treasure.jpg" num="5">DCO</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

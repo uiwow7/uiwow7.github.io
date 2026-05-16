@@ -1,0 +1,877 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>CC01-OLD</name>
+			<longname>Voyager Card Contest 1 Old — Aanginer</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-05-15</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Demonheart Overseer</name>
+			<text>When this creature enters, you get {Vc} for each creature you control. (Spend {Vc} to cast copies of Vertex spells.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/6_Demonheart Overseer.jpg" num="6">CC01-OLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Call of the Celestial Tree</name>
+			<text>Create two 1/1 white Avatar creature tokens, then pursue Wonder. (Reveal a basic land or Wonder card from your sanctum and put it into your hand.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/5_Call of the Celestial Tree.jpg" num="5">CC01-OLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Starts in Sanctum</name>
+			<text>Pathbound—{1}{W}. Activate only if you have one or fewer cards in hand. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
+Other creatures you control with base power 1 or less get +1/+1.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/9_Starts in Sanctum.jpg" num="9">CC01-OLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skykeeper // Skywatching</name>
+			<text>Flying
+This creature gets +1/+1 as long a you control three or more creatures.
+
+---
+
+Create a 1/1 white Avatar creature token. (Then put this card into your sanctum.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/8_Skykeeper.jpg" num="8">CC01-OLD</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Dragon // Sorcery — Focus</type>
+				<maintype>Creature</maintype>
+				<manacost>1W // W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lifebound Synthesizer</name>
+			<text>Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.)
+This creature has lifelink and vigilance if it has power 2 or greater.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/7_Lifebound Synthesizer.jpg" num="7">CC01-OLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cosmic Lookout // Revoke</name>
+			<text>Flash
+Flying
+
+---
+
+Counter target spell. (Then put this card into your sanctum.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/11_Cosmic Lookout.jpg" num="11">CC01-OLD</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Dragon // Instant — Focus</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU // 1UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Call of the Starsea</name>
+			<text>Draw a card, then pursue Wonder. (Reveal a basic land or Wonder card from your sanctum and put it into your hand.)
+Discard a card.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/10_Call of the Starsea.jpg" num="10">CC01-OLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Reflected Familiar</name>
+			<text>When this creature enters, you get {Vc} equal to the number of spells you&apos;ve cast this turn. (Spend {Vc} to cast copies of Vertex spells.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/12_Reflected Familiar.jpg" num="12">CC01-OLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Reflection</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stormwrought Titan</name>
+			<text>When this creature enters, draw cards equal to its power, then discard that many cards.
+Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/13_Stormwrought Titan.jpg" num="13">CC01-OLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Darksun Executioner</name>
+			<text>When this creature enters, you get {Vc} for each nonland card in your graveyard. (Spend {Vc} to cast copies of Vertex spells.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/16_Darksun Executioner.jpg" num="16">CC01-OLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Call of the Soul</name>
+			<text>Destroy target creature.
+Pursue Wonder (Reveal a basic land or Wonder card from your sanctum and put it into your hand.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/15_Call of the Soul.jpg" num="15">CC01-OLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Somber Emptiness</name>
+			<text>When this enchantment enters, each opponent discards a card.
+{3}{B}{B}: Transform this realm.
+---
+(Back): Lost Mistlake</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/18_Somber Emptiness_front.jpg" num="18a">CC01-OLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment — Realm</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Lost Mistlake</related>
+		</card>
+		<card>
+			<name>Lost Mistlake</name>
+			<text>Whenever a creature or enchantment you control dies, each opponent loses 1 life.
+Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until your next turn.)
+---
+(Front): Somber Emptiness</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/18_Somber Emptiness_back.jpg" num="18b">CC01-OLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Enchantment — Realm Entity</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Somber Emptiness</related>
+		</card>
+		<card>
+			<name>Extraplanar Observer // Cosmic Draining</name>
+			<text>Whenever this creature enters or attacks, each player loses 1 life.
+
+---
+
+Each opponent loses 2 life. You gain life 2 life. (Then put this card into your sanctum.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/17_Extraplanar Observer.jpg" num="17">CC01-OLD</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Dragon // Sorcery — Focus</type>
+				<maintype>Creature</maintype>
+				<manacost>B // 1B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Starbrought Avatar</name>
+			<text>When this creature enters, destroy target creature with mana value less than or equal to this creature&apos;s power.
+Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/19_Starbrought Avatar.jpg" num="19">CC01-OLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vertex ProductionSynergy</name>
+			<text>{Vc}
+{VcW}
+{VcU}
+{VcB}
+{VcR}
+{VcG}</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/24_Vertex ProductionSynergy.jpg" num="24">CC01-OLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Call of the Sunset</name>
+			<text>Pursue Wonder (Reveal a basic land or Wonder card from your sanctum and put it into your hand.)
+Exile each card in your hand, then draw that many cards. You may play cards exiled this way until the end of your next turn.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/20_Call of the Sunset.jpg" num="20">CC01-OLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Portal to Destruction</name>
+			<text>When this enchantment enters, it deals 2 damage to each opponent.
+{3}{R}{R}: Transform this realm.
+---
+(Back): Roaming Titans</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/23_Portal to Destruction_front.jpg" num="23a">CC01-OLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment — Realm</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Roaming Titans</related>
+		</card>
+		<card>
+			<name>Roaming Titans</name>
+			<text>When this transforms into this enchantment, if it&apos;s combat on your turn, tap it. It&apos;s attacking.
+Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until your next turn.)
+---
+(Front): Portal to Destruction</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/23_Portal to Destruction_back.jpg" num="23b">CC01-OLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Enchantment — Realm Entity</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Portal to Destruction</related>
+		</card>
+		<card>
+			<name>Melting Glowdragon // Meltdown</name>
+			<text>Flying
+Whenever this creature attacks, when you cast your next instant or sorcery spell this turn, copy it. You may choose new targets for the copy.
+
+---
+
+Exile the top two cards if your library. You may play them until the end of your next turn. (Then put this card into your sanctum.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/22_Melting Glowdragon.jpg" num="22">CC01-OLD</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Dragon // Instant — Focus</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR // 2R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dark Omen Raven</name>
+			<text>When this creature enters, discard your hand, then draw a number of cards equal to its power.
+Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/21_Dark Omen Raven.jpg" num="21">CC01-OLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ursine Woodheart</name>
+			<text>When this creature enters, you get {Vc} equal to the number of lands you control. (Spend {Vc} to cast copies of Vertex spells.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/29_Ursine Woodheart.jpg" num="29">CC01-OLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bear</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Call of the Lifebringer</name>
+			<text>Pursue Wonder (Reveal a basic land or Wonder card from your sanctum and put it into your hand.)
+You may put a land card from your hand onto the battlefield tapped.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/25_Call of the Lifebringer.jpg" num="25">CC01-OLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Darkgrowth Columns</name>
+			<text>When this enchantment enters, search your library for a basic land card, put it onto the battlefield, then shuffle.
+{5}{G}{G}: Transform this realm.
+---
+(Back): Blessed Woodland</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/26_Darkgrowth Columns_front.jpg" num="26a">CC01-OLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment — Realm</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Blessed Woodland</related>
+		</card>
+		<card>
+			<name>Blessed Woodland</name>
+			<text>This enchantment gets +1/+1 for each land you control.
+Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until your next turn.)
+---
+(Front): Darkgrowth Columns</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/26_Darkgrowth Columns_back.jpg" num="26b">CC01-OLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Enchantment — Realm Entity</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Darkgrowth Columns</related>
+		</card>
+		<card>
+			<name>Sentinel of Empty Lands // Discovery</name>
+			<text>This creature can&apos;t be blocked by creatures with power 2 or less.
+When this creature enters, you gain 4 life.
+
+---
+
+Search your library for a basic land card, put it into your hand, then shuffle. (Then put this card into your sanctum.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/28_Sentinel of Empty Lands.jpg" num="28">CC01-OLD</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Dragon // Sorcery — Focus</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG // G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Forgotten Effigy</name>
+			<text>This creature has base size 6/6 as long as you control eight or more lands.
+Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/27_Forgotten Effigy.jpg" num="27">CC01-OLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Statue</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vertex ProductionSynergy</name>
+			<text>When this creature enters, you get {Vc} equal to the number of tokens you control. (Spend {Vc} to cast copies of Vertex spells.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/33_Vertex ProductionSynergy.jpg" num="33">CC01-OLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Call of the Sky</name>
+			<text>Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+Pursue Wonder. (Reveal a basic land or Wonder card from your sanctum and put it into your hand.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/30_Call of the Sky.jpg" num="30">CC01-OLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lost Mirrorpools</name>
+			<text>When this enchantment enters, if it isn&apos;t a token, you may mirror. (Create a token that&apos;s a copy of a token you control.)
+{2}{I}{I}: Transform this realm.
+---
+(Back): Blessed Mirrorworld</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/32_Lost Mirrorpools_front.jpg" num="32a">CC01-OLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment — Realm</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Blessed Mirrorworld</related>
+		</card>
+		<card>
+			<name>Blessed Mirrorworld</name>
+			<text>Creature tokens you control get +0/+1.
+Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until your next turn.)
+---
+(Front): Lost Mirrorpools</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/32_Lost Mirrorpools_back.jpg" num="32b">CC01-OLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Enchantment — Realm Entity</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Lost Mirrorpools</related>
+		</card>
+		<card>
+			<name>Cursed Stormbringer // Lightning</name>
+			<text>Flying
+When this creature enters, draw a card.
+
+---
+
+This spell deals 1 damage to any target. (Then put this card into your sanctum.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/31_Cursed Stormbringer.jpg" num="31">CC01-OLD</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Dragon // Instant — Focus</type>
+				<maintype>Creature</maintype>
+				<manacost>3II // I</manacost>
+				<cmc>5</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wandering Sentry</name>
+			<text>When this creature enters, you gain life equal to its power.
+Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/34_Wandering Sentry.jpg" num="34">CC01-OLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Drone</type>
+				<maintype>Creature</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Moonlight Shadows</name>
+			<text>Whenever a creature enters under your control, you may liberate it. (Exile it if it isn&apos;t a Dragon. If it&apos;s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/37_The Moonlight Shadows.jpg" num="37">CC01-OLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Enchantment — Wonder</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2II/WW</manacost>
+				<cmc>5</cmc>
+				<colors>WI</colors>
+				<coloridentity>WI</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Sunlit Pools</name>
+			<text>Whenever a creature is returned to a hand or library from the battlefield, create a token that&apos;s a copy of that creature.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/38_The Sunlit Pools.jpg" num="38">CC01-OLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Enchantment — Wonder</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2II/UU</manacost>
+				<cmc>5</cmc>
+				<colors>UI</colors>
+				<coloridentity>UI</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Sunset Undergrowth</name>
+			<text>When this enchantment enters, return target permanent card with mana value 2 or less from your graveyard to the battlefield.
+At the beginning of your end step, each opponent loses 1 life.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/39_The Sunset Undergrowth.jpg" num="39">CC01-OLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Enchantment — Wonder</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1II/BB</manacost>
+				<cmc>4</cmc>
+				<colors>BI</colors>
+				<coloridentity>BI</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Icefire Monuments</name>
+			<text>If an opponent would lose life, they loose that much life plus one instead. (Damage causes loss of life.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/36_The Icefire Monuments.jpg" num="36">CC01-OLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Enchantment — Wonder</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1II/RR</manacost>
+				<cmc>4</cmc>
+				<colors>RI</colors>
+				<coloridentity>RI</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Earthbound Brushwoods</name>
+			<text>When this enchantment enters, search your library for a land card with a nonbasic land type, put it onto the battlefield tapped, then shuffle.
+{6}: Target land you control becomes a 0/0 creature with haste that&apos;s still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/35_The Earthbound Brushwoods.jpg" num="35">CC01-OLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Enchantment — Wonder</type>
+				<maintype>Enchantment</maintype>
+				<manacost>II/GG</manacost>
+				<cmc>3</cmc>
+				<colors>GI</colors>
+				<coloridentity>GI</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Colorless Planeswalker</name>
+			<text>​</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/2_Colorless Planeswalker.jpg" num="2">CC01-OLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Jaza</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Reserves hate card</name>
+			<text>Players can&apos;t create tokens or cards in zones other than the battlefield.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/4_Reserves hate card.jpg" num="4">CC01-OLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Monument to Lapsed Realms</name>
+			<text>{T}: Add {C}{C}{C}{C}.
+Whenever you spend five or more mana to cast a spell, create a 2/2 colorless Avatar creature token.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/40_Monument to Lapsed Realms.jpg" num="40">CC01-OLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Artifact — Realm</type>
+				<maintype>Artifact</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Expensive card with alt mode</name>
+			<text>When this creature enters, you get {VcU}. Then you may trace a card named Ngonify and cast it without paying its mana cost. (You still have to pay its vertex cost.)
+{1}, Discard this card: You get {VcW}. (Spend {Vc} to cast copies of Vertex spells.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/3_Expensive card with alt mode.jpg" num="3">CC01-OLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Changeling with typal payoff</name>
+			<text>Changeling (This card is every creature type.)</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/1_Changeling with typal payoff.jpg" num="1">CC01-OLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Untouched Falls</name>
+			<text>When this realm enters, return up to one target creature to its owner&apos;s hand.
+{3}{U}: Transform this realm.
+---
+(Back): Starry Skies</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/14_Untouched Falls_front.jpg" num="14a">CC01-OLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment — Realm</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Starry Skies</related>
+			<related count="X">Ancient Aurora</related>
+			<related></related>
+			<reverse-related>Ancient Aurora</reverse-related>
+		</card>
+		<card>
+			<name>Starry Skies</name>
+			<text>Spells you cast have flash.
+Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until your next turn.)
+---
+(Front): Untouched Falls</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/14_Untouched Falls_back.jpg" num="14b">CC01-OLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Enchantment — Realm Entity</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Untouched Falls</related>
+			<related count="X">Ancient Aurora</related>
+			<related></related>
+			<reverse-related>Ancient Aurora</reverse-related>
+		</card>
+		<card>
+			<name>Avatar CC01-OLD</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/1t_Avatar.jpg" num="1">CC01-OLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Avatar CC01-OLD</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CC01-OLD-files/img/2t_Avatar.jpg" num="2">CC01-OLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

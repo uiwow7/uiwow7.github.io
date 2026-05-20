@@ -65,7 +65,7 @@
     },
     {
         "card_name": "Primordial Fright",
-        "number": 118,
+        "number": 117,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -305,7 +305,7 @@
     },
     {
         "card_name": "Mark of Return",
-        "number": 115,
+        "number": 114,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -353,7 +353,7 @@
     },
     {
         "card_name": "Shattered and Unbroken",
-        "number": 122,
+        "number": 121,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -401,7 +401,7 @@
     },
     {
         "card_name": "Star Blackener",
-        "number": 123,
+        "number": 122,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -977,7 +977,7 @@
     },
     {
         "card_name": "Forsake the Light",
-        "number": 109,
+        "number": 108,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1025,7 +1025,7 @@
     },
     {
         "card_name": "Freed from Eternity",
-        "number": 110,
+        "number": 109,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1073,7 +1073,7 @@
     },
     {
         "card_name": "Hollow Vessel",
-        "number": 111,
+        "number": 110,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1121,7 +1121,7 @@
     },
     {
         "card_name": "Induced Entropy",
-        "number": 112,
+        "number": 111,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1169,7 +1169,7 @@
     },
     {
         "card_name": "Lightwoven Ghast",
-        "number": 114,
+        "number": 113,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1217,7 +1217,7 @@
     },
     {
         "card_name": "Ominous Moon",
-        "number": 116,
+        "number": 115,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1265,7 +1265,7 @@
     },
     {
         "card_name": "Serene Starfall",
-        "number": 121,
+        "number": 120,
         "shape": "saga",
         "set": "DSW",
         "rotated": false,
@@ -1648,8 +1648,8 @@
         "position": ""
     },
     {
-        "card_name": "Forgotten by Fate",
-        "number": 108,
+        "card_name": "Inevitable Withering",
+        "number": 112,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1696,8 +1696,8 @@
         "position": ""
     },
     {
-        "card_name": "Inevitable Withering",
-        "number": 113,
+        "card_name": "Otherworldy Starbringer",
+        "number": 116,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1744,8 +1744,8 @@
         "position": ""
     },
     {
-        "card_name": "Otherworldy Starbringer",
-        "number": 117,
+        "card_name": "Reborn of the Void",
+        "number": 118,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -1792,7 +1792,7 @@
         "position": ""
     },
     {
-        "card_name": "Reborn of the Void",
+        "card_name": "Seer of the Beyond",
         "number": 119,
         "shape": "normal",
         "set": "DSW",
@@ -1840,8 +1840,8 @@
         "position": ""
     },
     {
-        "card_name": "Seer of the Beyond",
-        "number": 120,
+        "card_name": "Sunset Warden",
+        "number": 123,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2822,7 +2822,7 @@
     },
     {
         "card_name": "Swamp",
-        "number": 324,
+        "number": 325,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2870,7 +2870,7 @@
     },
     {
         "card_name": "Swamp",
-        "number": 325,
+        "number": 324,
         "shape": "normal",
         "set": "DSW",
         "rotated": false,
@@ -2939,14 +2939,6 @@
         "position": ""
     },
     {
-        "card_name": "Vertex Reminder",
-        "number": 332,
-        "shape": "token",
-        "set": "DSW",
-        "rotated": false,
-        "position": ""
-    },
-    {
         "card_name": "Avatar Wizard",
         "number": 3,
         "shape": "token",
@@ -3001,6 +2993,9 @@
         "set": "DSW",
         "rotated": false,
         "position": ""
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"

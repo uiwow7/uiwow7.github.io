@@ -1,0 +1,1738 @@
+﻿[
+    {
+        "card_name": "MW01",
+        "number": 40,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "MU01",
+        "number": 77,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "MB01",
+        "number": 104,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "MR01",
+        "number": 142,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "MG01",
+        "number": 174,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "MW02",
+        "number": 41,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "MU02",
+        "number": 78,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "MB02",
+        "number": 105,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "MR02",
+        "number": 143,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "MG02",
+        "number": 175,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RW01",
+        "number": 43,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cosmic Nexus",
+        "number": 60,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RB01",
+        "number": 109,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Phoenix of Suns",
+        "number": 144,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RG01",
+        "number": 176,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RW02",
+        "number": 44,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RU01",
+        "number": 79,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RB02",
+        "number": 110,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RR01",
+        "number": 145,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RG02",
+        "number": 177,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RW03",
+        "number": 45,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RU02",
+        "number": 80,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RB03",
+        "number": 111,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RR02",
+        "number": 146,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RG03",
+        "number": 178,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RW04",
+        "number": 46,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RU03",
+        "number": 81,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RB04",
+        "number": 112,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RR04",
+        "number": 147,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RG04",
+        "number": 179,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RW05",
+        "number": 47,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RU05",
+        "number": 82,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RB05",
+        "number": 113,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RR05",
+        "number": 148,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RG05",
+        "number": 180,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bloomwielder",
+        "number": 25,
+        "shape": "adventure",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ardent Starkeeper",
+        "number": 57,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Darkstar Prowler",
+        "number": 103,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Firebringer",
+        "number": 140,
+        "shape": "adventure",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cradle of Growth",
+        "number": 173,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Majesty of Suns",
+        "number": 39,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cloudwater Visions",
+        "number": 59,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Nightseer",
+        "number": 106,
+        "shape": "adventure",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Magmatic Emergence",
+        "number": 141,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sproutbinder",
+        "number": 181,
+        "shape": "adventure",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW02",
+        "number": 49,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Starfinder",
+        "number": 83,
+        "shape": "adventure",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB02",
+        "number": 116,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR02",
+        "number": 149,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG02",
+        "number": 182,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW03",
+        "number": 50,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU02",
+        "number": 84,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB03",
+        "number": 117,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR03",
+        "number": 150,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG03",
+        "number": 183,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW04",
+        "number": 51,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU03",
+        "number": 85,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB04",
+        "number": 118,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR04",
+        "number": 151,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG04 DREADMAW!!!",
+        "number": 184,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW05",
+        "number": 52,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU05",
+        "number": 86,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB05",
+        "number": 119,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR05",
+        "number": 152,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG06",
+        "number": 185,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW07",
+        "number": 53,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU06",
+        "number": 87,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB07",
+        "number": 120,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR07",
+        "number": 153,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG07",
+        "number": 186,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW08",
+        "number": 54,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU07",
+        "number": 88,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB08",
+        "number": 121,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR08",
+        "number": 154,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG08",
+        "number": 187,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW09 DESIGNED",
+        "number": 55,
+        "shape": "adventure",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU09",
+        "number": 89,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB09",
+        "number": 122,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR09",
+        "number": 155,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG09",
+        "number": 188,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Acolyte of Sunlight",
+        "number": 24,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Chaotic Anomaly",
+        "number": 58,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB01",
+        "number": 90,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Behold True Suns",
+        "number": 123,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bear Bearer",
+        "number": 156,
+        "shape": "transform double faced",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW03",
+        "number": 26,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU01",
+        "number": 61,
+        "shape": "transform double faced",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB02",
+        "number": 91,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR01",
+        "number": 124,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Blossoming Growth",
+        "number": 157,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW07",
+        "number": 27,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU02",
+        "number": 62,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB03",
+        "number": 92,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR02",
+        "number": 125,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG01",
+        "number": 158,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW08",
+        "number": 28,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU03",
+        "number": 63,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB04",
+        "number": 93,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR03",
+        "number": 126,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG02",
+        "number": 159,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW09",
+        "number": 29,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU04",
+        "number": 64,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB09",
+        "number": 94,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR04",
+        "number": 127,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG03",
+        "number": 160,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW10",
+        "number": 30,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU06",
+        "number": 65,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB10",
+        "number": 95,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR06",
+        "number": 128,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG04",
+        "number": 161,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW11",
+        "number": 31,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU07",
+        "number": 66,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB11",
+        "number": 96,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR07",
+        "number": 129,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG05",
+        "number": 162,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW12",
+        "number": 32,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU08",
+        "number": 67,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB12",
+        "number": 97,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR08",
+        "number": 130,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG08",
+        "number": 163,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW13",
+        "number": 33,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU09",
+        "number": 68,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB13",
+        "number": 98,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR09",
+        "number": 131,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG09",
+        "number": 164,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW14",
+        "number": 34,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU10",
+        "number": 69,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB14",
+        "number": 99,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR10",
+        "number": 132,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG10",
+        "number": 165,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW15",
+        "number": 35,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU11",
+        "number": 70,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB15",
+        "number": 100,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR11",
+        "number": 133,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG11",
+        "number": 166,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW16",
+        "number": 36,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU12",
+        "number": 71,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB16",
+        "number": 101,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR12",
+        "number": 134,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG12",
+        "number": 167,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW17",
+        "number": 37,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU13",
+        "number": 72,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB17",
+        "number": 102,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR13",
+        "number": 135,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG13",
+        "number": 168,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Empowered by Light",
+        "number": 38,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU14",
+        "number": 73,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Open Hidden Gateways",
+        "number": 107,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR14",
+        "number": 136,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG14",
+        "number": 169,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Priest of the Mirena",
+        "number": 42,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU15",
+        "number": 74,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ratvolutionary",
+        "number": 108,
+        "shape": "transform double faced",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR15",
+        "number": 137,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG15",
+        "number": 170,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sunlit Call",
+        "number": 48,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU16",
+        "number": 75,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Rodent Reforger",
+        "number": 114,
+        "shape": "transform double faced",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR16",
+        "number": 138,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG16",
+        "number": 171,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Warmth of the Skies",
+        "number": 56,
+        "shape": "transform double faced",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU17",
+        "number": 76,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Shattered Sword Deathbringer",
+        "number": 115,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR17",
+        "number": 139,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG17",
+        "number": 172,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Architect of Blood Suns",
+        "number": 1,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "MX02",
+        "number": 2,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "MX03",
+        "number": 3,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "MX04",
+        "number": 4,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Geometric Void",
+        "number": 287,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RX02",
+        "number": 5,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RX03",
+        "number": 6,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RX04",
+        "number": 7,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RX05",
+        "number": 8,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RX06",
+        "number": 9,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RX07",
+        "number": 10,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RX08",
+        "number": 11,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RX09",
+        "number": 12,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RX10",
+        "number": 13,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RX11",
+        "number": 14,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RX12",
+        "number": 15,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RX13",
+        "number": 16,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RX14",
+        "number": 17,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RX15",
+        "number": 18,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RX01",
+        "number": 288,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UX01",
+        "number": 19,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UX02",
+        "number": 20,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UX03",
+        "number": 21,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UX04",
+        "number": 22,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UX05",
+        "number": 23,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UA01",
+        "number": 289,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UA02",
+        "number": 290,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UA03",
+        "number": 291,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UA04",
+        "number": 292,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UA05",
+        "number": 293,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CA01",
+        "number": 282,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CA02",
+        "number": 283,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CA03",
+        "number": 284,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CA04",
+        "number": 285,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CA05",
+        "number": 286,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "UL01",
+        "number": 295,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UL02",
+        "number": 296,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UL03",
+        "number": 297,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UL04",
+        "number": 298,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UL05",
+        "number": 299,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CL01",
+        "number": 294,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Themes",
+        "number": 1,
+        "shape": "token",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

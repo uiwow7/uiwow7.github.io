@@ -1,0 +1,3341 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Acolyte of Sunlight",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/24_Acolyte of Sunlight.jpg"
+			}
+		},
+		{
+			"name": "Sunlit Call",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/48_Sunlit Call.jpg"
+			}
+		},
+		{
+			"name": "CW03",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/26_CW03.jpg"
+			}
+		},
+		{
+			"name": "Priest of the Mirena",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/42_Priest of the Mirena.jpg"
+			}
+		},
+		{
+			"name": "Empowered by Light",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/38_Empowered by Light.jpg"
+			}
+		},
+		{
+			"name": "Warmth of the Skies",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "56",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://uiwow7.github.io/sets/CORE-files/img/56_Warmth of the Skies_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/56_Warmth of the Skies_front.jpg"
+			}
+		},
+		{
+			"name": "CW07",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/27_CW07.jpg"
+			}
+		},
+		{
+			"name": "CW08",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/28_CW08.jpg"
+			}
+		},
+		{
+			"name": "CW09",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/29_CW09.jpg"
+			}
+		},
+		{
+			"name": "CW10",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/30_CW10.jpg"
+			}
+		},
+		{
+			"name": "CW11",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/31_CW11.jpg"
+			}
+		},
+		{
+			"name": "CW12",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/32_CW12.jpg"
+			}
+		},
+		{
+			"name": "CW13",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/33_CW13.jpg"
+			}
+		},
+		{
+			"name": "CW14",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/34_CW14.jpg"
+			}
+		},
+		{
+			"name": "CW15",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/35_CW15.jpg"
+			}
+		},
+		{
+			"name": "CW16",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/36_CW16.jpg"
+			}
+		},
+		{
+			"name": "CW17",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/37_CW17.jpg"
+			}
+		},
+		{
+			"name": "CU01",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human",
+			"collector_number": "61",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://uiwow7.github.io/sets/CORE-files/img/61_CU01_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/61_CU01_front.jpg"
+			}
+		},
+		{
+			"name": "CU02",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/62_CU02.jpg"
+			}
+		},
+		{
+			"name": "CU03",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/63_CU03.jpg"
+			}
+		},
+		{
+			"name": "CU04",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/64_CU04.jpg"
+			}
+		},
+		{
+			"name": "Chaotic Anomaly",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/58_Chaotic Anomaly.jpg"
+			}
+		},
+		{
+			"name": "CU06",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/65_CU06.jpg"
+			}
+		},
+		{
+			"name": "CU07",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/66_CU07.jpg"
+			}
+		},
+		{
+			"name": "CU08",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/67_CU08.jpg"
+			}
+		},
+		{
+			"name": "CU09",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/68_CU09.jpg"
+			}
+		},
+		{
+			"name": "CU10",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/69_CU10.jpg"
+			}
+		},
+		{
+			"name": "CU11",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/70_CU11.jpg"
+			}
+		},
+		{
+			"name": "CU12",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/71_CU12.jpg"
+			}
+		},
+		{
+			"name": "CU13",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/72_CU13.jpg"
+			}
+		},
+		{
+			"name": "CU14",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/73_CU14.jpg"
+			}
+		},
+		{
+			"name": "CU15",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/74_CU15.jpg"
+			}
+		},
+		{
+			"name": "CU16",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/75_CU16.jpg"
+			}
+		},
+		{
+			"name": "CU17",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/76_CU17.jpg"
+			}
+		},
+		{
+			"name": "CB01",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Rat",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/90_CB01.jpg"
+			}
+		},
+		{
+			"name": "CB02",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/91_CB02.jpg"
+			}
+		},
+		{
+			"name": "CB03",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/92_CB03.jpg"
+			}
+		},
+		{
+			"name": "CB04",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/93_CB04.jpg"
+			}
+		},
+		{
+			"name": "Rodent Reforger",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Rat Artificer",
+			"collector_number": "114",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://uiwow7.github.io/sets/CORE-files/img/114_Rodent Reforger_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/114_Rodent Reforger_front.jpg"
+			}
+		},
+		{
+			"name": "Open Hidden Gateways",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/107_Open Hidden Gateways.jpg"
+			}
+		},
+		{
+			"name": "Shattered Sword Deathbringer",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/115_Shattered Sword Deathbringer.jpg"
+			}
+		},
+		{
+			"name": "Ratvolutionary",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Rat Soldier",
+			"collector_number": "108",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://uiwow7.github.io/sets/CORE-files/img/108_Ratvolutionary_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/108_Ratvolutionary_front.jpg"
+			}
+		},
+		{
+			"name": "CB09",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/94_CB09.jpg"
+			}
+		},
+		{
+			"name": "CB10",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/95_CB10.jpg"
+			}
+		},
+		{
+			"name": "CB11",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/96_CB11.jpg"
+			}
+		},
+		{
+			"name": "CB12",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/97_CB12.jpg"
+			}
+		},
+		{
+			"name": "CB13",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/98_CB13.jpg"
+			}
+		},
+		{
+			"name": "CB14",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/99_CB14.jpg"
+			}
+		},
+		{
+			"name": "CB15",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/100_CB15.jpg"
+			}
+		},
+		{
+			"name": "CB16",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/101_CB16.jpg"
+			}
+		},
+		{
+			"name": "CB17",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/102_CB17.jpg"
+			}
+		},
+		{
+			"name": "CR01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/124_CR01.jpg"
+			}
+		},
+		{
+			"name": "CR02",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/125_CR02.jpg"
+			}
+		},
+		{
+			"name": "CR03",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/126_CR03.jpg"
+			}
+		},
+		{
+			"name": "CR04",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/127_CR04.jpg"
+			}
+		},
+		{
+			"name": "Behold True Suns",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/123_Behold True Suns.jpg"
+			}
+		},
+		{
+			"name": "CR06",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/128_CR06.jpg"
+			}
+		},
+		{
+			"name": "CR07",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/129_CR07.jpg"
+			}
+		},
+		{
+			"name": "CR08",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/130_CR08.jpg"
+			}
+		},
+		{
+			"name": "CR09",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/131_CR09.jpg"
+			}
+		},
+		{
+			"name": "CR10",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/132_CR10.jpg"
+			}
+		},
+		{
+			"name": "CR11",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/133_CR11.jpg"
+			}
+		},
+		{
+			"name": "CR12",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/134_CR12.jpg"
+			}
+		},
+		{
+			"name": "CR13",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/135_CR13.jpg"
+			}
+		},
+		{
+			"name": "CR14",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/136_CR14.jpg"
+			}
+		},
+		{
+			"name": "CR15",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/137_CR15.jpg"
+			}
+		},
+		{
+			"name": "CR16",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/138_CR16.jpg"
+			}
+		},
+		{
+			"name": "CR17",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/139_CR17.jpg"
+			}
+		},
+		{
+			"name": "CG01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/158_CG01.jpg"
+			}
+		},
+		{
+			"name": "CG02",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/159_CG02.jpg"
+			}
+		},
+		{
+			"name": "CG03",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/160_CG03.jpg"
+			}
+		},
+		{
+			"name": "CG04",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/161_CG04.jpg"
+			}
+		},
+		{
+			"name": "CG05",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/162_CG05.jpg"
+			}
+		},
+		{
+			"name": "Blossoming Growth",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/157_Blossoming Growth.jpg"
+			}
+		},
+		{
+			"name": "Bear Bearer",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Bear",
+			"collector_number": "156",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://uiwow7.github.io/sets/CORE-files/img/156_Bear Bearer_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/156_Bear Bearer_front.jpg"
+			}
+		},
+		{
+			"name": "CG08",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/163_CG08.jpg"
+			}
+		},
+		{
+			"name": "CG09",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/164_CG09.jpg"
+			}
+		},
+		{
+			"name": "CG10",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/165_CG10.jpg"
+			}
+		},
+		{
+			"name": "CG11",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Bear Warrior",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/166_CG11.jpg"
+			}
+		},
+		{
+			"name": "CG12",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/167_CG12.jpg"
+			}
+		},
+		{
+			"name": "CG13",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/168_CG13.jpg"
+			}
+		},
+		{
+			"name": "CG14",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/169_CG14.jpg"
+			}
+		},
+		{
+			"name": "CG15",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/170_CG15.jpg"
+			}
+		},
+		{
+			"name": "CG16",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/171_CG16.jpg"
+			}
+		},
+		{
+			"name": "CG17",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/172_CG17.jpg"
+			}
+		},
+		{
+			"name": "Void Wayfarer",
+			"rarity": "common",
+			"mana_cost": "{C}",
+			"type": "Creature — Spirit",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/219_Void Wayfarer.jpg"
+			}
+		},
+		{
+			"name": "CI02",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/191_CI02.jpg"
+			}
+		},
+		{
+			"name": "Become Eternity",
+			"rarity": "common",
+			"mana_cost": "{1}{C}",
+			"type": "Sorcery",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/189_Become Eternity.jpg"
+			}
+		},
+		{
+			"name": "Herald of Moonlight",
+			"rarity": "common",
+			"mana_cost": "{1}{C}",
+			"type": "Creature — Bird Spirit",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/202_Herald of Moonlight.jpg"
+			}
+		},
+		{
+			"name": "Starcatcher",
+			"rarity": "common",
+			"mana_cost": "{1}{C}",
+			"type": "Creature — Dog Spirit",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/211_Starcatcher.jpg"
+			}
+		},
+		{
+			"name": "CI06",
+			"rarity": "common",
+			"mana_cost": "{2}{C}",
+			"type": "Sorcery",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/192_CI06.jpg"
+			}
+		},
+		{
+			"name": "Celestial Caller",
+			"rarity": "common",
+			"mana_cost": "{2}{C}",
+			"type": "Creature — Spirit",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/190_Celestial Caller.jpg"
+			}
+		},
+		{
+			"name": "Watching the Winds",
+			"rarity": "common",
+			"mana_cost": "{1}{C}",
+			"type": "Enchantment",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/221_Watching the Winds.jpg"
+			}
+		},
+		{
+			"name": "CI09",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/193_CI09.jpg"
+			}
+		},
+		{
+			"name": "CI10",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/194_CI10.jpg"
+			}
+		},
+		{
+			"name": "CI11",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/195_CI11.jpg"
+			}
+		},
+		{
+			"name": "CI12",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/196_CI12.jpg"
+			}
+		},
+		{
+			"name": "Warden of Desolation",
+			"rarity": "common",
+			"mana_cost": "{6}{C}",
+			"type": "Creature — Horror",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/220_Warden of Desolation.jpg"
+			}
+		},
+		{
+			"name": "CI14",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/197_CI14.jpg"
+			}
+		},
+		{
+			"name": "CI15",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/198_CI15.jpg"
+			}
+		},
+		{
+			"name": "CI16",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/199_CI16.jpg"
+			}
+		},
+		{
+			"name": "CI17",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/200_CI17.jpg"
+			}
+		},
+		{
+			"name": "Bloomwielder",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/25_Bloomwielder.jpg"
+			}
+		},
+		{
+			"name": "UW02",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/49_UW02.jpg"
+			}
+		},
+		{
+			"name": "UW03",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/50_UW03.jpg"
+			}
+		},
+		{
+			"name": "UW04",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/51_UW04.jpg"
+			}
+		},
+		{
+			"name": "UW05",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/52_UW05.jpg"
+			}
+		},
+		{
+			"name": "Majesty of Suns",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/39_Majesty of Suns.jpg"
+			}
+		},
+		{
+			"name": "UW07",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/53_UW07.jpg"
+			}
+		},
+		{
+			"name": "UW08",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/54_UW08.jpg"
+			}
+		},
+		{
+			"name": "UW09 DESIGNED",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Artifact Creature — Angel Dragon",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/55_UW09 DESIGNED.jpg"
+			}
+		},
+		{
+			"name": "Starfinder",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Creature — Avatar Wizard",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/83_Starfinder.jpg"
+			}
+		},
+		{
+			"name": "UU02",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/84_UU02.jpg"
+			}
+		},
+		{
+			"name": "UU03",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/85_UU03.jpg"
+			}
+		},
+		{
+			"name": "Cloudwater Visions",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/59_Cloudwater Visions.jpg"
+			}
+		},
+		{
+			"name": "UU05",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/86_UU05.jpg"
+			}
+		},
+		{
+			"name": "UU06",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/87_UU06.jpg"
+			}
+		},
+		{
+			"name": "UU07",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/88_UU07.jpg"
+			}
+		},
+		{
+			"name": "Ardent Starkeeper",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Dragon",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/57_Ardent Starkeeper.jpg"
+			}
+		},
+		{
+			"name": "UU09",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/89_UU09.jpg"
+			}
+		},
+		{
+			"name": "Nightseer",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Horror Warlock",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/106_Nightseer.jpg"
+			}
+		},
+		{
+			"name": "UB02",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/116_UB02.jpg"
+			}
+		},
+		{
+			"name": "UB03",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/117_UB03.jpg"
+			}
+		},
+		{
+			"name": "UB04",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/118_UB04.jpg"
+			}
+		},
+		{
+			"name": "UB05",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/119_UB05.jpg"
+			}
+		},
+		{
+			"name": "Darkstar Prowler",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Cat",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/103_Darkstar Prowler.jpg"
+			}
+		},
+		{
+			"name": "UB07",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/120_UB07.jpg"
+			}
+		},
+		{
+			"name": "UB08",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/121_UB08.jpg"
+			}
+		},
+		{
+			"name": "UB09",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/122_UB09.jpg"
+			}
+		},
+		{
+			"name": "Firebringer",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/140_Firebringer.jpg"
+			}
+		},
+		{
+			"name": "UR02",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/149_UR02.jpg"
+			}
+		},
+		{
+			"name": "UR03",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/150_UR03.jpg"
+			}
+		},
+		{
+			"name": "UR04",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/151_UR04.jpg"
+			}
+		},
+		{
+			"name": "UR05",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/152_UR05.jpg"
+			}
+		},
+		{
+			"name": "Magmatic Emergence",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/141_Magmatic Emergence.jpg"
+			}
+		},
+		{
+			"name": "UR07",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/153_UR07.jpg"
+			}
+		},
+		{
+			"name": "UR08",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/154_UR08.jpg"
+			}
+		},
+		{
+			"name": "UR09",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/155_UR09.jpg"
+			}
+		},
+		{
+			"name": "Sproutbinder",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Creature — Human Druid",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/181_Sproutbinder.jpg"
+			}
+		},
+		{
+			"name": "UG02",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/182_UG02.jpg"
+			}
+		},
+		{
+			"name": "UG03",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/183_UG03.jpg"
+			}
+		},
+		{
+			"name": "UG04 DREADMAW!!!",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/184_UG04 DREADMAW!!!.jpg"
+			}
+		},
+		{
+			"name": "Cradle of Growth",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/173_Cradle of Growth.jpg"
+			}
+		},
+		{
+			"name": "UG06",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/185_UG06.jpg"
+			}
+		},
+		{
+			"name": "UG07",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/186_UG07.jpg"
+			}
+		},
+		{
+			"name": "UG08",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/187_UG08.jpg"
+			}
+		},
+		{
+			"name": "UG09",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/188_UG09.jpg"
+			}
+		},
+		{
+			"name": "Tidewatcher",
+			"rarity": "uncommon",
+			"mana_cost": "{C}",
+			"type": "Creature — Nightmare Mystic",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/213_Tidewatcher.jpg"
+			}
+		},
+		{
+			"name": "UI02",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/214_UI02.jpg"
+			}
+		},
+		{
+			"name": "Rain of Flowers",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{C}",
+			"type": "Sorcery",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/205_Rain of Flowers.jpg"
+			}
+		},
+		{
+			"name": "UI04",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/215_UI04.jpg"
+			}
+		},
+		{
+			"name": "UI05",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/216_UI05.jpg"
+			}
+		},
+		{
+			"name": "UI06",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/217_UI06.jpg"
+			}
+		},
+		{
+			"name": "Starseeker Whale",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{C}",
+			"type": "Creature — Whale Spirit",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/212_Starseeker Whale.jpg"
+			}
+		},
+		{
+			"name": "Dragon of Ancients",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{C}{C}",
+			"type": "Creature — Spirit Dragon",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/201_Dragon of Ancients.jpg"
+			}
+		},
+		{
+			"name": "UI09",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/218_UI09.jpg"
+			}
+		},
+		{
+			"name": "RW01",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/43_RW01.jpg"
+			}
+		},
+		{
+			"name": "RW02",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/44_RW02.jpg"
+			}
+		},
+		{
+			"name": "RW03",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/45_RW03.jpg"
+			}
+		},
+		{
+			"name": "RW04",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/46_RW04.jpg"
+			}
+		},
+		{
+			"name": "RW05",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/47_RW05.jpg"
+			}
+		},
+		{
+			"name": "RU01",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/79_RU01.jpg"
+			}
+		},
+		{
+			"name": "RU02",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/80_RU02.jpg"
+			}
+		},
+		{
+			"name": "RU03",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/81_RU03.jpg"
+			}
+		},
+		{
+			"name": "Cosmic Nexus",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/60_Cosmic Nexus.jpg"
+			}
+		},
+		{
+			"name": "RU05",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/82_RU05.jpg"
+			}
+		},
+		{
+			"name": "RB01",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/109_RB01.jpg"
+			}
+		},
+		{
+			"name": "RB02",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/110_RB02.jpg"
+			}
+		},
+		{
+			"name": "RB03",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Rat Noble",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/111_RB03.jpg"
+			}
+		},
+		{
+			"name": "RB04",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/112_RB04.jpg"
+			}
+		},
+		{
+			"name": "RB05",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/113_RB05.jpg"
+			}
+		},
+		{
+			"name": "RR01",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/145_RR01.jpg"
+			}
+		},
+		{
+			"name": "RR02",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/146_RR02.jpg"
+			}
+		},
+		{
+			"name": "Phoenix of Suns",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/144_Phoenix of Suns.jpg"
+			}
+		},
+		{
+			"name": "RR04",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/147_RR04.jpg"
+			}
+		},
+		{
+			"name": "RR05",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/148_RR05.jpg"
+			}
+		},
+		{
+			"name": "RG01",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/176_RG01.jpg"
+			}
+		},
+		{
+			"name": "RG02",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/177_RG02.jpg"
+			}
+		},
+		{
+			"name": "RG03",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Creature — Bear Warrior",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/178_RG03.jpg"
+			}
+		},
+		{
+			"name": "RG04",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/179_RG04.jpg"
+			}
+		},
+		{
+			"name": "RG05",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/180_RG05.jpg"
+			}
+		},
+		{
+			"name": "RI01",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/206_RI01.jpg"
+			}
+		},
+		{
+			"name": "RI02",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/207_RI02.jpg"
+			}
+		},
+		{
+			"name": "RI03",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/208_RI03.jpg"
+			}
+		},
+		{
+			"name": "RI04",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/209_RI04.jpg"
+			}
+		},
+		{
+			"name": "RI05",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/210_RI05.jpg"
+			}
+		},
+		{
+			"name": "MW01",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/40_MW01.jpg"
+			}
+		},
+		{
+			"name": "MW02",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/41_MW02.jpg"
+			}
+		},
+		{
+			"name": "MU01",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/77_MU01.jpg"
+			}
+		},
+		{
+			"name": "MU02",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/78_MU02.jpg"
+			}
+		},
+		{
+			"name": "MB01",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/104_MB01.jpg"
+			}
+		},
+		{
+			"name": "MB02",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/105_MB02.jpg"
+			}
+		},
+		{
+			"name": "MR01",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/142_MR01.jpg"
+			}
+		},
+		{
+			"name": "MR02",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/143_MR02.jpg"
+			}
+		},
+		{
+			"name": "MG01",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/174_MG01.jpg"
+			}
+		},
+		{
+			"name": "MG02",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/175_MG02.jpg"
+			}
+		},
+		{
+			"name": "MI01",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/203_MI01.jpg"
+			}
+		},
+		{
+			"name": "MI02",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/204_MI02.jpg"
+			}
+		},
+		{
+			"name": "CM01",
+			"rarity": "common",
+			"mana_cost": "{W}{U}",
+			"type": "Creature",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/231_CM01.jpg"
+			}
+		},
+		{
+			"name": "CM01",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Creature",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/232_CM01.jpg"
+			}
+		},
+		{
+			"name": "CM01",
+			"rarity": "common",
+			"mana_cost": "{B}{R}",
+			"type": "",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/233_CM01.jpg"
+			}
+		},
+		{
+			"name": "CM01",
+			"rarity": "common",
+			"mana_cost": "{R}{G}",
+			"type": "",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/235_CM01.jpg"
+			}
+		},
+		{
+			"name": "CM01",
+			"rarity": "common",
+			"mana_cost": "{G}{W}",
+			"type": "",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/236_CM01.jpg"
+			}
+		},
+		{
+			"name": "CM01",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Enchantment Creature",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/228_CM01.jpg"
+			}
+		},
+		{
+			"name": "CM01",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/229_CM01.jpg"
+			}
+		},
+		{
+			"name": "CM01",
+			"rarity": "common",
+			"mana_cost": "{B}{G}",
+			"type": "",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/230_CM01.jpg"
+			}
+		},
+		{
+			"name": "CM01",
+			"rarity": "common",
+			"mana_cost": "{R}{W}",
+			"type": "",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/234_CM01.jpg"
+			}
+		},
+		{
+			"name": "CM01",
+			"rarity": "common",
+			"mana_cost": "{G}{U}",
+			"type": "",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/222_CM01.jpg"
+			}
+		},
+		{
+			"name": "CM01",
+			"rarity": "common",
+			"mana_cost": "{C}{W}",
+			"type": "",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/223_CM01.jpg"
+			}
+		},
+		{
+			"name": "CM01",
+			"rarity": "common",
+			"mana_cost": "{C}{U}",
+			"type": "",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/227_CM01.jpg"
+			}
+		},
+		{
+			"name": "CM01",
+			"rarity": "common",
+			"mana_cost": "{C}{B}",
+			"type": "",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/224_CM01.jpg"
+			}
+		},
+		{
+			"name": "CM01",
+			"rarity": "common",
+			"mana_cost": "{C}{R}",
+			"type": "",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/225_CM01.jpg"
+			}
+		},
+		{
+			"name": "CM01",
+			"rarity": "common",
+			"mana_cost": "{C}{G}",
+			"type": "",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/226_CM01.jpg"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/253_UM01.jpg"
+			}
+		},
+		{
+			"name": "UM02",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/273_UM02.jpg"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/252_UM01.jpg"
+			}
+		},
+		{
+			"name": "UM02",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/267_UM02.jpg"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/254_UM01.jpg"
+			}
+		},
+		{
+			"name": "UM02",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/280_UM02.jpg"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/256_UM01.jpg"
+			}
+		},
+		{
+			"name": "UM02",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/279_UM02.jpg"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/257_UM01.jpg"
+			}
+		},
+		{
+			"name": "UM02",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/278_UM02.jpg"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/258_UM01.jpg"
+			}
+		},
+		{
+			"name": "UM02",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/277_UM02.jpg"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/259_UM01.jpg"
+			}
+		},
+		{
+			"name": "UM02",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/276_UM02.jpg"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/260_UM01.jpg"
+			}
+		},
+		{
+			"name": "UM02",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/275_UM02.jpg"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/261_UM01.jpg"
+			}
+		},
+		{
+			"name": "UM02",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/274_UM02.jpg"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/262_UM01.jpg"
+			}
+		},
+		{
+			"name": "UM02",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/281_UM02.jpg"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{C}{W}",
+			"type": "",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/263_UM01.jpg"
+			}
+		},
+		{
+			"name": "UM02",
+			"rarity": "uncommon",
+			"mana_cost": "{C}{W}",
+			"type": "",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/268_UM02.jpg"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{C}{U}",
+			"type": "",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/264_UM01.jpg"
+			}
+		},
+		{
+			"name": "UM02",
+			"rarity": "uncommon",
+			"mana_cost": "{C}{U}",
+			"type": "",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/269_UM02.jpg"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{C}{B}",
+			"type": "",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/265_UM01.jpg"
+			}
+		},
+		{
+			"name": "UM02",
+			"rarity": "uncommon",
+			"mana_cost": "{C}{B}",
+			"type": "",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/270_UM02.jpg"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{C}{R}",
+			"type": "",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/255_UM01.jpg"
+			}
+		},
+		{
+			"name": "UM02",
+			"rarity": "uncommon",
+			"mana_cost": "{C}{R}",
+			"type": "",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/271_UM02.jpg"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{C}{G}",
+			"type": "",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/266_UM01.jpg"
+			}
+		},
+		{
+			"name": "UM02",
+			"rarity": "uncommon",
+			"mana_cost": "{C}{G}",
+			"type": "",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/272_UM02.jpg"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/243_RM01.jpg"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/245_RM01.jpg"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/244_RM01.jpg"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/247_RM01.jpg"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/249_RM01.jpg"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/251_RM01.jpg"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/238_RM01.jpg"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/239_RM01.jpg"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/241_RM01.jpg"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/246_RM01.jpg"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{C}{W}",
+			"type": "",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/240_RM01.jpg"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{C}{U}",
+			"type": "",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/242_RM01.jpg"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{C}{B}",
+			"type": "",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/237_RM01.jpg"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{C}{R}",
+			"type": "",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/250_RM01.jpg"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{C}{G}",
+			"type": "",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/248_RM01.jpg"
+			}
+		},
+		{
+			"name": "CA01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/282_CA01.jpg"
+			}
+		},
+		{
+			"name": "CA02",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/283_CA02.jpg"
+			}
+		},
+		{
+			"name": "CA03",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/284_CA03.jpg"
+			}
+		},
+		{
+			"name": "CA04",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/285_CA04.jpg"
+			}
+		},
+		{
+			"name": "CA05",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/286_CA05.jpg"
+			}
+		},
+		{
+			"name": "UA01",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/289_UA01.jpg"
+			}
+		},
+		{
+			"name": "UA02",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/290_UA02.jpg"
+			}
+		},
+		{
+			"name": "UA03",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/291_UA03.jpg"
+			}
+		},
+		{
+			"name": "UA04",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/292_UA04.jpg"
+			}
+		},
+		{
+			"name": "UA05",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/293_UA05.jpg"
+			}
+		},
+		{
+			"name": "CL01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/294_CL01.jpg"
+			}
+		},
+		{
+			"name": "UL01",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/295_UL01.jpg"
+			}
+		},
+		{
+			"name": "UL02",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/296_UL02.jpg"
+			}
+		},
+		{
+			"name": "UL03",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/297_UL03.jpg"
+			}
+		},
+		{
+			"name": "UL04",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/298_UL04.jpg"
+			}
+		},
+		{
+			"name": "UL05",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/299_UL05.jpg"
+			}
+		},
+		{
+			"name": "UX01",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/19_UX01.jpg"
+			}
+		},
+		{
+			"name": "UX02",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/20_UX02.jpg"
+			}
+		},
+		{
+			"name": "UX03",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/21_UX03.jpg"
+			}
+		},
+		{
+			"name": "UX04",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/22_UX04.jpg"
+			}
+		},
+		{
+			"name": "UX05",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/23_UX05.jpg"
+			}
+		},
+		{
+			"name": "RX01",
+			"rarity": "rare",
+			"mana_cost": "{8}",
+			"type": "Artifact — Equipment",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/288_RX01.jpg"
+			}
+		},
+		{
+			"name": "RX02",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/5_RX02.jpg"
+			}
+		},
+		{
+			"name": "RX03",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/6_RX03.jpg"
+			}
+		},
+		{
+			"name": "RX04",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/7_RX04.jpg"
+			}
+		},
+		{
+			"name": "RX05",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/8_RX05.jpg"
+			}
+		},
+		{
+			"name": "RX06",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/9_RX06.jpg"
+			}
+		},
+		{
+			"name": "RX07",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/10_RX07.jpg"
+			}
+		},
+		{
+			"name": "RX08",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/11_RX08.jpg"
+			}
+		},
+		{
+			"name": "RX09",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/12_RX09.jpg"
+			}
+		},
+		{
+			"name": "RX10",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/13_RX10.jpg"
+			}
+		},
+		{
+			"name": "RX11",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/14_RX11.jpg"
+			}
+		},
+		{
+			"name": "RX12",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/15_RX12.jpg"
+			}
+		},
+		{
+			"name": "RX13",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/16_RX13.jpg"
+			}
+		},
+		{
+			"name": "RX14",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/17_RX14.jpg"
+			}
+		},
+		{
+			"name": "RX15",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/18_RX15.jpg"
+			}
+		},
+		{
+			"name": "Architect of Blood Suns",
+			"rarity": "mythic",
+			"mana_cost": "{1}{C}{C}{C}",
+			"type": "Enchantment Creature — Avatar",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/1_Architect of Blood Suns.jpg"
+			}
+		},
+		{
+			"name": "MX02",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/2_MX02.jpg"
+			}
+		},
+		{
+			"name": "MX03",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/3_MX03.jpg"
+			}
+		},
+		{
+			"name": "MX04",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/4_MX04.jpg"
+			}
+		},
+		{
+			"name": "The Geometric Void",
+			"rarity": "mythic",
+			"mana_cost": "{16}",
+			"type": "Legendary Enchantment Artifact",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/287_The Geometric Void.jpg"
+			}
+		},
+		{
+			"name": "Themes",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/1t_Themes.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	5 RW01
+	5 RW02
+	5 RW03
+	5 RW04
+	5 RW05
+	5 RU01
+	5 RU02
+	5 RU03
+	5 Cosmic Nexus
+	5 RU05
+	5 RB01
+	5 RB02
+	5 RB03
+	5 RB04
+	5 RB05
+	5 RR01
+	5 RR02
+	5 Phoenix of Suns
+	5 RR04
+	5 RR05
+	5 RG01
+	5 RG02
+	5 RG03
+	5 RG04
+	5 RG05
+	5 RI01
+	5 RI02
+	5 RI03
+	5 RI04
+	5 RI05
+	5 MW01
+	5 MW02
+	5 MU01
+	5 MU02
+	5 MB01
+	5 MB02
+	5 MR01
+	5 MR02
+	5 MG01
+	5 MG02
+	5 MI01
+	5 MI02
+	5 RM01
+	5 RM01
+	5 RM01
+	5 RM01
+	5 RM01
+	5 RM01
+	5 RM01
+	5 RM01
+	5 RM01
+	5 RM01
+	5 RM01
+	5 RM01
+	5 RM01
+	5 RM01
+	5 RM01
+	5 RX01
+	5 RX02
+	5 RX03
+	5 RX04
+	5 RX05
+	5 RX06
+	5 RX07
+	5 RX08
+	5 RX09
+	5 RX10
+	5 RX11
+	5 RX12
+	5 RX13
+	5 RX14
+	5 RX15
+	5 Architect of Blood Suns
+	5 MX02
+	5 MX03
+	5 MX04
+	5 The Geometric Void
+[uncommon(3)]
+	5 Bloomwielder
+	5 UW02
+	5 UW03
+	5 UW04
+	5 UW05
+	5 Majesty of Suns
+	5 UW07
+	5 UW08
+	5 UW09 DESIGNED
+	5 Starfinder
+	5 UU02
+	5 UU03
+	5 Cloudwater Visions
+	5 UU05
+	5 UU06
+	5 UU07
+	5 Ardent Starkeeper
+	5 UU09
+	5 Nightseer
+	5 UB02
+	5 UB03
+	5 UB04
+	5 UB05
+	5 Darkstar Prowler
+	5 UB07
+	5 UB08
+	5 UB09
+	5 Firebringer
+	5 UR02
+	5 UR03
+	5 UR04
+	5 UR05
+	5 Magmatic Emergence
+	5 UR07
+	5 UR08
+	5 UR09
+	5 Sproutbinder
+	5 UG02
+	5 UG03
+	5 UG04 DREADMAW!!!
+	5 Cradle of Growth
+	5 UG06
+	5 UG07
+	5 UG08
+	5 UG09
+	5 Tidewatcher
+	5 UI02
+	5 Rain of Flowers
+	5 UI04
+	5 UI05
+	5 UI06
+	5 Starseeker Whale
+	5 Dragon of Ancients
+	5 UI09
+	5 UM01
+	5 UM02
+	5 UM01
+	5 UM02
+	5 UM01
+	5 UM02
+	5 UM01
+	5 UM02
+	5 UM01
+	5 UM02
+	5 UM01
+	5 UM02
+	5 UM01
+	5 UM02
+	5 UM01
+	5 UM02
+	5 UM01
+	5 UM02
+	5 UM01
+	5 UM02
+	5 UM01
+	5 UM02
+	5 UM01
+	5 UM02
+	5 UM01
+	5 UM02
+	5 UM01
+	5 UM02
+	5 UM01
+	5 UM02
+	5 UA01
+	5 UA02
+	5 UA03
+	5 UA04
+	5 UA05
+	5 UL01
+	5 UL02
+	5 UL03
+	5 UL04
+	5 UL05
+	5 UX01
+	5 UX02
+	5 UX03
+	5 UX04
+	5 UX05
+[common(10)]
+	5 Acolyte of Sunlight
+	5 Sunlit Call
+	5 CW03
+	5 Priest of the Mirena
+	5 Empowered by Light
+	5 Warmth of the Skies
+	5 CW07
+	5 CW08
+	5 CW09
+	5 CW10
+	5 CW11
+	5 CW12
+	5 CW13
+	5 CW14
+	5 CW15
+	5 CW16
+	5 CW17
+	5 CU01
+	5 CU02
+	5 CU03
+	5 CU04
+	5 Chaotic Anomaly
+	5 CU06
+	5 CU07
+	5 CU08
+	5 CU09
+	5 CU10
+	5 CU11
+	5 CU12
+	5 CU13
+	5 CU14
+	5 CU15
+	5 CU16
+	5 CU17
+	5 CB01
+	5 CB02
+	5 CB03
+	5 CB04
+	5 Rodent Reforger
+	5 Open Hidden Gateways
+	5 Shattered Sword Deathbringer
+	5 Ratvolutionary
+	5 CB09
+	5 CB10
+	5 CB11
+	5 CB12
+	5 CB13
+	5 CB14
+	5 CB15
+	5 CB16
+	5 CB17
+	5 CR01
+	5 CR02
+	5 CR03
+	5 CR04
+	5 Behold True Suns
+	5 CR06
+	5 CR07
+	5 CR08
+	5 CR09
+	5 CR10
+	5 CR11
+	5 CR12
+	5 CR13
+	5 CR14
+	5 CR15
+	5 CR16
+	5 CR17
+	5 CG01
+	5 CG02
+	5 CG03
+	5 CG04
+	5 CG05
+	5 Blossoming Growth
+	5 Bear Bearer
+	5 CG08
+	5 CG09
+	5 CG10
+	5 CG11
+	5 CG12
+	5 CG13
+	5 CG14
+	5 CG15
+	5 CG16
+	5 CG17
+	5 Void Wayfarer
+	5 CI02
+	5 Become Eternity
+	5 Herald of Moonlight
+	5 Starcatcher
+	5 CI06
+	5 Celestial Caller
+	5 Watching the Winds
+	5 CI09
+	5 CI10
+	5 CI11
+	5 CI12
+	5 Warden of Desolation
+	5 CI14
+	5 CI15
+	5 CI16
+	5 CI17
+	5 CM01
+	5 CM01
+	5 CM01
+	5 CM01
+	5 CM01
+	5 CM01
+	5 CM01
+	5 CM01
+	5 CM01
+	5 CM01
+	5 CM01
+	5 CM01
+	5 CM01
+	5 CM01
+	5 CM01
+	5 CA01
+	5 CA02
+	5 CA03
+	5 CA04
+	5 CA05
+	5 CL01

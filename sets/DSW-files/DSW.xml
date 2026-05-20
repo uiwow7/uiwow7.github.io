@@ -5,7 +5,7 @@
 			<name>DSW</name>
 			<longname>Dazon: Splintered Worlds</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-15</releasedate>
+			<releasedate>2026-05-20</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -777,7 +777,7 @@ Realize {5}{U}{U} (Then if you cast this spell for its realize cost, put it onto
 		<card>
 			<name>Lightwoven Ghast</name>
 			<text>When this creature dies, each player discards a card. For each noncreature card discarded this way, put a +1/+1 counter on target creature.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/114_Lightwoven Ghast.jpg" num="114">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/113_Lightwoven Ghast.jpg" num="113">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -794,7 +794,7 @@ Realize {5}{U}{U} (Then if you cast this spell for its realize cost, put it onto
 		<card>
 			<name>Reborn of the Void</name>
 			<text>{T}, Sacrifice an artifact or creature: Each opponent loses 1 life and you gain 1 life.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/119_Reborn of the Void.jpg" num="119">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/118_Reborn of the Void.jpg" num="118">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -809,10 +809,10 @@ Realize {5}{U}{U} (Then if you cast this spell for its realize cost, put it onto
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Forgotten by Fate</name>
+			<name>Sunset Warden</name>
 			<text>Infuse (When you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)
 Whenever you put one or more counters on this creature, each opponent lose 1 life.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/108_Forgotten by Fate.jpg" num="108">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/123_Sunset Warden.jpg" num="123">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -847,12 +847,13 @@ This creature has a deathtouch as long as it has a counter on it</text>
 		</card>
 		<card>
 			<name>Seer of the Beyond</name>
-			<text>Whenever an artifact or another enchantment you control enters, you get {Vc}. (Spend {Vc} to cast copies of Vertex spells.)</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/120_Seer of the Beyond.jpg" num="120">DSW</set>
+			<text>When this creature enters, you draw a card and lose 1 life.
+Starfall {2}{B} ({2}{B}, Exile this card from your graveyard: Create a Saga enchantment token with &quot;r{3}: You may cast a copy the exiled card without paying its mana cost.&quot;)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/119_Seer of the Beyond.jpg" num="119">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Enchantment Creature — Avatar Horror</type>
+				<type>Creature — Avatar Horror</type>
 				<maintype>Creature</maintype>
 				<manacost>3B</manacost>
 				<cmc>4</cmc>
@@ -868,7 +869,7 @@ This creature has a deathtouch as long as it has a counter on it</text>
 I — Each player sacrifices a creature.
 II — Put a +1/+1 counter on target creature. It gains menace until end of turn.
 III — Each opponent loses 2 life and you gain 2 life.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/121_Serene Starfall.jpg" num="121">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/120_Serene Starfall.jpg" num="120">DSW</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -884,8 +885,8 @@ III — Each opponent loses 2 life and you gain 2 life.</text>
 		<card>
 			<name>Doorwatcher</name>
 			<text>Menace
-Whenever a creature you control deals combat damage to a player, you get {Vc}. (Spend {Vc} to cast copies of Vertex spells.)
-Whenever you cast a vertex spell, each opponent loses 1 life and you gain 1 life.</text>
+Whenever one or more creatures you control deal combat damage to a player, put a lore counter on target permanent.
+Starfall {2}{B} ({2}{B}, Exile this card from your graveyard: Create a Saga enchantment token with &quot;r{3}: You may cast a copy the exiled card without paying its mana cost.&quot;)</text>
 			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/96_Doorwatcher.jpg" num="96">DSW</set>
 			<prop>
 				<layout>normal</layout>
@@ -903,7 +904,7 @@ Whenever you cast a vertex spell, each opponent loses 1 life and you gain 1 life
 		<card>
 			<name>Otherworldy Starbringer</name>
 			<text>When this creature enters, create two 1/1 silver Avatar creature tokens.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/117_Otherworldy Starbringer.jpg" num="117">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/116_Otherworldy Starbringer.jpg" num="116">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1081,7 +1082,7 @@ Menace</text>
 			<text>Choose one —
 • Destroy target permanent with counters on it.
 • Remove all counters from target permanent or player.</text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/113_Inevitable Withering.jpg" num="113">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/112_Inevitable Withering.jpg" num="112">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1115,7 +1116,7 @@ You draw two cards and lose two life.</text>
 			<name>Freed from Eternity</name>
 			<text>Depart 2 (You may cast this from your sanctum by exiling an Avatar permanent you control with power 2 or greater.)
 Return target creature card from your graveyard to the battlefield.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/110_Freed from Eternity.jpg" num="110">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/109_Freed from Eternity.jpg" num="109">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2290,7 +2291,7 @@ Starfall {B} ({B}, Exile this card from your graveyard: Create a Saga enchantmen
 			<name>Hollow Vessel</name>
 			<text>Infuse (When you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)
 Whenever one or more counters are put on this creature, create a 1/1 black Spirit creature token with decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/111_Hollow Vessel.jpg" num="111">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/110_Hollow Vessel.jpg" num="110">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2358,7 +2359,7 @@ Whenever one or more counters are put on this creature, create a 1/1 black Spiri
 		<card>
 			<name>Induced Entropy</name>
 			<text>Target creature gets -5/-5 until end of turn. If that creature would die this turn, sanctify it instead. (Put it into its owner&apos;s sanctum.)</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/112_Induced Entropy.jpg" num="112">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/111_Induced Entropy.jpg" num="111">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2375,7 +2376,7 @@ Whenever one or more counters are put on this creature, create a 1/1 black Spiri
 			<name>Ominous Moon</name>
 			<text>When this enchantment enters, create two 1/1 black Spirit creature tokens with decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)
 Whenever a creature you control dies, each opponent loses 1 life.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/116_Ominous Moon.jpg" num="116">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/115_Ominous Moon.jpg" num="115">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2394,7 +2395,7 @@ Whenever a creature you control dies, each opponent loses 1 life.</text>
 • Target player reveals their sanctum. You choose a card from it. Put that card into their graveyard.
 • Exile target player&apos;s graveyard.
 • Target opponent loses 2 life.</text>
-			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/109_Forsake the Light.jpg" num="109">DSW</set>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/108_Forsake the Light.jpg" num="108">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2409,7 +2410,7 @@ Whenever a creature you control dies, each opponent loses 1 life.</text>
 		</card>
 		<card>
 			<name>Flame of Drakol</name>
-			<text>Haste; decayed (This creature can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<text>Haste, decayed (This creature can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
 			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/145_Flame of Drakol.jpg" num="145">DSW</set>
 			<prop>
 				<layout>normal</layout>
@@ -2852,8 +2853,8 @@ If a card would be put into a graveyard from anywhere, exile it instead.</text>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Kindred Sorcery — Avatar Revelation</type>
-				<maintype>Sorcery</maintype>
+				<type>Kindred Instant — Avatar Revelation</type>
+				<maintype>Instant</maintype>
 				<manacost>WW</manacost>
 				<cmc>2</cmc>
 				<colors>W</colors>
@@ -2935,7 +2936,7 @@ Starfall {U}{U} ({U}{U}, Exile this card from your graveyard: Create a Saga ench
 		<card>
 			<name>Cosmic Outsider</name>
 			<text>Flash
-When this creature enters, exile up to one target instant or sorcery card in your graveyard. You may cast a copy of that spell until end of turn by paying {VcW} in addition to its other costs.</text>
+When this creature enters, exile up to one target instant or sorcery card in your graveyard. You may cast a copy of that spell until end of turn by paying {VW} in addition to its other costs.</text>
 			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/54_Cosmic Outsider.jpg" num="54">DSW</set>
 			<prop>
 				<layout>normal</layout>
@@ -3083,7 +3084,7 @@ Realize {8}{U}{U}{U}. This costs {1} less for each instant or sorcery card in yo
 			<text>Menace
 Whenever this creature attacks, remove a counter from target permanent.
 When this creature dies, search your library for a Saga card, reveal it, put it into your hand, then shuffle.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/123_Star Blackener.jpg" num="123">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/122_Star Blackener.jpg" num="122">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3191,7 +3192,7 @@ Once each turn, you may cast a black spell with mana value 3 or less from your h
 			<text>Choose one — 
 • Return target creature card from your graveyard to the battlefield.
 • You may cast target Revelation card from your graveyard without paying its mana cost. It enters as a creature after it resolves.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/115_Mark of Return.jpg" num="115">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/114_Mark of Return.jpg" num="114">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3227,7 +3228,7 @@ At the beginning of each opponent&apos;s end step, they mill cards equal to the 
 			<name>Shattered and Unbroken</name>
 			<text>Each card you sanctify from your graveyard while casting this spell pays for {1}. (To sanctify a card, put it into its owner&apos;s sanctum.)
 Draw three cards. You lose life equal to the number of cards in your sanctum.</text>
-			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/122_Shattered and Unbroken.jpg" num="122">DSW</set>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/121_Shattered and Unbroken.jpg" num="121">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3298,7 +3299,7 @@ This creature gets +1/+1 for each permanent you control that left the battlefiel
 		<card>
 			<name>Interstellar Phoenix</name>
 			<text>Flying, haste
-{1}, Pay {VcB}: Return this creature from your graveyard to the battlefield. Activate only as a sorcery.</text>
+{1}, Pay {VB}: Return this creature from your graveyard to the battlefield. Activate only as a sorcery.</text>
 			<set rarity="rare" picurl="https://uiwow7.github.io/sets/DSW-files/img/150_Interstellar Phoenix.jpg" num="150">DSW</set>
 			<prop>
 				<layout>normal</layout>
@@ -3977,7 +3978,7 @@ Once during each of your turns, when a nontoken creature dies, you may create a 
 			<name>Primordial Fright</name>
 			<text>When this creature enters, search your library for a card, sanctify it, then shuffle. (Put it into its owner&apos;s sanctum.)
 When this creature dies, draw a card from your sanctum.</text>
-			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/DSW-files/img/118_Primordial Fright.jpg" num="118">DSW</set>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/DSW-files/img/117_Primordial Fright.jpg" num="117">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4570,21 +4571,6 @@ Choose up to two cards from your sanctum and put them into your hand.</text>
 				<coloridentity>I</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-		</card>
-		<card>
-			<name>Vertex Reminder DSW</name>
-			<text></text>
-			<set rarity="special" picurl="https://uiwow7.github.io/sets/DSW-files/img/332t_Vertex Reminder.jpg" num="332">DSW</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Token Reminder</type>
-				<maintype>Reminder</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>1</tablerow>
-			<token>1</token>
 		</card>
 		<card>
 			<name>Archetypes/Themes DSW</name>
@@ -5266,8 +5252,8 @@ Healing 2 (Damage dealt by this creature also causes you to gain 2 life.)</text>
 			<name>The Arbiter, Eternal</name>
 			<text>Whenever one or more cards enter or leave your sanctum, put a loyalty counter on The Arbiter.
 [0]: Put a card from your sanctum into your hand.
-[-2]: You get {VcU}. You may cast a copy of a vertex sorcery from your command zone without paying its mana cost. (You still pay its vertex cost.)
-[-10]: You get an emblem with &quot;You may spend {Vc} as though it were mana of any type. You get ten {Vc}.&quot;</text>
+[-3]: Sift 2, then create a 0/0 colorless Fractal Horror creature token. Put X +1/+1 counters on it, where X is the number of cards in your sanctum.
+[-12]: Put any number of permanent cards from your sanctum onto the battlefield.</text>
 			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/DSW-files/img/1_The Arbiter, Eternal.jpg" num="1">DSW</set>
 			<prop>
 				<layout>normal</layout>
@@ -5276,7 +5262,6 @@ Healing 2 (Damage dealt by this creature also causes you to gain 2 life.)</text>
 				<maintype>Planeswalker</maintype>
 				<manacost>5CC</manacost>
 				<cmc>7</cmc>
-				<coloridentity>U</coloridentity>
 				<loyalty>5</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
@@ -5411,15 +5396,15 @@ At the beginning of your end step, you may sacrifice a token. If you do, create 
 		</card>
 		<card>
 			<name>Augur of the Stars</name>
-			<text>You may spent {Vc} as though it were {C} to cast this spell.
-When this creature enters, you may create a 0/0 colorless Fractal Horror creature token. Put X +1/+1 counters on it.</text>
+			<text>Infuse (When you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)
+Whenever one or more counters are put on this creature, each opponent loses 1 life and you gain 1 life.</text>
 			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/DSW-files/img/258_Augur of the Stars.jpg" num="258">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Avatar Dragon</type>
 				<maintype>Creature</maintype>
-				<manacost>XIUB</manacost>
+				<manacost>IUB</manacost>
 				<cmc>3</cmc>
 				<colors>UBI</colors>
 				<coloridentity>UBI</coloridentity>
@@ -5697,7 +5682,7 @@ Realize—{2}{I}{B}, Sacrifice a creature (Then if you cast this spell for its r
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/324_Swamp.jpg" num="324">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/325_Swamp.jpg" num="325">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5750,6 +5735,7 @@ Realize—{2}{I}{B}, Sacrifice a creature (Then if you cast this spell for its r
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
+				<coloridentity>I</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
 		</card>
@@ -5786,7 +5772,7 @@ Realize—{2}{I}{B}, Sacrifice a creature (Then if you cast this spell for its r
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/325_Swamp.jpg" num="325">DSW</set>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/DSW-files/img/324_Swamp.jpg" num="324">DSW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5839,6 +5825,7 @@ Realize—{2}{I}{B}, Sacrifice a creature (Then if you cast this spell for its r
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
+				<coloridentity>I</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
 		</card>

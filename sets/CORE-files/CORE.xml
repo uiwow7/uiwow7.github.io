@@ -1,0 +1,4838 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>CORE</name>
+			<longname></longname>
+			<settype>Custom</settype>
+			<releasedate>2026-05-20</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Acolyte of Sunlight</name>
+			<text>{4}{W}: Creatures you control get +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/24_Acolyte of Sunlight.jpg" num="24">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sunlit Call</name>
+			<text>Sunlit Call deals 3 damage to target attacking or blocking creature. When that creature dies this turn, you gain 2 life.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/48_Sunlit Call.jpg" num="48">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW03</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/26_CW03.jpg" num="26">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Priest of the Mirena</name>
+			<text>Infuse 2 (Whenever you cast a noncreature spell, put a +1/+1 counter on this if it has fewer than two.)
+Whenever one or more counters are put on Priest of the Mirena, you gain 1 life.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/42_Priest of the Mirena.jpg" num="42">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Empowered by Light</name>
+			<text>Skyward (You may cast this spell from your sanctum as though it had flash by exiling an instant or sorcery spell you control that isn&apos;t being targeted.)
+Put a +1/+1 counter on each creature you control.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/38_Empowered by Light.jpg" num="38">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Warmth of the Skies</name>
+			<text>When Warmth of the Skies enters, conjure a card named Healer&apos;s Hawk into your hand.
+Whenever you attack, untap up to one target attacking creature. It gets +1/+1 until end of turn.
+---
+(Back): Healer&apos;s Hawk</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/56_Warmth of the Skies_front.jpg" num="56a">CORE</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Healer&apos;s Hawk</related>
+		</card>
+		<card>
+			<name>Healer&apos;s Hawk</name>
+			<text>Flying, lifelink
+---
+(Front): Warmth of the Skies</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/56_Warmth of the Skies_back.jpg" num="56b">CORE</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Warmth of the Skies</related>
+		</card>
+		<card>
+			<name>CW07</name>
+			<text>When CW07 enters, exile target nonland permanent an opponent controls until CW07 leaves the battlefield.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/27_CW07.jpg" num="27">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW08</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/28_CW08.jpg" num="28">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW09</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/29_CW09.jpg" num="29">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW10</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/30_CW10.jpg" num="30">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW11</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/31_CW11.jpg" num="31">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW12</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/32_CW12.jpg" num="32">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW13</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/33_CW13.jpg" num="33">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW14</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/34_CW14.jpg" num="34">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW15</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/35_CW15.jpg" num="35">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW16</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/36_CW16.jpg" num="36">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW17</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/37_CW17.jpg" num="37">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU01</name>
+			<text>When CU01 enters, conjure a card named Stealth Mission into your hand.
+---
+(Back): Stealth Mission</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/61_CU01_front.jpg" num="61a">CORE</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Stealth Mission</related>
+		</card>
+		<card>
+			<name>Stealth Mission</name>
+			<text>Put two +1/+1 counters on target creature you control. That creature can&apos;t be blocked this turn.
+---
+(Front): CU01</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/61_CU01_back.jpg" num="61b">CORE</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">CU01</related>
+		</card>
+		<card>
+			<name>CU02</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/62_CU02.jpg" num="62">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU03</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/63_CU03.jpg" num="63">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU04</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/64_CU04.jpg" num="64">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Chaotic Anomaly</name>
+			<text>Skyward (You may cast this spell from your sanctum as though it had flash by exiling an instant or sorcery spell you control that isn&apos;t being targeted.)
+Return target nonland permanent to its owner&apos;s hand. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/58_Chaotic Anomaly.jpg" num="58">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU06</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/65_CU06.jpg" num="65">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU07</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/66_CU07.jpg" num="66">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU08</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/67_CU08.jpg" num="67">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU09</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/68_CU09.jpg" num="68">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU10</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/69_CU10.jpg" num="69">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU11</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/70_CU11.jpg" num="70">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU12</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/71_CU12.jpg" num="71">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU13</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/72_CU13.jpg" num="72">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU14</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/73_CU14.jpg" num="73">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU15</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/74_CU15.jpg" num="74">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU16</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/75_CU16.jpg" num="75">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU17</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/76_CU17.jpg" num="76">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB01</name>
+			<text>When CB01 enters, mill three cards.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/90_CB01.jpg" num="90">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rat</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB02</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/91_CB02.jpg" num="91">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB03</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/92_CB03.jpg" num="92">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB04</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/93_CB04.jpg" num="93">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rodent Reforger</name>
+			<text>Menace
+When Rodent Reforger dies, conjure a card named Greataxe into your hand.
+---
+(Back): Greataxe</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/114_Rodent Reforger_front.jpg" num="114a">CORE</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Rat Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Greataxe</related>
+		</card>
+		<card>
+			<name>Greataxe</name>
+			<text>Equipped creature gets +4/+0.
+Equip {5}
+---
+(Front): Rodent Reforger</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/114_Rodent Reforger_back.jpg" num="114b">CORE</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Rodent Reforger</related>
+		</card>
+		<card>
+			<name>Open Hidden Gateways</name>
+			<text>Skyward (You may cast this spell from your sanctum as though it had flash by exiling an instant or sorcery spell you control that isn&apos;t being targeted.)
+Exile target card from a graveyard. If it was a creature card, you gain 3 life. Otherwise, you draw a card.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/107_Open Hidden Gateways.jpg" num="107">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shattered Sword Deathbringer</name>
+			<text>Deathtouch
+When Shattered Sword Deathbringer dies, you draw a card and lose 1 life.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/115_Shattered Sword Deathbringer.jpg" num="115">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ratvolutionary</name>
+			<text>When Ratvolutionary enters, conjure a card named Burglar Rat into your hand.
+---
+(Back): Burglar Rat</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/108_Ratvolutionary_front.jpg" num="108a">CORE</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Rat Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Burglar Rat</related>
+		</card>
+		<card>
+			<name>Burglar Rat</name>
+			<text>When Burglar Rat enters, each opponent discards a card.
+---
+(Front): Ratvolutionary</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/108_Ratvolutionary_back.jpg" num="108b">CORE</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Rat</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Ratvolutionary</related>
+		</card>
+		<card>
+			<name>CB09</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/94_CB09.jpg" num="94">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB10</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/95_CB10.jpg" num="95">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB11</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/96_CB11.jpg" num="96">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB12</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/97_CB12.jpg" num="97">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB13</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/98_CB13.jpg" num="98">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB14</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/99_CB14.jpg" num="99">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB15</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/100_CB15.jpg" num="100">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB16</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/101_CB16.jpg" num="101">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB17</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/102_CB17.jpg" num="102">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR01</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/124_CR01.jpg" num="124">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR02</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/125_CR02.jpg" num="125">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR03</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/126_CR03.jpg" num="126">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR04</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/127_CR04.jpg" num="127">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Behold True Suns</name>
+			<text>Skyward (You may cast this spell from your sanctum as though it had flash by exiling an instant or sorcery spell you control that isn&apos;t being targeted.)
+As an additional cost to cast Behold True Suns, discard a card.
+Draw two cards.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/123_Behold True Suns.jpg" num="123">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR06</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/128_CR06.jpg" num="128">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR07</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/129_CR07.jpg" num="129">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR08</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/130_CR08.jpg" num="130">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR09</name>
+			<text>Target creature you control gets +3/+3 and gains trample and haste until end of turn.
+Discard up to two cards, then draw that many cards.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/131_CR09.jpg" num="131">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR10</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/132_CR10.jpg" num="132">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR11</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/133_CR11.jpg" num="133">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR12</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/134_CR12.jpg" num="134">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR13</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/135_CR13.jpg" num="135">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR14</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/136_CR14.jpg" num="136">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR15</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/137_CR15.jpg" num="137">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR16</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/138_CR16.jpg" num="138">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR17</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/139_CR17.jpg" num="139">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG01</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/158_CG01.jpg" num="158">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG02</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/159_CG02.jpg" num="159">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG03</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/160_CG03.jpg" num="160">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG04</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/161_CG04.jpg" num="161">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG05</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/162_CG05.jpg" num="162">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Blossoming Growth</name>
+			<text>Skyward (You may cast this spell from your sanctum as though it had flash by exiling an instant or sorcery spell you control that isn&apos;t being targeted.)
+Search your sanctum or library for a land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/157_Blossoming Growth.jpg" num="157">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bear Bearer</name>
+			<text>When Bear Bearer enters, conjure two cards named Grizzly Bears into your hand.
+---
+(Back): Grizzly Bears</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/156_Bear Bearer_front.jpg" num="156a">CORE</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Bear</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Grizzly Bears</related>
+		</card>
+		<card>
+			<name>Grizzly Bears</name>
+			<text>---
+(Front): Bear Bearer</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/156_Bear Bearer_back.jpg" num="156b">CORE</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Bear</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Bear Bearer</related>
+		</card>
+		<card>
+			<name>CG08</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/163_CG08.jpg" num="163">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG09</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/164_CG09.jpg" num="164">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG10</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/165_CG10.jpg" num="165">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG11</name>
+			<text>Infuse 2 (Whenever you cast a noncreature spell, put a +1/+1 counter on this if it has fewer than two.)
+Whenever one or more counters are put on CG11, mill two cards.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/166_CG11.jpg" num="166">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bear Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG12</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/167_CG12.jpg" num="167">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG13</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/168_CG13.jpg" num="168">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG14</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/169_CG14.jpg" num="169">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG15</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/170_CG15.jpg" num="170">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG16</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/171_CG16.jpg" num="171">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG17</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/172_CG17.jpg" num="172">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Void Wayfarer</name>
+			<text>Menace
+Whenever Void Wayfarer deals combat damage to a player, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/219_Void Wayfarer.jpg" num="219">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CI02</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/191_CI02.jpg" num="191">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>I</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Become Eternity</name>
+			<text>Target creature gets +3/-3 until end of turn. Each opponent loses 2 life.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/189_Become Eternity.jpg" num="189">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Herald of Moonlight</name>
+			<text>Flying
+When Herald of Moonlight enters, draw a card. Then discard a card unless a player has lost life this turn.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/202_Herald of Moonlight.jpg" num="202">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Starcatcher</name>
+			<text>Starcatcher can&apos;t be blocked.
+When Starcatcher enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/211_Starcatcher.jpg" num="211">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dog Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CI06</name>
+			<text>Skyward (You may cast this spell from your sanctum as though it had flash by exiling an instant or sorcery spell you control that isn&apos;t being targeted.)
+Create a token that&apos;s a copy of target creature you control.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/192_CI06.jpg" num="192">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2I</manacost>
+				<cmc>3</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Celestial Caller</name>
+			<text>Flying, lifelink
+Backlash {3}{I} (You may cast a copy of this card from your graveyard by paying its backlash cost and exiling it as long as an opponent has lost life this turn.)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/190_Celestial Caller.jpg" num="190">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2I</manacost>
+				<cmc>3</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Watching the Winds</name>
+			<text>When Watching the Winds enters, draw a card.
+{2}{I}: You gain 1 life and each opponent loses 1 life.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/221_Watching the Winds.jpg" num="221">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CI09</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/193_CI09.jpg" num="193">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>I</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CI10</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/194_CI10.jpg" num="194">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>I</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CI11</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/195_CI11.jpg" num="195">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>I</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CI12</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/196_CI12.jpg" num="196">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>I</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Warden of Desolation</name>
+			<text>This spell costs {1} less to cast for each enchantment you control.
+Menace</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/220_Warden of Desolation.jpg" num="220">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>6I</manacost>
+				<cmc>7</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CI14</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/197_CI14.jpg" num="197">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>I</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CI15</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/198_CI15.jpg" num="198">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>I</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CI16</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/199_CI16.jpg" num="199">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>I</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CI17</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/200_CI17.jpg" num="200">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>I</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bloomwielder // Gift of Light</name>
+			<text>{4}: You may cast a copy of Bloomwielder&apos; omen. (You still pay its costs.)
+
+---
+
+Creatures you control get +1/+1 and gain vigilance until end of turn. (Then shuffle this card into its owner&apos;s library.)</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/25_Bloomwielder.jpg" num="25">CORE</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric // Instant — Omen</type>
+				<maintype>Creature</maintype>
+				<manacost>W // 1W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/49_UW02.jpg" num="49">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UW03</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/50_UW03.jpg" num="50">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UW04</name>
+			<text>Forgive {2}. Activate only if there are eight or more cards in your sanctum. ({2}, Reveal this card from your sanctum as a sorcery: Exile it. You may play it during your next turn.)
+Exile up to two target creatures you control. Return up to one to the battlefield under its owner&apos;s control and put the other one into its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/51_UW04.jpg" num="51">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UW05</name>
+			<text>Skyward (You may cast this spell from your sanctum as though it had flash by exiling an instant or sorcery spell you control that isn&apos;t being targeted.)
+When UW05 enters, create a 1/1 white Spirit creature token with flying.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/52_UW05.jpg" num="52">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Majesty of Suns</name>
+			<text>Create a 1/1 white Cleric creature token.
+Target creature you control gets +1/+1 for each creature you control and gains first strike until end of turn.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/39_Majesty of Suns.jpg" num="39">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UW07</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/53_UW07.jpg" num="53">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UW08</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/54_UW08.jpg" num="54">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UW09 DESIGNED // NAME</name>
+			<text>Flying, vigilance
+Augury — At the beginning of your end step, if you exiled a card this turn, you gain 2 life.
+
+---
+
+Exile target creature, then return it to the battlefield under its owner&apos;s control. (Then shuffle this card into its owner&apos;s library.)</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/55_UW09 DESIGNED.jpg" num="55">CORE</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Artifact Creature — Angel Dragon // Sorcery — Omen</type>
+				<maintype>Creature</maintype>
+				<manacost>4W // 1W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Starfinder // Glittering Lights</name>
+			<text>{4}: You may cast a copy of Starfinder&apos;s omen. (You still pay its costs.)
+
+---
+
+Tap target creature. Draw a card, then discard a card. (Then shuffle this card into its owner&apos;s library.)</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/83_Starfinder.jpg" num="83">CORE</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Avatar Wizard // Instant — Omen</type>
+				<maintype>Creature</maintype>
+				<manacost> // 1U</manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/84_UU02.jpg" num="84">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU03</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/85_UU03.jpg" num="85">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cloudwater Visions</name>
+			<text>Forgive {2}. Activate only if there are eight or more cards in your sanctum. ({2}, Reveal this card from your sanctum as a sorcery: Exile it. You may play it during your next turn.)
+Draw two cards.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/59_Cloudwater Visions.jpg" num="59">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UU05</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/86_UU05.jpg" num="86">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU06</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/87_UU06.jpg" num="87">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU07</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/88_UU07.jpg" num="88">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ardent Starkeeper</name>
+			<text>Skyward (You may cast this spell from your sanctum as though it had flash by exiling an instant or sorcery spell you control that isn&apos;t being targeted.)
+Flying
+Whenever Ardent Starkeeper deals combat damage to a player, draw a card.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/57_Ardent Starkeeper.jpg" num="57">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU09</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/89_UU09.jpg" num="89">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nightseer // Vision of Dread</name>
+			<text>{4}: You may cast a copy of Nightseer&apos;s omen. (You still pay its costs.)
+
+---
+
+Each opponent loses 2 life and you gain 2 life. (Then shuffle this card into its owner&apos;s library.)</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/106_Nightseer.jpg" num="106">CORE</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Horror Warlock // Instant — Omen</type>
+				<maintype>Creature</maintype>
+				<manacost>B // 1B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/116_UB02.jpg" num="116">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB03</name>
+			<text>Forgive {2}. Activate only if there are eight or more cards in your sanctum. ({2}, Reveal this card from your sanctum as a sorcery: Exile it. You may play it during your next turn.)
+Return target creature card with mana value 3 or less from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/117_UB03.jpg" num="117">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UB04</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/118_UB04.jpg" num="118">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB05</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/119_UB05.jpg" num="119">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Darkstar Prowler</name>
+			<text>Skyward (You may cast this spell from your sanctum as though it had flash by exiling an instant or sorcery spell you control that isn&apos;t being targeted.)
+Menace
+When Darkstar Prowler enters, you draw a card and lose 1 life.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/103_Darkstar Prowler.jpg" num="103">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB07</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/120_UB07.jpg" num="120">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB08</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/121_UB08.jpg" num="121">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB09</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/122_UB09.jpg" num="122">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Firebringer // Herald Flames</name>
+			<text>{4}: You may cast a copy of Firebringer&apos;s omen. (You still pay its costs.)
+
+---
+
+Discard a card. If you do, draw two cards. (Then shuffle this card into its owner&apos;s library.)</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/140_Firebringer.jpg" num="140">CORE</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman // Sorcery — Omen</type>
+				<maintype>Creature</maintype>
+				<manacost>R // 1R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/149_UR02.jpg" num="149">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR03</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/150_UR03.jpg" num="150">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR04</name>
+			<text>Forgive {2}. Activate only if there are eight or more cards in your sanctum. ({2}, Reveal this card from your sanctum as a sorcery: Exile it. You may play it during your next turn.)
+Creatures you control get +1/+0 and gain haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/151_UR04.jpg" num="151">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UR05</name>
+			<text>Skyward (You may cast this spell from your sanctum as though it had flash by exiling an instant or sorcery spell you control that isn&apos;t being targeted.)
+Flying, haste
+{2}{R}, Exile an instant or sorcery spell you control that isn&apos;t the target of a spell or ability: Return UR05 from your graveyard to the battlefield with a finality counter on it.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/152_UR05.jpg" num="152">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Magmatic Emergence</name>
+			<text>DESIGN PLEASE</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/141_Magmatic Emergence.jpg" num="141">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UR07</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/153_UR07.jpg" num="153">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR08</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/154_UR08.jpg" num="154">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR09</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/155_UR09.jpg" num="155">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sproutbinder // Verdant Growth</name>
+			<text>{4}: You may cast a copy of Sproutbinder&apos;s omen. (You still pay its costs.)
+
+---
+
+Mill three cards. You gain 3 life. (Then shuffle this card into its owner&apos;s library.)</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/181_Sproutbinder.jpg" num="181">CORE</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Human Druid // Instant — Omen</type>
+				<maintype>Creature</maintype>
+				<manacost> // 1G</manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UG02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/182_UG02.jpg" num="182">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UG03</name>
+			<text>Forgive {2}. Activate only if there are eight or more cards in your sanctum. ({2}, Reveal this card from your sanctum as a sorcery: Exile it. You may play it during your next turn.)
+Put two +1/+1 counters on target creature. It gains trample until end of turn.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/183_UG03.jpg" num="183">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UG04 DREADMAW!!!</name>
+			<text>Skyward (You may cast this spell from your sanctum as though it had flash by exiling an instant or sorcery spell you control that isn&apos;t being targeted.)
+Trample</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/184_UG04 DREADMAW!!!.jpg" num="184">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cradle of Growth</name>
+			<text>Mill four cards. When you do, return target land card from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/173_Cradle of Growth.jpg" num="173">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UG06</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/185_UG06.jpg" num="185">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UG07</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/186_UG07.jpg" num="186">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UG08</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/187_UG08.jpg" num="187">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UG09</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/188_UG09.jpg" num="188">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tidewatcher // Seek Waves</name>
+			<text>4
+: You may cast a copy of Tidewatcher&apos;s omen. (You still pay its costs.)
+
+---
+
+Draw three cards, then discard two cards. (Then shuffle this card into its owner&apos;s library.)</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/213_Tidewatcher.jpg" num="213">CORE</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Mystic // Instant — Omen</type>
+				<maintype>Creature</maintype>
+				<manacost>I // 2I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UI02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/214_UI02.jpg" num="214">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>I</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rain of Flowers</name>
+			<text>Forgive {2}. Activate only if there are eight or more cards in your sanctum. ({2}, Reveal this card from your sanctum as a sorcery: Exile it. You may play it during your next turn.)
+Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/205_Rain of Flowers.jpg" num="205">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UI04</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/215_UI04.jpg" num="215">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>I</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UI05</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/216_UI05.jpg" num="216">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>I</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UI06</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/217_UI06.jpg" num="217">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>I</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Starseeker Whale</name>
+			<text>Skyward (You may cast this spell from your sanctum as though it had flash by exiling an instant or sorcery spell you control that isn&apos;t being targeted.)
+Flying
+Whenever Starseeker Whale attacks, sift 1. (Look at the top card of your library. You may put it into your sanctum.)</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/212_Starseeker Whale.jpg" num="212">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Whale Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3I</manacost>
+				<cmc>4</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dragon of Ancients // Consultation</name>
+			<text>Flying
+Whenever you cast a noncreature spell, creatures you control get +1/+1 until end of turn.
+
+---
+
+Create two 1/1 silver Spirit creature tokens. (Then shuffle this card into its owner&apos;s library.)</text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/201_Dragon of Ancients.jpg" num="201">CORE</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Spirit Dragon // Sorcery — Omen</type>
+				<maintype>Creature</maintype>
+				<manacost>3II // 1I</manacost>
+				<cmc>5</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UI09</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/218_UI09.jpg" num="218">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>I</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RW01</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/43_RW01.jpg" num="43">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RW02</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/44_RW02.jpg" num="44">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RW03</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/45_RW03.jpg" num="45">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RW04</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/46_RW04.jpg" num="46">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RW05</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/47_RW05.jpg" num="47">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RU01</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/79_RU01.jpg" num="79">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RU02</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/80_RU02.jpg" num="80">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RU03</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/81_RU03.jpg" num="81">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cosmic Nexus</name>
+			<text>Forgive—{1}{U}, Exile three instant or sorcery cards from your graveyard. ({1}{U}, Exile three instant or sorcery cards from your graveyard, Reveal this card from your sanctum as a sorcery: Exile it. You may play it during your next turn.)
+Whenever you cast an instant or sorcery spell, create an X/X blue Spirit creature token, where X is that spell&apos;s mana value.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/60_Cosmic Nexus.jpg" num="60">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RU05</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/82_RU05.jpg" num="82">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RB01</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/109_RB01.jpg" num="109">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RB02</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/110_RB02.jpg" num="110">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RB03</name>
+			<text>During your turn, you may cast Rat creature spells from your graveyard. If you cast a spell this way, that creature enters with a finality counter on it.
+Whenever RB03 or another Rat you control enters, surveil 1.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/111_RB03.jpg" num="111">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Rat Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RB04</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/112_RB04.jpg" num="112">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RB05</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/113_RB05.jpg" num="113">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RR01</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/145_RR01.jpg" num="145">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RR02</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/146_RR02.jpg" num="146">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Phoenix of Suns</name>
+			<text>Flying, haste
+{5}{R}: Return this creature from your graveyard to the battlefield. This ability costs {1} less to activate for each spell you&apos;ve cast this turn.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/144_Phoenix of Suns.jpg" num="144">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RR04</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/147_RR04.jpg" num="147">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RR05</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/148_RR05.jpg" num="148">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RG01</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/176_RG01.jpg" num="176">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RG02</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/177_RG02.jpg" num="177">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RG03</name>
+			<text>This spell can&apos;t be countered.
+Ward—{3}, Each opponent gains 5 life
+RG03 can&apos;t be blocked by creatures with power 2 or less.</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/178_RG03.jpg" num="178">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Bear Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RG04</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/179_RG04.jpg" num="179">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RG05</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/180_RG05.jpg" num="180">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RI01</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/206_RI01.jpg" num="206">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>I</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RI02</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/207_RI02.jpg" num="207">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>I</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RI03</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/208_RI03.jpg" num="208">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>I</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RI04</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/209_RI04.jpg" num="209">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>I</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RI05</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/210_RI05.jpg" num="210">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>I</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>MW01</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/CORE-files/img/40_MW01.jpg" num="40">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>MW02</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/CORE-files/img/41_MW02.jpg" num="41">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>MU01</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/CORE-files/img/77_MU01.jpg" num="77">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>MU02</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/CORE-files/img/78_MU02.jpg" num="78">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>MB01</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/CORE-files/img/104_MB01.jpg" num="104">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>MB02</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/CORE-files/img/105_MB02.jpg" num="105">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>MR01</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/CORE-files/img/142_MR01.jpg" num="142">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>MR02</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/CORE-files/img/143_MR02.jpg" num="143">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>MG01</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/CORE-files/img/174_MG01.jpg" num="174">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>MG02</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/CORE-files/img/175_MG02.jpg" num="175">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>MI01</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/CORE-files/img/203_MI01.jpg" num="203">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>I</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>MI02</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/CORE-files/img/204_MI02.jpg" num="204">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>I</colors>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CM01</name>
+			<text>Prowess
+Once each turn, when you cast a noncreature spell, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/231_CM01.jpg" num="231">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CM01</name>
+			<text>When CM01 enters, mill three cards.
+As long as there are seven or more cards in your graveyard, CM01 can&apos;t be blocked except by three or more creatures.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/232_CM01.jpg" num="232">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CM01</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/233_CM01.jpg" num="233">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CM01</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/235_CM01.jpg" num="235">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CM01</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/236_CM01.jpg" num="236">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CM01</name>
+			<text>Lifelink
+Whenever CM01 or another enchantment you control enters, CM01 deals 1 damage to each opponent.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/228_CM01.jpg" num="228">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CM01</name>
+			<text>Augury — As long as you&apos;ve exiled a card this turn, CM01 has flying.
+{1}{UR}{UR}, Exile CM01 from your graveyard: Draw two cards, then discard two cards.</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/229_CM01.jpg" num="229">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CM01</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/230_CM01.jpg" num="230">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CM01</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/234_CM01.jpg" num="234">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CM01</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/222_CM01.jpg" num="222">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CM01</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/223_CM01.jpg" num="223">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>IW</manacost>
+				<cmc>2</cmc>
+				<colors>WI</colors>
+				<coloridentity>WI</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CM01</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/227_CM01.jpg" num="227">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>IU</manacost>
+				<cmc>2</cmc>
+				<colors>UI</colors>
+				<coloridentity>UI</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CM01</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/224_CM01.jpg" num="224">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>IB</manacost>
+				<cmc>2</cmc>
+				<colors>BI</colors>
+				<coloridentity>BI</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CM01</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/225_CM01.jpg" num="225">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>IR</manacost>
+				<cmc>2</cmc>
+				<colors>RI</colors>
+				<coloridentity>RI</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CM01</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/226_CM01.jpg" num="226">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>IG</manacost>
+				<cmc>2</cmc>
+				<colors>GI</colors>
+				<coloridentity>GI</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM01</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/253_UM01.jpg" num="253">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/273_UM02.jpg" num="273">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM01</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/252_UM01.jpg" num="252">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/267_UM02.jpg" num="267">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM01</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/254_UM01.jpg" num="254">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/280_UM02.jpg" num="280">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM01</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/256_UM01.jpg" num="256">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/279_UM02.jpg" num="279">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM01</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/257_UM01.jpg" num="257">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/278_UM02.jpg" num="278">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM01</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/258_UM01.jpg" num="258">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/277_UM02.jpg" num="277">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM01</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/259_UM01.jpg" num="259">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/276_UM02.jpg" num="276">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM01</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/260_UM01.jpg" num="260">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/275_UM02.jpg" num="275">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM01</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/261_UM01.jpg" num="261">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/274_UM02.jpg" num="274">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM01</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/262_UM01.jpg" num="262">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/281_UM02.jpg" num="281">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM01</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/263_UM01.jpg" num="263">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>IW</manacost>
+				<cmc>2</cmc>
+				<colors>WI</colors>
+				<coloridentity>WI</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/268_UM02.jpg" num="268">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>IW</manacost>
+				<cmc>2</cmc>
+				<colors>WI</colors>
+				<coloridentity>WI</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM01</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/264_UM01.jpg" num="264">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>IU</manacost>
+				<cmc>2</cmc>
+				<colors>UI</colors>
+				<coloridentity>UI</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/269_UM02.jpg" num="269">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>IU</manacost>
+				<cmc>2</cmc>
+				<colors>UI</colors>
+				<coloridentity>UI</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM01</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/265_UM01.jpg" num="265">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>IB</manacost>
+				<cmc>2</cmc>
+				<colors>BI</colors>
+				<coloridentity>BI</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/270_UM02.jpg" num="270">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>IB</manacost>
+				<cmc>2</cmc>
+				<colors>BI</colors>
+				<coloridentity>BI</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM01</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/255_UM01.jpg" num="255">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>IR</manacost>
+				<cmc>2</cmc>
+				<colors>RI</colors>
+				<coloridentity>RI</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/271_UM02.jpg" num="271">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>IR</manacost>
+				<cmc>2</cmc>
+				<colors>RI</colors>
+				<coloridentity>RI</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM01</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/266_UM01.jpg" num="266">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>IG</manacost>
+				<cmc>2</cmc>
+				<colors>GI</colors>
+				<coloridentity>GI</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/272_UM02.jpg" num="272">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>IG</manacost>
+				<cmc>2</cmc>
+				<colors>GI</colors>
+				<coloridentity>GI</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RM01</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/243_RM01.jpg" num="243">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RM01</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/245_RM01.jpg" num="245">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RM01</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/244_RM01.jpg" num="244">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RM01</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/247_RM01.jpg" num="247">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RM01</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/249_RM01.jpg" num="249">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RM01</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/251_RM01.jpg" num="251">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RM01</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/238_RM01.jpg" num="238">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RM01</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/239_RM01.jpg" num="239">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RM01</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/241_RM01.jpg" num="241">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RM01</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/246_RM01.jpg" num="246">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RM01</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/240_RM01.jpg" num="240">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>IW</manacost>
+				<cmc>2</cmc>
+				<colors>WI</colors>
+				<coloridentity>WI</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RM01</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/242_RM01.jpg" num="242">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>IU</manacost>
+				<cmc>2</cmc>
+				<colors>UI</colors>
+				<coloridentity>UI</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RM01</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/237_RM01.jpg" num="237">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>IB</manacost>
+				<cmc>2</cmc>
+				<colors>BI</colors>
+				<coloridentity>BI</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RM01</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/250_RM01.jpg" num="250">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>IR</manacost>
+				<cmc>2</cmc>
+				<colors>RI</colors>
+				<coloridentity>RI</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RM01</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/248_RM01.jpg" num="248">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>IG</manacost>
+				<cmc>2</cmc>
+				<colors>GI</colors>
+				<coloridentity>GI</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CA01</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/282_CA01.jpg" num="282">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CA02</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/283_CA02.jpg" num="283">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CA03</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/284_CA03.jpg" num="284">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CA04</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/285_CA04.jpg" num="285">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CA05</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/286_CA05.jpg" num="286">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UA01</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/289_UA01.jpg" num="289">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UA02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/290_UA02.jpg" num="290">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UA03</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/291_UA03.jpg" num="291">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UA04</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/292_UA04.jpg" num="292">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UA05</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/293_UA05.jpg" num="293">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CL01</name>
+			<text></text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/294_CL01.jpg" num="294">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UL01</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/295_UL01.jpg" num="295">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UL02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/296_UL02.jpg" num="296">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UL03</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/297_UL03.jpg" num="297">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UL04</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/298_UL04.jpg" num="298">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UL05</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/299_UL05.jpg" num="299">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UX01</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/19_UX01.jpg" num="19">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UX02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/20_UX02.jpg" num="20">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UX03</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/21_UX03.jpg" num="21">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UX04</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/22_UX04.jpg" num="22">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UX05</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://uiwow7.github.io/sets/CORE-files/img/23_UX05.jpg" num="23">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RX01</name>
+			<text>RX01 costs {1} less to cast for each creature you control.
+Equipped creature gets +5/+5 and has trample and hexproof.
+Equip {2}</text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/288_RX01.jpg" num="288">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>8</manacost>
+				<cmc>8</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RX02</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/5_RX02.jpg" num="5">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RX03</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/6_RX03.jpg" num="6">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RX04</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/7_RX04.jpg" num="7">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RX05</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/8_RX05.jpg" num="8">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RX06</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/9_RX06.jpg" num="9">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RX07</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/10_RX07.jpg" num="10">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RX08</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/11_RX08.jpg" num="11">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RX09</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/12_RX09.jpg" num="12">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RX10</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/13_RX10.jpg" num="13">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RX11</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/14_RX11.jpg" num="14">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RX12</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/15_RX12.jpg" num="15">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RX13</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/16_RX13.jpg" num="16">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RX14</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/17_RX14.jpg" num="17">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RX15</name>
+			<text></text>
+			<set rarity="rare" picurl="https://uiwow7.github.io/sets/CORE-files/img/18_RX15.jpg" num="18">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Architect of Blood Suns</name>
+			<text>Colorless spells you cast cost {1} less to cast.
+Whenever you cast a colorless spell, surveil 1. Then if you have six or more nonland colorless cards in your graveyard, exile this creature and each colored creature your opponents control.</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/CORE-files/img/1_Architect of Blood Suns.jpg" num="1">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>1CCC</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>MX02</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/CORE-files/img/2_MX02.jpg" num="2">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>MX03</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/CORE-files/img/3_MX03.jpg" num="3">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>MX04</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/CORE-files/img/4_MX04.jpg" num="4">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Geometric Void</name>
+			<text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+When The Geometric Void enters, exile target creature with mana value nine or less.
+Whenever you cast a spell, create a 1/1 colorless Spirit creature token. If you spent four or more mana to cast it, put a +1/+1 counter on each creature you control.</text>
+			<set rarity="mythic" picurl="https://uiwow7.github.io/sets/CORE-files/img/287_The Geometric Void.jpg" num="287">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>16</manacost>
+				<cmc>16</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Themes CORE</name>
+			<text>{W}{U}: Noncreatures
+{U}{B}: Graveyard
+{B}{R}: Exile
+{R}{G}: Big
+{G}{W}: Go wide
+{W}{B}: Enchantments
+{U}{R}: Exile
+{B}{G}: Big
+{R}{W}: Go wide
+{G}{U}: Conjure
+{I}{W}: Enchantments
+{I}{U}: Noncreatures
+{I}{B}: Life loss
+{I}{R}: Life loss
+{I}{G}: Graveyard
+
+{W}: Noncreatures, go wide, enchantments
+{U}: Noncreatures, gy, exile, conjure
+{B}: Graveyard, exile, enchantments, lifeloss
+{R}: Exile, big, go wide, life losss
+{G}: Big, go wide, conjure, graveyard</text>
+			<set rarity="common" picurl="https://uiwow7.github.io/sets/CORE-files/img/1t_Themes.jpg" num="1">CORE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUBRGI</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

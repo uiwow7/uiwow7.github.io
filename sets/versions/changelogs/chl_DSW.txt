@@ -1,4 +1,62 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Sunset Warden added.
+
+Forgotten by Fate removed.
+Vertex Reminder removed.
+
+Seer of the Beyond
+type: Enchantment Creature — Avatar Horror => Creature — Avatar Horror
+rules_text: Whenever an artifact or another enchantment you control enters, you get {Vc}. [i](Spend {Vc} to cast copies of Vertex spells.)[/i] => When this creature enters, you draw a card and lose 1 life.
+Starfall {2}{B} [i]({2}{B}, Exile this card from your graveyard: Create a Saga enchantment token with “r{3}: You may cast a copy the exiled card without paying its mana cost.”)[/i]
+
+Doorwatcher
+rules_text: Menace
+Whenever a creature you control deals combat damage to a player, you get {Vc}. [i](Spend {Vc} to cast copies of Vertex spells.)[/i]
+Whenever you cast a vertex spell, each opponent loses 1 life and you gain 1 life. => Menace
+Whenever one or more creatures you control deal combat damage to a player, put a lore counter on target permanent.
+Starfall {2}{B} [i]({2}{B}, Exile this card from your graveyard: Create a Saga enchantment token with “r{3}: You may cast a copy the exiled card without paying its mana cost.”)[/i]
+
+Flame of Drakol
+rules_text: Haste; decayed [i](This creature can't block. When it attacks, sacrifice it at end of combat.)[/i] => Haste, decayed [i](This creature can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Shatter Unfulfilled Promises
+type: Kindred Sorcery — Avatar Revelation => Kindred Instant — Avatar Revelation
+
+Cosmic Outsider
+rules_text: Flash
+When this creature enters, exile up to one target instant or sorcery card in your graveyard. You may cast a copy of that spell until end of turn by paying {VcW} in addition to its other costs. => Flash
+When this creature enters, exile up to one target instant or sorcery card in your graveyard. You may cast a copy of that spell until end of turn by paying {VW} in addition to its other costs.
+
+Interstellar Phoenix
+rules_text: Flying, haste
+{1}, Pay {VcB}: Return this creature from your graveyard to the battlefield. Activate only as a sorcery. => Flying, haste
+{1}, Pay {VB}: Return this creature from your graveyard to the battlefield. Activate only as a sorcery.
+
+
+type: Creature — Avatar Incarnation => 
+cost: {W} => 
+rules_text: When this creature or another Avatar you control enters, you gain 1 life. => 
+pt: 1/1 => 
+
+The Arbiter, Eternal
+rules_text: Whenever one or more cards enter or leave your sanctum, put a loyalty counter on The Arbiter.
+[0]: Put a card from your sanctum into your hand.
+[-2]: You get {VcU}. You may cast a copy of a vertex sorcery from your command zone without paying its mana cost. [i](You still pay its vertex cost.)[/i]
+[-10]: You get an emblem with “You may spend {Vc} as though it were mana of any type. You get ten {Vc}.” => Whenever one or more cards enter or leave your sanctum, put a loyalty counter on The Arbiter.
+[0]: Put a card from your sanctum into your hand.
+[-3]: Sift 2, then create a 0/0 colorless Fractal Horror creature token. Put X +1/+1 counters on it, where X is the number of cards in your sanctum.
+[-12]: Put any number of permanent cards from your sanctum onto the battlefield.
+
+Augur of the Stars
+cost: {X}{I}{U}{B} => {I}{U}{B}
+rules_text: You may spent {Vc} as though it were {C} to cast this spell.
+When this creature enters, you may create a 0/0 colorless Fractal Horror creature token. Put X +1/+1 counters on it. => Infuse [i](When you cast a noncreature spell, put a +1/+1 counter on this creature if it has none.)[/i]
+Whenever one or more counters are put on this creature, each opponent loses 1 life and you gain 1 life.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

@@ -5,29 +5,29 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "24",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/24_Acolyte of Sunlight.jpg"
-			}
-		},
-		{
-			"name": "Sunlit Call",
-			"rarity": "common",
-			"mana_cost": "{W}",
-			"type": "Instant",
-			"collector_number": "48",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/48_Sunlit Call.jpg"
-			}
-		},
-		{
-			"name": "CW03",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/26_CW03.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/26_Acolyte of Sunlight.jpg"
+			}
+		},
+		{
+			"name": "Fadove Apprentice",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/37_Fadove Apprentice.jpg"
+			}
+		},
+		{
+			"name": "Doomed Cavalier",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/35_Doomed Cavalier.jpg"
 			}
 		},
 		{
@@ -35,9 +35,103 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "42",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/42_Priest of the Mirena.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/47_Priest of the Mirena.jpg"
+			}
+		},
+		{
+			"name": "CW05 DESIGNED",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Faerie Dog",
+			"collector_number": "32",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://uiwow7.github.io/sets/CORE-files/img/32_CW05 DESIGNED_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/32_CW05 DESIGNED_front.jpg"
+			}
+		},
+		{
+			"name": "Asahran Sentinel",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/27_Asahran Sentinel.jpg"
+			}
+		},
+		{
+			"name": "CW07",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment Creature",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/33_CW07.jpg"
+			}
+		},
+		{
+			"name": "Mourncast Doomwatcher",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Angel Demon Warlock",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/43_Mourncast Doomwatcher.jpg"
+			}
+		},
+		{
+			"name": "CW09",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/34_CW09.jpg"
+			}
+		},
+		{
+			"name": "Savior of Shadows",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/51_Savior of Shadows.jpg"
+			}
+		},
+		{
+			"name": "Bringer of Divine Light",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Enchantment Creature — Angel Warrior",
+			"collector_number": "30",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://uiwow7.github.io/sets/CORE-files/img/30_Bringer of Divine Light_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/30_Bringer of Divine Light_front.jpg"
+			}
+		},
+		{
+			"name": "Fate Smother",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/38_Fate Smother.jpg"
 			}
 		},
 		{
@@ -45,9 +139,19 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "38",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/38_Empowered by Light.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/36_Empowered by Light.jpg"
+			}
+		},
+		{
+			"name": "Beacon of Hope",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/28_Beacon of Hope.jpg"
 			}
 		},
 		{
@@ -55,173 +159,153 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
-			"collector_number": "56",
+			"collector_number": "57",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://uiwow7.github.io/sets/CORE-files/img/56_Warmth of the Skies_back.jpg"
+					"en": "https://uiwow7.github.io/sets/CORE-files/img/57_Warmth of the Skies_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/56_Warmth of the Skies_front.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/57_Warmth of the Skies_front.jpg"
 			}
 		},
 		{
-			"name": "CW07",
+			"name": "Chained Among the Clouds",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
-			"collector_number": "27",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/27_CW07.jpg"
-			}
-		},
-		{
-			"name": "CW08",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "28",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/28_CW08.jpg"
-			}
-		},
-		{
-			"name": "CW09",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "29",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/29_CW09.jpg"
-			}
-		},
-		{
-			"name": "CW10",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "30",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/30_CW10.jpg"
-			}
-		},
-		{
-			"name": "CW11",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/31_CW11.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/31_Chained Among the Clouds.jpg"
 			}
 		},
 		{
-			"name": "CW12",
+			"name": "Abandon Reality",
 			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "32",
+			"mana_cost": "{4}{W}",
+			"type": "Sorcery",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/32_CW12.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/25_Abandon Reality.jpg"
 			}
 		},
 		{
-			"name": "CW13",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "33",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/33_CW13.jpg"
-			}
-		},
-		{
-			"name": "CW14",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "34",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/34_CW14.jpg"
-			}
-		},
-		{
-			"name": "CW15",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "35",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/35_CW15.jpg"
-			}
-		},
-		{
-			"name": "CW16",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "36",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/36_CW16.jpg"
-			}
-		},
-		{
-			"name": "CW17",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "37",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/37_CW17.jpg"
-			}
-		},
-		{
-			"name": "CU01",
+			"name": "Solitary Wanderer",
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Human",
-			"collector_number": "61",
+			"collector_number": "82",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://uiwow7.github.io/sets/CORE-files/img/61_CU01_back.jpg"
+					"en": "https://uiwow7.github.io/sets/CORE-files/img/82_Solitary Wanderer_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/61_CU01_front.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/82_Solitary Wanderer_front.jpg"
 			}
 		},
 		{
-			"name": "CU02",
+			"name": "Mirdrim Seeker",
 			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "62",
+			"mana_cost": "{U}",
+			"type": "Creature — Reflection",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/62_CU02.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/74_Mirdrim Seeker.jpg"
 			}
 		},
 		{
 			"name": "CU03",
 			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "63",
+			"mana_cost": "{1}{U}",
+			"type": "Creature",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/63_CU03.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/67_CU03.jpg"
 			}
 		},
 		{
-			"name": "CU04",
+			"name": "Likeness Echo",
 			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment Creature — Reflection",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/73_Likeness Echo.jpg"
+			}
+		},
+		{
+			"name": "South-Ocean Waverider",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Whale",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/83_South-Ocean Waverider.jpg"
+			}
+		},
+		{
+			"name": "CU06 DESIGNED",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Merfolk",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/68_CU06 DESIGNED.jpg"
+			}
+		},
+		{
+			"name": "Glittering Scavenger",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird Spirit",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/72_Glittering Scavenger.jpg"
+			}
+		},
+		{
+			"name": "Carrigol Reflector",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Cat Reflection",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/60_Carrigol Reflector.jpg"
+			}
+		},
+		{
+			"name": "Chosen of Moonlight",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Snake Wizard",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/62_Chosen of Moonlight.jpg"
+			}
+		},
+		{
+			"name": "Collapse from Reality",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/64_CU04.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/64_Collapse from Reality.jpg"
+			}
+		},
+		{
+			"name": "Power from Forever",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/77_Power from Forever.jpg"
 			}
 		},
 		{
@@ -229,169 +313,86 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "58",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/58_Chaotic Anomaly.jpg"
-			}
-		},
-		{
-			"name": "CU06",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "65",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/65_CU06.jpg"
-			}
-		},
-		{
-			"name": "CU07",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "66",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/66_CU07.jpg"
-			}
-		},
-		{
-			"name": "CU08",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "67",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/67_CU08.jpg"
-			}
-		},
-		{
-			"name": "CU09",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "68",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/68_CU09.jpg"
-			}
-		},
-		{
-			"name": "CU10",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "69",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/69_CU10.jpg"
-			}
-		},
-		{
-			"name": "CU11",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "70",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/70_CU11.jpg"
-			}
-		},
-		{
-			"name": "CU12",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "71",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/71_CU12.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/61_Chaotic Anomaly.jpg"
 			}
 		},
 		{
 			"name": "CU13",
 			"rarity": "common",
-			"mana_cost": "",
+			"mana_cost": "{1}{U}",
 			"type": "",
-			"collector_number": "72",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/72_CU13.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/69_CU13.jpg"
 			}
 		},
 		{
-			"name": "CU14",
+			"name": "Twin Eclipse",
 			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "73",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/73_CU14.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/86_Twin Eclipse.jpg"
 			}
 		},
 		{
-			"name": "CU15",
+			"name": "Skyseeking",
 			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "74",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/74_CU15.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/81_Skyseeking.jpg"
 			}
 		},
 		{
-			"name": "CU16",
+			"name": "Runic Engraving",
 			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "75",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/75_CU16.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/80_Runic Engraving.jpg"
 			}
 		},
 		{
-			"name": "CU17",
+			"name": "Forsaken Entrance",
 			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "76",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact",
+			"collector_number": "71",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://uiwow7.github.io/sets/CORE-files/img/71_Forsaken Entrance_back.jpg"
+				}
+			},
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/76_CU17.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/71_Forsaken Entrance_front.jpg"
 			}
 		},
 		{
-			"name": "CB01",
+			"name": "Woodland Gardener",
 			"rarity": "common",
 			"mana_cost": "{B}",
-			"type": "Creature — Rat",
-			"collector_number": "90",
+			"type": "Creature — Rat Druid",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/90_CB01.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/123_Woodland Gardener.jpg"
 			}
 		},
 		{
 			"name": "CB02",
 			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "91",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/91_CB02.jpg"
-			}
-		},
-		{
-			"name": "CB03",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
+			"mana_cost": "{B}",
+			"type": "Creature",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/92_CB03.jpg"
-			}
-		},
-		{
-			"name": "CB04",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "93",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/93_CB04.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/92_CB02.jpg"
 			}
 		},
 		{
@@ -399,26 +400,36 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Rat Artificer",
-			"collector_number": "114",
+			"collector_number": "112",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://uiwow7.github.io/sets/CORE-files/img/114_Rodent Reforger_back.jpg"
+					"en": "https://uiwow7.github.io/sets/CORE-files/img/112_Rodent Reforger_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/114_Rodent Reforger_front.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/112_Rodent Reforger_front.jpg"
 			}
 		},
 		{
-			"name": "Open Hidden Gateways",
+			"name": "Aliran SOMETHING?",
 			"rarity": "common",
-			"mana_cost": "{B}",
-			"type": "Sorcery",
-			"collector_number": "107",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Demon Warlock",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/107_Open Hidden Gateways.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/91_Aliran SOMETHING?.jpg"
+			}
+		},
+		{
+			"name": "Warden of Dreams",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Nightmare Warlock",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/122_Warden of Dreams.jpg"
 			}
 		},
 		{
@@ -426,9 +437,29 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "115",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/115_Shattered Sword Deathbringer.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/116_Shattered Sword Deathbringer.jpg"
+			}
+		},
+		{
+			"name": "Sainard Bonewraith",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie Warlock",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/113_Sainard Bonewraith.jpg"
+			}
+		},
+		{
+			"name": "Cloaked Wayfarer",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Wolf Rogue",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/97_Cloaked Wayfarer.jpg"
 			}
 		},
 		{
@@ -449,133 +480,217 @@
 			}
 		},
 		{
-			"name": "CB09",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "94",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/94_CB09.jpg"
-			}
-		},
-		{
 			"name": "CB10",
 			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "95",
+			"mana_cost": "{4}{B}",
+			"type": "Creature",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/95_CB10.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/93_CB10.jpg"
 			}
 		},
 		{
-			"name": "CB11",
+			"name": "Open Hidden Gateways",
 			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "96",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/96_CB11.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/107_Open Hidden Gateways.jpg"
 			}
 		},
 		{
 			"name": "CB12",
 			"rarity": "common",
-			"mana_cost": "",
+			"mana_cost": "{B}",
 			"type": "",
-			"collector_number": "97",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/97_CB12.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/94_CB12.jpg"
 			}
 		},
 		{
 			"name": "CB13",
 			"rarity": "common",
-			"mana_cost": "",
+			"mana_cost": "{1}{B}",
 			"type": "",
-			"collector_number": "98",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/98_CB13.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/95_CB13.jpg"
 			}
 		},
 		{
-			"name": "CB14",
+			"name": "Glittering Starlight",
 			"rarity": "common",
-			"mana_cost": "",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/101_Glittering Starlight.jpg"
+			}
+		},
+		{
+			"name": "Malice in Chains",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/103_Malice in Chains.jpg"
+			}
+		},
+		{
+			"name": "Facing the Dark",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
 			"type": "",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/99_CB14.jpg"
-			}
-		},
-		{
-			"name": "CB15",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "100",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/100_CB15.jpg"
-			}
-		},
-		{
-			"name": "CB16",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "101",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/101_CB16.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/99_Facing the Dark.jpg"
 			}
 		},
 		{
 			"name": "CB17",
 			"rarity": "common",
-			"mana_cost": "",
+			"mana_cost": "{3}{B}",
 			"type": "",
-			"collector_number": "102",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/102_CB17.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/96_CB17.jpg"
 			}
 		},
 		{
-			"name": "CR01",
+			"name": "Aurora Reader",
 			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
+			"mana_cost": "{R}",
+			"type": "Creature — Elk",
+			"collector_number": "125",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://uiwow7.github.io/sets/CORE-files/img/125_Aurora Reader_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/125_Aurora Reader_front.jpg"
+			}
+		},
+		{
+			"name": "Abstracted Wanderer",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Avatar",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/124_CR01.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/124_Abstracted Wanderer.jpg"
 			}
 		},
 		{
-			"name": "CR02",
+			"name": "CR03 DESIGNED",
 			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "125",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Horror",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/125_CR02.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/130_CR03 DESIGNED.jpg"
 			}
 		},
 		{
-			"name": "CR03",
+			"name": "CR04 DESIGNED",
 			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "126",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/126_CR03.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/131_CR04 DESIGNED.jpg"
 			}
 		},
 		{
-			"name": "CR04",
+			"name": "Eager Starseeker",
 			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "127",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Scout",
+			"collector_number": "137",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://uiwow7.github.io/sets/CORE-files/img/137_Eager Starseeker_back.jpg"
+				}
+			},
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/127_CR04.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/137_Eager Starseeker_front.jpg"
+			}
+		},
+		{
+			"name": "Bringer of Torments",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Horror",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/129_Bringer of Torments.jpg"
+			}
+		},
+		{
+			"name": "Fireburn Marshal",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Spirit Warrior",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/139_Fireburn Marshal.jpg"
+			}
+		},
+		{
+			"name": "That Which was Crowned in Fire",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Demon Horror",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/148_That Which was Crowned in Fire.jpg"
+			}
+		},
+		{
+			"name": "Triumphant Warlord",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/150_Triumphant Warlord.jpg"
+			}
+		},
+		{
+			"name": "Soldier of the Endless War",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/147_Soldier of the Endless War.jpg"
+			}
+		},
+		{
+			"name": "CR11",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/132_CR11.jpg"
+			}
+		},
+		{
+			"name": "CR12",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/133_CR12.jpg"
 			}
 		},
 		{
@@ -583,189 +698,136 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "123",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/123_Behold True Suns.jpg"
-			}
-		},
-		{
-			"name": "CR06",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "128",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/128_CR06.jpg"
-			}
-		},
-		{
-			"name": "CR07",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "129",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/129_CR07.jpg"
-			}
-		},
-		{
-			"name": "CR08",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "130",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/130_CR08.jpg"
-			}
-		},
-		{
-			"name": "CR09",
-			"rarity": "common",
-			"mana_cost": "{2}{R}",
-			"type": "Sorcery",
-			"collector_number": "131",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/131_CR09.jpg"
-			}
-		},
-		{
-			"name": "CR10",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "132",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/132_CR10.jpg"
-			}
-		},
-		{
-			"name": "CR11",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "133",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/133_CR11.jpg"
-			}
-		},
-		{
-			"name": "CR12",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "134",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/134_CR12.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/127_Behold True Suns.jpg"
 			}
 		},
 		{
 			"name": "CR13",
 			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "135",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/135_CR13.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/134_CR13.jpg"
 			}
 		},
 		{
 			"name": "CR14",
 			"rarity": "common",
-			"mana_cost": "",
+			"mana_cost": "{1}{R}",
 			"type": "",
-			"collector_number": "136",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/136_CR14.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/135_CR14.jpg"
 			}
 		},
 		{
-			"name": "CR15",
+			"name": "Thrilling Confrontation",
 			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "137",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/137_CR15.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/149_Thrilling Confrontation.jpg"
 			}
 		},
 		{
 			"name": "CR16",
 			"rarity": "common",
-			"mana_cost": "",
+			"mana_cost": "{2}{R}",
 			"type": "",
-			"collector_number": "138",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/138_CR16.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/136_CR16.jpg"
 			}
 		},
 		{
-			"name": "CR17",
+			"name": "Brilliant Inferno",
 			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "139",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/139_CR17.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/128_Brilliant Inferno.jpg"
 			}
 		},
 		{
 			"name": "CG01",
 			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "158",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/158_CG01.jpg"
-			}
-		},
-		{
-			"name": "CG02",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "159",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/159_CG02.jpg"
-			}
-		},
-		{
-			"name": "CG03",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
+			"mana_cost": "{G}",
+			"type": "Creature",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/160_CG03.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/160_CG01.jpg"
 			}
 		},
 		{
-			"name": "CG04",
+			"name": "Steward of the Void",
 			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "161",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Avatar Druid",
+			"collector_number": "182",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/161_CG04.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/182_Steward of the Void.jpg"
+			}
+		},
+		{
+			"name": "Forsaken Explorer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact Creature — Construct Scout",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/169_Forsaken Explorer.jpg"
+			}
+		},
+		{
+			"name": "Underbelly Lurker",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Horror Beast",
+			"collector_number": "189",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://uiwow7.github.io/sets/CORE-files/img/189_Underbelly Lurker_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/189_Underbelly Lurker_front.jpg"
 			}
 		},
 		{
 			"name": "CG05",
 			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "162",
+			"mana_cost": "{2}{G}",
+			"type": "Creature",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/162_CG05.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/161_CG05.jpg"
 			}
 		},
 		{
-			"name": "Blossoming Growth",
+			"name": "CG06",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Sorcery",
-			"collector_number": "157",
+			"type": "Creature",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/157_Blossoming Growth.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/162_CG06.jpg"
+			}
+		},
+		{
+			"name": "Awakened Terror",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Nightmare Beast",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/158_Awakened Terror.jpg"
 			}
 		},
 		{
@@ -773,146 +835,123 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Bear",
-			"collector_number": "156",
+			"collector_number": "159",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://uiwow7.github.io/sets/CORE-files/img/156_Bear Bearer_back.jpg"
+					"en": "https://uiwow7.github.io/sets/CORE-files/img/159_Bear Bearer_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/156_Bear Bearer_front.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/159_Bear Bearer_front.jpg"
 			}
 		},
 		{
-			"name": "CG08",
+			"name": "Mangriel Wanderer",
 			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "163",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Elk",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/163_CG08.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/172_Mangriel Wanderer.jpg"
 			}
 		},
 		{
-			"name": "CG09",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "164",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/164_CG09.jpg"
-			}
-		},
-		{
-			"name": "CG10",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "165",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/165_CG10.jpg"
-			}
-		},
-		{
-			"name": "CG11",
+			"name": "Mordel Guardian",
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Bear Warrior",
-			"collector_number": "166",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/166_CG11.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/175_Mordel Guardian.jpg"
 			}
 		},
 		{
-			"name": "CG12",
+			"name": "Shifting Roots",
 			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "167",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/167_CG12.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/179_Shifting Roots.jpg"
 			}
 		},
 		{
 			"name": "CG13",
 			"rarity": "common",
-			"mana_cost": "",
+			"mana_cost": "{1}{G}",
 			"type": "",
-			"collector_number": "168",
+			"collector_number": "163",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/168_CG13.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/163_CG13.jpg"
 			}
 		},
 		{
-			"name": "CG14",
+			"name": "Moonlit Frolic",
 			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "169",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/169_CG14.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/174_Moonlit Frolic.jpg"
 			}
 		},
 		{
 			"name": "CG15",
 			"rarity": "common",
-			"mana_cost": "",
+			"mana_cost": "{2}{G}",
 			"type": "",
-			"collector_number": "170",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/170_CG15.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/164_CG15.jpg"
 			}
 		},
 		{
 			"name": "CG16",
 			"rarity": "common",
-			"mana_cost": "",
+			"mana_cost": "{3}{G}",
 			"type": "",
-			"collector_number": "171",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/171_CG16.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/165_CG16.jpg"
 			}
 		},
 		{
 			"name": "CG17",
 			"rarity": "common",
-			"mana_cost": "",
+			"mana_cost": "{4}{G}",
 			"type": "",
-			"collector_number": "172",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/172_CG17.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/166_CG17.jpg"
 			}
 		},
 		{
 			"name": "Void Wayfarer",
 			"rarity": "common",
 			"mana_cost": "{C}",
-			"type": "Creature — Spirit",
-			"collector_number": "219",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/219_Void Wayfarer.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/220_Void Wayfarer.jpg"
 			}
 		},
 		{
-			"name": "CI02",
+			"name": "Glimmer Hunter",
 			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "191",
+			"mana_cost": "{C}",
+			"type": "Enchantment Creature — Unicorn",
+			"collector_number": "200",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://uiwow7.github.io/sets/CORE-files/img/200_Glimmer Hunter_back.jpg"
+				}
+			},
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/191_CI02.jpg"
-			}
-		},
-		{
-			"name": "Become Eternity",
-			"rarity": "common",
-			"mana_cost": "{1}{C}",
-			"type": "Sorcery",
-			"collector_number": "189",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/189_Become Eternity.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/200_Glimmer Hunter_front.jpg"
 			}
 		},
 		{
@@ -920,75 +959,85 @@
 			"rarity": "common",
 			"mana_cost": "{1}{C}",
 			"type": "Creature — Bird Spirit",
-			"collector_number": "202",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/202_Herald of Moonlight.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/201_Herald of Moonlight.jpg"
 			}
 		},
 		{
 			"name": "Starcatcher",
 			"rarity": "common",
 			"mana_cost": "{1}{C}",
-			"type": "Creature — Dog Spirit",
-			"collector_number": "211",
+			"type": "Enchantment Creature — Dog Spirit",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/211_Starcatcher.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/212_Starcatcher.jpg"
 			}
 		},
 		{
-			"name": "CI06",
+			"name": "CI05 DESIGNED",
 			"rarity": "common",
-			"mana_cost": "{2}{C}",
-			"type": "Sorcery",
-			"collector_number": "192",
+			"mana_cost": "{1}{C}",
+			"type": "Creature — Human",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/192_CI06.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/193_CI05 DESIGNED.jpg"
+			}
+		},
+		{
+			"name": "Sacred Mourner",
+			"rarity": "common",
+			"mana_cost": "{1}{C}",
+			"type": "Creature — Unicorn",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/210_Sacred Mourner.jpg"
 			}
 		},
 		{
 			"name": "Celestial Caller",
 			"rarity": "common",
 			"mana_cost": "{2}{C}",
-			"type": "Creature — Spirit",
-			"collector_number": "190",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "192",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/190_Celestial Caller.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/192_Celestial Caller.jpg"
 			}
 		},
 		{
-			"name": "Watching the Winds",
+			"name": "Morraire Warder",
 			"rarity": "common",
-			"mana_cost": "{1}{C}",
-			"type": "Enchantment",
-			"collector_number": "221",
+			"mana_cost": "{2}{C}",
+			"type": "Creature — Faerie",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/221_Watching the Winds.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/203_Morraire Warder.jpg"
 			}
 		},
 		{
 			"name": "CI09",
 			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "193",
+			"mana_cost": "{3}{C}",
+			"type": "Creature",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/193_CI09.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/194_CI09.jpg"
 			}
 		},
 		{
-			"name": "CI10",
+			"name": "Warden of Desolation",
 			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "194",
+			"mana_cost": "{6}{C}",
+			"type": "Creature — Horror",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/194_CI10.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/221_Warden of Desolation.jpg"
 			}
 		},
 		{
 			"name": "CI11",
 			"rarity": "common",
-			"mana_cost": "",
+			"mana_cost": "{C}",
 			"type": "",
 			"collector_number": "195",
 			"image_uris": {
@@ -998,7 +1047,7 @@
 		{
 			"name": "CI12",
 			"rarity": "common",
-			"mana_cost": "",
+			"mana_cost": "{C}",
 			"type": "",
 			"collector_number": "196",
 			"image_uris": {
@@ -1006,53 +1055,53 @@
 			}
 		},
 		{
-			"name": "Warden of Desolation",
+			"name": "Watching the Winds",
 			"rarity": "common",
-			"mana_cost": "{6}{C}",
-			"type": "Creature — Horror",
-			"collector_number": "220",
+			"mana_cost": "{1}{C}",
+			"type": "Enchantment",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/220_Warden of Desolation.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/222_Watching the Winds.jpg"
 			}
 		},
 		{
-			"name": "CI14",
+			"name": "Become Eternity",
 			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "197",
+			"mana_cost": "{1}{C}",
+			"type": "Sorcery",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/197_CI14.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/190_Become Eternity.jpg"
 			}
 		},
 		{
 			"name": "CI15",
 			"rarity": "common",
-			"mana_cost": "",
+			"mana_cost": "{1}{C}",
 			"type": "",
-			"collector_number": "198",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/198_CI15.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/197_CI15.jpg"
 			}
 		},
 		{
-			"name": "CI16",
+			"name": "Star Mirror",
 			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "199",
+			"mana_cost": "{2}{C}",
+			"type": "Sorcery",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/199_CI16.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/211_Star Mirror.jpg"
 			}
 		},
 		{
 			"name": "CI17",
 			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "200",
+			"mana_cost": "{3}{C}",
+			"type": "Sorcery",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/200_CI17.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/198_CI17.jpg"
 			}
 		},
 		{
@@ -1060,49 +1109,69 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "25",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/25_Bloomwielder.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/29_Bloomwielder.jpg"
 			}
 		},
 		{
 			"name": "UW02",
 			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "49",
+			"mana_cost": "{1}{W}",
+			"type": "Creature",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/49_UW02.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/54_UW02.jpg"
 			}
 		},
 		{
 			"name": "UW03",
 			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "50",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/50_UW03.jpg"
-			}
-		},
-		{
-			"name": "UW04",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
-			"type": "Sorcery",
-			"collector_number": "51",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/51_UW04.jpg"
-			}
-		},
-		{
-			"name": "UW05",
-			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature",
-			"collector_number": "52",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/52_UW05.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/55_UW03.jpg"
+			}
+		},
+		{
+			"name": "Valiant Aspirant",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/56_Valiant Aspirant.jpg"
+			}
+		},
+		{
+			"name": "Gleaming Virtue",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Artifact Creature — Angel Dragon",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/39_Gleaming Virtue.jpg"
+			}
+		},
+		{
+			"name": "Heavenly Cotainment",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/40_Heavenly Cotainment.jpg"
+			}
+		},
+		{
+			"name": "Perennial Journey",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/46_Perennial Journey.jpg"
 			}
 		},
 		{
@@ -1110,109 +1179,59 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
-			"collector_number": "39",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/39_Majesty of Suns.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/41_Majesty of Suns.jpg"
 			}
 		},
 		{
-			"name": "UW07",
+			"name": "Sol Capture",
 			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/53_UW07.jpg"
-			}
-		},
-		{
-			"name": "UW08",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "54",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/54_UW08.jpg"
-			}
-		},
-		{
-			"name": "UW09 DESIGNED",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{W}",
-			"type": "Artifact Creature — Angel Dragon",
-			"collector_number": "55",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/55_UW09 DESIGNED.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/53_Sol Capture.jpg"
 			}
 		},
 		{
 			"name": "Starfinder",
 			"rarity": "uncommon",
-			"mana_cost": "",
+			"mana_cost": "{U}",
 			"type": "Creature — Avatar Wizard",
-			"collector_number": "83",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/83_Starfinder.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/84_Starfinder.jpg"
 			}
 		},
 		{
-			"name": "UU02",
+			"name": "Stormborn Griffin",
 			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "84",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Griffin",
+			"collector_number": "85",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/84_UU02.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/85_Stormborn Griffin.jpg"
 			}
 		},
 		{
 			"name": "UU03",
 			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "85",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/85_UU03.jpg"
-			}
-		},
-		{
-			"name": "Cloudwater Visions",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{U}",
-			"type": "Sorcery",
-			"collector_number": "59",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/59_Cloudwater Visions.jpg"
-			}
-		},
-		{
-			"name": "UU05",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "86",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/86_UU05.jpg"
-			}
-		},
-		{
-			"name": "UU06",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "",
+			"mana_cost": "{1}{U}",
+			"type": "Creature",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/87_UU06.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/87_UU03.jpg"
 			}
 		},
 		{
-			"name": "UU07",
+			"name": "UU04",
 			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "",
+			"mana_cost": "{2}{U}",
+			"type": "Creature",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/88_UU07.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/88_UU04.jpg"
 			}
 		},
 		{
@@ -1220,19 +1239,56 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Dragon",
-			"collector_number": "57",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/57_Ardent Starkeeper.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/58_Ardent Starkeeper.jpg"
 			}
 		},
 		{
-			"name": "UU09",
+			"name": "UU06",
 			"rarity": "uncommon",
-			"mana_cost": "",
+			"mana_cost": "{U}",
 			"type": "",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/89_UU09.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/89_UU06.jpg"
+			}
+		},
+		{
+			"name": "Embrace the New",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/70_Embrace the New.jpg"
+			}
+		},
+		{
+			"name": "Cloudwater Visions",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/63_Cloudwater Visions.jpg"
+			}
+		},
+		{
+			"name": "Cosmic Manipulation",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "65",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://uiwow7.github.io/sets/CORE-files/img/65_Cosmic Manipulation_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/65_Cosmic Manipulation_front.jpg"
 			}
 		},
 		{
@@ -1246,20 +1302,20 @@
 			}
 		},
 		{
-			"name": "UB02",
+			"name": "Forbidding Outsider",
 			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "116",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment Creature — Elk Nightmare",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/116_UB02.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/100_Forbidding Outsider.jpg"
 			}
 		},
 		{
 			"name": "UB03",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Sorcery",
+			"type": "Creature",
 			"collector_number": "117",
 			"image_uris": {
 				"en": "https://uiwow7.github.io/sets/CORE-files/img/117_UB03.jpg"
@@ -1268,21 +1324,11 @@
 		{
 			"name": "UB04",
 			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Horror",
 			"collector_number": "118",
 			"image_uris": {
 				"en": "https://uiwow7.github.io/sets/CORE-files/img/118_UB04.jpg"
-			}
-		},
-		{
-			"name": "UB05",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "119",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/119_UB05.jpg"
 			}
 		},
 		{
@@ -1290,39 +1336,49 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Cat",
-			"collector_number": "103",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/103_Darkstar Prowler.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/98_Darkstar Prowler.jpg"
 			}
 		},
 		{
-			"name": "UB07",
+			"name": "UB06",
 			"rarity": "uncommon",
-			"mana_cost": "",
+			"mana_cost": "{B}",
 			"type": "",
-			"collector_number": "120",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/120_UB07.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/119_UB06.jpg"
+			}
+		},
+		{
+			"name": "Shadows of Blood",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/115_Shadows of Blood.jpg"
 			}
 		},
 		{
 			"name": "UB08",
 			"rarity": "uncommon",
-			"mana_cost": "",
+			"mana_cost": "{1}{B}",
 			"type": "",
-			"collector_number": "121",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/121_UB08.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/120_UB08.jpg"
 			}
 		},
 		{
 			"name": "UB09",
 			"rarity": "uncommon",
-			"mana_cost": "",
+			"mana_cost": "{2}{B}",
 			"type": "",
-			"collector_number": "122",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/122_UB09.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/121_UB09.jpg"
 			}
 		},
 		{
@@ -1330,39 +1386,39 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "140",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/140_Firebringer.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/138_Firebringer.jpg"
 			}
 		},
 		{
 			"name": "UR02",
 			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "149",
+			"mana_cost": "{1}{R}",
+			"type": "Creature",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/149_UR02.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/151_UR02.jpg"
 			}
 		},
 		{
 			"name": "UR03",
 			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "150",
+			"mana_cost": "{1}{R}",
+			"type": "Creature",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/150_UR03.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/152_UR03.jpg"
 			}
 		},
 		{
-			"name": "UR04",
+			"name": "UR03",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{R}",
-			"type": "Sorcery",
-			"collector_number": "151",
+			"mana_cost": "{2}{R}",
+			"type": "Creature",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/151_UR04.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/153_UR03.jpg"
 			}
 		},
 		{
@@ -1370,9 +1426,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Phoenix",
-			"collector_number": "152",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/152_UR05.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/154_UR05.jpg"
+			}
+		},
+		{
+			"name": "UR06",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/155_UR06.jpg"
+			}
+		},
+		{
+			"name": "UR07 DESIGNED",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/156_UR07 DESIGNED.jpg"
 			}
 		},
 		{
@@ -1380,45 +1456,25 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "141",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/141_Magmatic Emergence.jpg"
-			}
-		},
-		{
-			"name": "UR07",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "153",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/153_UR07.jpg"
-			}
-		},
-		{
-			"name": "UR08",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "154",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/154_UR08.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/140_Magmatic Emergence.jpg"
 			}
 		},
 		{
 			"name": "UR09",
 			"rarity": "uncommon",
-			"mana_cost": "",
+			"mana_cost": "{2}{R}",
 			"type": "",
-			"collector_number": "155",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/155_UR09.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/157_UR09.jpg"
 			}
 		},
 		{
 			"name": "Sproutbinder",
 			"rarity": "uncommon",
-			"mana_cost": "",
+			"mana_cost": "{G}",
 			"type": "Creature — Human Druid",
 			"collector_number": "181",
 			"image_uris": {
@@ -1428,31 +1484,41 @@
 		{
 			"name": "UG02",
 			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "182",
+			"mana_cost": "{1}{G}",
+			"type": "Creature",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/182_UG02.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/183_UG02.jpg"
 			}
 		},
 		{
 			"name": "UG03",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}",
-			"type": "Sorcery",
-			"collector_number": "183",
+			"mana_cost": "{2}{G}",
+			"type": "Creature",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/183_UG03.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/184_UG03.jpg"
 			}
 		},
 		{
-			"name": "UG04 DREADMAW!!!",
+			"name": "UG04",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/185_UG04.jpg"
+			}
+		},
+		{
+			"name": "Colossal Mycmoaw",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{G}",
-			"type": "Creature — Dinosaur",
-			"collector_number": "184",
+			"type": "Creature — Fungus Dinosaur",
+			"collector_number": "167",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/184_UG04 DREADMAW!!!.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/167_Colossal Mycmoaw.jpg"
 			}
 		},
 		{
@@ -1460,35 +1526,25 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "173",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/173_Cradle of Growth.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/168_Cradle of Growth.jpg"
 			}
 		},
 		{
-			"name": "UG06",
+			"name": "UG07 DESIGNED",
 			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "185",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/185_UG06.jpg"
-			}
-		},
-		{
-			"name": "UG07",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/186_UG07.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/186_UG07 DESIGNED.jpg"
 			}
 		},
 		{
 			"name": "UG08",
 			"rarity": "uncommon",
-			"mana_cost": "",
+			"mana_cost": "{2}{G}",
 			"type": "",
 			"collector_number": "187",
 			"image_uris": {
@@ -1498,7 +1554,7 @@
 		{
 			"name": "UG09",
 			"rarity": "uncommon",
-			"mana_cost": "",
+			"mana_cost": "{2}{G}",
 			"type": "",
 			"collector_number": "188",
 			"image_uris": {
@@ -1510,19 +1566,69 @@
 			"rarity": "uncommon",
 			"mana_cost": "{C}",
 			"type": "Creature — Nightmare Mystic",
-			"collector_number": "213",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/213_Tidewatcher.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/215_Tidewatcher.jpg"
 			}
 		},
 		{
 			"name": "UI02",
 			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "214",
+			"mana_cost": "{1}{C}",
+			"type": "Creature",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/214_UI02.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/216_UI02.jpg"
+			}
+		},
+		{
+			"name": "UI03",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{C}",
+			"type": "Creature",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/217_UI03.jpg"
+			}
+		},
+		{
+			"name": "Starseeker Whale",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{C}",
+			"type": "Creature — Whale Spirit",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/213_Starseeker Whale.jpg"
+			}
+		},
+		{
+			"name": "Dragon of Ancients",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{C}{C}",
+			"type": "Enchantment Creature — Spirit Dragon",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/199_Dragon of Ancients.jpg"
+			}
+		},
+		{
+			"name": "UI06",
+			"rarity": "uncommon",
+			"mana_cost": "{C}",
+			"type": "",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/218_UI06.jpg"
+			}
+		},
+		{
+			"name": "Nexus of Infinity",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{C}",
+			"type": "Instant",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/204_Nexus of Infinity.jpg"
 			}
 		},
 		{
@@ -1536,63 +1642,13 @@
 			}
 		},
 		{
-			"name": "UI04",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "215",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/215_UI04.jpg"
-			}
-		},
-		{
-			"name": "UI05",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "216",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/216_UI05.jpg"
-			}
-		},
-		{
-			"name": "UI06",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "217",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/217_UI06.jpg"
-			}
-		},
-		{
-			"name": "Starseeker Whale",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{C}",
-			"type": "Creature — Whale Spirit",
-			"collector_number": "212",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/212_Starseeker Whale.jpg"
-			}
-		},
-		{
-			"name": "Dragon of Ancients",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{C}{C}",
-			"type": "Creature — Spirit Dragon",
-			"collector_number": "201",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/201_Dragon of Ancients.jpg"
-			}
-		},
-		{
 			"name": "UI09",
 			"rarity": "uncommon",
-			"mana_cost": "",
+			"mana_cost": "{2}{C}",
 			"type": "",
-			"collector_number": "218",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/218_UI09.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/219_UI09.jpg"
 			}
 		},
 		{
@@ -1600,9 +1656,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "43",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/43_RW01.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/48_RW01.jpg"
 			}
 		},
 		{
@@ -1610,9 +1666,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "44",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/44_RW02.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/49_RW02.jpg"
 			}
 		},
 		{
@@ -1620,29 +1676,36 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "45",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/45_RW03.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/50_RW03.jpg"
 			}
 		},
 		{
-			"name": "RW04",
+			"name": "Mirena of Fallen Stars",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "46",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/46_RW04.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/42_Mirena of Fallen Stars.jpg"
 			}
 		},
 		{
-			"name": "RW05",
+			"name": "Sky Shatter",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "47",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://uiwow7.github.io/sets/CORE-files/img/52_Sky Shatter_back.jpg"
+				}
+			},
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/47_RW05.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/52_Sky Shatter_front.jpg"
 			}
 		},
 		{
@@ -1650,29 +1713,29 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "79",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/79_RU01.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/78_RU01.jpg"
 			}
 		},
 		{
-			"name": "RU02",
+			"name": "Azali, Spectral Hunter",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "80",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Spirit Ranger",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/80_RU02.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/59_Azali, Spectral Hunter.jpg"
 			}
 		},
 		{
-			"name": "RU03",
+			"name": "Wavebringer",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "81",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Dragon Avatar",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/81_RU03.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/90_Wavebringer.jpg"
 			}
 		},
 		{
@@ -1680,9 +1743,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Enchantment",
-			"collector_number": "60",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/60_Cosmic Nexus.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/66_Cosmic Nexus.jpg"
 			}
 		},
 		{
@@ -1690,9 +1753,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "82",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/82_RU05.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/79_RU05.jpg"
 			}
 		},
 		{
@@ -1706,23 +1769,23 @@
 			}
 		},
 		{
-			"name": "RB02",
+			"name": "Sainard Gravekeeper",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "110",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment Creature — Zombie Spirit",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/110_RB02.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/114_Sainard Gravekeeper.jpg"
 			}
 		},
 		{
-			"name": "RB03",
+			"name": "Lazadas, the Rat Insurgent",
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
 			"type": "Legendary Creature — Rat Noble",
-			"collector_number": "111",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/111_RB03.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/102_Lazadas, the Rat Insurgent.jpg"
 			}
 		},
 		{
@@ -1730,9 +1793,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "112",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/112_RB04.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/110_RB04.jpg"
 			}
 		},
 		{
@@ -1740,9 +1803,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "113",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/113_RB05.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/111_RB05.jpg"
 			}
 		},
 		{
@@ -1750,19 +1813,19 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "145",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/145_RR01.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/143_RR01.jpg"
 			}
 		},
 		{
 			"name": "RR02",
 			"rarity": "rare",
-			"mana_cost": "",
+			"mana_cost": "{R}",
 			"type": "",
-			"collector_number": "146",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/146_RR02.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/144_RR02.jpg"
 			}
 		},
 		{
@@ -1770,9 +1833,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Phoenix",
-			"collector_number": "144",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/144_Phoenix of Suns.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/142_Phoenix of Suns.jpg"
 			}
 		},
 		{
@@ -1780,9 +1843,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "147",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/147_RR04.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/145_RR04.jpg"
 			}
 		},
 		{
@@ -1790,9 +1853,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "148",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/148_RR05.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/146_RR05.jpg"
 			}
 		},
 		{
@@ -1816,23 +1879,23 @@
 			}
 		},
 		{
-			"name": "RG03",
+			"name": "Karuko, Protector of the Wilds",
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Legendary Creature — Bear Warrior",
-			"collector_number": "178",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/178_RG03.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/170_Karuko, Protector of the Wilds.jpg"
 			}
 		},
 		{
-			"name": "RG04",
+			"name": "Lush Protector",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "179",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Dragon",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/179_RG04.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/171_Lush Protector.jpg"
 			}
 		},
 		{
@@ -1840,9 +1903,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "180",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/180_RG05.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/178_RG05.jpg"
 			}
 		},
 		{
@@ -1856,13 +1919,13 @@
 			}
 		},
 		{
-			"name": "RI02",
+			"name": "Subina of Twisting Fate",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "207",
+			"mana_cost": "{2}{C}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/207_RI02.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/214_Subina of Twisting Fate.jpg"
 			}
 		},
 		{
@@ -1870,9 +1933,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "208",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/208_RI03.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/207_RI03.jpg"
 			}
 		},
 		{
@@ -1880,9 +1943,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "209",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/209_RI04.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/208_RI04.jpg"
 			}
 		},
 		{
@@ -1890,9 +1953,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "210",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/210_RI05.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/209_RI05.jpg"
 			}
 		},
 		{
@@ -1900,9 +1963,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "40",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/40_MW01.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/44_MW01.jpg"
 			}
 		},
 		{
@@ -1910,9 +1973,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "41",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/41_MW02.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/45_MW02.jpg"
 			}
 		},
 		{
@@ -1920,9 +1983,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "77",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/77_MU01.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/75_MU01.jpg"
 			}
 		},
 		{
@@ -1930,9 +1993,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "78",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/78_MU02.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/76_MU02.jpg"
 			}
 		},
 		{
@@ -1956,13 +2019,13 @@
 			}
 		},
 		{
-			"name": "MR01",
+			"name": "The Awakener",
 			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "142",
+			"mana_cost": "{1}{R}{R}{R}",
+			"type": "Legendary Artifact Creature — Demon Construct God",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/142_MR01.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/126_The Awakener.jpg"
 			}
 		},
 		{
@@ -1970,9 +2033,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "143",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/143_MR02.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/141_MR02.jpg"
 			}
 		},
 		{
@@ -1980,19 +2043,19 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "174",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/174_MG01.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/173_MG01.jpg"
 			}
 		},
 		{
-			"name": "MG02",
+			"name": "Spatial Conflux",
 			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "175",
+			"mana_cost": "{3}{G}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/175_MG02.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/180_Spatial Conflux.jpg"
 			}
 		},
 		{
@@ -2000,305 +2063,199 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "203",
+			"collector_number": "202",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/203_MI01.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/202_MI01.jpg"
 			}
 		},
 		{
-			"name": "MI02",
+			"name": "Bringer of Emptiness",
 			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "204",
+			"mana_cost": "{3}{C}{C}",
+			"type": "Legendary Planeswalker — Ita",
+			"collector_number": "191",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://uiwow7.github.io/sets/CORE-files/img/191_Bringer of Emptiness_back.jpg"
+				}
+			},
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/204_MI02.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/191_Bringer of Emptiness_front.jpg"
 			}
 		},
 		{
-			"name": "CM01",
+			"name": "Skybinder",
 			"rarity": "common",
 			"mana_cost": "{W}{U}",
-			"type": "Creature",
-			"collector_number": "231",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/231_CM01.jpg"
-			}
-		},
-		{
-			"name": "CM01",
-			"rarity": "common",
-			"mana_cost": "{3}{U}{B}",
-			"type": "Creature",
-			"collector_number": "232",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/232_CM01.jpg"
-			}
-		},
-		{
-			"name": "CM01",
-			"rarity": "common",
-			"mana_cost": "{B}{R}",
-			"type": "",
-			"collector_number": "233",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/233_CM01.jpg"
-			}
-		},
-		{
-			"name": "CM01",
-			"rarity": "common",
-			"mana_cost": "{R}{G}",
-			"type": "",
-			"collector_number": "235",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/235_CM01.jpg"
-			}
-		},
-		{
-			"name": "CM01",
-			"rarity": "common",
-			"mana_cost": "{G}{W}",
-			"type": "",
-			"collector_number": "236",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/236_CM01.jpg"
-			}
-		},
-		{
-			"name": "CM01",
-			"rarity": "common",
-			"mana_cost": "{2}{W}{B}",
-			"type": "Enchantment Creature",
-			"collector_number": "228",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/228_CM01.jpg"
-			}
-		},
-		{
-			"name": "CM01",
-			"rarity": "common",
-			"mana_cost": "{1}{U}{R}",
-			"type": "Creature",
-			"collector_number": "229",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/229_CM01.jpg"
-			}
-		},
-		{
-			"name": "CM01",
-			"rarity": "common",
-			"mana_cost": "{B}{G}",
-			"type": "",
-			"collector_number": "230",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/230_CM01.jpg"
-			}
-		},
-		{
-			"name": "CM01",
-			"rarity": "common",
-			"mana_cost": "{R}{W}",
-			"type": "",
-			"collector_number": "234",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/234_CM01.jpg"
-			}
-		},
-		{
-			"name": "CM01",
-			"rarity": "common",
-			"mana_cost": "{G}{U}",
-			"type": "",
-			"collector_number": "222",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/222_CM01.jpg"
-			}
-		},
-		{
-			"name": "CM01",
-			"rarity": "common",
-			"mana_cost": "{C}{W}",
-			"type": "",
-			"collector_number": "223",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/223_CM01.jpg"
-			}
-		},
-		{
-			"name": "CM01",
-			"rarity": "common",
-			"mana_cost": "{C}{U}",
-			"type": "",
-			"collector_number": "227",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/227_CM01.jpg"
-			}
-		},
-		{
-			"name": "CM01",
-			"rarity": "common",
-			"mana_cost": "{C}{B}",
-			"type": "",
-			"collector_number": "224",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/224_CM01.jpg"
-			}
-		},
-		{
-			"name": "CM01",
-			"rarity": "common",
-			"mana_cost": "{C}{R}",
-			"type": "",
-			"collector_number": "225",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/225_CM01.jpg"
-			}
-		},
-		{
-			"name": "CM01",
-			"rarity": "common",
-			"mana_cost": "{C}{G}",
-			"type": "",
-			"collector_number": "226",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/226_CM01.jpg"
-			}
-		},
-		{
-			"name": "UM01",
-			"rarity": "uncommon",
-			"mana_cost": "{W}{U}",
-			"type": "",
-			"collector_number": "253",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/253_UM01.jpg"
-			}
-		},
-		{
-			"name": "UM02",
-			"rarity": "uncommon",
-			"mana_cost": "{W}{U}",
-			"type": "",
-			"collector_number": "273",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/273_UM02.jpg"
-			}
-		},
-		{
-			"name": "UM01",
-			"rarity": "uncommon",
-			"mana_cost": "{U}{B}",
-			"type": "",
-			"collector_number": "252",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/252_UM01.jpg"
-			}
-		},
-		{
-			"name": "UM02",
-			"rarity": "uncommon",
-			"mana_cost": "{U}{B}",
-			"type": "",
-			"collector_number": "267",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/267_UM02.jpg"
-			}
-		},
-		{
-			"name": "UM01",
-			"rarity": "uncommon",
-			"mana_cost": "{B}{R}",
-			"type": "",
-			"collector_number": "254",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/254_UM01.jpg"
-			}
-		},
-		{
-			"name": "UM02",
-			"rarity": "uncommon",
-			"mana_cost": "{B}{R}",
-			"type": "",
-			"collector_number": "280",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/280_UM02.jpg"
-			}
-		},
-		{
-			"name": "UM01",
-			"rarity": "uncommon",
-			"mana_cost": "{R}{G}",
-			"type": "",
-			"collector_number": "256",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/256_UM01.jpg"
-			}
-		},
-		{
-			"name": "UM02",
-			"rarity": "uncommon",
-			"mana_cost": "{R}{G}",
-			"type": "",
-			"collector_number": "279",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/279_UM02.jpg"
-			}
-		},
-		{
-			"name": "UM01",
-			"rarity": "uncommon",
-			"mana_cost": "{G}{W}",
-			"type": "",
+			"type": "Creature — Human Wizard",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/257_UM01.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/257_Skybinder.jpg"
 			}
 		},
 		{
-			"name": "UM02",
-			"rarity": "uncommon",
-			"mana_cost": "{G}{W}",
-			"type": "",
-			"collector_number": "278",
+			"name": "Abyssal Trinity",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Creature — Horror Warlock",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/278_UM02.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/223_Abyssal Trinity.jpg"
 			}
 		},
 		{
-			"name": "UM01",
-			"rarity": "uncommon",
-			"mana_cost": "{W}{B}",
-			"type": "",
-			"collector_number": "258",
+			"name": "Bringer of Vitriol",
+			"rarity": "common",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Horror",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/258_UM01.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/229_Bringer of Vitriol.jpg"
 			}
 		},
 		{
-			"name": "UM02",
-			"rarity": "uncommon",
-			"mana_cost": "{W}{B}",
-			"type": "",
-			"collector_number": "277",
+			"name": "Deino Caravan",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Dinosaur Advisor",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/277_UM02.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/231_Deino Caravan.jpg"
 			}
 		},
 		{
-			"name": "UM01",
-			"rarity": "uncommon",
-			"mana_cost": "{U}{R}",
-			"type": "",
+			"name": "Awakened Resolve",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/226_Awakened Resolve.jpg"
+			}
+		},
+		{
+			"name": "Bloodied Mourner",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Enchantment Creature — Demon Angel",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/227_Bloodied Mourner.jpg"
+			}
+		},
+		{
+			"name": "Risen from Flame",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Phoenix Human",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/244_Risen from Flame.jpg"
+			}
+		},
+		{
+			"name": "Master of Demise",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/239_Master of Demise.jpg"
+			}
+		},
+		{
+			"name": "Ragrime Caretaker",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Creature — Cat",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/243_Ragrime Caretaker.jpg"
+			}
+		},
+		{
+			"name": "Starwatcher Lux",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Cat Spirit",
 			"collector_number": "259",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://uiwow7.github.io/sets/CORE-files/img/259_Starwatcher Lux_back.jpg"
+				}
+			},
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/259_UM01.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/259_Starwatcher Lux_front.jpg"
+			}
+		},
+		{
+			"name": "Glory of the Ancients",
+			"rarity": "common",
+			"mana_cost": "{1}{C}{W}",
+			"type": "Enchantment Creature — Incarnation",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/235_Glory of the Ancients.jpg"
+			}
+		},
+		{
+			"name": "Hidden by Mists",
+			"rarity": "common",
+			"mana_cost": "{C}{U}",
+			"type": "Enchantment",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/236_Hidden by Mists.jpg"
+			}
+		},
+		{
+			"name": "Shrouded Bearer",
+			"rarity": "common",
+			"mana_cost": "{C}{B}",
+			"type": "Creature — Horror Spirit",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/256_Shrouded Bearer.jpg"
+			}
+		},
+		{
+			"name": "Drougth Prowler",
+			"rarity": "common",
+			"mana_cost": "{C}{R}",
+			"type": "Creature — Cat Rogue",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/232_Drougth Prowler.jpg"
+			}
+		},
+		{
+			"name": "March of the Elder Ones",
+			"rarity": "common",
+			"mana_cost": "{1}{C}{G}",
+			"type": "Sorcery",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/238_March of the Elder Ones.jpg"
+			}
+		},
+		{
+			"name": "Dawnshroud Seraph",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Angel",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/230_Dawnshroud Seraph.jpg"
 			}
 		},
 		{
 			"name": "UM02",
 			"rarity": "uncommon",
-			"mana_cost": "{U}{R}",
+			"mana_cost": "{W}{U}",
 			"type": "",
 			"collector_number": "276",
 			"image_uris": {
@@ -2306,19 +2263,59 @@
 			}
 		},
 		{
+			"name": "Avakin Nightwatcher",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Bird Rogue",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/225_Avakin Nightwatcher.jpg"
+			}
+		},
+		{
+			"name": "Starlit Voyage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Instant",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/258_Starlit Voyage.jpg"
+			}
+		},
+		{
+			"name": "Ignelscor Seer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Human Elf Wizard",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/237_Ignelscor Seer.jpg"
+			}
+		},
+		{
+			"name": "Rite of Eclipse",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Instant",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/245_Rite of Eclipse.jpg"
+			}
+		},
+		{
 			"name": "UM01",
 			"rarity": "uncommon",
-			"mana_cost": "{B}{G}",
+			"mana_cost": "{R}{G}",
 			"type": "",
-			"collector_number": "260",
+			"collector_number": "270",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/260_UM01.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/270_UM01.jpg"
 			}
 		},
 		{
 			"name": "UM02",
 			"rarity": "uncommon",
-			"mana_cost": "{B}{G}",
+			"mana_cost": "{R}{G}",
 			"type": "",
 			"collector_number": "275",
 			"image_uris": {
@@ -2328,27 +2325,7 @@
 		{
 			"name": "UM01",
 			"rarity": "uncommon",
-			"mana_cost": "{R}{W}",
-			"type": "",
-			"collector_number": "261",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/261_UM01.jpg"
-			}
-		},
-		{
-			"name": "UM02",
-			"rarity": "uncommon",
-			"mana_cost": "{R}{W}",
-			"type": "",
-			"collector_number": "274",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/274_UM02.jpg"
-			}
-		},
-		{
-			"name": "UM01",
-			"rarity": "uncommon",
-			"mana_cost": "{G}{U}",
+			"mana_cost": "{G}{W}",
 			"type": "",
 			"collector_number": "262",
 			"image_uris": {
@@ -2358,17 +2335,77 @@
 		{
 			"name": "UM02",
 			"rarity": "uncommon",
-			"mana_cost": "{G}{U}",
+			"mana_cost": "{G}{W}",
 			"type": "",
-			"collector_number": "281",
+			"collector_number": "274",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/281_UM02.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/274_UM02.jpg"
+			}
+		},
+		{
+			"name": "Sunfall Demon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Enchantment Creature — Demon",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/260_Sunfall Demon.jpg"
+			}
+		},
+		{
+			"name": "UM02",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/273_UM02.jpg"
 			}
 		},
 		{
 			"name": "UM01",
 			"rarity": "uncommon",
-			"mana_cost": "{C}{W}",
+			"mana_cost": "{U}{R}",
+			"type": "",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/267_UM01.jpg"
+			}
+		},
+		{
+			"name": "UM02",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/272_UM02.jpg"
+			}
+		},
+		{
+			"name": "Murkross Reconstructor",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/242_Murkross Reconstructor.jpg"
+			}
+		},
+		{
+			"name": "Withering Mortality",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/282_Withering Mortality.jpg"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
 			"type": "",
 			"collector_number": "263",
 			"image_uris": {
@@ -2378,17 +2415,44 @@
 		{
 			"name": "UM02",
 			"rarity": "uncommon",
-			"mana_cost": "{C}{W}",
+			"mana_cost": "{R}{W}",
 			"type": "",
-			"collector_number": "268",
+			"collector_number": "281",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/268_UM02.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/281_UM02.jpg"
+			}
+		},
+		{
+			"name": "UM01 DESIGNED",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Creature — Drake",
+			"collector_number": "271",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://uiwow7.github.io/sets/CORE-files/img/271_UM01 DESIGNED_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/271_UM01 DESIGNED_front.jpg"
+			}
+		},
+		{
+			"name": "UM02",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/280_UM02.jpg"
 			}
 		},
 		{
 			"name": "UM01",
 			"rarity": "uncommon",
-			"mana_cost": "{C}{U}",
+			"mana_cost": "{C}{W}",
 			"type": "",
 			"collector_number": "264",
 			"image_uris": {
@@ -2396,19 +2460,19 @@
 			}
 		},
 		{
-			"name": "UM02",
+			"name": "Fated Return",
 			"rarity": "uncommon",
-			"mana_cost": "{C}{U}",
-			"type": "",
-			"collector_number": "269",
+			"mana_cost": "{2}{C}{W}",
+			"type": "Enchantment",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/269_UM02.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/233_Fated Return.jpg"
 			}
 		},
 		{
 			"name": "UM01",
 			"rarity": "uncommon",
-			"mana_cost": "{C}{B}",
+			"mana_cost": "{C}{U}",
 			"type": "",
 			"collector_number": "265",
 			"image_uris": {
@@ -2418,51 +2482,71 @@
 		{
 			"name": "UM02",
 			"rarity": "uncommon",
-			"mana_cost": "{C}{B}",
+			"mana_cost": "{C}{U}",
 			"type": "",
-			"collector_number": "270",
+			"collector_number": "279",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/270_UM02.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/279_UM02.jpg"
 			}
 		},
 		{
 			"name": "UM01",
 			"rarity": "uncommon",
-			"mana_cost": "{C}{R}",
-			"type": "",
-			"collector_number": "255",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/255_UM01.jpg"
-			}
-		},
-		{
-			"name": "UM02",
-			"rarity": "uncommon",
-			"mana_cost": "{C}{R}",
-			"type": "",
-			"collector_number": "271",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/271_UM02.jpg"
-			}
-		},
-		{
-			"name": "UM01",
-			"rarity": "uncommon",
-			"mana_cost": "{C}{G}",
-			"type": "",
+			"mana_cost": "{3}{C}{B}",
+			"type": "Creature — Dragon",
 			"collector_number": "266",
 			"image_uris": {
 				"en": "https://uiwow7.github.io/sets/CORE-files/img/266_UM01.jpg"
 			}
 		},
 		{
+			"name": "Alone in the Darkness",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{C}{B}",
+			"type": "Enchantment",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/224_Alone in the Darkness.jpg"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{C}{R}",
+			"type": "",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/269_UM01.jpg"
+			}
+		},
+		{
+			"name": "UM02",
+			"rarity": "uncommon",
+			"mana_cost": "{C}{R}",
+			"type": "",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/277_UM02.jpg"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{C}{G}",
+			"type": "",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/268_UM01.jpg"
+			}
+		},
+		{
 			"name": "UM02",
 			"rarity": "uncommon",
 			"mana_cost": "{C}{G}",
 			"type": "",
-			"collector_number": "272",
+			"collector_number": "278",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/272_UM02.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/278_UM02.jpg"
 			}
 		},
 		{
@@ -2470,29 +2554,29 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}",
 			"type": "",
-			"collector_number": "243",
+			"collector_number": "246",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/243_RM01.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/246_RM01.jpg"
 			}
 		},
 		{
-			"name": "RM01",
+			"name": "RM01 DESIGNED",
 			"rarity": "rare",
 			"mana_cost": "{U}{B}",
-			"type": "",
-			"collector_number": "245",
+			"type": "Creature — Human Warrior",
+			"collector_number": "255",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/245_RM01.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/255_RM01 DESIGNED.jpg"
 			}
 		},
 		{
-			"name": "RM01",
+			"name": "Bring Desolation",
 			"rarity": "rare",
-			"mana_cost": "{B}{R}",
-			"type": "",
-			"collector_number": "244",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/244_RM01.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/228_Bring Desolation.jpg"
 			}
 		},
 		{
@@ -2500,9 +2584,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{G}",
 			"type": "",
-			"collector_number": "247",
+			"collector_number": "254",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/247_RM01.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/254_RM01.jpg"
 			}
 		},
 		{
@@ -2510,9 +2594,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{W}",
 			"type": "",
-			"collector_number": "249",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/249_RM01.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/250_RM01.jpg"
 			}
 		},
 		{
@@ -2530,29 +2614,36 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{R}",
 			"type": "",
-			"collector_number": "238",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/238_RM01.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/252_RM01.jpg"
 			}
 		},
 		{
-			"name": "RM01",
+			"name": "Mourncast Overseer",
 			"rarity": "rare",
-			"mana_cost": "{B}{G}",
-			"type": "",
-			"collector_number": "239",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/239_RM01.jpg"
-			}
-		},
-		{
-			"name": "RM01",
-			"rarity": "rare",
-			"mana_cost": "{R}{W}",
-			"type": "",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Creature — Zombie Horror",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/241_RM01.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/241_Mourncast Overseer.jpg"
+			}
+		},
+		{
+			"name": "Forge of Cognizance",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Artifact",
+			"collector_number": "234",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://uiwow7.github.io/sets/CORE-files/img/234_Forge of Cognizance_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/234_Forge of Cognizance_front.jpg"
 			}
 		},
 		{
@@ -2560,19 +2651,26 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{U}",
 			"type": "",
-			"collector_number": "246",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/246_RM01.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/248_RM01.jpg"
 			}
 		},
 		{
-			"name": "RM01",
+			"name": "Morraire Mistbringer",
 			"rarity": "rare",
 			"mana_cost": "{C}{W}",
-			"type": "",
+			"type": "Enchantment Creature — Faerie Noble",
 			"collector_number": "240",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://uiwow7.github.io/sets/CORE-files/img/240_Morraire Mistbringer_back.jpg"
+				}
+			},
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/240_RM01.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/240_Morraire Mistbringer_front.jpg"
 			}
 		},
 		{
@@ -2580,19 +2678,19 @@
 			"rarity": "rare",
 			"mana_cost": "{C}{U}",
 			"type": "",
-			"collector_number": "242",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/242_RM01.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/253_RM01.jpg"
 			}
 		},
 		{
-			"name": "RM01",
+			"name": "Titan of Universes",
 			"rarity": "rare",
-			"mana_cost": "{C}{B}",
-			"type": "",
-			"collector_number": "237",
+			"mana_cost": "{1}{C}{B}",
+			"type": "Enchantment Creature — God Spirit",
+			"collector_number": "261",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/237_RM01.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/261_Titan of Universes.jpg"
 			}
 		},
 		{
@@ -2600,9 +2698,9 @@
 			"rarity": "rare",
 			"mana_cost": "{C}{R}",
 			"type": "",
-			"collector_number": "250",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/250_RM01.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/249_RM01.jpg"
 			}
 		},
 		{
@@ -2610,29 +2708,29 @@
 			"rarity": "rare",
 			"mana_cost": "{C}{G}",
 			"type": "",
-			"collector_number": "248",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/248_RM01.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/247_RM01.jpg"
 			}
 		},
 		{
-			"name": "CA01",
+			"name": "CA01 DESIGNED",
 			"rarity": "common",
-			"mana_cost": "",
+			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "282",
+			"collector_number": "283",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/282_CA01.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/283_CA01 DESIGNED.jpg"
 			}
 		},
 		{
 			"name": "CA02",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Artifact",
-			"collector_number": "283",
+			"type": "Enchantment",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/283_CA02.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/2_CA02.jpg"
 			}
 		},
 		{
@@ -2656,23 +2754,23 @@
 			}
 		},
 		{
-			"name": "CA05",
+			"name": "Divine Reaper",
 			"rarity": "common",
-			"mana_cost": "",
-			"type": "Artifact",
-			"collector_number": "286",
+			"mana_cost": "{5}",
+			"type": "Enchantment Creature — Demon Angel",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/286_CA05.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/3_Divine Reaper.jpg"
 			}
 		},
 		{
-			"name": "UA01",
+			"name": "Soulflame Titan",
 			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Artifact",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Demon Construct",
 			"collector_number": "289",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/289_UA01.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/289_Soulflame Titan.jpg"
 			}
 		},
 		{
@@ -2726,23 +2824,23 @@
 			}
 		},
 		{
-			"name": "UL01",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "295",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/295_UL01.jpg"
-			}
-		},
-		{
-			"name": "UL02",
+			"name": "Solitary Haven",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "296",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/296_UL02.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/296_Solitary Haven.jpg"
+			}
+		},
+		{
+			"name": "Fallen Frontier",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Frontier",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/295_Fallen Frontier.jpg"
 			}
 		},
 		{
@@ -2826,23 +2924,23 @@
 			}
 		},
 		{
-			"name": "RX01",
+			"name": "Greatestaxe",
 			"rarity": "rare",
 			"mana_cost": "{8}",
 			"type": "Artifact — Equipment",
-			"collector_number": "288",
+			"collector_number": "287",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/288_RX01.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/287_Greatestaxe.jpg"
 			}
 		},
 		{
-			"name": "RX02",
+			"name": "Reflecting Titan",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "5",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Demon Construct",
+			"collector_number": "288",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/5_RX02.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/288_Reflecting Titan.jpg"
 			}
 		},
 		{
@@ -2850,9 +2948,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/6_RX03.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/7_RX03.jpg"
 			}
 		},
 		{
@@ -2860,9 +2958,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/7_RX04.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/8_RX04.jpg"
 			}
 		},
 		{
@@ -2870,9 +2968,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/8_RX05.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/9_RX05.jpg"
 			}
 		},
 		{
@@ -2880,9 +2978,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/9_RX06.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/10_RX06.jpg"
 			}
 		},
 		{
@@ -2890,9 +2988,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/10_RX07.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/11_RX07.jpg"
 			}
 		},
 		{
@@ -2900,9 +2998,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/11_RX08.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/12_RX08.jpg"
 			}
 		},
 		{
@@ -2910,9 +3008,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/12_RX09.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/13_RX09.jpg"
 			}
 		},
 		{
@@ -2920,9 +3018,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/13_RX10.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/14_RX10.jpg"
 			}
 		},
 		{
@@ -2930,9 +3028,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/14_RX11.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/15_RX11.jpg"
 			}
 		},
 		{
@@ -2940,9 +3038,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/15_RX12.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/16_RX12.jpg"
 			}
 		},
 		{
@@ -2950,29 +3048,29 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "16",
-			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/16_RX13.jpg"
-			}
-		},
-		{
-			"name": "RX14",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/17_RX14.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/17_RX13.jpg"
 			}
 		},
 		{
-			"name": "RX15",
+			"name": "Shatter the Self",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "",
+			"mana_cost": "{2}",
+			"type": "Instant",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/18_RX15.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/18_Shatter the Self.jpg"
+			}
+		},
+		{
+			"name": "Void Tyrant",
+			"rarity": "rare",
+			"mana_cost": "{2}{C}{C}",
+			"type": "Creature — Dragon",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/24_Void Tyrant.jpg"
 			}
 		},
 		{
@@ -2986,13 +3084,13 @@
 			}
 		},
 		{
-			"name": "MX02",
+			"name": "Embracing the Universe",
 			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "2",
+			"mana_cost": "{9}",
+			"type": "Sorcery",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/2_MX02.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/4_Embracing the Universe.jpg"
 			}
 		},
 		{
@@ -3000,9 +3098,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "3",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/3_MX03.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/5_MX03.jpg"
 			}
 		},
 		{
@@ -3010,9 +3108,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "4",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/4_MX04.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/6_MX04.jpg"
 			}
 		},
 		{
@@ -3020,9 +3118,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{16}",
 			"type": "Legendary Enchantment Artifact",
-			"collector_number": "287",
+			"collector_number": "286",
 			"image_uris": {
-				"en": "https://uiwow7.github.io/sets/CORE-files/img/287_The Geometric Void.jpg"
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/286_The Geometric Void.jpg"
 			}
 		},
 		{
@@ -3034,308 +3132,1102 @@
 			"image_uris": {
 				"en": "https://uiwow7.github.io/sets/CORE-files/img/1t_Themes.jpg"
 			}
+		},
+		{
+			"name": "Zombie",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Zombie",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/7t_Zombie.jpg"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/8t_Treasure.jpg"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/6t_Spirit.jpg"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/4t_Spirit.jpg"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/3t_Spirit.jpg"
+			}
+		},
+		{
+			"name": "Cleric",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Cleric",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/2t_Cleric.jpg"
+			}
+		},
+		{
+			"name": "Horror",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Horror",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://uiwow7.github.io/sets/CORE-files/img/5t_Horror.jpg"
+			}
 		}
 	]
 
 [rare(1)]
-	5 RW01
-	5 RW02
-	5 RW03
-	5 RW04
-	5 RW05
-	5 RU01
-	5 RU02
-	5 RU03
-	5 Cosmic Nexus
-	5 RU05
-	5 RB01
-	5 RB02
-	5 RB03
-	5 RB04
-	5 RB05
-	5 RR01
-	5 RR02
-	5 Phoenix of Suns
-	5 RR04
-	5 RR05
-	5 RG01
-	5 RG02
-	5 RG03
-	5 RG04
-	5 RG05
-	5 RI01
-	5 RI02
-	5 RI03
-	5 RI04
-	5 RI05
-	5 MW01
-	5 MW02
-	5 MU01
-	5 MU02
-	5 MB01
-	5 MB02
-	5 MR01
-	5 MR02
-	5 MG01
-	5 MG02
-	5 MI01
-	5 MI02
-	5 RM01
-	5 RM01
-	5 RM01
-	5 RM01
-	5 RM01
-	5 RM01
-	5 RM01
-	5 RM01
-	5 RM01
-	5 RM01
-	5 RM01
-	5 RM01
-	5 RM01
-	5 RM01
-	5 RM01
-	5 RX01
-	5 RX02
-	5 RX03
-	5 RX04
-	5 RX05
-	5 RX06
-	5 RX07
-	5 RX08
-	5 RX09
-	5 RX10
-	5 RX11
-	5 RX12
-	5 RX13
-	5 RX14
-	5 RX15
-	5 Architect of Blood Suns
-	5 MX02
-	5 MX03
-	5 MX04
-	5 The Geometric Void
+	2 RW01
+	2 RW02
+	2 RW03
+	2 Mirena of Fallen Stars
+	2 Sky Shatter
+	2 RU01
+	2 Azali, Spectral Hunter
+	2 Wavebringer
+	2 Cosmic Nexus
+	2 RU05
+	2 RB01
+	2 Sainard Gravekeeper
+	2 Lazadas, the Rat Insurgent
+	2 RB04
+	2 RB05
+	2 RR01
+	2 RR02
+	2 Phoenix of Suns
+	2 RR04
+	2 RR05
+	2 RG01
+	2 RG02
+	2 Karuko, Protector of the Wilds
+	2 Lush Protector
+	2 RG05
+	2 RI01
+	2 Subina of Twisting Fate
+	2 RI03
+	2 RI04
+	2 RI05
+	1 MW01
+	1 MW02
+	1 MU01
+	1 MU02
+	1 MB01
+	1 MB02
+	1 The Awakener
+	1 MR02
+	1 MG01
+	1 Spatial Conflux
+	1 MI01
+	1 Bringer of Emptiness
+	2 RM01
+	2 RM01 DESIGNED
+	2 Bring Desolation
+	2 RM01
+	2 RM01
+	2 RM01
+	2 RM01
+	2 Mourncast Overseer
+	2 Forge of Cognizance
+	2 RM01
+	2 Morraire Mistbringer
+	2 RM01
+	2 Titan of Universes
+	2 RM01
+	2 RM01
+	2 Greatestaxe
+	2 Reflecting Titan
+	2 RX03
+	2 RX04
+	2 RX05
+	2 RX06
+	2 RX07
+	2 RX08
+	2 RX09
+	2 RX10
+	2 RX11
+	2 RX12
+	2 RX13
+	2 Shatter the Self
+	2 Void Tyrant
+	1 Architect of Blood Suns
+	1 Embracing the Universe
+	1 MX03
+	1 MX04
+	1 The Geometric Void
 [uncommon(3)]
-	5 Bloomwielder
-	5 UW02
-	5 UW03
-	5 UW04
-	5 UW05
-	5 Majesty of Suns
-	5 UW07
-	5 UW08
-	5 UW09 DESIGNED
-	5 Starfinder
-	5 UU02
-	5 UU03
-	5 Cloudwater Visions
-	5 UU05
-	5 UU06
-	5 UU07
-	5 Ardent Starkeeper
-	5 UU09
-	5 Nightseer
-	5 UB02
-	5 UB03
-	5 UB04
-	5 UB05
-	5 Darkstar Prowler
-	5 UB07
-	5 UB08
-	5 UB09
-	5 Firebringer
-	5 UR02
-	5 UR03
-	5 UR04
-	5 UR05
-	5 Magmatic Emergence
-	5 UR07
-	5 UR08
-	5 UR09
-	5 Sproutbinder
-	5 UG02
-	5 UG03
-	5 UG04 DREADMAW!!!
-	5 Cradle of Growth
-	5 UG06
-	5 UG07
-	5 UG08
-	5 UG09
-	5 Tidewatcher
-	5 UI02
-	5 Rain of Flowers
-	5 UI04
-	5 UI05
-	5 UI06
-	5 Starseeker Whale
-	5 Dragon of Ancients
-	5 UI09
-	5 UM01
-	5 UM02
-	5 UM01
-	5 UM02
-	5 UM01
-	5 UM02
-	5 UM01
-	5 UM02
-	5 UM01
-	5 UM02
-	5 UM01
-	5 UM02
-	5 UM01
-	5 UM02
-	5 UM01
-	5 UM02
-	5 UM01
-	5 UM02
-	5 UM01
-	5 UM02
-	5 UM01
-	5 UM02
-	5 UM01
-	5 UM02
-	5 UM01
-	5 UM02
-	5 UM01
-	5 UM02
-	5 UM01
-	5 UM02
-	5 UA01
-	5 UA02
-	5 UA03
-	5 UA04
-	5 UA05
-	5 UL01
-	5 UL02
-	5 UL03
-	5 UL04
-	5 UL05
-	5 UX01
-	5 UX02
-	5 UX03
-	5 UX04
-	5 UX05
-[common(10)]
-	5 Acolyte of Sunlight
-	5 Sunlit Call
-	5 CW03
-	5 Priest of the Mirena
-	5 Empowered by Light
-	5 Warmth of the Skies
-	5 CW07
-	5 CW08
-	5 CW09
-	5 CW10
-	5 CW11
-	5 CW12
-	5 CW13
-	5 CW14
-	5 CW15
-	5 CW16
-	5 CW17
-	5 CU01
-	5 CU02
-	5 CU03
-	5 CU04
-	5 Chaotic Anomaly
-	5 CU06
-	5 CU07
-	5 CU08
-	5 CU09
-	5 CU10
-	5 CU11
-	5 CU12
-	5 CU13
-	5 CU14
-	5 CU15
-	5 CU16
-	5 CU17
-	5 CB01
-	5 CB02
-	5 CB03
-	5 CB04
-	5 Rodent Reforger
-	5 Open Hidden Gateways
-	5 Shattered Sword Deathbringer
-	5 Ratvolutionary
-	5 CB09
-	5 CB10
-	5 CB11
-	5 CB12
-	5 CB13
-	5 CB14
-	5 CB15
-	5 CB16
-	5 CB17
-	5 CR01
-	5 CR02
-	5 CR03
-	5 CR04
-	5 Behold True Suns
-	5 CR06
-	5 CR07
-	5 CR08
-	5 CR09
-	5 CR10
-	5 CR11
-	5 CR12
-	5 CR13
-	5 CR14
-	5 CR15
-	5 CR16
-	5 CR17
-	5 CG01
-	5 CG02
-	5 CG03
-	5 CG04
-	5 CG05
-	5 Blossoming Growth
-	5 Bear Bearer
-	5 CG08
-	5 CG09
-	5 CG10
-	5 CG11
-	5 CG12
-	5 CG13
-	5 CG14
-	5 CG15
-	5 CG16
-	5 CG17
-	5 Void Wayfarer
-	5 CI02
-	5 Become Eternity
-	5 Herald of Moonlight
-	5 Starcatcher
-	5 CI06
-	5 Celestial Caller
-	5 Watching the Winds
-	5 CI09
-	5 CI10
-	5 CI11
-	5 CI12
-	5 Warden of Desolation
-	5 CI14
-	5 CI15
-	5 CI16
-	5 CI17
-	5 CM01
-	5 CM01
-	5 CM01
-	5 CM01
-	5 CM01
-	5 CM01
-	5 CM01
-	5 CM01
-	5 CM01
-	5 CM01
-	5 CM01
-	5 CM01
-	5 CM01
-	5 CM01
-	5 CM01
-	5 CA01
-	5 CA02
-	5 CA03
-	5 CA04
-	5 CA05
-	5 CL01
+	4 Bloomwielder
+	4 UW02
+	4 UW03
+	4 Valiant Aspirant
+	4 Gleaming Virtue
+	4 Heavenly Cotainment
+	4 Perennial Journey
+	4 Majesty of Suns
+	4 Sol Capture
+	4 Starfinder
+	4 Stormborn Griffin
+	4 UU03
+	4 UU04
+	4 Ardent Starkeeper
+	4 UU06
+	4 Embrace the New
+	4 Cloudwater Visions
+	4 Cosmic Manipulation
+	4 Nightseer
+	4 Forbidding Outsider
+	4 UB03
+	4 UB04
+	4 Darkstar Prowler
+	4 UB06
+	4 Shadows of Blood
+	4 UB08
+	4 UB09
+	4 Firebringer
+	4 UR02
+	4 UR03
+	4 UR03
+	4 UR05
+	4 UR06
+	4 UR07 DESIGNED
+	4 Magmatic Emergence
+	4 UR09
+	4 Sproutbinder
+	4 UG02
+	4 UG03
+	4 UG04
+	4 Colossal Mycmoaw
+	4 Cradle of Growth
+	4 UG07 DESIGNED
+	4 UG08
+	4 UG09
+	4 Tidewatcher
+	4 UI02
+	4 UI03
+	4 Starseeker Whale
+	4 Dragon of Ancients
+	4 UI06
+	4 Nexus of Infinity
+	4 Rain of Flowers
+	4 UI09
+	4 Dawnshroud Seraph
+	4 UM02
+	4 Avakin Nightwatcher
+	4 Starlit Voyage
+	4 Ignelscor Seer
+	4 Rite of Eclipse
+	4 UM01
+	4 UM02
+	4 UM01
+	4 UM02
+	4 Sunfall Demon
+	4 UM02
+	4 UM01
+	4 UM02
+	4 Murkross Reconstructor
+	4 Withering Mortality
+	4 UM01
+	4 UM02
+	4 UM01 DESIGNED
+	4 UM02
+	4 UM01
+	4 Fated Return
+	4 UM01
+	4 UM02
+	4 UM01
+	4 Alone in the Darkness
+	4 UM01
+	4 UM02
+	4 UM01
+	4 UM02
+	4 Soulflame Titan
+	4 UA02
+	4 UA03
+	4 UA04
+	4 UA05
+	4 Solitary Haven
+	4 Fallen Frontier
+	4 UL03
+	4 UL04
+	4 UL05
+	4 UX01
+	4 UX02
+	4 UX03
+	4 UX04
+	4 UX05
+[common(6)]
+	8 Acolyte of Sunlight
+	8 Fadove Apprentice
+	8 Doomed Cavalier
+	8 Priest of the Mirena
+	8 CW05 DESIGNED
+	8 Asahran Sentinel
+	8 CW07
+	8 Mourncast Doomwatcher
+	8 CW09
+	8 Savior of Shadows
+	8 Bringer of Divine Light
+	8 Fate Smother
+	8 Empowered by Light
+	8 Beacon of Hope
+	8 Warmth of the Skies
+	8 Chained Among the Clouds
+	8 Abandon Reality
+	8 Solitary Wanderer
+	8 Mirdrim Seeker
+	8 CU03
+	8 Likeness Echo
+	8 South-Ocean Waverider
+	8 CU06 DESIGNED
+	8 Glittering Scavenger
+	8 Carrigol Reflector
+	8 Chosen of Moonlight
+	8 Collapse from Reality
+	8 Power from Forever
+	8 Chaotic Anomaly
+	8 CU13
+	8 Twin Eclipse
+	8 Skyseeking
+	8 Runic Engraving
+	8 Forsaken Entrance
+	8 Woodland Gardener
+	8 CB02
+	8 Rodent Reforger
+	8 Aliran SOMETHING?
+	8 Warden of Dreams
+	8 Shattered Sword Deathbringer
+	8 Sainard Bonewraith
+	8 Cloaked Wayfarer
+	8 Ratvolutionary
+	8 CB10
+	8 Open Hidden Gateways
+	8 CB12
+	8 CB13
+	8 Glittering Starlight
+	8 Malice in Chains
+	8 Facing the Dark
+	8 CB17
+	8 Aurora Reader
+	8 Abstracted Wanderer
+	8 CR03 DESIGNED
+	8 CR04 DESIGNED
+	8 Eager Starseeker
+	8 Bringer of Torments
+	8 Fireburn Marshal
+	8 That Which was Crowned in Fire
+	8 Triumphant Warlord
+	8 Soldier of the Endless War
+	8 CR11
+	8 CR12
+	8 Behold True Suns
+	8 CR13
+	8 CR14
+	8 Thrilling Confrontation
+	8 CR16
+	8 Brilliant Inferno
+	8 CG01
+	8 Steward of the Void
+	8 Forsaken Explorer
+	8 Underbelly Lurker
+	8 CG05
+	8 CG06
+	8 Awakened Terror
+	8 Bear Bearer
+	8 Mangriel Wanderer
+	8 Mordel Guardian
+	8 Shifting Roots
+	8 CG13
+	8 Moonlit Frolic
+	8 CG15
+	8 CG16
+	8 CG17
+	8 Void Wayfarer
+	8 Glimmer Hunter
+	8 Herald of Moonlight
+	8 Starcatcher
+	8 CI05 DESIGNED
+	8 Sacred Mourner
+	8 Celestial Caller
+	8 Morraire Warder
+	8 CI09
+	8 Warden of Desolation
+	8 CI11
+	8 CI12
+	8 Watching the Winds
+	8 Become Eternity
+	8 CI15
+	8 Star Mirror
+	8 CI17
+	8 Skybinder
+	8 Abyssal Trinity
+	8 Bringer of Vitriol
+	8 Deino Caravan
+	8 Awakened Resolve
+	8 Bloodied Mourner
+	8 Risen from Flame
+	8 Master of Demise
+	8 Ragrime Caretaker
+	8 Starwatcher Lux
+	8 Glory of the Ancients
+	8 Hidden by Mists
+	8 Shrouded Bearer
+	8 Drougth Prowler
+	8 March of the Elder Ones
+	8 CA01 DESIGNED
+	8 CA02
+	8 CA03
+	8 CA04
+	8 Divine Reaper
+	8 CL01
+[common | masterpiece(1)]
+	8 Acolyte of Sunlight
+	8 Fadove Apprentice
+	8 Doomed Cavalier
+	8 Priest of the Mirena
+	8 CW05 DESIGNED
+	8 Asahran Sentinel
+	8 CW07
+	8 Mourncast Doomwatcher
+	8 CW09
+	8 Savior of Shadows
+	8 Bringer of Divine Light
+	8 Fate Smother
+	8 Empowered by Light
+	8 Beacon of Hope
+	8 Warmth of the Skies
+	8 Chained Among the Clouds
+	8 Abandon Reality
+	8 Solitary Wanderer
+	8 Mirdrim Seeker
+	8 CU03
+	8 Likeness Echo
+	8 South-Ocean Waverider
+	8 CU06 DESIGNED
+	8 Glittering Scavenger
+	8 Carrigol Reflector
+	8 Chosen of Moonlight
+	8 Collapse from Reality
+	8 Power from Forever
+	8 Chaotic Anomaly
+	8 CU13
+	8 Twin Eclipse
+	8 Skyseeking
+	8 Runic Engraving
+	8 Forsaken Entrance
+	8 Woodland Gardener
+	8 CB02
+	8 Rodent Reforger
+	8 Aliran SOMETHING?
+	8 Warden of Dreams
+	8 Shattered Sword Deathbringer
+	8 Sainard Bonewraith
+	8 Cloaked Wayfarer
+	8 Ratvolutionary
+	8 CB10
+	8 Open Hidden Gateways
+	8 CB12
+	8 CB13
+	8 Glittering Starlight
+	8 Malice in Chains
+	8 Facing the Dark
+	8 CB17
+	8 Aurora Reader
+	8 Abstracted Wanderer
+	8 CR03 DESIGNED
+	8 CR04 DESIGNED
+	8 Eager Starseeker
+	8 Bringer of Torments
+	8 Fireburn Marshal
+	8 That Which was Crowned in Fire
+	8 Triumphant Warlord
+	8 Soldier of the Endless War
+	8 CR11
+	8 CR12
+	8 Behold True Suns
+	8 CR13
+	8 CR14
+	8 Thrilling Confrontation
+	8 CR16
+	8 Brilliant Inferno
+	8 CG01
+	8 Steward of the Void
+	8 Forsaken Explorer
+	8 Underbelly Lurker
+	8 CG05
+	8 CG06
+	8 Awakened Terror
+	8 Bear Bearer
+	8 Mangriel Wanderer
+	8 Mordel Guardian
+	8 Shifting Roots
+	8 CG13
+	8 Moonlit Frolic
+	8 CG15
+	8 CG16
+	8 CG17
+	8 Void Wayfarer
+	8 Glimmer Hunter
+	8 Herald of Moonlight
+	8 Starcatcher
+	8 CI05 DESIGNED
+	8 Sacred Mourner
+	8 Celestial Caller
+	8 Morraire Warder
+	8 CI09
+	8 Warden of Desolation
+	8 CI11
+	8 CI12
+	8 Watching the Winds
+	8 Become Eternity
+	8 CI15
+	8 Star Mirror
+	8 CI17
+	8 Skybinder
+	8 Abyssal Trinity
+	8 Bringer of Vitriol
+	8 Deino Caravan
+	8 Awakened Resolve
+	8 Bloodied Mourner
+	8 Risen from Flame
+	8 Master of Demise
+	8 Ragrime Caretaker
+	8 Starwatcher Lux
+	8 Glory of the Ancients
+	8 Hidden by Mists
+	8 Shrouded Bearer
+	8 Drougth Prowler
+	8 March of the Elder Ones
+	8 CA01 DESIGNED
+	8 CA02
+	8 CA03
+	8 CA04
+	8 Divine Reaper
+	8 CL01
+[foil(1)]
+	12 Acolyte of Sunlight
+	12 Fadove Apprentice
+	12 Doomed Cavalier
+	12 Priest of the Mirena
+	12 CW05 DESIGNED
+	12 Asahran Sentinel
+	12 CW07
+	12 Mourncast Doomwatcher
+	12 CW09
+	12 Savior of Shadows
+	12 Bringer of Divine Light
+	12 Fate Smother
+	12 Empowered by Light
+	12 Beacon of Hope
+	12 Warmth of the Skies
+	12 Chained Among the Clouds
+	12 Abandon Reality
+	12 Solitary Wanderer
+	12 Mirdrim Seeker
+	12 CU03
+	12 Likeness Echo
+	12 South-Ocean Waverider
+	12 CU06 DESIGNED
+	12 Glittering Scavenger
+	12 Carrigol Reflector
+	12 Chosen of Moonlight
+	12 Collapse from Reality
+	12 Power from Forever
+	12 Chaotic Anomaly
+	12 CU13
+	12 Twin Eclipse
+	12 Skyseeking
+	12 Runic Engraving
+	12 Forsaken Entrance
+	12 Woodland Gardener
+	12 CB02
+	12 Rodent Reforger
+	12 Aliran SOMETHING?
+	12 Warden of Dreams
+	12 Shattered Sword Deathbringer
+	12 Sainard Bonewraith
+	12 Cloaked Wayfarer
+	12 Ratvolutionary
+	12 CB10
+	12 Open Hidden Gateways
+	12 CB12
+	12 CB13
+	12 Glittering Starlight
+	12 Malice in Chains
+	12 Facing the Dark
+	12 CB17
+	12 Aurora Reader
+	12 Abstracted Wanderer
+	12 CR03 DESIGNED
+	12 CR04 DESIGNED
+	12 Eager Starseeker
+	12 Bringer of Torments
+	12 Fireburn Marshal
+	12 That Which was Crowned in Fire
+	12 Triumphant Warlord
+	12 Soldier of the Endless War
+	12 CR11
+	12 CR12
+	12 Behold True Suns
+	12 CR13
+	12 CR14
+	12 Thrilling Confrontation
+	12 CR16
+	12 Brilliant Inferno
+	12 CG01
+	12 Steward of the Void
+	12 Forsaken Explorer
+	12 Underbelly Lurker
+	12 CG05
+	12 CG06
+	12 Awakened Terror
+	12 Bear Bearer
+	12 Mangriel Wanderer
+	12 Mordel Guardian
+	12 Shifting Roots
+	12 CG13
+	12 Moonlit Frolic
+	12 CG15
+	12 CG16
+	12 CG17
+	12 Void Wayfarer
+	12 Glimmer Hunter
+	12 Herald of Moonlight
+	12 Starcatcher
+	12 CI05 DESIGNED
+	12 Sacred Mourner
+	12 Celestial Caller
+	12 Morraire Warder
+	12 CI09
+	12 Warden of Desolation
+	12 CI11
+	12 CI12
+	12 Watching the Winds
+	12 Become Eternity
+	12 CI15
+	12 Star Mirror
+	12 CI17
+	6 Bloomwielder
+	6 UW02
+	6 UW03
+	6 Valiant Aspirant
+	6 Gleaming Virtue
+	6 Heavenly Cotainment
+	6 Perennial Journey
+	6 Majesty of Suns
+	6 Sol Capture
+	6 Starfinder
+	6 Stormborn Griffin
+	6 UU03
+	6 UU04
+	6 Ardent Starkeeper
+	6 UU06
+	6 Embrace the New
+	6 Cloudwater Visions
+	6 Cosmic Manipulation
+	6 Nightseer
+	6 Forbidding Outsider
+	6 UB03
+	6 UB04
+	6 Darkstar Prowler
+	6 UB06
+	6 Shadows of Blood
+	6 UB08
+	6 UB09
+	6 Firebringer
+	6 UR02
+	6 UR03
+	6 UR03
+	6 UR05
+	6 UR06
+	6 UR07 DESIGNED
+	6 Magmatic Emergence
+	6 UR09
+	6 Sproutbinder
+	6 UG02
+	6 UG03
+	6 UG04
+	6 Colossal Mycmoaw
+	6 Cradle of Growth
+	6 UG07 DESIGNED
+	6 UG08
+	6 UG09
+	6 Tidewatcher
+	6 UI02
+	6 UI03
+	6 Starseeker Whale
+	6 Dragon of Ancients
+	6 UI06
+	6 Nexus of Infinity
+	6 Rain of Flowers
+	6 UI09
+	2 RW01
+	2 RW02
+	2 RW03
+	2 Mirena of Fallen Stars
+	2 Sky Shatter
+	2 RU01
+	2 Azali, Spectral Hunter
+	2 Wavebringer
+	2 Cosmic Nexus
+	2 RU05
+	2 RB01
+	2 Sainard Gravekeeper
+	2 Lazadas, the Rat Insurgent
+	2 RB04
+	2 RB05
+	2 RR01
+	2 RR02
+	2 Phoenix of Suns
+	2 RR04
+	2 RR05
+	2 RG01
+	2 RG02
+	2 Karuko, Protector of the Wilds
+	2 Lush Protector
+	2 RG05
+	2 RI01
+	2 Subina of Twisting Fate
+	2 RI03
+	2 RI04
+	2 RI05
+	1 MW01
+	1 MW02
+	1 MU01
+	1 MU02
+	1 MB01
+	1 MB02
+	1 The Awakener
+	1 MR02
+	1 MG01
+	1 Spatial Conflux
+	1 MI01
+	1 Bringer of Emptiness
+	12 Skybinder
+	12 Abyssal Trinity
+	12 Bringer of Vitriol
+	12 Deino Caravan
+	12 Awakened Resolve
+	12 Bloodied Mourner
+	12 Risen from Flame
+	12 Master of Demise
+	12 Ragrime Caretaker
+	12 Starwatcher Lux
+	12 Glory of the Ancients
+	12 Hidden by Mists
+	12 Shrouded Bearer
+	12 Drougth Prowler
+	12 March of the Elder Ones
+	6 Dawnshroud Seraph
+	6 UM02
+	6 Avakin Nightwatcher
+	6 Starlit Voyage
+	6 Ignelscor Seer
+	6 Rite of Eclipse
+	6 UM01
+	6 UM02
+	6 UM01
+	6 UM02
+	6 Sunfall Demon
+	6 UM02
+	6 UM01
+	6 UM02
+	6 Murkross Reconstructor
+	6 Withering Mortality
+	6 UM01
+	6 UM02
+	6 UM01 DESIGNED
+	6 UM02
+	6 UM01
+	6 Fated Return
+	6 UM01
+	6 UM02
+	6 UM01
+	6 Alone in the Darkness
+	6 UM01
+	6 UM02
+	6 UM01
+	6 UM02
+	2 RM01
+	2 RM01 DESIGNED
+	2 Bring Desolation
+	2 RM01
+	2 RM01
+	2 RM01
+	2 RM01
+	2 Mourncast Overseer
+	2 Forge of Cognizance
+	2 RM01
+	2 Morraire Mistbringer
+	2 RM01
+	2 Titan of Universes
+	2 RM01
+	2 RM01
+	12 CA01 DESIGNED
+	12 CA02
+	12 CA03
+	12 CA04
+	12 Divine Reaper
+	6 Soulflame Titan
+	6 UA02
+	6 UA03
+	6 UA04
+	6 UA05
+	12 CL01
+	6 Solitary Haven
+	6 Fallen Frontier
+	6 UL03
+	6 UL04
+	6 UL05
+	6 UX01
+	6 UX02
+	6 UX03
+	6 UX04
+	6 UX05
+	2 Greatestaxe
+	2 Reflecting Titan
+	2 RX03
+	2 RX04
+	2 RX05
+	2 RX06
+	2 RX07
+	2 RX08
+	2 RX09
+	2 RX10
+	2 RX11
+	2 RX12
+	2 RX13
+	2 Shatter the Self
+	2 Void Tyrant
+	1 Architect of Blood Suns
+	1 Embracing the Universe
+	1 MX03
+	1 MX04
+	1 The Geometric Void
+[wildcard(1)]
+	6 Acolyte of Sunlight
+	6 Fadove Apprentice
+	6 Doomed Cavalier
+	6 Priest of the Mirena
+	6 CW05 DESIGNED
+	6 Asahran Sentinel
+	6 CW07
+	6 Mourncast Doomwatcher
+	6 CW09
+	6 Savior of Shadows
+	6 Bringer of Divine Light
+	6 Fate Smother
+	6 Empowered by Light
+	6 Beacon of Hope
+	6 Warmth of the Skies
+	6 Chained Among the Clouds
+	6 Abandon Reality
+	6 Solitary Wanderer
+	6 Mirdrim Seeker
+	6 CU03
+	6 Likeness Echo
+	6 South-Ocean Waverider
+	6 CU06 DESIGNED
+	6 Glittering Scavenger
+	6 Carrigol Reflector
+	6 Chosen of Moonlight
+	6 Collapse from Reality
+	6 Power from Forever
+	6 Chaotic Anomaly
+	6 CU13
+	6 Twin Eclipse
+	6 Skyseeking
+	6 Runic Engraving
+	6 Forsaken Entrance
+	6 Woodland Gardener
+	6 CB02
+	6 Rodent Reforger
+	6 Aliran SOMETHING?
+	6 Warden of Dreams
+	6 Shattered Sword Deathbringer
+	6 Sainard Bonewraith
+	6 Cloaked Wayfarer
+	6 Ratvolutionary
+	6 CB10
+	6 Open Hidden Gateways
+	6 CB12
+	6 CB13
+	6 Glittering Starlight
+	6 Malice in Chains
+	6 Facing the Dark
+	6 CB17
+	6 Aurora Reader
+	6 Abstracted Wanderer
+	6 CR03 DESIGNED
+	6 CR04 DESIGNED
+	6 Eager Starseeker
+	6 Bringer of Torments
+	6 Fireburn Marshal
+	6 That Which was Crowned in Fire
+	6 Triumphant Warlord
+	6 Soldier of the Endless War
+	6 CR11
+	6 CR12
+	6 Behold True Suns
+	6 CR13
+	6 CR14
+	6 Thrilling Confrontation
+	6 CR16
+	6 Brilliant Inferno
+	6 CG01
+	6 Steward of the Void
+	6 Forsaken Explorer
+	6 Underbelly Lurker
+	6 CG05
+	6 CG06
+	6 Awakened Terror
+	6 Bear Bearer
+	6 Mangriel Wanderer
+	6 Mordel Guardian
+	6 Shifting Roots
+	6 CG13
+	6 Moonlit Frolic
+	6 CG15
+	6 CG16
+	6 CG17
+	6 Void Wayfarer
+	6 Glimmer Hunter
+	6 Herald of Moonlight
+	6 Starcatcher
+	6 CI05 DESIGNED
+	6 Sacred Mourner
+	6 Celestial Caller
+	6 Morraire Warder
+	6 CI09
+	6 Warden of Desolation
+	6 CI11
+	6 CI12
+	6 Watching the Winds
+	6 Become Eternity
+	6 CI15
+	6 Star Mirror
+	6 CI17
+	15 Bloomwielder
+	15 UW02
+	15 UW03
+	15 Valiant Aspirant
+	15 Gleaming Virtue
+	15 Heavenly Cotainment
+	15 Perennial Journey
+	15 Majesty of Suns
+	15 Sol Capture
+	15 Starfinder
+	15 Stormborn Griffin
+	15 UU03
+	15 UU04
+	15 Ardent Starkeeper
+	15 UU06
+	15 Embrace the New
+	15 Cloudwater Visions
+	15 Cosmic Manipulation
+	15 Nightseer
+	15 Forbidding Outsider
+	15 UB03
+	15 UB04
+	15 Darkstar Prowler
+	15 UB06
+	15 Shadows of Blood
+	15 UB08
+	15 UB09
+	15 Firebringer
+	15 UR02
+	15 UR03
+	15 UR03
+	15 UR05
+	15 UR06
+	15 UR07 DESIGNED
+	15 Magmatic Emergence
+	15 UR09
+	15 Sproutbinder
+	15 UG02
+	15 UG03
+	15 UG04
+	15 Colossal Mycmoaw
+	15 Cradle of Growth
+	15 UG07 DESIGNED
+	15 UG08
+	15 UG09
+	15 Tidewatcher
+	15 UI02
+	15 UI03
+	15 Starseeker Whale
+	15 Dragon of Ancients
+	15 UI06
+	15 Nexus of Infinity
+	15 Rain of Flowers
+	15 UI09
+	7 RW01
+	7 RW02
+	7 RW03
+	7 Mirena of Fallen Stars
+	7 Sky Shatter
+	7 RU01
+	7 Azali, Spectral Hunter
+	7 Wavebringer
+	7 Cosmic Nexus
+	7 RU05
+	7 RB01
+	7 Sainard Gravekeeper
+	7 Lazadas, the Rat Insurgent
+	7 RB04
+	7 RB05
+	7 RR01
+	7 RR02
+	7 Phoenix of Suns
+	7 RR04
+	7 RR05
+	7 RG01
+	7 RG02
+	7 Karuko, Protector of the Wilds
+	7 Lush Protector
+	7 RG05
+	7 RI01
+	7 Subina of Twisting Fate
+	7 RI03
+	7 RI04
+	7 RI05
+	4 MW01
+	4 MW02
+	4 MU01
+	4 MU02
+	4 MB01
+	4 MB02
+	4 The Awakener
+	4 MR02
+	4 MG01
+	4 Spatial Conflux
+	4 MI01
+	4 Bringer of Emptiness
+	6 Skybinder
+	6 Abyssal Trinity
+	6 Bringer of Vitriol
+	6 Deino Caravan
+	6 Awakened Resolve
+	6 Bloodied Mourner
+	6 Risen from Flame
+	6 Master of Demise
+	6 Ragrime Caretaker
+	6 Starwatcher Lux
+	6 Glory of the Ancients
+	6 Hidden by Mists
+	6 Shrouded Bearer
+	6 Drougth Prowler
+	6 March of the Elder Ones
+	15 Dawnshroud Seraph
+	15 UM02
+	15 Avakin Nightwatcher
+	15 Starlit Voyage
+	15 Ignelscor Seer
+	15 Rite of Eclipse
+	15 UM01
+	15 UM02
+	15 UM01
+	15 UM02
+	15 Sunfall Demon
+	15 UM02
+	15 UM01
+	15 UM02
+	15 Murkross Reconstructor
+	15 Withering Mortality
+	15 UM01
+	15 UM02
+	15 UM01 DESIGNED
+	15 UM02
+	15 UM01
+	15 Fated Return
+	15 UM01
+	15 UM02
+	15 UM01
+	15 Alone in the Darkness
+	15 UM01
+	15 UM02
+	15 UM01
+	15 UM02
+	7 RM01
+	7 RM01 DESIGNED
+	7 Bring Desolation
+	7 RM01
+	7 RM01
+	7 RM01
+	7 RM01
+	7 Mourncast Overseer
+	7 Forge of Cognizance
+	7 RM01
+	7 Morraire Mistbringer
+	7 RM01
+	7 Titan of Universes
+	7 RM01
+	7 RM01
+	6 CA01 DESIGNED
+	6 CA02
+	6 CA03
+	6 CA04
+	6 Divine Reaper
+	15 Soulflame Titan
+	15 UA02
+	15 UA03
+	15 UA04
+	15 UA05
+	6 CL01
+	15 Solitary Haven
+	15 Fallen Frontier
+	15 UL03
+	15 UL04
+	15 UL05
+	15 UX01
+	15 UX02
+	15 UX03
+	15 UX04
+	15 UX05
+	7 Greatestaxe
+	7 Reflecting Titan
+	7 RX03
+	7 RX04
+	7 RX05
+	7 RX06
+	7 RX07
+	7 RX08
+	7 RX09
+	7 RX10
+	7 RX11
+	7 RX12
+	7 RX13
+	7 Shatter the Self
+	7 Void Tyrant
+	4 Architect of Blood Suns
+	4 Embracing the Universe
+	4 MX03
+	4 MX04
+	4 The Geometric Void

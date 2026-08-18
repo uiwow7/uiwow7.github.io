@@ -1,4 +1,655 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Fadove Apprentice added.
+Doomed Cavalier added.
+CW05 DESIGNED added.
+Asahran Sentinel added.
+Mourncast Doomwatcher added.
+Savior of Shadows added.
+Bringer of Divine Light added.
+Fate Smother added.
+Beacon of Hope added.
+Chained Among the Clouds added.
+Abandon Reality added.
+Solitary Wanderer added.
+Mirdrim Seeker added.
+Likeness Echo added.
+South-Ocean Waverider added.
+CU06 DESIGNED added.
+Glittering Scavenger added.
+Carrigol Reflector added.
+Chosen of Moonlight added.
+Collapse from Reality added.
+Power from Forever added.
+Twin Eclipse added.
+Skyseeking added.
+Runic Engraving added.
+Forsaken Entrance added.
+Woodland Gardener added.
+Aliran SOMETHING? added.
+Warden of Dreams added.
+Sainard Bonewraith added.
+Cloaked Wayfarer added.
+Glittering Starlight added.
+Malice in Chains added.
+Facing the Dark added.
+Aurora Reader added.
+Abstracted Wanderer added.
+CR03 DESIGNED added.
+CR04 DESIGNED added.
+Eager Starseeker added.
+Bringer of Torments added.
+Fireburn Marshal added.
+That Which was Crowned in Fire added.
+Triumphant Warlord added.
+Soldier of the Endless War added.
+Thrilling Confrontation added.
+Brilliant Inferno added.
+Steward of the Void added.
+Forsaken Explorer added.
+Underbelly Lurker added.
+CG06 added.
+Awakened Terror added.
+Mangriel Wanderer added.
+Mordel Guardian added.
+Shifting Roots added.
+Moonlit Frolic added.
+Glimmer Hunter added.
+CI05 DESIGNED added.
+Sacred Mourner added.
+Morraire Warder added.
+Star Mirror added.
+Valiant Aspirant added.
+Gleaming Virtue added.
+Heavenly Cotainment added.
+Perennial Journey added.
+Sol Capture added.
+Stormborn Griffin added.
+UU04 added.
+Embrace the New added.
+Cosmic Manipulation added.
+Forbidding Outsider added.
+UB06 added.
+Shadows of Blood added.
+UR03 added.
+UR06 added.
+UR07 DESIGNED added.
+UG04 added.
+Colossal Mycmoaw added.
+UG07 DESIGNED added.
+UI03 added.
+Nexus of Infinity added.
+Mirena of Fallen Stars added.
+Sky Shatter added.
+Azali, Spectral Hunter added.
+Wavebringer added.
+Sainard Gravekeeper added.
+Lazadas, the Rat Insurgent added.
+Karuko, Protector of the Wilds added.
+Lush Protector added.
+Subina of Twisting Fate added.
+The Awakener added.
+Spatial Conflux added.
+Bringer of Emptiness added.
+Skybinder added.
+Abyssal Trinity added.
+Bringer of Vitriol added.
+Deino Caravan added.
+Awakened Resolve added.
+Bloodied Mourner added.
+Risen from Flame added.
+Master of Demise added.
+Ragrime Caretaker added.
+Starwatcher Lux added.
+Glory of the Ancients added.
+Hidden by Mists added.
+Shrouded Bearer added.
+Drougth Prowler added.
+March of the Elder Ones added.
+Dawnshroud Seraph added.
+Avakin Nightwatcher added.
+Starlit Voyage added.
+Ignelscor Seer added.
+Rite of Eclipse added.
+Sunfall Demon added.
+Murkross Reconstructor added.
+Withering Mortality added.
+UM01 DESIGNED added.
+Fated Return added.
+Alone in the Darkness added.
+RM01 DESIGNED added.
+Bring Desolation added.
+Mourncast Overseer added.
+Forge of Cognizance added.
+Morraire Mistbringer added.
+Titan of Universes added.
+CA01 DESIGNED added.
+Divine Reaper added.
+Soulflame Titan added.
+Solitary Haven added.
+Fallen Frontier added.
+Greatestaxe added.
+Reflecting Titan added.
+Shatter the Self added.
+Void Tyrant added.
+Embracing the Universe added.
+Zombie added.
+Treasure added.
+Spirit added.
+Spirit added.
+Spirit added.
+Cleric added.
+Horror added.
+
+Sunlit Call removed.
+CW03 removed.
+CW08 removed.
+CW10 removed.
+CW11 removed.
+CW12 removed.
+CW13 removed.
+CW14 removed.
+CW15 removed.
+CW16 removed.
+CW17 removed.
+CU01 removed.
+CU02 removed.
+CU04 removed.
+CU06 removed.
+CU07 removed.
+CU08 removed.
+CU09 removed.
+CU10 removed.
+CU11 removed.
+CU12 removed.
+CU14 removed.
+CU15 removed.
+CU16 removed.
+CU17 removed.
+CB01 removed.
+CB03 removed.
+CB04 removed.
+CB09 removed.
+CB11 removed.
+CB14 removed.
+CB15 removed.
+CB16 removed.
+CR01 removed.
+CR02 removed.
+CR03 removed.
+CR04 removed.
+CR06 removed.
+CR07 removed.
+CR08 removed.
+CR09 removed.
+CR10 removed.
+CR15 removed.
+CR17 removed.
+CG02 removed.
+CG03 removed.
+CG04 removed.
+Blossoming Growth removed.
+CG08 removed.
+CG09 removed.
+CG10 removed.
+CG11 removed.
+CG12 removed.
+CG14 removed.
+CI02 removed.
+CI06 removed.
+CI10 removed.
+CI14 removed.
+CI16 removed.
+UW04 removed.
+UW05 removed.
+UW07 removed.
+UW08 removed.
+UW09 DESIGNED removed.
+UU02 removed.
+UU05 removed.
+UU07 removed.
+UU09 removed.
+UB02 removed.
+UB05 removed.
+UB07 removed.
+UR04 removed.
+UR07 removed.
+UR08 removed.
+UG04 DREADMAW!!! removed.
+UG06 removed.
+UG07 removed.
+UI04 removed.
+UI05 removed.
+RW04 removed.
+RW05 removed.
+RU02 removed.
+RU03 removed.
+RB02 removed.
+RB03 removed.
+RG03 removed.
+RG04 removed.
+RI02 removed.
+MR01 removed.
+MG02 removed.
+MI02 removed.
+CM01 removed.
+CM01 removed.
+CM01 removed.
+CM01 removed.
+CM01 removed.
+CM01 removed.
+CM01 removed.
+CM01 removed.
+CM01 removed.
+CM01 removed.
+CM01 removed.
+CM01 removed.
+CM01 removed.
+CM01 removed.
+CM01 removed.
+UM01 removed.
+UM01 removed.
+UM02 removed.
+UM01 removed.
+UM02 removed.
+UM01 removed.
+UM02 removed.
+UM01 removed.
+UM02 removed.
+UM01 removed.
+UM02 removed.
+RM01 removed.
+RM01 removed.
+RM01 removed.
+RM01 removed.
+RM01 removed.
+RM01 removed.
+CA01 removed.
+CA05 removed.
+UA01 removed.
+UL01 removed.
+UL02 removed.
+RX01 removed.
+RX02 removed.
+RX14 removed.
+RX15 removed.
+MX02 removed.
+
+Acolyte of Sunlight
+
+Priest of the Mirena
+
+CW07
+type: Enchantment => Enchantment Creature
+rules_text: When CW07 enters, exile target nonland permanent an opponent controls until CW07 leaves the battlefield. => 
+
+CW09
+type:  => Creature
+cost:  => {3}{W}
+
+Empowered by Light
+
+Warmth of the Skies
+
+CU03
+type:  => Creature
+cost:  => {1}{U}
+
+Chaotic Anomaly
+
+CU13
+cost:  => {1}{U}
+
+CB02
+type:  => Creature
+cost:  => {B}
+
+Rodent Reforger
+
+Shattered Sword Deathbringer
+
+Ratvolutionary
+rules_text: When Ratvolutionary enters, conjure a card named Burglar Rat into your hand. => Infuse 1 [i](Whenever you cast a noncreature spell, put a +1/+1 counter on this if it has none.)[/i]
+When Ratvolutionary becomes infused, conjure a card named Burglar Rat into your hand.
+
+CB10
+type:  => Creature
+cost:  => {4}{B}
+
+Open Hidden Gateways
+
+CB12
+cost:  => {B}
+
+CB13
+cost:  => {1}{B}
+
+CB17
+cost:  => {3}{B}
+
+CR11
+cost:  => {R}
+
+CR12
+cost:  => {R}
+
+Behold True Suns
+
+CR13
+type:  => Enchantment
+cost:  => {1}{R}
+rules_text:  => When CR13 enters, you may discard
+
+CR14
+cost:  => {1}{R}
+
+CR16
+cost:  => {2}{R}
+
+CG01
+type:  => Creature
+cost:  => {G}
+
+CG05
+type:  => Creature
+cost:  => {2}{G}
+
+Bear Bearer
+
+CG13
+cost:  => {1}{G}
+
+CG15
+cost:  => {2}{G}
+
+CG16
+cost:  => {3}{G}
+
+CG17
+cost:  => {4}{G}
+
+Void Wayfarer
+type: Creature — Spirit => Enchantment Creature — Spirit
+
+Herald of Moonlight
+
+Starcatcher
+type: Creature — Dog Spirit => Enchantment Creature — Dog Spirit
+
+Celestial Caller
+type: Creature — Spirit => Enchantment Creature — Spirit
+
+CI09
+type:  => Creature
+cost:  => {3}{I}
+
+Warden of Desolation
+
+CI11
+cost:  => {I}
+
+CI12
+cost:  => {I}
+
+Watching the Winds
+
+Become Eternity
+
+CI15
+cost:  => {1}{I}
+
+CI17
+type:  => Sorcery
+cost:  => {3}{I}
+
+Bloomwielder
+
+UW02
+type:  => Creature
+cost:  => {1}{W}
+
+UW03
+type:  => Creature
+cost:  => {2}{W}
+
+Majesty of Suns
+
+Starfinder
+cost:  => {U}
+
+UU03
+type:  => Creature
+cost:  => {1}{U}
+
+Ardent Starkeeper
+
+UU06
+cost:  => {U}
+
+Cloudwater Visions
+
+Nightseer
+
+UB03
+type: Sorcery => Creature
+rules_text: Forgive {2}. Activate only if there are eight or more cards in your sanctum. [i]({2}, Reveal this card from your sanctum as a sorcery: Exile it. You may play it during your next turn.)[/i]
+Return target creature card with mana value 3 or less from your graveyard to the battlefield. => 
+
+UB04
+type:  => Creature — Horror
+cost:  => {2}{B}
+
+Darkstar Prowler
+
+UB08
+cost:  => {1}{B}
+
+UB09
+cost:  => {2}{B}
+
+Firebringer
+
+UR02
+type:  => Creature
+cost:  => {1}{R}
+
+UR03
+type:  => Creature
+cost:  => {1}{R}
+
+UR09
+cost:  => {2}{R}
+
+Sproutbinder
+cost:  => {G}
+
+UG02
+type:  => Creature
+cost:  => {1}{G}
+
+UG03
+type: Sorcery => Creature
+cost: {1}{G} => {2}{G}
+rules_text: Forgive {2}. Activate only if there are eight or more cards in your sanctum. [i]({2}, Reveal this card from your sanctum as a sorcery: Exile it. You may play it during your next turn.)[/i]
+Put two +1/+1 counters on target creature. It gains trample until end of turn. => 
+
+Cradle of Growth
+
+UG08
+cost:  => {2}{G}
+
+UG09
+cost:  => {2}{G}
+
+Tidewatcher
+rules_text: 4
+: You may cast a copy of Tidewatcher's omen. [i](You still pay its costs.)[/i] => {4}: You may cast a copy of Tidewatcher's omen. [i](You still pay its costs.)[/i]
+
+UI02
+type:  => Creature
+cost:  => {1}{I}
+
+Starseeker Whale
+
+Dragon of Ancients
+type: Creature — Spirit Dragon => Enchantment Creature — Spirit Dragon
+
+UI06
+cost:  => {I}
+
+Rain of Flowers
+
+UI09
+cost:  => {2}{I}
+
+Cosmic Nexus
+
+RR02
+cost:  => {R}
+
+Phoenix of Suns
+
+UM01
+cost: {W}{U} => {R}{G}
+
+UM02
+cost: {U}{B} => {R}{G}
+
+UM01
+cost: {U}{B} => {G}{W}
+
+UM02
+cost: {B}{R} => {G}{W}
+
+UM02
+cost: {R}{G} => {W}{B}
+
+UM01
+cost: {B}{R} => {U}{R}
+
+UM02
+cost: {G}{W} => {U}{R}
+
+UM01
+cost: {R}{G} => {R}{W}
+
+UM02
+cost: {W}{B} => {R}{W}
+
+UM02
+cost: {U}{R} => {G}{U}
+
+UM01
+cost: {G}{W} => {I}{W}
+
+UM01
+cost: {W}{B} => {I}{U}
+
+UM02
+cost: {B}{G} => {I}{U}
+
+UM01
+type:  => Creature — Dragon
+cost: {U}{R} => {3}{I}{B}
+pt:  => 4/4
+
+UM01
+cost: {B}{G} => {I}{R}
+
+UM02
+cost: {R}{W} => {I}{R}
+
+UM01
+cost: {R}{W} => {I}{G}
+
+UM02
+cost: {G}{U} => {I}{G}
+
+RM01
+cost: {U}{B} => {R}{G}
+
+RM01
+cost: {B}{R} => {G}{W}
+
+RM01
+cost: {R}{G} => {W}{B}
+
+RM01
+cost: {G}{W} => {U}{R}
+
+RM01
+cost: {W}{B} => {G}{U}
+
+RM01
+cost: {U}{R} => {I}{U}
+
+RM01
+cost: {B}{G} => {I}{R}
+
+RM01
+cost: {R}{W} => {I}{G}
+
+CA02
+type: Artifact => Enchantment
+
+Architect of Blood Suns
+pt:  => 4/3
+
+The Geometric Void
+rules_text: Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]
+When The Geometric Void enters, exile target creature with mana value nine or less.
+Whenever you cast a spell, create a 1/1 colorless Spirit creature token. If you spent four or more mana to cast it, put a +1/+1 counter on each creature you control. => Affinity for artifacts and for enchantments [i](This spell costs {1} less to cast for each artifact and for each enchantment you control.)[/i]
+When The Geometric Void enters, exile target creature with mana value nine or less.
+Whenever you cast a spell, create a 1/1 colorless Spirit creature token. If you spent four or more mana to cast it, put a +1/+1 counter on each creature you control.
+
+Themes
+rules_text: {W}{U}: Noncreatures
+{U}{B}: Graveyard
+{B}{R}: Exile
+{R}{G}: Big
+{G}{W}: Go wide
+{W}{B}: Enchantments
+{U}{R}: Exile
+{B}{G}: Big
+{R}{W}: Go wide
+{G}{U}: Conjure
+{I}{W}: Enchantments
+{I}{U}: Noncreatures
+{I}{B}: Life loss
+{I}{R}: Life loss
+{I}{G}: Graveyard
+
+{W}: Noncreatures, go wide, enchantments
+{U}: Noncreatures, gy, exile, conjure
+{B}: Graveyard, exile, enchantments, lifeloss
+{R}: Exile, big, go wide, life losss
+{G}: Big, go wide, conjure, graveyard => {W}{U}: Noncreatures
+{U}{B}: Graveyard
+{B}{R}: Exile
+{R}{G}: Big [i](ferocious)[/i]
+{G}{W}: Go wide
+{W}{B}: Enchantments
+{U}{R}: Exile
+{B}{G}: Big [i](mv 5+)[/i]
+{R}{W}: Go wide
+{G}{U}: Conjure
+{I}{W}: Enchantments
+{I}{U}: Noncreatures
+{I}{B}: Life loss
+{I}{R}: Life loss
+{I}{G}: Graveyard
+{C}: {C}
+
+{W}: Noncreatures, go wide, enchantments
+{U}: Noncreatures, gy, exile, conjure
+{B}: Graveyard, exile, enchantments, lifeloss
+{R}: Exile, big, go wide, life loss
+{G}: Big, go wide, conjure, graveyard
+{I}: Enchantments, noncreatures, lifeloss, gy
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

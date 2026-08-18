@@ -1,0 +1,2046 @@
+﻿[
+    {
+        "card_name": "MW01",
+        "number": 44,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "MU01",
+        "number": 75,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "MB01",
+        "number": 104,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Awakener",
+        "number": 126,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "MG01",
+        "number": 173,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "MW02",
+        "number": 45,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "MU02",
+        "number": 76,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "MB02",
+        "number": 105,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "MR02",
+        "number": 141,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Spatial Conflux",
+        "number": 180,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mirena of Fallen Stars",
+        "number": 42,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Azali, Spectral Hunter",
+        "number": 59,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Lazadas, the Rat Insurgent",
+        "number": 102,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Phoenix of Suns",
+        "number": 142,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Karuko, Protector of the Wilds",
+        "number": 170,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RW01",
+        "number": 48,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cosmic Nexus",
+        "number": 66,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RB01",
+        "number": 109,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RR01",
+        "number": 143,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Lush Protector",
+        "number": 171,
+        "shape": "adventure",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RW02",
+        "number": 49,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RU01",
+        "number": 78,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RB04",
+        "number": 110,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RR02",
+        "number": 144,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RG01",
+        "number": 176,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RW03",
+        "number": 50,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RU05",
+        "number": 79,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RB05",
+        "number": 111,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RR04",
+        "number": 145,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RG02",
+        "number": 177,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sky Shatter",
+        "number": 52,
+        "shape": "transform double faced",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Wavebringer",
+        "number": 90,
+        "shape": "adventure",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sainard Gravekeeper",
+        "number": 114,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RR05",
+        "number": 146,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RG05",
+        "number": 178,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bloomwielder",
+        "number": 29,
+        "shape": "adventure",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ardent Starkeeper",
+        "number": 58,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Darkstar Prowler",
+        "number": 98,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Firebringer",
+        "number": 138,
+        "shape": "adventure",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Colossal Mycmoaw",
+        "number": 167,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gleaming Virtue",
+        "number": 39,
+        "shape": "adventure",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cloudwater Visions",
+        "number": 63,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Forbidding Outsider",
+        "number": 100,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Magmatic Emergence",
+        "number": 140,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cradle of Growth",
+        "number": 168,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Heavenly Cotainment",
+        "number": 40,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cosmic Manipulation",
+        "number": 65,
+        "shape": "transform double faced",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Nightseer",
+        "number": 106,
+        "shape": "adventure",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR02",
+        "number": 151,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sproutbinder",
+        "number": 181,
+        "shape": "adventure",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Majesty of Suns",
+        "number": 41,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Embrace the New",
+        "number": 70,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Shadows of Blood",
+        "number": 115,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR03",
+        "number": 153,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG02",
+        "number": 183,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Perennial Journey",
+        "number": 46,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Starfinder",
+        "number": 84,
+        "shape": "adventure",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB03",
+        "number": 117,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR05",
+        "number": 154,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG03",
+        "number": 184,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sol Capture",
+        "number": 53,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Stormborn Griffin",
+        "number": 85,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB04",
+        "number": 118,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR06",
+        "number": 155,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG04",
+        "number": 185,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW02",
+        "number": 54,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU03",
+        "number": 87,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB06",
+        "number": 119,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR07 DESIGNED",
+        "number": 156,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG07 DESIGNED",
+        "number": 186,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW03",
+        "number": 55,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU04",
+        "number": 88,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB08",
+        "number": 120,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR09",
+        "number": 157,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG08",
+        "number": 187,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Valiant Aspirant",
+        "number": 56,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU06",
+        "number": 89,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB09",
+        "number": 121,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Abstracted Wanderer",
+        "number": 124,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG09",
+        "number": 188,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Abandon Reality",
+        "number": 25,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Carrigol Reflector",
+        "number": 60,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Aliran SOMETHING?",
+        "number": 91,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Aurora Reader",
+        "number": 125,
+        "shape": "transform double faced",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Awakened Terror",
+        "number": 158,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Acolyte of Sunlight",
+        "number": 26,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Chaotic Anomaly",
+        "number": 61,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB02",
+        "number": 92,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Behold True Suns",
+        "number": 127,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bear Bearer",
+        "number": 159,
+        "shape": "transform double faced",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Asahran Sentinel",
+        "number": 27,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Chosen of Moonlight",
+        "number": 62,
+        "shape": "adventure",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB10",
+        "number": 93,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Brilliant Inferno",
+        "number": 128,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG01",
+        "number": 160,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Beacon of Hope",
+        "number": 28,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Collapse from Reality",
+        "number": 64,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB12",
+        "number": 94,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bringer of Torments",
+        "number": 129,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG05",
+        "number": 161,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bringer of Divine Light",
+        "number": 30,
+        "shape": "transform double faced",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU03",
+        "number": 67,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB13",
+        "number": 95,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR03 DESIGNED",
+        "number": 130,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG06",
+        "number": 162,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Chained Among the Clouds",
+        "number": 31,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU06 DESIGNED",
+        "number": 68,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB17",
+        "number": 96,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR04 DESIGNED",
+        "number": 131,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG13",
+        "number": 163,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW05 DESIGNED",
+        "number": 32,
+        "shape": "transform double faced",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU13",
+        "number": 69,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cloaked Wayfarer",
+        "number": 97,
+        "shape": "adventure",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR11",
+        "number": 132,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG15",
+        "number": 164,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW07",
+        "number": 33,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Forsaken Entrance",
+        "number": 71,
+        "shape": "transform double faced",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Facing the Dark",
+        "number": 99,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR12",
+        "number": 133,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG16",
+        "number": 165,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW09",
+        "number": 34,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Glittering Scavenger",
+        "number": 72,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Glittering Starlight",
+        "number": 101,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR13",
+        "number": 134,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG17",
+        "number": 166,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Doomed Cavalier",
+        "number": 35,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Likeness Echo",
+        "number": 73,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Malice in Chains",
+        "number": 103,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR14",
+        "number": 135,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Forsaken Explorer",
+        "number": 169,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Empowered by Light",
+        "number": 36,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mirdrim Seeker",
+        "number": 74,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Open Hidden Gateways",
+        "number": 107,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR16",
+        "number": 136,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mangriel Wanderer",
+        "number": 172,
+        "shape": "adventure",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Fadove Apprentice",
+        "number": 37,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Power from Forever",
+        "number": 77,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ratvolutionary",
+        "number": 108,
+        "shape": "transform double faced",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Eager Starseeker",
+        "number": 137,
+        "shape": "transform double faced",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Moonlit Frolic",
+        "number": 174,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Fate Smother",
+        "number": 38,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Runic Engraving",
+        "number": 80,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Rodent Reforger",
+        "number": 112,
+        "shape": "transform double faced",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Fireburn Marshal",
+        "number": 139,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mordel Guardian",
+        "number": 175,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mourncast Doomwatcher",
+        "number": 43,
+        "shape": "adventure",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Skyseeking",
+        "number": 81,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sainard Bonewraith",
+        "number": 113,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Soldier of the Endless War",
+        "number": 147,
+        "shape": "adventure",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Shifting Roots",
+        "number": 179,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Priest of the Mirena",
+        "number": 47,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Solitary Wanderer",
+        "number": 82,
+        "shape": "transform double faced",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Shattered Sword Deathbringer",
+        "number": 116,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "That Which was Crowned in Fire",
+        "number": 148,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Steward of the Void",
+        "number": 182,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Savior of Shadows",
+        "number": 51,
+        "shape": "adventure",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "South-Ocean Waverider",
+        "number": 83,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Warden of Dreams",
+        "number": 122,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Thrilling Confrontation",
+        "number": 149,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Underbelly Lurker",
+        "number": 189,
+        "shape": "transform double faced",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Warmth of the Skies",
+        "number": 57,
+        "shape": "transform double faced",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Twin Eclipse",
+        "number": 86,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Woodland Gardener",
+        "number": 123,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Triumphant Warlord",
+        "number": 150,
+        "shape": "adventure",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Dawnshroud Seraph",
+        "number": 230,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RM01 DESIGNED",
+        "number": 255,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bring Desolation",
+        "number": 228,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Deino Caravan",
+        "number": 231,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Awakened Resolve",
+        "number": 226,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Skybinder",
+        "number": 257,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Avakin Nightwatcher",
+        "number": 225,
+        "shape": "adventure",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ignelscor Seer",
+        "number": 237,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Starlit Voyage",
+        "number": 258,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Rite of Eclipse",
+        "number": 245,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Abyssal Trinity",
+        "number": 223,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bringer of Vitriol",
+        "number": 229,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Sunfall Demon",
+        "number": 260,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Risen from Flame",
+        "number": 244,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mourncast Overseer",
+        "number": 241,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Forge of Cognizance",
+        "number": 234,
+        "shape": "transform double faced",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM01 DESIGNED",
+        "number": 271,
+        "shape": "transform double faced",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bloodied Mourner",
+        "number": 227,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Murkross Reconstructor",
+        "number": 242,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ragrime Caretaker",
+        "number": 243,
+        "shape": "adventure",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Starwatcher Lux",
+        "number": 259,
+        "shape": "transform double faced",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Withering Mortality",
+        "number": 282,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Master of Demise",
+        "number": 239,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Architect of Blood Suns",
+        "number": 1,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Embracing the Universe",
+        "number": 4,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "MX03",
+        "number": 5,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "MX04",
+        "number": 6,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Geometric Void",
+        "number": 286,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RX03",
+        "number": 7,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RX04",
+        "number": 8,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RX05",
+        "number": 9,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RX06",
+        "number": 10,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RX07",
+        "number": 11,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RX08",
+        "number": 12,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RX09",
+        "number": 13,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RX10",
+        "number": 14,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RX11",
+        "number": 15,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RX12",
+        "number": 16,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RX13",
+        "number": 17,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Shatter the Self",
+        "number": 18,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Void Tyrant",
+        "number": 24,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Greatestaxe",
+        "number": 287,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Reflecting Titan",
+        "number": 288,
+        "shape": "adventure",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UX01",
+        "number": 19,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UX02",
+        "number": 20,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UX03",
+        "number": 21,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UX04",
+        "number": 22,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UX05",
+        "number": 23,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Soulflame Titan",
+        "number": 289,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UA02",
+        "number": 290,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UA03",
+        "number": 291,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UA04",
+        "number": 292,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UA05",
+        "number": 293,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CA02",
+        "number": 2,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Divine Reaper",
+        "number": 3,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CA01 DESIGNED",
+        "number": 283,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CA03",
+        "number": 284,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CA04",
+        "number": 285,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Fallen Frontier",
+        "number": 295,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Solitary Haven",
+        "number": 296,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UL03",
+        "number": 297,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UL04",
+        "number": 298,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UL05",
+        "number": 299,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CL01",
+        "number": 294,
+        "shape": "normal",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Themes",
+        "number": 1,
+        "shape": "token",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Treasure",
+        "number": 8,
+        "shape": "token",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cleric",
+        "number": 2,
+        "shape": "token",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Spirit",
+        "number": 3,
+        "shape": "token",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Spirit",
+        "number": 4,
+        "shape": "token",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Horror",
+        "number": 5,
+        "shape": "token",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Spirit",
+        "number": 6,
+        "shape": "token",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Zombie",
+        "number": 7,
+        "shape": "token",
+        "set": "CORE",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

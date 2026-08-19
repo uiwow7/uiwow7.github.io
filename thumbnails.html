@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Thumbnail Generator</title>
+    </head>
+    <style>
+        @font-face {
+            font-family: Beleren;
+            src: url('./resources/beleren.ttf');
+        }
+
+        body {
+            /* margin: 0; */
+            font-family: Arial, Helvetica, sans-serif;
+            --text-color: white;
+            --card-scale: 1.5;
+        }
+
+        .options {
+            left: 1295px;
+            position: absolute;
+        }
+
+        .label-input {
+            display: flex;
+            flex-direction: column;
+            gap: 3px;
+            margin-bottom: 10px;
+        }
+
+        .thumbnail {
+            height: 720px;
+            width: 1280px;
+            background-color: rgb(10, 1, 44);
+            position: absolute;
+            background-size: cover;
+        }
+
+        .card-img {
+            background-color: #eee;
+            height: calc(523px / var(--card-scale));
+            width: calc(375px / var(--card-scale));
+        }
+
+        .card-1-img, .card-2-img, .card-3-img {
+            left: calc(25% - 375px / var(--card-scale) / 2);
+            top: 170px;
+            display: grid;
+            align-items: center;
+            justify-items: center;
+            border-radius: 14px;
+        }
+
+        .card-2-img {
+            transform: rotate(15deg) translate(90px, -20px);
+        }
+
+        .card-3-img {
+            transform: rotate(-15deg) translate(-90px, -20px);
+        }
+
+        .card-4-img, .card-5-img, .card-6-img {
+            left: calc(75% - 375px / var(--card-scale) / 2);
+            top: 170px;
+            display: grid;
+            align-items: center;
+            justify-items: center;
+            border-radius: 14px;
+        }
+
+        .card-5-img {
+            transform: rotate(15deg) translate(90px, -20px);
+        }
+
+        .card-6-img {
+            transform: rotate(-15deg) translate(-90px, -20px);
+        }
+
+        .thumbnail > div, .thumbnail > img {
+            position: absolute;
+        }
+
+        .thumbnail > div {
+            color: var(--text-color);
+        }
+
+        .event-title {
+            font-family: beleren;
+            bottom: 12px;
+            font-size: 80px;
+            text-align: center;
+            width: 100%;
+        }
+
+        .vs {
+            top: 300px;
+            font-family: beleren;
+            font-size: 160px;
+            text-align: center;
+            width: 100%;
+        }
+
+        .player-1-deck-title {
+            font-size: 65px;
+            font-family: beleren;
+            width: 50%;
+            text-align: center;
+            top: 12px;
+        }
+
+        .player-2-deck-title {
+            font-size: 65px;
+            font-family: beleren;
+            width: 50%;
+            left: 50%;
+            text-align: center;
+            top: 12px;
+        }
+
+        .player-1-title {
+            font-family: beleren;
+            font-size: 45px;
+            width: 50%;
+            top: 82px;
+            text-align: center;
+        }
+
+        .player-2-title {
+            font-family: beleren;
+            font-size: 45px;
+            width: 50%;
+            left: 50%;
+            top: 82px;
+            text-align: center;
+        }
+
+        .symbol {
+            width:  50px;
+            height: 50px;
+        }
+
+        .p1-colors {
+            display: flex;
+            gap: 4px;
+            width: 50%;
+            top: 565px;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .p2-colors {
+            display: flex;
+            gap: 4px;
+            width: 50%;
+            left: 50%;
+            top: 565px;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .disabled {
+            filter: brightness(0.45);
+        }
+
+        .background {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            filter: brightness(0.8);
+        }
+    </style>
+    <body>
+        <div class="thumbnail">
+            <img class="background">
+            <img class="card-2-img card-img" src="">
+            <img class="card-3-img card-img" src="">
+            <img class="card-1-img card-img" src="">
+            <img class="card-5-img card-img" src="">
+            <img class="card-6-img card-img" src="">
+            <img class="card-4-img card-img" src="">
+            <div class="event-title">Event Title</div>
+            <div class="player-1-deck-title">P1 Deck</div>
+            <div class="player-2-deck-title">P2 Deck</div>
+            <div class="player-1-title">P1</div>
+            <div class="player-2-title">P2</div>
+            <div class="vs">VS</div>
+            <div class="p1-colors">
+                <img class="symbol mana-W" src="/img/mana/mana_W.png">
+                <img class="symbol mana-U" src="/img/mana/mana_U.png">
+                <img class="symbol mana-B" src="/img/mana/mana_B.png">
+                <img class="symbol mana-R" src="/img/mana/mana_R.png">
+                <img class="symbol mana-G" src="/img/mana/mana_G.png">
+                <img class="symbol mana-I" src="/img/mana/mana_I.png">
+            </div>
+            <div class="p2-colors">
+                <img class="symbol mana-W" src="/img/mana/mana_W.png">
+                <img class="symbol mana-U" src="/img/mana/mana_U.png">
+                <img class="symbol mana-B" src="/img/mana/mana_B.png">
+                <img class="symbol mana-R" src="/img/mana/mana_R.png">
+                <img class="symbol mana-G" src="/img/mana/mana_G.png">
+                <img class="symbol mana-I" src="/img/mana/mana_I.png">
+            </div>
+        </div>
+        <div class="options">
+            <div class="label-input"><span class="label">Player 1 main card:</span><input class="input card-input card-1-input" placeholder="Card id ..."></div>
+            <div class="label-input"><span class="label">Player 1 left card:</span><input class="input card-input card-2-input" placeholder="Card id ..."></div>
+            <div class="label-input"><span class="label">Player 1 right card:</span><input class="input card-input card-3-input" placeholder="Card id ..."></div>
+            <div class="label-input"><span class="label">Player 2 main card:</span><input class="input card-input card-4-input" placeholder="Card id ..."></div>
+            <div class="label-input"><span class="label">Player 2 left card:</span><input class="input card-input card-5-input" placeholder="Card id ..."></div>
+            <div class="label-input"><span class="label">Player 2 right card:</span><input class="input card-input card-6-input" placeholder="Card id ..."></div>
+            <div class="label-input"><span class="label">Background Image:</span><input onchange="bgHandler(event)" class="input bg-input" type="file"></div>
+            <div class="label-input"><span class="label">Player 1 name:</span><input class="input p1-input" placeholder="Player name ..." value="Player 1"></div>
+            <div class="label-input"><span class="label">Player 2 name:</span><input class="input p2-input" placeholder="Player name ..." value="Player 2"></div>
+            <div class="label-input"><span class="label">Player 1 deck name:</span><input class="input p1-deck-input" placeholder="Deck name ..." value="Player 1 Deck"></div>
+            <div class="label-input"><span class="label">Player 2 deck name:</span><input class="input p2-deck-input" placeholder="Deck name ..." value="Player 2 Deck"></div>
+            <div class="label-input"><span class="label">Player 1 colors:</span><input class="input p1-colors-input" placeholder="Colors ..."></div>
+            <div class="label-input"><span class="label">Player 2 colors:</span><input class="input p2-colors-input" placeholder="Colors ..."></div>
+            <div class="label-input"><span class="label">Event:</span><input class="input event-input" placeholder="Card id ..." value="GP Event"></div>
+            <div class="label-input"><span class="label">Text color:</span><input class="input text-color-input" value="#ffffff" type="color"></div>
+            <button onclick="writeImageFile()">Download</button>
+        </div>
+        <script src="/src/html2canvas-pro.min.js"></script>
+        <script>
+            const inputs = document.querySelectorAll('input');
+            let card_list_arrayified;
+            for (const ele of inputs) {
+                ele.addEventListener('keyup', changeListener);
+                ele.addEventListener('change', changeListener);
+            }
+            async function loadFiles() {
+                await fetch('https://voyager-mtg.github.io/lists/all-cards.json')
+                    .then(response => response.json())
+                    .then(json => {
+                        card_list = json;
+                    }).catch(error => console.error('Error:', error));
+
+                card_list_arrayified = card_list.cards;
+                if (localStorage.getItem('bg')) document.querySelector('.background').src = localStorage.getItem('bg');
+                changeListener();
+            }
+
+            function changeListener() {
+                document.querySelector('.event-title').innerText = document.querySelector('.event-input').value;
+                document.querySelector('.player-1-deck-title').innerText = document.querySelector('.p1-deck-input').value;
+                document.querySelector('.player-2-deck-title').innerText = document.querySelector('.p2-deck-input').value;
+                document.querySelector('.player-1-title').innerText = document.querySelector('.p1-input').value;
+                document.querySelector('.player-2-title').innerText = document.querySelector('.p2-input').value;
+                document.body.style.setProperty('--text-color', document.querySelector('.text-color-input').value);
+
+                for (const symbol of document.querySelectorAll('.symbol')) {
+                    symbol.className = symbol.className.replace(' disabled', '');
+                    symbol.className += ' disabled';
+                }
+
+                for (const c of document.querySelector('.p1-colors-input').value) {
+                    const s = document.querySelector(`.p1-colors .mana-${c.toUpperCase()}`);
+                    if (s) s.className = s.className.replace('disabled', '');
+                }
+
+                for (const c of document.querySelector('.p2-colors-input').value) {
+                    const s = document.querySelector(`.p2-colors .mana-${c.toUpperCase()}`);
+                    if (s) s.className = s.className.replace('disabled', '');
+                }
+
+                const cards = Array.from(document.querySelectorAll('.card-input')); //do this later
+                const res = {};
+                for (const card of card_list_arrayified) {
+                    for (const input of cards) {
+                        const check = input.value;
+                        if (card.card_name == check) console.log(check, card);
+                        if (check.includes('(')) {
+                            const [_, name, set, num] = check.match(/(.*?) \((.*?)\) ?([0-9]+)?/);
+                            if (card.card_name == name && card.set == set && (!num || card.num == num)) {
+                                cards.splice(cards.indexOf(input), 1);
+                                res[input.classList[2]] = card;
+                            }
+                        } else if (card.card_name == check && check != '') {
+                            cards.splice(cards.indexOf(input), 1);
+                            res[input.classList[2]] = card;
+                        } else {
+                            res[input.classList[2]] = 'cardback';
+                        }
+                    }
+                }
+
+                for (const [_id, card_stats] of Object.entries(res)) {
+                    const id = _id.replace('input', 'img');
+                    const src = card_stats == 'cardback' ? "https://voyager-mtg.github.io/img/card_back.png" : "https://voyager-mtg.github.io/sets/" + card_stats.set + "-files/img/" + card_stats.number + (card_stats.shape.includes("token") ? "t_" : "_") + card_stats.card_name + ((card_stats.shape.includes("double")) ? "_front" : "") + "." + card_stats.image_type;
+                    document.querySelector('.' + id).src = src;
+                }
+            }
+
+            function bgHandler(event) {
+                const selectedFile = event.target.files[0];
+                const reader = new FileReader();
+
+                reader.onload = event => {
+                    document.querySelector('.background').src = event.target.result;
+                    localStorage.setItem('bg', event.target.result);
+                };
+
+                reader.readAsDataURL(selectedFile);
+            }
+
+            function writeImageFile() {
+                const fn = 'thumb.png';
+                // const card_ele = document.getElementsByClassName("card")[0];
+                html2canvas(document.querySelector('.thumbnail'), { width: 1280, height: 720, useCORS: true, taintTest: false, allowTaint: false }).then(function (canvas) {
+                    var width = canvas.width;
+                    var height = canvas.height;
+                    var context = canvas.getContext('2d');
+                    var imageData = context.getImageData(0, 0, width, height).data;
+                    var outputCanvas = document.createElement('canvas');
+                    var outputContext = outputCanvas.getContext('2d');
+                    outputCanvas.width = width;
+                    outputCanvas.height = height;
+                    var idata = outputContext.createImageData(width, height);
+                    idata.data.set(imageData);
+                    outputContext.putImageData(idata, 0, 0);
+                    downloadURI(outputCanvas.toDataURL(), fn);
+                });
+            }
+
+            function downloadURI(uri, name) {
+                var link = document.createElement("a");
+                link.download = name;
+                link.href = uri;
+                document.body.appendChild(link);
+                link.click();
+                document.body.removeChild(link);
+                link.remove();
+            }
+
+            loadFiles();
+        </script>
+    </body>
+</html>
